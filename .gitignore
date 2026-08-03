@@ -1,0 +1,34 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local cache
+data/cache/*
+!data/cache/.gitkeep
+
+# History
+data/history/*
+!data/history/.gitkeep
+
+# State
+!data/state/*.json

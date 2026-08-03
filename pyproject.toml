@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "job-hunter-ai"
+version = "0.1.0"
+description = "Open Source Job Intelligence Platform"
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [
+    { name = "Ali Abbas Shah", email = "forworkuse10@gmail.com" }
+]
+dependencies = [
+    "requests",
+    "python-dateutil"
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

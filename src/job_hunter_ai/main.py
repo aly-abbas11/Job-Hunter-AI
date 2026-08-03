@@ -1,22 +1,12 @@
-from datetime import datetime
+from job_hunter_ai.core.config import settings
+from job_hunter_ai.core.logger import get_logger
 
-from job_hunter_ai.models.job import Job
+logger = get_logger(__name__)
 
 
 def main() -> None:
-    job = Job(
-        id="1",
-        title="Python Developer",
-        company="OpenAI",
-        location="Remote",
-        job_type="Full-time",
-        url="https://example.com",
-        source="Demo",
-        published_at=datetime.now(),
-    )
-
-    print(job)
-    print(job.to_dict())
+    logger.info("Job Hunter AI started.")
+    logger.info("Maximum job age: %s days", settings.max_job_age_days)
 
 
 if __name__ == "__main__":

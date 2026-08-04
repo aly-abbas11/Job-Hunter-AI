@@ -1,3 +1,4 @@
+from job_hunter_ai.clients.arbeitnow import ArbeitnowClient
 from job_hunter_ai.clients.remoteok import RemoteOKClient
 from job_hunter_ai.core.logger import get_logger
 
@@ -5,14 +6,19 @@ logger = get_logger(__name__)
 
 
 def main() -> None:
-    client = RemoteOKClient()
+    remoteok = RemoteOKClient()
+    arbeitnow = ArbeitnowClient()
 
-    jobs = client.fetch_jobs()
+    remote_jobs = remoteok.fetch_jobs()
+    arbeit_jobs = arbeitnow.fetch_jobs()
 
-    logger.info("Received %s jobs.", len(jobs))
+    total_jobs = len(remote_jobs) + len(arbeit_jobs)
 
-    if jobs:
-        logger.info("First job: %s", jobs[0].get("position"))
+    logger.info("=" * 50)
+    logger.info("RemoteOK Jobs   : %s", len(remote_jobs))
+    logger.info("Arbeitnow Jobs  : %s", len(arbeit_jobs))
+    logger.info("Total Jobs      : %s", total_jobs)
+    logger.info("=" * 50)
 
 
 if __name__ == "__main__":

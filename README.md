@@ -2,13 +2,13 @@
 
 Automatically updated job listings.
 
-**Last Updated:** 2026-08-04 14:04 UTC
+**Last Updated:** 2026-08-04 19:28 UTC
 
 ## Statistics
 
-- Total Jobs: 253
-- New Jobs: 92
-- Removed Jobs: 92
+- Total Jobs: 237
+- New Jobs: 152
+- Removed Jobs: 168
 
 ---
 
@@ -16,71 +16,62 @@ Automatically updated job listings.
 
 | Company | Position | Location | Source |
 |---------|----------|----------|--------|
-| Retailinsights | Marketing Graduate at Retail Insights | London | Arbeitnow |
-| Retailinsights | Management Graduate Program Intake (Spanish speaker) Retail Insights | London | Arbeitnow |
-| Retailinsights | Management Graduate Program Intake (Scandinavian speaker) Retail Insights | London | Arbeitnow |
 | Haystack | Junior Designer | Ohio, Ohio, United States | RemoteOK |
-| Cirrus | Graduate / Entry Level Mixed Signal IC Layout Designer | Edinburgh, Scotland | Arbeitnow |
-| Prima | Math, Physics & Engineering Graduates | London | Arbeitnow |
-| Retailinsights | Venture Development Manager (MBA Graduate) | London | Arbeitnow |
-| Retailinsights | MBA Graduate | London | Arbeitnow |
-| autoscout24 | Junior Content Marketing & SEO Manager (m/w/d) - Italian Market - parental leave cover |  | Arbeitnow |
-| autoscout24 | Junior Content Marketing & SEO Manager (m/w/d) - Italian Market - befristet auf 2 Jahre |  | Arbeitnow |
-| Zeit Ai | (Junior) Account Executive (f/m/d) | Munich | Arbeitnow |
-| Reonic | Software Engineering Intern (AI x Greentech) (m/f/d) | Berlin | Arbeitnow |
-| Retailinsights | Talent Acquisition Associate at Retail Insights | London | Arbeitnow |
-| Retailinsights | Senior Venture Associate at Retail Insights | London | Arbeitnow |
+| Vrey | (Junior) Data & Automation Manager - Energy Operations (m/w/d) | Berlin HQ | Arbeitnow |
+| Clera | Founders Associate (Sales-Focused) | remote | Arbeitnow |
+| Clera | Founders' Associate / Chief of Staff | remote | Arbeitnow |
 | Filipino Contractors | Entry Level Virtual Assistant $14 $18 hour | North Miami Beach, | RemoteOK |
-| wppmedia | Associate Director Digital Media (Mensch) | Dusseldorf | Arbeitnow |
-| Eorbit Gmbh | Internal Data Engineer (m/w/d) | Leipzig | Arbeitnow |
-| Eorbit Gmbh | Founders Associate to the CPO (Working Student, all genders) | München | Arbeitnow |
-| Eorbit Gmbh | Founders Associate to the CFO/COO (Werkstudent, m/w/d) | Leipzig | Arbeitnow |
-| belong. cosmetics | Founder’s Associate & Social Media Praktikant:in (m/w/d) im D2C Skincare Startup | Hamburg | Arbeitnow |
-| Montu Uk | Consultant Pain Management PAYE | Remote | Arbeitnow |
-| 1Komma5Grad | Staff Engineer - Heartbeat AI (m/f/d) | Remote | Arbeitnow |
-| 1KOMMA5˚ | Staff Engineer - Heartbeat AI (m/f/d) | Berlin | Arbeitnow |
+| Gitlab | Staff Backend Engineer (Ruby on Rails/AI), Verify | Remote | Arbeitnow |
+| Clera | Founder's Associate (GTM/Sales) | Munich | Arbeitnow |
+| Clera | Operations Intern → Full-Time | Berlin | Arbeitnow |
+| Clera | Sales Intern | Munich | Arbeitnow |
+| Clera | Founder's Associate | Berlin | Arbeitnow |
+| Relationrx | Manager_Associate Director - Project Management | London | Arbeitnow |
+| Netholabs | Human Data Collection Associate | London | Arbeitnow |
+| Mercor | Growth Associate | London | Arbeitnow |
+| Clera | AI Engineer | remote | Arbeitnow |
+| Clera | ServiceNow AI Control Tower Consultant | remote | Arbeitnow |
 | Kleverio | AI Integration &amp; Automation | Ajmer, | RemoteOK |
 | Hot9ja | Julius AI | Ajmer, | RemoteOK |
 | Office Notarial des Vallons de Vilaine | LâÃvolution Du TÃ©lÃ©travail Les Enseignements Du Rapport De La DARES Novembre 2024 | GonaÃ¯ves, | RemoteOK |
 | Deliberate Development | Failure Breeds Success | Success, | RemoteOK |
-| epilot GmbH | Integration Solutions Engineer (m/w/d) – Remote (EU) | Remote job | Arbeitnow |
-| Cube | Frontend Engineer - Agentic AI | Berlin | Arbeitnow |
-| Knuddels GmbH & Co. KG | Werkstudent:in Automation, KI & Prozessmanagement (m/w/d) - remote oder Karlsruhe | Homeoffice | Arbeitnow |
-| Knuddels GmbH & Co. KG | Senior Data Scientist (m/w/d) mit Führungsverantwortung - remote oder Karlsruhe | Homeoffice | Arbeitnow |
-| Knuddels GmbH & Co. KG | Senior Data Scientist (m/w/d) mit Führungsverantwortung in Teilzeit - remote oder Karlsruhe | Homeoffice | Arbeitnow |
-| DWWA Personalberatung GmbH | Channel Manager / Partner Manager (m/w/d) - bis 100% Remote | Düsseldorf | Arbeitnow |
-| Skalar | Senior Data Scientist (m/w/d) mit Fokus AI | München | Arbeitnow |
-| Enpal | Werkstudent:in AI & Knowledge Management (w/m/d) | Berlin | Arbeitnow |
-| Eorbit Gmbh | ML Engineer — AI & Operations Research (all genders) | Leipzig | Arbeitnow |
-| Eorbit Gmbh | Account Manager DACH (m/w/d) - Agentic AI/SaaS | Leipzig | Arbeitnow |
-| Jobgether | AI Platform Engineer | Germany | Arbeitnow |
-| Retailinsights | Wordpress Web Developer at Retail Insights | London | Arbeitnow |
-| Retailinsights | UX designer at Retail Insights | London | Arbeitnow |
-| Retailinsights | Talent Acquisition Specialist at Retail Insights | London | Arbeitnow |
-| Retailinsights | Senior Management Consultant at Retail Insights | London | Arbeitnow |
-| Retailinsights | Senior financial Writer at Retail Insights | London | Arbeitnow |
-| Retailinsights | Senior Editor at Retail Insights | London | Arbeitnow |
-| Retailinsights | Senior Content Writer at Retail Insights | London | Arbeitnow |
-| Retailinsights | Senior Content Editor at Retail Insights | London | Arbeitnow |
-| Retailinsights | Recruitment Director at Retail Insights | London | Arbeitnow |
-| Retailinsights | Marketing Chief at Retail Insights | London | Arbeitnow |
-| Retailinsights | Managing Director at Retail Insights | London | Arbeitnow |
-| think about IT GmbH | Senior Microsoft AI & Copilot Engineer (m/w/d) | Nuremberg | Arbeitnow |
-| VALUEZON GmbH | (Senior) Campaign Manager - Amazon Ads (m/w/d) | München | Arbeitnow |
-| Headborneai | Senior ML/AI Engineer | Jena | Arbeitnow |
+| Parity | Senior Security Engineer - Remote | Remote | Arbeitnow |
+| JobLeads Careers | Technical SEO Manager - fully remote within Europe (m/f/d) | Remote | Arbeitnow |
+| Clera | Senior/Staff Backend Engineer | remote | Arbeitnow |
+| Sunday Natural | Performance Marketing Manager - Paid Social & Creative Strategy (all genders) | Berlin | Arbeitnow |
+| Sunday Natural | AI/ML Engineer (all genders) | Berlin | Arbeitnow |
+| Clera | Founding Engineer (Full-Stack / AI) | Munich | Arbeitnow |
+| Clera | Applied AI Engineer – AI & Automation | Berlin | Arbeitnow |
+| Clera | AI Engineer – Model Training & Deployment | Munich | Arbeitnow |
+| SoSafe | Procure-to-Pay Specialist (m/f/d) | Germany Remote | Arbeitnow |
+| Clera | Backfill Test Role | remote | Arbeitnow |
+| Clera | Backfill Test Role 1d0e5601 | remote | Arbeitnow |
+| Clera | Resident Solution Architect (Databricks) | remote | Arbeitnow |
+| Clera | Technical Chief of Staff | remote | Arbeitnow |
+| Clera | Staff Engineer (Founding) | remote | Arbeitnow |
+| Clera | Technical Sales / Business Development Manager – Ingredients | remote | Arbeitnow |
+| Clera | Business Operations Manager | remote | Arbeitnow |
+| Clera | Founding Product Engineer | remote | Arbeitnow |
+| Clera | Founding Full Stack Engineer | remote | Arbeitnow |
+| Clera | Founding Operations & Customer Success Manager | remote | Arbeitnow |
+| Clera | Founding Scientist / Co-Founder | remote | Arbeitnow |
+| Clera | Founding ML Engineer – Demand Generation | remote | Arbeitnow |
+| Clera | Founding Machine Learning Engineer | remote | Arbeitnow |
+| Clera | Sales Development Representative (English-Speaking) | remote | Arbeitnow |
+| Clera | Senior EDI Developer | remote | Arbeitnow |
+| Clera | Founding Full-Stack iOS Engineer | remote | Arbeitnow |
+| Pmc | Penske Media Corp: Director, EMEA Licensing | UAE - Dubai - Remote | Arbeitnow |
+| Absorblms | Presales Solutions Engineer | Remote UK | Arbeitnow |
+| Parity | Chief of Staff for Engineering | Remote | Arbeitnow |
+| Parity | Core Developer - Node | Remote | Arbeitnow |
+| Parity | Engineering Manager | Remote | Arbeitnow |
+| Parity | Senior Experience Engineer | Remote | Arbeitnow |
 | Montu Uk | Senior Legal Commercial Counsel | Remote | Arbeitnow |
-| Montu Uk | Consultant Psychiatrist PAYE | Remote | Arbeitnow |
-| Montu Uk | Consultant Neurologist PAYE | Remote | Arbeitnow |
-| Montu Uk | Tech Lead | Remote | Arbeitnow |
-| 1Komma5Grad | Staff Engineer - Virtual Assembly Line (m/f/d) | Remote | Arbeitnow |
-| Arsipa GmbH | Fachkraft für Arbeitssicherheit / Sicherheitsingenieur (w/m/d) | Homeoffice | Arbeitnow |
-| epilot GmbH | SAP ABAP Entwickler (m/w/d) | Remote job | Arbeitnow |
-| Knuddels GmbH & Co. KG | Initiativbewerbung Werkstudent:in Softwareentwicklung (m/w/d) - Karlsruhe | Homeoffice | Arbeitnow |
-| Pigment | Solutions Architect - DACH | Remote | Arbeitnow |
-| 1KOMMA5˚ | Staff Engineer - Virtual Assembly Line (m/f/d) | Berlin | Arbeitnow |
-| Pertemps ERP | SAP IS-U Berater:in | Frankfurt am Main | Arbeitnow |
-| Diermann Marketing GmbH | Assistenz Marketing & Office (m/w/d) - 100% Homeoffice | Herne | Arbeitnow |
-| Pertemps ERP | SAP Senior PP Berater | Frankfurt am Main | Arbeitnow |
+| Accenture in India | Custom Software Engineer | Nagpur, | RemoteOK |
+| MEF Ltd | Food &amp; Beverage Positions | Hamilton, | RemoteOK |
+| Wing | Regional Flight Operations Support Manager | Dallas, Dallas, Texas, United States | RemoteOK |
+| Aditya Birla Group | SH Blasting Officer | Madhya Pradesh, | RemoteOK |
+| Tito's Handmade Vodka | Sales Coordinator New York | New York, New York, New York, United States | RemoteOK |
 | TED Conferences | Managing Director Discovery and Insight | New York, New York, New York, United States | RemoteOK |
 | Clandestine Magazine | Social Media Coordinator | London, London, England, United Kingdom | RemoteOK |
 | Beer City Code | JOHN FOLBERTH | Senior, | RemoteOK |
@@ -116,3 +107,12 @@ Automatically updated job listings.
 | MITRITY | We hire rarely â and carefully | Ontario, | RemoteOK |
 | KSNL Consulting LLC | Calling Specialist | Indore, Indore, Madhya Pradesh, India | RemoteOK |
 | PulseMediaNL | Data Entry Administrator | Ø§ÙØ±ÙØ§Ø¶, Ø§ÙØ±ÙØ§Ø¶ Ø§ÙØ±ÙØ§Ø¶ Ø§ÙØ³Ø¹ÙØ¯ÙØ© | RemoteOK |
+| Imaginary Rooms | Î¦Î±Î½ÏÎ±ÏÏÎ¹ÎºÎ¬ ÎÏÎ¼Î¬ÏÎ¹Î | Good Design, | RemoteOK |
+| Grapefruit Health | Patient Outreach Specialist |  | RemoteOK |
+| Liberty Mutual Insurance | Licensed Customer Service Representative |  | RemoteOK |
+| Berry Avionics | Join The Berry Avionics Team | Kakori, | RemoteOK |
+| koodup | WordiQt | Cumbria, | RemoteOK |
+| koodup | Story Seed | Cumbria, | RemoteOK |
+| Canadian Base Operators Inc. | Cleaning Assistant Afternoon Evening | Southport, | RemoteOK |
+| Resource Guru | Customer Support Specialist | Greater London, | RemoteOK |
+| Docs And Slides | Vendor Application Template | Content, | RemoteOK |

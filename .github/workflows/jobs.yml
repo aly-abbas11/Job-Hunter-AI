@@ -22,9 +22,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install project
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
+          pip install -r requirements.txt
           pip install -e .
 
       - name: Run Job Hunter AI
@@ -38,7 +39,11 @@ jobs:
 
           git add .
 
-          git diff --cached --quiet || git commit -m "Auto update jobs"
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto update jobs"
+          fi
 
       - name: Push changes
         run: |

@@ -45,15 +45,29 @@ class JobFilter:
         Determine whether a job belongs to the tech industry.
         """
 
-        searchable = " ".join(
-            [
-                job.title,
-                job.company,
-                job.location,
-            ]
+        searchable = (
+            f"{job.title} "
+            f"{job.job_type}"
         ).lower()
 
-        return any(keyword in searchable for keyword in TECH_KEYWORDS)
+        words = set(
+            searchable.replace("/", " ")
+            .replace("-", " ")
+            .split()
+        )
+
+        for keyword in TECH_KEYWORDS:
+
+            keyword = keyword.lower()
+
+            if " " in keyword:
+                if keyword in searchable:
+                    return True
+            else:
+                if keyword in words:
+                    return True
+
+        return False
 
     @classmethod
     def is_internship(cls, job: Job) -> bool:
@@ -114,9 +128,9 @@ class JobFilter:
     @classmethod
     def score(cls, job: Job) -> int:
         """
-        Calculate a relevance score.
-        Delegates scoring to the JobScorer service.
+        Return the calculated job score.
         """
+
         return JobScorer.score(job)
 
     @classmethod

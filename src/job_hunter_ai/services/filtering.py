@@ -12,10 +12,10 @@ from job_hunter_ai.core.constants import (
     MAX_JOB_AGE_DAYS,
     PAKISTAN_CITIES,
     REMOTE_KEYWORDS,
-    SCORE_WEIGHTS,
     TECH_KEYWORDS,
 )
 from job_hunter_ai.models.job import Job
+from job_hunter_ai.services.scoring import JobScorer
 
 
 class JobFilter:
@@ -37,7 +37,6 @@ class JobFilter:
         """Return True if the job is newer than MAX_JOB_AGE_DAYS."""
 
         age = datetime.now(UTC) - job.published_at
-
         return age.days <= MAX_JOB_AGE_DAYS
 
     @classmethod
@@ -116,23 +115,9 @@ class JobFilter:
     def score(cls, job: Job) -> int:
         """
         Calculate a relevance score.
+        Delegates scoring to the JobScorer service.
         """
-
-        score = 0
-
-        title = cls._normalize(job.title)
-
-        if cls.is_internship(job):
-            score += SCORE_WEIGHTS["internship"]
-
-        if cls.is_remote(job):
-            score += SCORE_WEIGHTS["remote"]
-
-        for keyword, value in SCORE_WEIGHTS.items():
-            if keyword in title:
-                score += value
-
-        return score
+        return JobScorer.score(job)
 
     @classmethod
     def deduplicate(cls, jobs: Iterable[Job]) -> list[Job]:

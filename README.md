@@ -2,13 +2,13 @@
 
 Automatically updated job listings.
 
-**Last Updated:** 2026-08-04 19:28 UTC
+**Last Updated:** 2026-08-05 02:12 UTC
 
 ## Statistics
 
-- Total Jobs: 237
-- New Jobs: 152
-- Removed Jobs: 168
+- Total Jobs: 240
+- New Jobs: 169
+- Removed Jobs: 166
 
 ---
 
@@ -16,65 +16,97 @@ Automatically updated job listings.
 
 | Company | Position | Location | Source |
 |---------|----------|----------|--------|
+| Deltavision | Internship / Master Thesis: System Architect (m/f/d) | München | Arbeitnow |
 | Haystack | Junior Designer | Ohio, Ohio, United States | RemoteOK |
-| Vrey | (Junior) Data & Automation Manager - Energy Operations (m/w/d) | Berlin HQ | Arbeitnow |
-| Clera | Founders Associate (Sales-Focused) | remote | Arbeitnow |
-| Clera | Founders' Associate / Chief of Staff | remote | Arbeitnow |
-| Filipino Contractors | Entry Level Virtual Assistant $14 $18 hour | North Miami Beach, | RemoteOK |
-| Gitlab | Staff Backend Engineer (Ruby on Rails/AI), Verify | Remote | Arbeitnow |
-| Clera | Founder's Associate (GTM/Sales) | Munich | Arbeitnow |
-| Clera | Operations Intern → Full-Time | Berlin | Arbeitnow |
-| Clera | Sales Intern | Munich | Arbeitnow |
-| Clera | Founder's Associate | Berlin | Arbeitnow |
-| Relationrx | Manager_Associate Director - Project Management | London | Arbeitnow |
-| Netholabs | Human Data Collection Associate | London | Arbeitnow |
-| Mercor | Growth Associate | London | Arbeitnow |
-| Clera | AI Engineer | remote | Arbeitnow |
-| Clera | ServiceNow AI Control Tower Consultant | remote | Arbeitnow |
+| Cfoinsights | Venture Development Manager (MBA Graduate) | London | Arbeitnow |
+| Cfoinsights | MBA Graduate | London | Arbeitnow |
+| Cfoinsights | Marketing Graduate at CFO insights | London | Arbeitnow |
+| Cfoinsights | Management Graduate Program Intake (Spanish speaker) CFO Insights | London | Arbeitnow |
+| Cfoinsights | Management Graduate Program Intake (Scandinavian speaker) CFO Insights | London | Arbeitnow |
+| Cfoinsights | Management Graduate Program Intake (Italian speaker) CFO Insights | London | Arbeitnow |
+| Cfoinsights | Management Graduate Program Intake (German speaker) CFO Insights | London | Arbeitnow |
+| Cfoinsights | Management Graduate Program Intake (French speaker) CFO Insights | London | Arbeitnow |
+| Cfoinsights | Management Graduate Program Intake (Danish speaker) CFO Insights | London | Arbeitnow |
+| Cfoinsights | Leadership Program (MBA Graduate) | London | Arbeitnow |
+| Cfoinsights | Graduate Social Media Manager at CFO Insights | London | Arbeitnow |
+| Cfoinsights | Graduate Scheme at CFO Insights | London | Arbeitnow |
+| Cfoinsights | Graduate sales specialist at CFO | London | Arbeitnow |
+| Cfoinsights | Graduate sales executive at CFO | London | Arbeitnow |
+| Cfoinsights | Graduate Sales Development Representative at CFO | London | Arbeitnow |
+| Cfoinsights | Graduate recruiter at CFO Insights | London | Arbeitnow |
+| Cfoinsights | Graduate Program (MBA Graduate) | London | Arbeitnow |
+| Cfoinsights | Graduate Program - Marketing at CFO Insights | London | Arbeitnow |
+| Cfoinsights | Graduate Partnership Manager at CFO | London | Arbeitnow |
+| Cfoinsights | Graduate New Business Executive at CFO | London | Arbeitnow |
+| Cfoinsights | Graduate Management Associate at CFO Insights | London | Arbeitnow |
+| Cfoinsights | Graduate Head Hunter at CFO Insights | London | Arbeitnow |
+| Cfoinsights | Graduate Conference Production Executive at CFO Insights | London | Arbeitnow |
+| Cfoinsights | Graduate Conference Manager at CFO Insights | London | Arbeitnow |
+| Cfoinsights | Graduate Associate Program at CFO Insights | London | Arbeitnow |
+| Cfoinsights | Graduate Associate - Content at CFO Insights | London | Arbeitnow |
+| Cfoinsights | Founder Associate (MBA Graduate) | London | Arbeitnow |
+| Cfoinsights | Entrepreneur In Residence (MBA Graduate) | London | Arbeitnow |
+| Cfoinsights | B2B Marketing Graduate at CFO Insights | London | Arbeitnow |
+| Trading212 | Junior Compliance Officer | Berlin | Arbeitnow |
+| VREY | (Junior) Data & Automation Manager - Energy Operations (m/w/d) | Berlin HQ | Arbeitnow |
+| VREY | Growth Intern - Automation & AI (w/m/d) | Berlin HQ | Arbeitnow |
+| Re Lytics Hires | Entry Level Administrative Assistant | Ø£Ø¨Ù Ø¸Ø¨Ù, Ø£Ø¨Ù Ø¸Ø¨Ù Ø£Ø¨Ù Ø¸Ø¨Ù Ø§ÙØ¥ÙØ§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙØªØ­Ø¯Ø© | RemoteOK |
+| Gismart | Senior Backend Engineer (AI Product) | Remote | Arbeitnow |
+| Axle Careers | International Expansion | London | Arbeitnow |
+| Axle Careers | Founders Associate | London | Arbeitnow |
+| Guidepoint | Talent Acquisition Intern | Manchester | Arbeitnow |
+| Ultralytics | Commercial Associate | London | Arbeitnow |
+| Bowatt | Founders Associate, VC-backed startup (German-speaking) | Munich | Arbeitnow |
+| Trading212 | Social Media Intern | Berlin | Arbeitnow |
+| VREY | Founders Associate Intern - CEO Office (w/m/d) | Berlin HQ | Arbeitnow |
+| VREY | Founders Associate Intern - Strategy & Finance (m/w/d) | Berlin HQ | Arbeitnow |
+| VREY | Founders Associate - Finance & Strategic Projects (m/w/d) | Berlin HQ | Arbeitnow |
+| NextexAI | Founding Software Engineer (Backend, Cloud & AI Infrastructure) | Berlin | Arbeitnow |
+| Myriadloop | LiftResume AI | Kirkwall, | RemoteOK |
 | Kleverio | AI Integration &amp; Automation | Ajmer, | RemoteOK |
 | Hot9ja | Julius AI | Ajmer, | RemoteOK |
 | Office Notarial des Vallons de Vilaine | LâÃvolution Du TÃ©lÃ©travail Les Enseignements Du Rapport De La DARES Novembre 2024 | GonaÃ¯ves, | RemoteOK |
 | Deliberate Development | Failure Breeds Success | Success, | RemoteOK |
-| Parity | Senior Security Engineer - Remote | Remote | Arbeitnow |
-| JobLeads Careers | Technical SEO Manager - fully remote within Europe (m/f/d) | Remote | Arbeitnow |
-| Clera | Senior/Staff Backend Engineer | remote | Arbeitnow |
-| Sunday Natural | Performance Marketing Manager - Paid Social & Creative Strategy (all genders) | Berlin | Arbeitnow |
-| Sunday Natural | AI/ML Engineer (all genders) | Berlin | Arbeitnow |
-| Clera | Founding Engineer (Full-Stack / AI) | Munich | Arbeitnow |
-| Clera | Applied AI Engineer – AI & Automation | Berlin | Arbeitnow |
-| Clera | AI Engineer – Model Training & Deployment | Munich | Arbeitnow |
-| SoSafe | Procure-to-Pay Specialist (m/f/d) | Germany Remote | Arbeitnow |
-| Clera | Backfill Test Role | remote | Arbeitnow |
-| Clera | Backfill Test Role 1d0e5601 | remote | Arbeitnow |
-| Clera | Resident Solution Architect (Databricks) | remote | Arbeitnow |
-| Clera | Technical Chief of Staff | remote | Arbeitnow |
-| Clera | Staff Engineer (Founding) | remote | Arbeitnow |
-| Clera | Technical Sales / Business Development Manager – Ingredients | remote | Arbeitnow |
-| Clera | Business Operations Manager | remote | Arbeitnow |
-| Clera | Founding Product Engineer | remote | Arbeitnow |
-| Clera | Founding Full Stack Engineer | remote | Arbeitnow |
-| Clera | Founding Operations & Customer Success Manager | remote | Arbeitnow |
-| Clera | Founding Scientist / Co-Founder | remote | Arbeitnow |
-| Clera | Founding ML Engineer – Demand Generation | remote | Arbeitnow |
-| Clera | Founding Machine Learning Engineer | remote | Arbeitnow |
-| Clera | Sales Development Representative (English-Speaking) | remote | Arbeitnow |
-| Clera | Senior EDI Developer | remote | Arbeitnow |
-| Clera | Founding Full-Stack iOS Engineer | remote | Arbeitnow |
-| Pmc | Penske Media Corp: Director, EMEA Licensing | UAE - Dubai - Remote | Arbeitnow |
-| Absorblms | Presales Solutions Engineer | Remote UK | Arbeitnow |
-| Parity | Chief of Staff for Engineering | Remote | Arbeitnow |
-| Parity | Core Developer - Node | Remote | Arbeitnow |
-| Parity | Engineering Manager | Remote | Arbeitnow |
-| Parity | Senior Experience Engineer | Remote | Arbeitnow |
-| Montu Uk | Senior Legal Commercial Counsel | Remote | Arbeitnow |
+| Anyone Ai | Python Developer - Remote in Germany | Germany | Arbeitnow |
+| Anyone Ai | Backend Developer - AI Trainer (Germany) | Germany | Arbeitnow |
+| Trading212 | Senior Backend Software Engineer(AI Teams) | Berlin | Arbeitnow |
+| everydays | Senior CRM & Lifecycle Automation Manager:in - Freelance & 100 % remote | Berlin | Arbeitnow |
+| Gismart | Frontend Developer | Remote | Arbeitnow |
+| Linro | Backend Engineer - Remote Germany | Germany | Arbeitnow |
+| Substrate Bio | AI Engineering Lead | London | Arbeitnow |
+| Anyone Ai | Biology Expert - AI Trainer (Germany) | Germany | Arbeitnow |
+| Anyone Ai | Full-Stack Developer - AI Trainer (Germany) | Germany | Arbeitnow |
+| Anyone Ai | Mathematics AI Training Expert (Germany) | Germany | Arbeitnow |
+| Anyone Ai | Physics AI Training Expert (Germany) | Germany | Arbeitnow |
+| Anyone Ai | Software Engineering AI Trainer (Germany) | Germany | Arbeitnow |
+| Bowatt | Applied AI Engineer (Germany-based) | Germany | Arbeitnow |
+| Cortea AI | Software Engineer, Data & AI Platform (m/f/x) | Berlin | Arbeitnow |
+| VREY | Full-Stack Software Engineer, Ruby on Rails (m/f/d) at Solar Startup | Berlin HQ | Arbeitnow |
+| VREY | Full-Stack Product Engineer, Ruby on Rails (m/f/d) at Solar Startup | Berlin HQ | Arbeitnow |
+| Silvernova GmbH | Onboarding & Technical Support Manager | Legal AI Startup | Munich | Arbeitnow |
+| Flix | Data Analyst FlixTrain Operations (m/w/d) | Berlin, Germany | Arbeitnow |
+| Koboldmetals | Software Engineer (All Levels), United Kingdom | Remote | Arbeitnow |
+| Gismart | Product Marketing Manager (Testora) | Remote | Arbeitnow |
+| Anyone Ai | Data & Operations Specialist | Remote | Arbeitnow |
+| Anyone Ai | Chemistry Expert (Remote - Germany) | Germany | Arbeitnow |
+| Cortea AI | Senior/Staff Fullstack Engineer (m/f/x) | Berlin | Arbeitnow |
+| hey contact heroes GmbH | Kundenberater Mobilfunk & Telekommunikation (m/w/d) | Homeoffice | Hamburg | Arbeitnow |
+| BRAVO1ALPHA BV | Close satellite support | Page View, | RemoteOK |
+| YT Corporation | ApnaStock | Fort Supply, | RemoteOK |
+| Balco, Inc. | Regional Sales Manager | Wichita, | RemoteOK |
+| Accenture in India | Application Developer | Bhubaneswar, | RemoteOK |
+| Groupe Lebel | Labourer | Plaster Rock, | RemoteOK |
+| FindTutors | Student Success Coach | London, London, England, United Kingdom | RemoteOK |
 | Accenture in India | Custom Software Engineer | Nagpur, | RemoteOK |
 | MEF Ltd | Food &amp; Beverage Positions | Hamilton, | RemoteOK |
 | Wing | Regional Flight Operations Support Manager | Dallas, Dallas, Texas, United States | RemoteOK |
+| Unilever | Assistant Area Sales &amp; Customer Manager | Navi Mumbai, Navi Mumbai, Maharashtra, India | RemoteOK |
 | Aditya Birla Group | SH Blasting Officer | Madhya Pradesh, | RemoteOK |
 | Tito's Handmade Vodka | Sales Coordinator New York | New York, New York, New York, United States | RemoteOK |
 | TED Conferences | Managing Director Discovery and Insight | New York, New York, New York, United States | RemoteOK |
 | Clandestine Magazine | Social Media Coordinator | London, London, England, United Kingdom | RemoteOK |
 | Beer City Code | JOHN FOLBERTH | Senior, | RemoteOK |
+| Beer City Code | BHASKAR BHARAT SAWANT | Lead, | RemoteOK |
 | PinPoint Middleware Test Company | Test Job 3 | London, | RemoteOK |
 | Digiday | Marketing Coordinator Partner Programs | New York, New York, New York, United States | RemoteOK |
 | Dishman Carbogen Amcis Ltd | Fireman | Bavla, | RemoteOK |
@@ -82,37 +114,5 @@ Automatically updated job listings.
 | Cllimber | Kit | Rajkot, | RemoteOK |
 | Cllimber | folk | Coimbatore North, | RemoteOK |
 | Queensland Corrective Services | Program Delivery Officer Level 1 | Townsville, | RemoteOK |
+| Re Lytics Hires | Customer Support | Ø¹Ø³ÙØ±, Ø¹Ø³ÙØ± Ø§ÙØ³Ø¹ÙØ¯ÙØ© | RemoteOK |
 | Bay Plumbing &amp; Drainage | Join Our Team | South Geelong, | RemoteOK |
-| Clarity-Fox | Build Anything Launch â 99 Seconds | Enterprise, | RemoteOK |
-| Hot9ja | Jasper | Content, | RemoteOK |
-| Provo Towne Centre | Wear What You Love is HIRING | Love, | RemoteOK |
-| eCare-Software LLC | Next Up | Upottery, | RemoteOK |
-| Lsn | help wanted | Crossville, | RemoteOK |
-| Dana Solutions LLC | General Production | Cambridge, | RemoteOK |
-| Lsn | General Laborer | Crossville, | RemoteOK |
-| DanielTems | Compatibility | How, | RemoteOK |
-| Anansewaa | These 10 things on your cv could be the reason you are not getting hired | Sonipat, | RemoteOK |
-| Deliberate Development | Put the Effort | Success, | RemoteOK |
-| Apprentus | Profesor A De Ele â EnseÃ±anza Innovadora Horario Flexible | Zaragoza, | RemoteOK |
-| Patice | LÃN | Mangalagiri, | RemoteOK |
-| Chubb Fire &amp; Security | Fire Technician | Woolner, | RemoteOK |
-| eXtremaNET Consultores | Â¿NECESITO UNA APP O NO | Anupgarh, | RemoteOK |
-| NeonScouts | Priya Sharma | Anupgarh, | RemoteOK |
-| Next Reels | FREELANCERS | Oregon, | RemoteOK |
-| No Quarter | Noa Technologies | Fleet, | RemoteOK |
-| No Quarter | Common Grounds | One Tree, | RemoteOK |
-| Favorite Records | DESIGNER â¢ FUTURE NEED | Indiana, | RemoteOK |
-| BrandSafway | Estimator USA TX Dickinson R26 04471 | Dickinson, | RemoteOK |
-| Markelic LLC | Apply Support Engineer | Bachelor, | RemoteOK |
-| MITRITY | We hire rarely â and carefully | Ontario, | RemoteOK |
-| KSNL Consulting LLC | Calling Specialist | Indore, Indore, Madhya Pradesh, India | RemoteOK |
-| PulseMediaNL | Data Entry Administrator | Ø§ÙØ±ÙØ§Ø¶, Ø§ÙØ±ÙØ§Ø¶ Ø§ÙØ±ÙØ§Ø¶ Ø§ÙØ³Ø¹ÙØ¯ÙØ© | RemoteOK |
-| Imaginary Rooms | Î¦Î±Î½ÏÎ±ÏÏÎ¹ÎºÎ¬ ÎÏÎ¼Î¬ÏÎ¹Î | Good Design, | RemoteOK |
-| Grapefruit Health | Patient Outreach Specialist |  | RemoteOK |
-| Liberty Mutual Insurance | Licensed Customer Service Representative |  | RemoteOK |
-| Berry Avionics | Join The Berry Avionics Team | Kakori, | RemoteOK |
-| koodup | WordiQt | Cumbria, | RemoteOK |
-| koodup | Story Seed | Cumbria, | RemoteOK |
-| Canadian Base Operators Inc. | Cleaning Assistant Afternoon Evening | Southport, | RemoteOK |
-| Resource Guru | Customer Support Specialist | Greater London, | RemoteOK |
-| Docs And Slides | Vendor Application Template | Content, | RemoteOK |

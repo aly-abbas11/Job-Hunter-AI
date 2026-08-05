@@ -2,13 +2,13 @@
 
 Automatically updated job listings.
 
-**Last Updated:** 2026-08-05 13:59 UTC
+**Last Updated:** 2026-08-05 14:02 UTC
 
 ## Statistics
 
 - Total Jobs: 43
-- New Jobs: 27
-- Removed Jobs: 231
+- New Jobs: 0
+- Removed Jobs: 0
 
 ---
 

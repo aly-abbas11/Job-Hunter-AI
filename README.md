@@ -2,13 +2,13 @@
 
 Automatically updated job listings.
 
-**Last Updated:** 2026-08-05 19:25 UTC
+**Last Updated:** 2026-08-06 02:22 UTC
 
 ## Statistics
 
-- Total Jobs: 66
-- New Jobs: 56
-- Removed Jobs: 33
+- Total Jobs: 74
+- New Jobs: 47
+- Removed Jobs: 39
 
 ---
 
@@ -16,43 +16,64 @@ Automatically updated job listings.
 
 | Company | Position | Location | Source |
 |---------|----------|----------|--------|
-| Graphcore | Graduate Silicon Engineer | Cambridge | Arbeitnow |
-| Graphcore | 2026 Graduate Silicon Engineer | Bristol | Arbeitnow |
-| ABRIO GmbH | Junior Frontend Developer – E-Commerce & Shopify (m/w/d) | Frankfurt, Hessen, Deutschland | Arbeitnow |
+| 1Komma5Grad | (Junior) Data Engineer - Data Platform (m/f/d) | Remote | Arbeitnow |
+| 1Komma5Grad | (Senior) QA Engineer - AI-Driven Testing (m/f/d) | Remote | Arbeitnow |
+| Cito Transport Technologies | Werkstudent B2B Sales & Business Development – AI Startup (m/w/d) | Berlin | Arbeitnow |
+| Dataguard | (Junior) Consultant Information Security (m/f/d) | Munich | Arbeitnow |
 | Alexander Thamm GmbH | (Junior) Data Engineer (m/w/d) | Berlin | Arbeitnow |
-| Customs Support Group | AI Integration & Automation Engineer (m/w/d) | Remote job | Arbeitnow |
-| Customs Support Group | AI Integration & Automation Engineer (m/w/d) GER | Remote job | Arbeitnow |
-| Auxmoney Gmbh | Senior Software Engineer (AI Platform) (m/f/d) | Remote / Düsseldorf | Arbeitnow |
-| Auxmoney Gmbh | Senior AI Engineer (m/w/d) | Remote / Düsseldorf | Arbeitnow |
+| InBrief.ai | The AI Optimization Playbook | Guide Post, | RemoteOK |
+| Spore N Sprouts | Julius AI | Ajmer, | RemoteOK |
 | Myriadloop | LiftResume AI | Kirkwall, | RemoteOK |
-| Kleverio | AI Integration &amp; Automation | Ajmer, | RemoteOK |
-| Hot9ja | Julius AI | Ajmer, | RemoteOK |
-| Alex Staff Agency Careers | Lead Ruby on Rails Software Engineer | Germany | Arbeitnow |
-| Xai | Backend Engineer - API | London | Arbeitnow |
-| Xai | Backend Engineer | London | Arbeitnow |
-| Faculty | Principal Machine Learning Engineer | UK - Remote | Arbeitnow |
+| Tomorrow Gmbh | Senior Backend Engineer (w/m/d) | Hamburg / Remote | Arbeitnow |
+| Tatweer-lb | Jr Frontend Developer | London, | RemoteOK |
+| Berlin Bytes | (Senior) Freelance Web Developer | Remote | Arbeitnow |
+| Nmi | Senior Staff Information Security Engineer | Remote, US | Arbeitnow |
+| Nmi | Senior Staff Information Security Engineer | Remote | Arbeitnow |
+| Nmi | Senior Software Engineer | Remote | Arbeitnow |
+| 1Komma5Grad | (Senior) Analytics Engineer (m/f/d) | Remote | Arbeitnow |
+| Tremendous | Head of Security | New York, New York, New York, United States | RemoteOK |
+| BAT Pros | Avi Go | Tirukovilur, | RemoteOK |
+| PT. Mastersystem Infotama | Data Entry Assistant | Quezon City, Quezon City, National Capital Region, Philippines | RemoteOK |
+| SEAhub Asia | Data Analyst | Kuala Lumpur, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia | RemoteOK |
+| Arabian Private Holdings | Data Analyst Assistant | Ø¯Ø¨Ù, Ø¯Ø¨Ù Ø¯Ø¨Ù Ø§ÙØ¥ÙØ§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙØªØ­Ø¯Ø© | RemoteOK |
 | Richmond and Wandsworth Councils | Testing | Wandsworth, | RemoteOK |
 | Accenture in India | Application Developer | Bhubaneswar, | RemoteOK |
 | Accenture in India | Custom Software Engineer | Nagpur, | RemoteOK |
-| Re Lytics Hires | Data Entry &amp; Administrative Assistant | Ø£Ø¨Ù Ø¸Ø¨Ù, Ø£Ø¨Ù Ø¸Ø¨Ù Ø£Ø¨Ù Ø¸Ø¨Ù Ø§ÙØ¥ÙØ§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙØªØ­Ø¯Ø© | RemoteOK |
-| eCare-Software LLC | Next Up | Upottery, | RemoteOK |
-| Markelic LLC | Apply Support Engineer | Bachelor, | RemoteOK |
-| PulseMediaNL | Data Entry Administrator | Ø§ÙØ±ÙØ§Ø¶, Ø§ÙØ±ÙØ§Ø¶ Ø§ÙØ±ÙØ§Ø¶ Ø§ÙØ³Ø¹ÙØ¯ÙØ© | RemoteOK |
-| Alex Staff Agency Careers | Senior QA Engineer with Automation | Germany | Arbeitnow |
+| Neworbit | Propulsion AIT Engineer | Reading (London) | Arbeitnow |
+| Fireblocks | Full Stack Engineer, Blockchain | London | Arbeitnow |
+| Wayve | Senior Machine Learning Engineer, AI Performance | London | Arbeitnow |
 | Rapid Data | Senior Software Engineer - .Net & AI (m/f/d) | Berlin Hybrid | Arbeitnow |
 | TENIOS GmbH | Conversation Designer - Voice AI Agents (m/w/d) | Cologne | Arbeitnow |
-| Xai | Mobile iOS Engineer | London | Arbeitnow |
-| Xai | Mobile Android Engineer | London | Arbeitnow |
 | XpertHires Solution GmbH | Senior Software Engineer - AI Development (m/w/d) | Berlin | Arbeitnow |
 | Stackfuel | AI Workflow Automation Specialist (m/w/d) | Berlin | Arbeitnow |
 | Stackfuel | AI Portfolio Lead - Learning Content (m/w/d) | Berlin | Arbeitnow |
-| neoshare | Senior Software Engineer - Java (m/w/d) | Frankfurt am Main | Arbeitnow |
-| neoshare | Senior Software Engineer - Angular (m/f/x) | Frankfurt am Main | Arbeitnow |
+| SumUp | Senior QA Engineer I | Berlin, Berlin, Germany | Arbeitnow |
+| Obsidiansecurity | Senior Backend Engineer | Cheltenham | Arbeitnow |
 | Rivada Space Networks Gmbh | Senior Cloud Architect | Munich | Arbeitnow |
-| Graphcore | Senior Cloud Engineer | Bristol; London | Arbeitnow |
-| Everway | Principal Systems Developer (Marketing Cloud) |  | Arbeitnow |
-| ABRIO GmbH | Senior Frontend Engineer (m/w/d) – E-Commerce | Frankfurt, Hessen, Deutschland | Arbeitnow |
-| ABRIO GmbH | Senior Frontend Developer (m/w/d) – Shopify & Digital Commerce | Frankfurt, Hessen, Deutschland | Arbeitnow |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Nottingham, United Kingdom | Nottingham, England, United Kingdom | Arbeitnow |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Glasgow, United Kingdom | Glasgow, Scotland, United Kingdom | Arbeitnow |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Birmingham, United Kingdom | Birmingham, England, United Kingdom | Arbeitnow |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Edinburgh, United Kingdom | Edinburgh, Scotland, United Kingdom | Arbeitnow |
+| Speechify | Senior Software Engineer, Windows/Desktop Applications - Cardiff, United Kingdom | Cardiff, Wales, United Kingdom | Arbeitnow |
+| Speechify | Senior Software Engineer, Windows/Desktop Applications - Leeds, United Kingdom | Leeds, England, United Kingdom | Arbeitnow |
+| Speechify | Senior Software Engineer, Windows/Desktop Applications - Edinburgh, United Kingdom | Edinburgh, Scotland, United Kingdom | Arbeitnow |
+| Speechify | Software Engineer, Platform - Leeds, United Kingdom | Leeds, England, United Kingdom | Arbeitnow |
+| Speechify | Software Engineer, Platform - Edinburgh, United Kingdom | Edinburgh, Scotland, United Kingdom | Arbeitnow |
+| Speechify | Software Engineer, Platform - Manchester, United Kingdom | Manchester, England, United Kingdom | Arbeitnow |
+| Neworbit | Satellite Mechanical Design Engineer | Reading (London) | Arbeitnow |
+| Neworbit | Contract Mechanical Design Engineer (Outside IR35) | Reading (London) | Arbeitnow |
+| Neworbit | Spacecraft Structural Engineer | Reading (London) | Arbeitnow |
+| Dataguard | IT Operations & Support - Working Student (m/f/d) | Munich | Arbeitnow |
+| Tripadvisor | Senior Software Engineer (Android) | London | Arbeitnow |
+| Tripadvisor | Senior Software Engineer (Android) | Oxford | Arbeitnow |
+| WPP Production | Senior Creative Technology Engineer | London, England, United Kingdom | Arbeitnow |
+| Samsara | Software Engineer I (New Grad) | London, England, United Kingdom | Arbeitnow |
+| Beamery | Staff Data Engineer | London, UK | Arbeitnow |
+| Beamery | Senior Data Engineer | London, UK | Arbeitnow |
+| Validio | Sales Engineer | London | Arbeitnow |
+| Transficc | Security Compliance Specialist | London | Arbeitnow |
+| Flix | Working Student (f/m/d) - Data Compliance Team | Berlin, Berlin, Germany | Arbeitnow |
+| Lendable | Senior Analytics Engineer (6 month FTC) | London | Arbeitnow |
 | RobCo | Senior Electrical Engineer - Robotics (m/f/d) | Munich | Arbeitnow |
 | RobCo | Senior Mechanical Engineer - Robotics (m/f/d) | Munich | Arbeitnow |
 | Legora | Legal Data Strategy Director | Munich | Arbeitnow |
@@ -60,14 +81,6 @@ Automatically updated job listings.
 | Rivada Space Networks Gmbh | Senior Software Solutions Architect | Munich | Arbeitnow |
 | Rivada Space Networks Gmbh | Information Security Engineer | Munich | Arbeitnow |
 | algonaut | Algonaut - Forward Deployed Engineer (m/f/d) | Berlin | Arbeitnow |
-| Psiquantum | Senior Optical Packaging & Assembly Engineer | Daresbury | Arbeitnow |
-| Psiquantum | Senior Optical Fibre Engineer | Daresbury | Arbeitnow |
-| Monzoreferrals | Senior Analytics Engineer |  | Arbeitnow |
-| Andurilindustries | Senior Product Security Engineer | London | Arbeitnow |
-| Graphcore | Linux Engineering Lead | Bristol | Arbeitnow |
-| Quantexa | Software Engineer | London | Arbeitnow |
-| Quantexa | Senior Software Engineer | London | Arbeitnow |
-| Quantexa | Associate Data Engineer | London | Arbeitnow |
 | Quantum-Systems GmbH | Senior Robotics Engineer (m/f/d) – Drone Port | Gilching | Arbeitnow |
 | eleQtron GmbH | Senior Optics and Laser Engineer (f/m/d) | Siegen | Arbeitnow |
 | Stackfuel | Analytics Engineer (w/m/d) | Berlin | Arbeitnow |
@@ -77,8 +90,3 @@ Automatically updated job listings.
 | voize | Senior Freelance Android Engineer - Kotlin (m/f/d) | Berlin | Arbeitnow |
 | KAYAK | Staff Product Designer, Mobile focus | Berlin Office | Arbeitnow |
 | KAYAK | Manager, Data Platform | Berlin Office | Arbeitnow |
-| KAYAK | Senior ML Ops Engineer | Berlin Office | Arbeitnow |
-| H-Tech Supports | IT On-Site Support Specialist | Mannheim | Arbeitnow |
-| neoshare | Senior Software Engineer - Java (m/w/d) | München | Arbeitnow |
-| neoshare | Senior Software Engineer - Angular (m/f/x) | München | Arbeitnow |
-| HOLOPLOT | Senior Software Development Engineer in Test - Show Production | Berlin | Arbeitnow |

@@ -176,6 +176,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-master-data-management-lead-gn-140944",
+        "title": "Master Data Management Lead (gn)",
+        "company": "thequalitygroupgmbh2",
+        "location": "remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/thequalitygroupgmbh2/remote-master-data-management-lead-gn-140944",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-07T11:55:22+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-senior-software-engineer-k6-core-usa-est-only-remote-283344",
         "title": "Senior Software Engineer - k6 Core | USA, EST only | Remote",
         "company": "grafanalabs",
@@ -185,17 +196,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-07T06:55:45+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-it-recruiter-gn-teilzeit-ca-20h-woche-100-remote-usingen-101101",
-        "title": "IT-Recruiter (gn) Teilzeit | ca. 20h/Woche | 100% Remote",
-        "company": "Bridgency HR Management GbR",
-        "location": "Usingen",
-        "job_type": "berufseinstieg",
-        "url": "https://www.arbeitnow.com/jobs/companies/bridgency-hr-management-gbr/it-recruiter-gn-teilzeit-ca-20h-woche-100-remote-usingen-101101",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-07T05:00:28+00:00",
-        "remote": true
     },
     {
         "id": "greenhouse-3514346",
@@ -242,6 +242,28 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-senior-infrastructure-automation-engineer-hamburg-278494",
+        "title": "Senior Infrastructure Automation Engineer",
+        "company": "OPSinnovate",
+        "location": "Hamburg",
+        "job_type": "professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/opsinnovate/senior-infrastructure-automation-engineer-hamburg-278494",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-07T11:30:32+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-online-data-analyst-english-speaker-in-uk-london-199240",
+        "title": "Online Data Analyst - English speaker in UK",
+        "company": "TELUS Digital",
+        "location": "London",
+        "job_type": "Freelance, entry",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/telus-digital/online-data-analyst-english-speaker-in-uk-london-199240",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-07T11:30:32+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-research-crawling-engineer-london-308820",
         "title": "Research Crawling Engineer",
         "company": "Ant-Tech",
@@ -283,39 +305,6 @@
         "url": "https://jobs.ashbyhq.com/linear/5b9997fd-7507-4437-8fd7-14178c99ab5d",
         "source": "Ashby",
         "published_at": "2026-08-06T19:59:06.175000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-freelance-textile-graphic-designer-socks-caps-berlin-161872",
-        "title": "Freelance Textile Graphic Designer (Socks & Caps)",
-        "company": "No Bad Days Club (NBDC)",
-        "location": "Berlin",
-        "job_type": "Freelance, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/no-bad-days-club-nbdc/freelance-textile-graphic-designer-socks-caps-berlin-161872",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-07T08:30:36+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-werkstudent-founders-associate-social-media-recruiting-munich-139416",
-        "title": "Werkstudent Founders Associate - Social Media & Recruiting (w/m/d)",
-        "company": "Kintscher GbR",
-        "location": "Munich",
-        "job_type": "Working student",
-        "url": "https://www.arbeitnow.com/jobs/companies/kintscher-gbr/werkstudent-founders-associate-social-media-recruiting-munich-139416",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-07T08:30:35+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-werkstudent-social-media-marketing-recruiting-munich-136590",
-        "title": "Werkstudent Social Media Marketing & Recruiting (w/m/d)",
-        "company": "Kintscher GbR",
-        "location": "Munich",
-        "job_type": "Working student, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/kintscher-gbr/werkstudent-social-media-marketing-recruiting-munich-136590",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-07T08:30:32+00:00",
         "remote": true
     }
 ]

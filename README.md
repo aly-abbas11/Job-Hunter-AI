@@ -16,15 +16,15 @@ The repository is automatically updated every 3 hours.
 
 **Last Updated**
 
-07 August 2026 07:11 UTC
+07 August 2026 10:58 UTC
 
 | Metric | Value |
 |---------|------:|
-| Total Jobs | 65 |
-| New Jobs | 48 |
-| Removed Jobs | 38 |
+| Total Jobs | 77 |
+| New Jobs | 53 |
+| Removed Jobs | 41 |
 | Remote Jobs | 13 |
-| Internships | 0 |
+| Internships | 1 |
 
 ---
 
@@ -32,21 +32,24 @@ The repository is automatically updated every 3 hours.
 
 | Company | Position | Location | Source | Apply |
 |----------|----------|----------|--------|-------|
-| idealo internet GmbH | Senior Software Engineer - Backend (m|w|d) | Berlin, Berlin, Deutschland | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-software-engineer-backend-mwd-berlin-370067) |
+| Cloudscaler | Associate Engineer (Graduate Entry Role) | London | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/cloudscaler/associate-engineer-graduate-entry-role-aldgate-354003) |
+| Quantum-Systems GmbH | Working Student Full-Stack Software Development (m/f/d) | Gilching | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-full-stack-software-development-gilching-491958) |
+| Form3 | Senior Cloud Security Engineer - AI Resilience & Security Enhancements (Contract) | 100% Remote (Europe*) | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/form3/remote-senior-cloud-security-engineer-ai-resilience-security-enhancements-contract-480288) |
+| Form3 | Senior Software Engineer (Go) - AI Resilience & Security Enhancements (Contract) | 100% Remote (Europe*) | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/form3/remote-senior-software-engineer-go-ai-resilience-security-enhancements-contract-414764) |
+| Evolve Digital GmbH | (Senior) Google Ads Manager für AI-First Performance Marketing (m/w/d) · Remote | Remote | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-google-ads-manager-fur-ai-first-performance-marketing-remote-341144) |
 | Cameron Newspapers | Citizen Observer &amp; Cameron Shopper | The quest build a better AI tutor | Cameron, | RemoteOK | [Apply](https://remoteOK.com/remote-jobs/remote-the-quest-build-a-better-ai-tutor-cameron-newspapers-citizen-observer-amp-cameron-shopper-1136270) |
 | Cameron Newspapers | Citizen Observer &amp; Cameron Shopper | How AI is reshaping higher education program discovery | Cameron, | RemoteOK | [Apply](https://remoteOK.com/remote-jobs/remote-how-ai-is-reshaping-higher-education-program-discovery-cameron-newspapers-citizen-observer-amp-cameron-shopper-1136272) |
 | InBrief.ai | The AI Optimization Playbook | Guide Post, | RemoteOK | [Apply](https://remoteOK.com/remote-jobs/remote-the-ai-optimization-playbook-inbrief-ai-1136119) |
+| grafanalabs | Staff Backend Engineer - Grafana App Platform | UK | Remote |  | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-backend-engineer-grafana-app-platform-uk-remote-258023) |
 | grafanalabs | Staff Backend Engineer - Grafana App Platform | Germany | Remote |  | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/grafanalabs/staff-backend-engineer-grafana-app-platform-germany-remote-160254) |
-| Clera | Full Stack Frontend Engineer | remote | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/clera/remote-full-stack-frontend-engineer-199554) |
-| idealo internet GmbH | (Senior) Software Engineer (Kotlin/Java/ AWS) - Monetarisierung (m|w|d) | Berlin, Berlin, Deutschland | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-software-engineer-kotlin-java-aws-monetarisierung-mwd-berlin-19318) |
 | Tatweer-lb | Jr Frontend Developer | London, | RemoteOK | [Apply](https://remoteOK.com/remote-jobs/remote-jr-frontend-developer-tatweer-lb-1136124) |
+| grafanalabs | Software Engineer - Platform Productivity | United Kingdom | Remote |  | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/software-engineer-platform-productivity-united-kingdom-remote-453041) |
+| grafanalabs | Senior Software Engineer - k6 Core | USA, EST only | Remote | United States (Remote) | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-software-engineer-k6-core-usa-est-only-remote-283344) |
+| grafanalabs | Senior Software Engineer - k6 Core | United Kingdom | Remote |  | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-software-engineer-k6-core-united-kingdom-remote-36418) |
+| grafanalabs | Senior Platform Engineer - Platform Metal | UK | Remote |  | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-platform-engineer-platform-metal-uk-remote-154781) |
+| Trainline | Engineer - .NET Backend (London) | London | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/trainline/engineer-net-backend-london-454532) |
 | Bridgency HR Management GbR | IT-Recruiter (gn) Teilzeit | ca. 20h/Woche | 100% Remote | Usingen | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/bridgency-hr-management-gbr/it-recruiter-gn-teilzeit-ca-20h-woche-100-remote-usingen-101101) |
 | grafanalabs | Senior Field Engineer | Germany | Remote |  | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-field-engineer-germany-remote-440932) |
-| Clera | Data Scientist — Agent Evaluations & Quality | remote | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/clera/remote-data-scientist-agent-evaluations-quality-434210) |
-| Clera | Founding Forward-Deployed ML Engineer | remote | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/clera/remote-founding-forward-deployed-ml-engineer-403811) |
-| Clera | Senior Geospatial Machine Learning Engineer | remote | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/clera/remote-senior-geospatial-machine-learning-engineer-476220) |
-| Clera | Founding Product Engineer | remote | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/clera/remote-founding-product-engineer-345417) |
-| Clera | Senior Site Reliability Engineer | remote | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/clera/remote-senior-site-reliability-engineer-496170) |
 | Clera | Java Developer | Los Angeles | RemoteOK | [Apply](https://remoteOK.com/remote-jobs/remote-java-developer-clera-1136188) |
 | Remora Technologies Limited | ð± If you think you've got what it takes.. | Bournemouth, | RemoteOK | [Apply](https://remoteOK.com/remote-jobs/remote-if-you-think-youve-got-what-it-takes-remora-technologies-limited-1136197) |
 | COLDOUTREACH.BLOG | Commenting before DMing is it worth it | Content, | RemoteOK | [Apply](https://remoteOK.com/remote-jobs/remote-commenting-before-dming-is-it-worth-it-coldoutreach-blog-1136164) |
@@ -54,14 +57,11 @@ The repository is automatically updated every 3 hours.
 | Kent Country | Go Ahead London | London, | RemoteOK | [Apply](https://remoteOK.com/remote-jobs/remote-go-ahead-london-kent-country-1136204) |
 | Kent Country | Go South Coast | Gold Coast, | RemoteOK | [Apply](https://remoteOK.com/remote-jobs/remote-go-south-coast-kent-country-1136227) |
 | Tremendous | Head of Security | New York, New York, New York, United States | RemoteOK | [Apply](https://remoteOK.com/remote-jobs/remote-head-of-security-tremendous-1136210) |
-| BAT Pros | Avi Go | Tirukovilur, | RemoteOK | [Apply](https://remoteOK.com/remote-jobs/remote-avi-go-bat-pros-1136141) |
-| Unity Advisory | Data Architect | London, Mayfair | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/unity-advisory/data-architect-london-150773) |
-| Bjak | CEO Office - AI Neobank App | United Kingdom | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/bjak/ceo-office-ai-neobank-app-london-434837) |
-| Clera | AI/LLM Engineer | Munich | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/clera/ai-llm-engineer-munich-395370) |
-| Clera | Applied AI Engineer – AI & Automation | Berlin | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/clera/applied-ai-engineer-ai-automation-berlin-228748) |
-| soundcloud71 | IT Working Student | Berlin | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/soundcloud71/it-working-student-berlin-19504) |
-| Clera | Backend Engineer | Berlin | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/clera/backend-engineer-berlin-253655) |
-| Clera | Senior Backend Developer | Berlin | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/clera/senior-backend-developer-berlin-466521) |
+| Pentadoc Gruppe | Senior AI Engineer | Würzburg | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/pentadoc-gruppe/senior-ai-engineer-wurzburg-482630) |
+| Apoprojekt | (Senior) AI Software Engineer (all genders) | Hamburg | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/apoprojekt/senior-ai-software-engineer-all-genders-hamburg-155199) |
+| Apoprojekt | (Senior) AI & Azure Operations Administrator (all genders) | Hamburg | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/apoprojekt/senior-ai-azure-operations-administrator-all-genders-hamburg-143930) |
+| Waymo | Senior Research Scientist, AI Foundations Recipes | Oxford; London | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/waymo/senior-research-scientist-ai-foundations-recipes-oxford-london-362407) |
+| NVISO | Cyber Security Engineering Business Manager (m/w/d) | Frankfurt am Main | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/nviso/cyber-security-engineering-business-manager-frankfurt-am-main-229498) |
 
 ---
 

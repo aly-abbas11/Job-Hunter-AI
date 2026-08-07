@@ -16,15 +16,16 @@ The repository is automatically updated every 3 hours.
 
 **Last Updated**
 
-07 August 2026 11:18 UTC
+07 August 2026 11:28 UTC
 
 | Metric | Value |
 |---------|------:|
-| Total Jobs | 23 |
+| Total Jobs | 31 |
 | New Jobs | 0 |
 | Removed Jobs | 0 |
-| Remote Jobs | 19 |
-| Internships | 0 |
+| Remote Jobs | 27 |
+| Internships | 3 |
+| Career Starter | 8 |
 
 ---
 
@@ -55,6 +56,23 @@ The repository is automatically updated every 3 hours.
 | Coinbase | Senior Software Engineer, Stablecoins | Remote - USA | Greenhouse | [Apply](https://www.coinbase.com/careers/positions/8104873?gh_jid=8104873) |
 | Coinbase | Staff Analytics Engineer, Compliance Data | Remote - USA | Greenhouse | [Apply](https://www.coinbase.com/careers/positions/8104148?gh_jid=8104148) |
 | Ant-Tech | Research Crawling Engineer | London | Arbeitnow | [Apply](https://www.arbeitnow.co.uk/jobs/companies/ant-tech/research-crawling-engineer-london-308820) |
+
+---
+
+## Career Starter Opportunities
+
+> Admin, virtual assistant, graphics/design, writing and customer support roles — accessible for juniors and beginners.
+
+| Company | Position | Location | Source | Apply |
+|----------|----------|----------|--------|-------|
+| OpenAI | Product Designer, Engineering Acceleration | Remote | Ashby | [Apply](https://jobs.ashbyhq.com/openai/73fdf2c0-4318-4b13-addc-b66bc1308ba4) |
+| OpenAI | Product Designer, Payments | Remote | Ashby | [Apply](https://jobs.ashbyhq.com/openai/3813977e-5940-456d-bf5a-16efcdc3a6dc) |
+| Kazaar Fragrances | Brand & Creative Designer (Freelance, 100% Remote) | Anywhere in the World | WeWorkRemotely | [Apply](https://weworkremotely.com/remote-jobs/kazaar-fragrances-brand-creative-designer-freelance-100-remote) |
+| Grafana Labs | Associate Observability Architect \| EST \| Remote | Anywhere in the World | WeWorkRemotely | [Apply](https://weworkremotely.com/remote-jobs/grafana-labs-associate-observability-architect-est-remote) |
+| Linear | Production Designer | Remote | Ashby | [Apply](https://jobs.ashbyhq.com/linear/5b9997fd-7507-4437-8fd7-14178c99ab5d) |
+| No Bad Days Club (NBDC) | Freelance Textile Graphic Designer (Socks & Caps) | Berlin | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/no-bad-days-club-nbdc/freelance-textile-graphic-designer-socks-caps-berlin-161872) |
+| Kintscher GbR | Werkstudent Founders Associate - Social Media & Recruiting (w/m/d) | Munich | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/kintscher-gbr/werkstudent-founders-associate-social-media-recruiting-munich-139416) |
+| Kintscher GbR | Werkstudent Social Media Marketing & Recruiting (w/m/d) | Munich | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/kintscher-gbr/werkstudent-social-media-marketing-recruiting-munich-136590) |
 
 ---
 

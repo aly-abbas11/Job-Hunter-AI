@@ -40,6 +40,7 @@ The repository is automatically updated every 3 hours.
 
 - RemoteOK
 - Arbeitnow
+- Remotive
 
 ---
 

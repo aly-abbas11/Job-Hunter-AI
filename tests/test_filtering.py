@@ -41,6 +41,22 @@ def test_old_job_not_recent():
     assert not JobFilter.is_recent(job)
 
 
+def test_job_posted_within_24h_is_recent():
+    recent = datetime.now(UTC) - timedelta(hours=12)
+
+    job = make_job(published_at=recent)
+
+    assert JobFilter.is_recent(job)
+
+
+def test_job_older_than_24h_not_recent():
+    old = datetime.now(UTC) - timedelta(hours=36)
+
+    job = make_job(published_at=old)
+
+    assert not JobFilter.is_recent(job)
+
+
 def test_is_tech_job():
     job = make_job(title="Python Backend Developer")
 

@@ -12,15 +12,18 @@ REMOTEOK_API = "https://remoteok.com/api"
 
 ARBEITNOW_API = "https://www.arbeitnow.com/api/job-board-api"
 
+REMOTIVE_API = "https://remotive.com/api/remote-jobs"
+
 # ==========================================================
 # Filtering Configuration
 # ==========================================================
 
-MAX_JOB_AGE_DAYS = 14
+MAX_JOB_AGE_HOURS = 24
 
 SUPPORTED_SOURCES = (
     "RemoteOK",
     "Arbeitnow",
+    "Remotive",
 )
 
 # ==========================================================
@@ -119,9 +122,15 @@ INTERNSHIP_KEYWORDS = {
     "graduate program",
     "entry level",
     "entry-level",
+    "entry",
     "junior",
     "trainee",
     "associate",
+    "apprentice",
+    "apprenticeship",
+    "student",
+    "working student",
+    "werkstudent",
 }
 
 # ==========================================================

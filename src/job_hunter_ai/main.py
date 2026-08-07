@@ -4,6 +4,7 @@ Main entry point for Job Hunter AI.
 
 from job_hunter_ai.clients.arbeitnow import ArbeitnowClient
 from job_hunter_ai.clients.remoteok import RemoteOKClient
+from job_hunter_ai.clients.remotive import RemotiveClient
 from job_hunter_ai.core.logger import get_logger
 from job_hunter_ai.services.diffing import JobDiff
 from job_hunter_ai.services.filtering import JobFilter
@@ -17,6 +18,7 @@ logger = get_logger(__name__)
 def print_summary(
     remote_count: int,
     arbeit_count: int,
+    remotiv_count: int,
     normalized_count: int,
     filtered_jobs: list,
     previous_jobs: list,
@@ -33,6 +35,7 @@ def print_summary(
     logger.info("=" * 70)
     logger.info("RemoteOK fetched      : %d", remote_count)
     logger.info("Arbeitnow fetched     : %d", arbeit_count)
+    logger.info("Remotive fetched      : %d", remotiv_count)
     logger.info("Total normalized      : %d", normalized_count)
     logger.info("Valid tech jobs       : %d", len(filtered_jobs))
     logger.info("")
@@ -80,16 +83,19 @@ def main() -> None:
 
     remote_client = RemoteOKClient()
     arbeit_client = ArbeitnowClient()
+    remotiv_client = RemotiveClient()
 
     # Fetch
     remote_raw = remote_client.fetch_jobs()
     arbeit_raw = arbeit_client.fetch_jobs()
+    remotiv_raw = remotiv_client.fetch_jobs()
 
     # Normalize
     remote_jobs = JobNormalizer.normalize_remoteok(remote_raw)
     arbeit_jobs = JobNormalizer.normalize_arbeitnow(arbeit_raw)
+    remotiv_jobs = JobNormalizer.normalize_remotive(remotiv_raw)
 
-    all_jobs = remote_jobs + arbeit_jobs
+    all_jobs = remote_jobs + arbeit_jobs + remotiv_jobs
 
     # Filter
     filtered_jobs = JobFilter.filter_jobs(all_jobs)
@@ -121,6 +127,7 @@ def main() -> None:
     print_summary(
         len(remote_raw),
         len(arbeit_raw),
+        len(remotiv_raw),
         len(all_jobs),
         filtered_jobs,
         previous_jobs,

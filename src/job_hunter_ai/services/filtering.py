@@ -9,7 +9,7 @@ from typing import Iterable
 
 from job_hunter_ai.core.constants import (
     INTERNSHIP_KEYWORDS,
-    MAX_JOB_AGE_DAYS,
+    MAX_JOB_AGE_HOURS,
     PAKISTAN_CITIES,
     REMOTE_KEYWORDS,
     TECH_KEYWORDS,
@@ -34,10 +34,10 @@ class JobFilter:
 
     @classmethod
     def is_recent(cls, job: Job) -> bool:
-        """Return True if the job is newer than MAX_JOB_AGE_DAYS."""
+        """Return True if the job is newer than MAX_JOB_AGE_HOURS."""
 
         age = datetime.now(UTC) - job.published_at
-        return age.days <= MAX_JOB_AGE_DAYS
+        return age.total_seconds() <= MAX_JOB_AGE_HOURS * 3600
 
     @classmethod
     def is_tech_job(cls, job: Job) -> bool:

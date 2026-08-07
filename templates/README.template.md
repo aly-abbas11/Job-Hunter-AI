@@ -140,7 +140,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## About — Remote Jobs & Internships, Fresh Every 24 Hours
 
-**Job Hunter AI** is an automated **remote jobs board** that collects **genuine remote work opportunities** — software engineering, AI, machine learning, cloud, DevOps, QA, cybersecurity, data, virtual assistant, admin, graphics design, and writing roles — directly from **company applicant tracking systems (Greenhouse, Ashby)** and curated remote-first job boards (RemoteOK, Arbeitnow, Remotive, We Work Remotely).
+**Job Hunter AI** is an automated **remote jobs board** that collects **genuine remote work opportunities** — software engineering, AI, machine learning, cloud, DevOps, QA, cybersecurity, data, virtual assistant, admin, graphics design, and writing roles — directly from **company applicant tracking systems (Greenhouse, Ashby)** and curated remote-first job boards (RemoteOK, Arbeitnow, Remotive).
 
 Unlike generic job search sites, **every single posting is 100% remote**, no hybrid bait-and-switch. Only jobs and internships posted in the **last 24 hours** are shown, so you always see fresh opportunities before they get 300+ applications. Every listing links **directly to the official apply page** — no middleman, no account required, no dead-end CV submissions.
 
@@ -210,14 +210,12 @@ Unlike generic job search sites, **every single posting is 100% remote**, no hyb
 <!-- ===================== SOURCES ===================== -->
 ## Sources — Where These Remote Jobs Come From
 
-Jobs are fetched from **six trusted platforms** and filtered for quality:
+Jobs are fetched from **five trusted platforms** and filtered for quality:
 
 | Source | Type | Why It's Trusted |
 |---|---|---|
 | **Greenhouse** | Company ATS | Airbnb, Stripe, GitLab, Reddit, Pinterest, Cloudflare, Coinbase, Roblox, Dropbox, Instacart, Datadog — jobs often **not posted anywhere else** |
 | **Ashby** | Company ATS | OpenAI, Ramp, Linear, Supabase, Resend, Warp |
-| **We Work Remotely** | Curated board | Employers pay $299 per posting — filters out spam and ghost jobs |
-| **RemoteOK** | Remote-first board | Salary transparency, developer-focused remote work |
 | **Remotive** | Curated board | Human-reviewed remote jobs with an active community |
 | **Arbeitnow** | Remote-first board | EU remote opportunities with direct apply pages |
 
@@ -225,7 +223,7 @@ Jobs are fetched from **six trusted platforms** and filtered for quality:
 ## Why These Are Genuine Jobs — Not CV Black Holes
 
 - **ATS-sourced**: Greenhouse and Ashby listings are official company career pages — you apply straight into the employer's own hiring system, which converts **~3-6x better** than mass job board applications.
-- **Curated boards only**: We Work Remotely and Remotive charge employers or manually review listings, keeping out scam postings.
+- **Curated boards only**: Remotive manually reviews listings, and RemoteOK's paid posting model keeps out scam postings.
 - **24-hour freshness**: Listings older than 24 hours are automatically dropped. Fresh remote jobs get up to **80% fewer applications** — your best chance of being seen.
 - **Scam filter**: Data entry, transcription, and "make money online" listings are deliberately excluded — the top scam categories per FTC guidance.
 - **100% remote only**: No hybrid bait. Every job passes an automatic remote check.

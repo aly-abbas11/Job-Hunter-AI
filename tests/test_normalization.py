@@ -65,49 +65,6 @@ def test_normalize_ashby():
     assert "Research" in job.job_type
 
 
-def test_normalize_wwr():
-    jobs = JobNormalizer.normalize_wwr(
-        [
-            {
-                "title": "GitLab: Senior Frontend Engineer",
-                "link": "https://weworkremotely.com/remote-jobs/123",
-                "pubDate": "2026-08-07 09:00:00 +0000",
-                "region": "Anywhere in the World",
-                "category": "Front-End Programming",
-            },
-        ]
-    )
-
-    assert len(jobs) == 1
-    job = jobs[0]
-
-    assert job.company == "GitLab"
-    assert job.title == "Senior Frontend Engineer"
-    assert job.location == "Anywhere in the World"
-    assert job.remote is True
-    assert job.source == "WeWorkRemotely"
-
-
-def test_normalize_wwr_title_without_company_prefix():
-    jobs = JobNormalizer.normalize_wwr(
-        [
-            {
-                "title": "DevOps Engineer",
-                "link": "https://weworkremotely.com/remote-jobs/456",
-                "pubDate": "2026-08-07 09:00:00 +0000",
-                "region": "Worldwide",
-                "category": "DevOps",
-            },
-        ]
-    )
-
-    assert len(jobs) == 1
-    job = jobs[0]
-
-    assert job.company == "DevOps Engineer"
-    assert job.title == "DevOps Engineer"
-
-
 def test_normalize_ashby_onsite_not_remote():
     jobs = JobNormalizer.normalize_ashby(
         [

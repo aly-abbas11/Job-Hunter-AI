@@ -7,7 +7,6 @@ the unified Job model used throughout the application.
 
 from __future__ import annotations
 
-import hashlib
 from datetime import UTC, datetime
 
 from dateutil import parser
@@ -220,41 +219,5 @@ class JobNormalizer:
 
             except Exception as exc:
                 print(f"Ashby normalization error: {exc}")
-
-        return jobs
-
-    @staticmethod
-    def normalize_wwr(raw_jobs: list[dict]) -> list[Job]:
-        """Normalize We Work Remotely RSS jobs."""
-
-        jobs: list[Job] = []
-
-        for index, item in enumerate(raw_jobs):
-            try:
-                title = item.get("title", "")
-
-                company, _, rest = title.partition(":")
-
-                if rest.strip():
-                    company, title = company.strip(), rest.strip()
-
-                jobs.append(
-                    Job(
-                        id=f"wwr-{hashlib.md5(item.get('link', '').encode()).hexdigest()[:12]}",
-                        title=title,
-                        company=company,
-                        location=item.get("region", ""),
-                        job_type=item.get("category", ""),
-                        url=item.get("link", ""),
-                        source="WeWorkRemotely",
-                        published_at=_make_aware(
-                            parser.parse(item.get("pubDate"))
-                        ),
-                        remote=True,
-                    )
-                )
-
-            except Exception as exc:
-                print(f"We Work Remotely normalization error: {exc}")
 
         return jobs

@@ -18,12 +18,6 @@ GREENHOUSE_API = "https://boards-api.greenhouse.io/v1/boards/{company}/jobs"
 
 ASHBY_API = "https://api.ashbyhq.com/posting-api/job-board/{company}"
 
-WW_REMOTELY_RSS = (
-    "https://weworkremotely.com/categories/remote-programming-jobs.rss",
-    "https://weworkremotely.com/categories/remote-design-jobs.rss",
-    "https://weworkremotely.com/categories/remote-customer-support-jobs.rss",
-    "https://weworkremotely.com/categories/remote-copywriting-jobs.rss",
-)
 
 # ==========================================================
 # Filtering Configuration
@@ -37,7 +31,6 @@ SUPPORTED_SOURCES = (
     "Remotive",
     "Greenhouse",
     "Ashby",
-    "WeWorkRemotely",
 )
 
 GREENHOUSE_BOARDS = (
@@ -218,7 +211,6 @@ SUPPORTED_SOURCES = (
     "Remotive",
     "Greenhouse",
     "Ashby",
-    "WeWorkRemotely",
 )
 
 GREENHOUSE_BOARDS = (

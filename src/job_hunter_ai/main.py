@@ -7,7 +7,6 @@ from job_hunter_ai.clients.ashby import AshbyClient
 from job_hunter_ai.clients.greenhouse import GreenhouseClient
 from job_hunter_ai.clients.remoteok import RemoteOKClient
 from job_hunter_ai.clients.remotive import RemotiveClient
-from job_hunter_ai.clients.wwr import WeWorkRemotelyClient
 from job_hunter_ai.core.logger import get_logger
 from job_hunter_ai.services.diffing import JobDiff
 from job_hunter_ai.services.filtering import JobFilter
@@ -93,7 +92,6 @@ def main() -> None:
     remotiv_client = RemotiveClient()
     greenhouse_client = GreenhouseClient()
     ashby_client = AshbyClient()
-    wwr_client = WeWorkRemotelyClient()
 
     # Fetch
     remote_raw = remote_client.fetch_jobs()
@@ -101,7 +99,6 @@ def main() -> None:
     remotiv_raw = remotiv_client.fetch_jobs()
     greenhouse_raw = greenhouse_client.fetch_jobs()
     ashby_raw = ashby_client.fetch_jobs()
-    wwr_raw = wwr_client.fetch_jobs()
 
     # Normalize
     remote_jobs = JobNormalizer.normalize_remoteok(remote_raw)
@@ -109,7 +106,6 @@ def main() -> None:
     remotiv_jobs = JobNormalizer.normalize_remotive(remotiv_raw)
     greenhouse_jobs = JobNormalizer.normalize_greenhouse(greenhouse_raw)
     ashby_jobs = JobNormalizer.normalize_ashby(ashby_raw)
-    wwr_jobs = JobNormalizer.normalize_wwr(wwr_raw)
 
     all_jobs = (
         remote_jobs
@@ -117,7 +113,6 @@ def main() -> None:
         + remotiv_jobs
         + greenhouse_jobs
         + ashby_jobs
-        + wwr_jobs
     )
 
     # Filter
@@ -157,7 +152,6 @@ def main() -> None:
             "Remotive": len(remotiv_raw),
             "Greenhouse": len(greenhouse_raw),
             "Ashby": len(ashby_raw),
-            "WeWorkRemotely": len(wwr_raw),
         },
         normalized_count=len(all_jobs),
         filtered_jobs=combined_jobs,

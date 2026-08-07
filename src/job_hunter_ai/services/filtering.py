@@ -76,8 +76,12 @@ class JobFilter:
         """
 
         title = cls._normalize(job.title)
+        job_type = cls._normalize(job.job_type)
 
-        return any(word in title for word in INTERNSHIP_KEYWORDS)
+        return any(
+            word in title or word in job_type
+            for word in INTERNSHIP_KEYWORDS
+        )
 
     @classmethod
     def is_remote(cls, job: Job) -> bool:
@@ -170,6 +174,9 @@ class JobFilter:
                 continue
 
             if not cls.is_tech_job(job):
+                continue
+
+            if not cls.is_remote(job):
                 continue
 
             filtered.append(job)

@@ -119,9 +119,15 @@ INTERNSHIP_KEYWORDS = {
     "graduate program",
     "entry level",
     "entry-level",
+    "entry",
     "junior",
     "trainee",
     "associate",
+    "apprentice",
+    "apprenticeship",
+    "student",
+    "working student",
+    "werkstudent",
 }
 
 # ==========================================================

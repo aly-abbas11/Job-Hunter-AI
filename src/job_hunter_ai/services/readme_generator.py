@@ -10,6 +10,7 @@ from job_hunter_ai.constants import (
     README_DATE_FORMAT,
 )
 from job_hunter_ai.models.job import Job
+from job_hunter_ai.services.filtering import JobFilter
 
 
 TEMPLATE_PATH = Path("templates/README.template.md")
@@ -31,8 +32,7 @@ class ReadmeGenerator:
 
         remote_jobs = sum(job.remote for job in jobs)
         internships = sum(
-            "intern" in job.title.lower()
-            or "graduate" in job.title.lower()
+            JobFilter.is_internship(job)
             for job in jobs
         )
 
@@ -59,6 +59,12 @@ class ReadmeGenerator:
         )
 
     @staticmethod
+    def _escape(value: str) -> str:
+        """Escape markdown table characters."""
+
+        return str(value).replace("|", "\\|").replace("\n", " ")
+
+    @staticmethod
     def build_job_table(jobs: list[Job]) -> str:
         """Generate markdown job table."""
 
@@ -67,10 +73,10 @@ class ReadmeGenerator:
         for job in jobs[:MAX_README_JOBS]:
             rows.append(
                 "| "
-                f"{job.company} | "
-                f"{job.title} | "
-                f"{job.location} | "
-                f"{job.source} | "
+                f"{ReadmeGenerator._escape(job.company)} | "
+                f"{ReadmeGenerator._escape(job.title)} | "
+                f"{ReadmeGenerator._escape(job.location)} | "
+                f"{ReadmeGenerator._escape(job.source)} | "
                 f"[Apply]({job.url}) |"
             )
 

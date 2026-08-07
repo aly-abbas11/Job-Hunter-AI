@@ -32,7 +32,7 @@ class JobNormalizer:
                         company=item.get("company", "").strip(),
                         location=item.get("location", "").strip(),
                         job_type="Remote",
-                        url=item.get("url") or item.get("apply_url", ""),
+                        url=item.get("apply_url") or item.get("url", ""),
                         source="RemoteOK",
                         published_at=parser.parse(item["date"]),
                         remote=True,

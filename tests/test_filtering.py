@@ -103,11 +103,39 @@ def test_deduplicate():
 
 def test_filter_pipeline():
     jobs = [
-        make_job(title="Python Developer"),
-        make_job(title="Restaurant Chef"),
+        make_job(title="Python Developer", location="Remote"),
+        make_job(title="Restaurant Chef", location="Remote"),
+        make_job(title="Python Developer", location="Berlin", remote=False),
     ]
 
     filtered = JobFilter.filter_jobs(jobs)
 
     assert len(filtered) == 1
     assert filtered[0].title == "Python Developer"
+
+
+def test_filter_pipeline_keeps_remote_internships():
+    jobs = [
+        make_job(
+            title="Software Engineering Intern",
+            location="Remote",
+            remote=True,
+        ),
+    ]
+
+    filtered = JobFilter.filter_jobs(jobs)
+
+    assert len(filtered) == 1
+    assert JobFilter.is_internship(filtered[0])
+    assert JobFilter.is_remote(filtered[0])
+
+
+def test_filter_pipeline_rejects_non_remote():
+    jobs = [
+        make_job(title="Python Developer", location="Berlin", remote=False),
+        make_job(title="Python Developer", location="Lahore", remote=False),
+    ]
+
+    filtered = JobFilter.filter_jobs(jobs)
+
+    assert filtered == []

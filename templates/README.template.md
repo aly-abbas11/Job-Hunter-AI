@@ -1,12 +1,12 @@
 # Job Hunter AI
 
-> Live software engineering, AI, Python, QA, Cloud, DevOps and remote job opportunities updated automatically.
+> Live remote software engineering, AI, Python, QA, Cloud and DevOps jobs & internships updated automatically.
 
 ---
 
 ## About
 
-Job Hunter AI is an open source automation project that continuously collects software engineering jobs from multiple public sources, filters high quality technology opportunities, removes duplicates and publishes a clean GitHub based job board.
+Job Hunter AI is an open source automation project that continuously collects **remote** software engineering jobs and internships from multiple public sources, filters high quality technology opportunities, removes duplicates and publishes a clean GitHub based job board.
 
 The repository is automatically updated every 3 hours.
 

@@ -11,6 +11,50 @@
         "remote": false
     },
     {
+        "id": "greenhouse-3506996",
+        "title": "Staff Software Engineer, Marketing technology",
+        "company": "Airbnb",
+        "location": "Remote, USA",
+        "job_type": "Full Time",
+        "url": "https://careers.airbnb.com/positions/8095436?gh_jid=8095436",
+        "source": "Greenhouse",
+        "published_at": "2026-08-07T14:02:40-04:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-12f6b6ef-be98-4159-9aef-7baac78489bc",
+        "title": "Agency Partner, Ads Solutions",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/12f6b6ef-be98-4159-9aef-7baac78489bc",
+        "source": "Ashby",
+        "published_at": "2026-08-07T16:05:12.152000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-account-executive-ai-hpc-uk-371955",
+        "title": "Account Executive, AI/HPC (UK)",
+        "company": "purestorage",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/purestorage/remote-account-executive-ai-hpc-uk-371955",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-07T15:55:05+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-copy-of-staff-principal-applied-ai-researcher-agentic-search-129436",
+        "title": "Copy of Staff / Principal Applied AI Researcher (Agentic Search)",
+        "company": "Nebius",
+        "location": "Remote - Europe",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/remote-copy-of-staff-principal-applied-ai-researcher-agentic-search-129436",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-07T13:15:10+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-senior-software-engineer-go-ai-resilience-security-enhancements-contract-414764",
         "title": "Senior Software Engineer (Go) - AI Resilience & Security Enhancements (Contract)",
         "company": "Form3",
@@ -19,17 +63,6 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/remote-senior-software-engineer-go-ai-resilience-security-enhancements-contract-414764",
         "source": "Arbeitnow",
         "published_at": "2026-08-07T09:55:28+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-google-ads-manager-fur-ai-first-performance-marketing-remote-341144",
-        "title": "(Senior) Google Ads Manager für AI-First Performance Marketing (m/w/d) · Remote",
-        "company": "Evolve Digital GmbH",
-        "location": "Remote",
-        "job_type": "Full-time permanent, mid",
-        "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-google-ads-manager-fur-ai-first-performance-marketing-remote-341144",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-07T09:20:21+00:00",
         "remote": false
     },
     {
@@ -121,81 +154,26 @@
         "remote": true
     },
     {
-        "id": "ashby-a547274b-246c-41a0-8590-a874fcc6f28b",
-        "title": "PCBA Manufacturing Engineer",
-        "company": "OpenAI",
+        "id": "arbeitnow-remote-forward-deployed-engineer-3110",
+        "title": "Forward Deployed Engineer",
+        "company": "Hexa",
         "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/a547274b-246c-41a0-8590-a874fcc6f28b",
-        "source": "Ashby",
-        "published_at": "2026-08-06T18:43:17.332000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-7facc4fa-70f0-4f2b-8b0c-8bb79c3296c1",
-        "title": "Senior Staff Software Engineer, Identity",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/7facc4fa-70f0-4f2b-8b0c-8bb79c3296c1",
-        "source": "Ashby",
-        "published_at": "2026-08-06T17:52:18.473000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-aeac2b78-1f4a-4dfe-b88f-25fc8adf5bb3",
-        "title": "GRC Program Manager, Assurance Engineering & Control Systems",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Security",
-        "url": "https://jobs.ashbyhq.com/openai/aeac2b78-1f4a-4dfe-b88f-25fc8adf5bb3",
-        "source": "Ashby",
-        "published_at": "2026-08-06T16:57:58.422000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-1798a993-6acc-4732-aba9-c843c495987c",
-        "title": "GTM Strategy & Operations Lead, Ads Solutions",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/1798a993-6acc-4732-aba9-c843c495987c",
-        "source": "Ashby",
-        "published_at": "2026-08-06T16:40:42.628000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3200637",
-        "title": "Senior AI Engineer – Notebooks",
-        "company": "Datadog",
-        "location": "Bordeaux, France; Dublin, Ireland; France, Remote; Germany, Remote; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Portugal, Remote; Sophia Antipolis, France; Spain, Remote",
         "job_type": "Full Time",
-        "url": "https://careers.datadoghq.com/detail/8112183/?gh_jid=8112183",
-        "source": "Greenhouse",
-        "published_at": "2026-08-06T11:31:53-04:00",
+        "url": "https://www.arbeitnow.com/jobs/companies/hexa/remote-forward-deployed-engineer-3110",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-07T17:40:19+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-master-data-management-lead-gn-140944",
-        "title": "Master Data Management Lead (gn)",
-        "company": "thequalitygroupgmbh2",
-        "location": "remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/thequalitygroupgmbh2/remote-master-data-management-lead-gn-140944",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-07T11:55:22+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-software-engineer-k6-core-usa-est-only-remote-283344",
-        "title": "Senior Software Engineer - k6 Core | USA, EST only | Remote",
-        "company": "grafanalabs",
-        "location": "United States (Remote)",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-software-engineer-k6-core-usa-est-only-remote-283344",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-07T06:55:45+00:00",
-        "remote": false
+        "id": "greenhouse-3449661",
+        "title": "Senior Software Engineer - Core Experience, Growth",
+        "company": "Instacart",
+        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8113993",
+        "source": "Greenhouse",
+        "published_at": "2026-08-07T09:24:11-04:00",
+        "remote": true
     },
     {
         "id": "greenhouse-3514346",
@@ -242,17 +220,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-infrastructure-automation-engineer-hamburg-278494",
-        "title": "Senior Infrastructure Automation Engineer",
-        "company": "OPSinnovate",
-        "location": "Hamburg",
-        "job_type": "professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/opsinnovate/senior-infrastructure-automation-engineer-hamburg-278494",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-07T11:30:32+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-online-data-analyst-english-speaker-in-uk-london-199240",
         "title": "Online Data Analyst - English speaker in UK",
         "company": "TELUS Digital",
@@ -264,36 +231,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-research-crawling-engineer-london-308820",
-        "title": "Research Crawling Engineer",
-        "company": "Ant-Tech",
-        "location": "London",
-        "job_type": "1",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/ant-tech/research-crawling-engineer-london-308820",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-07T06:30:41+00:00",
+        "id": "greenhouse-3514823",
+        "title": "Senior Product Designer, Coinbase One",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8114474?gh_jid=8114474",
+        "source": "Greenhouse",
+        "published_at": "2026-08-07T13:26:58-04:00",
         "remote": true
     },
     {
-        "id": "ashby-73fdf2c0-4318-4b13-addc-b66bc1308ba4",
-        "title": "Product Designer, Engineering Acceleration",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Product Design",
-        "url": "https://jobs.ashbyhq.com/openai/73fdf2c0-4318-4b13-addc-b66bc1308ba4",
-        "source": "Ashby",
-        "published_at": "2026-08-06T17:39:11.107000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-3813977e-5940-456d-bf5a-16efcdc3a6dc",
-        "title": "Product Designer, Payments",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Product Design",
-        "url": "https://jobs.ashbyhq.com/openai/3813977e-5940-456d-bf5a-16efcdc3a6dc",
-        "source": "Ashby",
-        "published_at": "2026-08-06T17:31:18.776000+00:00",
+        "id": "greenhouse-3494453",
+        "title": "Staff Product Designer, Financial Services Lead",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8064324?gh_jid=8064324",
+        "source": "Greenhouse",
+        "published_at": "2026-08-07T13:21:26-04:00",
         "remote": true
     },
     {

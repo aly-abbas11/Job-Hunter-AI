@@ -7,10 +7,12 @@ the unified Job model used throughout the application.
 
 from __future__ import annotations
 
+import hashlib
 from datetime import UTC, datetime
 
 from dateutil import parser
 
+from job_hunter_ai.core.constants import ASHBY_BOARD_NAMES
 from job_hunter_ai.models.job import Job
 
 
@@ -123,5 +125,136 @@ class JobNormalizer:
 
             except Exception as exc:
                 print(f"Remotive normalization error: {exc}")
+
+        return jobs
+
+    @staticmethod
+    def normalize_greenhouse(
+        raw_jobs: list[tuple[str, dict]],
+    ) -> list[Job]:
+        """Normalize Greenhouse jobs."""
+
+        jobs: list[Job] = []
+
+        for board, item in raw_jobs:
+            try:
+                location = (item.get("location") or {}).get("name", "")
+
+                first_published = item.get("first_published")
+
+                if isinstance(first_published, (int, float)):
+                    published = datetime.fromtimestamp(
+                        first_published,
+                        tz=UTC,
+                    )
+                else:
+                    published = _make_aware(
+                        parser.parse(str(first_published))
+                    )
+
+                jobs.append(
+                    Job(
+                        id=f"greenhouse-{item.get('internal_job_id')}",
+                        title=item.get("title", "").strip(),
+                        company=(
+                            item.get("company_name")
+                            or board.capitalize()
+                        ),
+                        location=location.strip(),
+                        job_type="Full Time",
+                        url=item.get("absolute_url", ""),
+                        source="Greenhouse",
+                        published_at=published,
+                        remote="remote" in location.lower(),
+                    )
+                )
+
+            except Exception as exc:
+                print(f"Greenhouse normalization error: {exc}")
+
+        return jobs
+
+    @staticmethod
+    def normalize_ashby(raw_jobs: list[tuple[str, dict]]) -> list[Job]:
+        """Normalize Ashby jobs."""
+
+        jobs: list[Job] = []
+
+        for board, item in raw_jobs:
+            try:
+                published = parser.parse(item.get("publishedAt"))
+
+                location = (
+                    "Remote"
+                    if item.get("isRemote")
+                    else item.get("location", "")
+                )
+
+                jobs.append(
+                    Job(
+                        id=f"ashby-{item.get('id')}",
+                        title=item.get("title", "").strip(),
+                        company=(
+                            item.get("company")
+                            or ASHBY_BOARD_NAMES.get(
+                                board,
+                                board.capitalize(),
+                            )
+                        ),
+                        location=str(location or "").strip(),
+                        job_type=", ".join(
+                            filter(
+                                None,
+                                [
+                                    item.get("employmentType", ""),
+                                    item.get("department", ""),
+                                ],
+                            )
+                        ),
+                        url=item.get("jobUrl", ""),
+                        source="Ashby",
+                        published_at=_make_aware(published),
+                        remote=bool(item.get("isRemote")),
+                    )
+                )
+
+            except Exception as exc:
+                print(f"Ashby normalization error: {exc}")
+
+        return jobs
+
+    @staticmethod
+    def normalize_wwr(raw_jobs: list[dict]) -> list[Job]:
+        """Normalize We Work Remotely RSS jobs."""
+
+        jobs: list[Job] = []
+
+        for index, item in enumerate(raw_jobs):
+            try:
+                title = item.get("title", "")
+
+                company, _, rest = title.partition(":")
+
+                if rest.strip():
+                    company, title = company.strip(), rest.strip()
+
+                jobs.append(
+                    Job(
+                        id=f"wwr-{hashlib.md5(item.get('link', '').encode()).hexdigest()[:12]}",
+                        title=title,
+                        company=company,
+                        location=item.get("region", ""),
+                        job_type=item.get("category", ""),
+                        url=item.get("link", ""),
+                        source="WeWorkRemotely",
+                        published_at=_make_aware(
+                            parser.parse(item.get("pubDate"))
+                        ),
+                        remote=True,
+                    )
+                )
+
+            except Exception as exc:
+                print(f"We Work Remotely normalization error: {exc}")
 
         return jobs

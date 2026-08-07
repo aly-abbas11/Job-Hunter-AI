@@ -14,6 +14,14 @@ ARBEITNOW_API = "https://www.arbeitnow.com/api/job-board-api"
 
 REMOTIVE_API = "https://remotive.com/api/remote-jobs"
 
+GREENHOUSE_API = "https://boards-api.greenhouse.io/v1/boards/{company}/jobs"
+
+ASHBY_API = "https://api.ashbyhq.com/posting-api/job-board/{company}"
+
+WW_REMOTELY_RSS = (
+    "https://weworkremotely.com/categories/remote-programming-jobs.rss"
+)
+
 # ==========================================================
 # Filtering Configuration
 # ==========================================================
@@ -24,7 +32,42 @@ SUPPORTED_SOURCES = (
     "RemoteOK",
     "Arbeitnow",
     "Remotive",
+    "Greenhouse",
+    "Ashby",
+    "WeWorkRemotely",
 )
+
+GREENHOUSE_BOARDS = (
+    "airbnb",
+    "stripe",
+    "gitlab",
+    "reddit",
+    "pinterest",
+    "cloudflare",
+    "coinbase",
+    "roblox",
+    "dropbox",
+    "instacart",
+    "datadog",
+)
+
+ASHBY_BOARDS = (
+    "openai",
+    "ramp",
+    "linear",
+    "supabase",
+    "resend",
+    "warp",
+)
+
+ASHBY_BOARD_NAMES = {
+    "openai": "OpenAI",
+    "ramp": "Ramp",
+    "linear": "Linear",
+    "supabase": "Supabase",
+    "resend": "Resend",
+    "warp": "Warp",
+}
 
 # ==========================================================
 # Tech Keywords

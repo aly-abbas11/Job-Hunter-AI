@@ -41,6 +41,9 @@ The repository is automatically updated every 3 hours.
 - RemoteOK
 - Arbeitnow
 - Remotive
+- Greenhouse (Airbnb, Stripe, GitLab, Reddit, Pinterest, Cloudflare, Coinbase, Roblox, Dropbox, Instacart, Datadog)
+- Ashby (OpenAI, Ramp, Linear, Supabase, Resend, Warp)
+- We Work Remotely
 
 ---
 

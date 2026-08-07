@@ -3,8 +3,11 @@ Main entry point for Job Hunter AI.
 """
 
 from job_hunter_ai.clients.arbeitnow import ArbeitnowClient
+from job_hunter_ai.clients.ashby import AshbyClient
+from job_hunter_ai.clients.greenhouse import GreenhouseClient
 from job_hunter_ai.clients.remoteok import RemoteOKClient
 from job_hunter_ai.clients.remotive import RemotiveClient
+from job_hunter_ai.clients.wwr import WeWorkRemotelyClient
 from job_hunter_ai.core.logger import get_logger
 from job_hunter_ai.services.diffing import JobDiff
 from job_hunter_ai.services.filtering import JobFilter
@@ -16,9 +19,7 @@ logger = get_logger(__name__)
 
 
 def print_summary(
-    remote_count: int,
-    arbeit_count: int,
-    remotiv_count: int,
+    fetched: dict[str, int],
     normalized_count: int,
     filtered_jobs: list,
     previous_jobs: list,
@@ -33,9 +34,10 @@ def print_summary(
     pakistan_jobs = sum(JobFilter.is_pakistan(job) for job in filtered_jobs)
 
     logger.info("=" * 70)
-    logger.info("RemoteOK fetched      : %d", remote_count)
-    logger.info("Arbeitnow fetched     : %d", arbeit_count)
-    logger.info("Remotive fetched      : %d", remotiv_count)
+
+    for source, count in fetched.items():
+        logger.info("%-22s : %d", f"{source} fetched", count)
+
     logger.info("Total normalized      : %d", normalized_count)
     logger.info("Valid tech jobs       : %d", len(filtered_jobs))
     logger.info("")
@@ -84,18 +86,34 @@ def main() -> None:
     remote_client = RemoteOKClient()
     arbeit_client = ArbeitnowClient()
     remotiv_client = RemotiveClient()
+    greenhouse_client = GreenhouseClient()
+    ashby_client = AshbyClient()
+    wwr_client = WeWorkRemotelyClient()
 
     # Fetch
     remote_raw = remote_client.fetch_jobs()
     arbeit_raw = arbeit_client.fetch_jobs()
     remotiv_raw = remotiv_client.fetch_jobs()
+    greenhouse_raw = greenhouse_client.fetch_jobs()
+    ashby_raw = ashby_client.fetch_jobs()
+    wwr_raw = wwr_client.fetch_jobs()
 
     # Normalize
     remote_jobs = JobNormalizer.normalize_remoteok(remote_raw)
     arbeit_jobs = JobNormalizer.normalize_arbeitnow(arbeit_raw)
     remotiv_jobs = JobNormalizer.normalize_remotive(remotiv_raw)
+    greenhouse_jobs = JobNormalizer.normalize_greenhouse(greenhouse_raw)
+    ashby_jobs = JobNormalizer.normalize_ashby(ashby_raw)
+    wwr_jobs = JobNormalizer.normalize_wwr(wwr_raw)
 
-    all_jobs = remote_jobs + arbeit_jobs + remotiv_jobs
+    all_jobs = (
+        remote_jobs
+        + arbeit_jobs
+        + remotiv_jobs
+        + greenhouse_jobs
+        + ashby_jobs
+        + wwr_jobs
+    )
 
     # Filter
     filtered_jobs = JobFilter.filter_jobs(all_jobs)
@@ -125,15 +143,20 @@ def main() -> None:
 
     # Print statistics
     print_summary(
-        len(remote_raw),
-        len(arbeit_raw),
-        len(remotiv_raw),
-        len(all_jobs),
-        filtered_jobs,
-        previous_jobs,
-        new_jobs,
-        removed_jobs,
-        unchanged_jobs,
+        fetched={
+            "RemoteOK": len(remote_raw),
+            "Arbeitnow": len(arbeit_raw),
+            "Remotive": len(remotiv_raw),
+            "Greenhouse": len(greenhouse_raw),
+            "Ashby": len(ashby_raw),
+            "WeWorkRemotely": len(wwr_raw),
+        },
+        normalized_count=len(all_jobs),
+        filtered_jobs=filtered_jobs,
+        previous_jobs=previous_jobs,
+        new_jobs=new_jobs,
+        removed_jobs=removed_jobs,
+        unchanged_jobs=unchanged_jobs,
     )
 
     # Print best job

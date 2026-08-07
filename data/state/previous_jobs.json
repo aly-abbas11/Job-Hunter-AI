@@ -1,49 +1,5 @@
 [
     {
-        "id": "arbeitnow-praktikantin-projekt-produktmanagement-fokus-ai-berlin-250431",
-        "title": "Praktikant:in Projekt- & Produktmanagement - Fokus AI (m/w/d)",
-        "company": "brandung GmbH",
-        "location": "Berlin",
-        "job_type": "Internship, hilfstätigkeit / student",
-        "url": "https://www.arbeitnow.com/jobs/companies/brandung-gmbh/praktikantin-projekt-produktmanagement-fokus-ai-berlin-250431",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T15:32:19+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-fullstack-engineer-ai-platform-146875",
-        "title": "Senior Fullstack Engineer- AI Platform",
-        "company": "SoSafe",
-        "location": "United Kingdom Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-senior-fullstack-engineer-ai-platform-146875",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:40:22+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-junior-machine-learning-engineer-london-253739",
-        "title": "Junior  Machine Learning Engineer",
-        "company": "Recraft",
-        "location": "London, UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/recraft/junior-machine-learning-engineer-london-253739",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:40:08+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-ai-engineer-266803",
-        "title": "AI Engineer",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-ai-engineer-266803",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T18:40:22+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-researcher-scientist-ai-trainer-freelance-8-20-hrs-week-remote-berlin-355558",
         "title": "Researcher/Scientist - AI Trainer - Freelance - 8-20 hrs/week - Remote",
         "company": "10Xteam",
@@ -176,28 +132,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-junior-flutter-mobile-developer-join-our-award-winning-team-munich-43409",
-        "title": "Junior Flutter Mobile Developer (f/m/d) - Join our Award-Winning team",
-        "company": "bd operations GmbH",
-        "location": "Munich",
-        "job_type": "professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/bd-operations-gmbh/junior-flutter-mobile-developer-join-our-award-winning-team-munich-43409",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T14:30:40+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-junior-software-consultant-nurnberg-339206",
-        "title": "(Junior) Software Consultant (m/w/d)",
-        "company": "Solvares",
-        "location": "Nürnberg",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/solvares/junior-software-consultant-nurnberg-339206",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T14:09:29+00:00",
-        "remote": false
-    },
-    {
         "id": "remoteok-1136270",
         "title": "The quest build a better AI tutor",
         "company": "Cameron Newspapers | Citizen Observer &amp; Cameron Shopper",
@@ -231,28 +165,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-data-and-analytics-intern-manchester-414063",
-        "title": "Data and Analytics Intern",
-        "company": "Inizio",
-        "location": "Manchester",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/inizio/data-and-analytics-intern-manchester-414063",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:55:14+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-full-stack-frontend-engineer-169326",
-        "title": "Full Stack Frontend Engineer",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-full-stack-frontend-engineer-169326",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:40:09+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-senior-frontend-engineer-all-genders-86950",
         "title": "(Senior) Frontend Engineer (all genders)",
         "company": "Envelio",
@@ -261,17 +173,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/envelio/remote-senior-frontend-engineer-all-genders-86950",
         "source": "Arbeitnow",
         "published_at": "2026-08-06T17:09:11+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-backend-entwickler-agents-100-remote-worms-250222",
-        "title": "Senior Backend-Entwickler – Agents (100% Remote)",
-        "company": "Powerprozesse",
-        "location": "Worms",
-        "job_type": "Full-time permanent, experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/powerprozesse/senior-backend-entwickler-agents-100-remote-worms-250222",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T15:20:14+00:00",
         "remote": false
     },
     {
@@ -286,58 +187,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-fullstack-software-engineer-ai-native-development-garbsen-osnabruck-berlin-14861",
-        "title": "Fullstack Software Engineer (M/W/D) – AI-Native Development",
-        "company": "INSIDE M2M GmbH",
-        "location": "Garbsen, Osnabrück, Berlin, Berlin, Deutschland",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/inside-m2m-gmbh/fullstack-software-engineer-ai-native-development-garbsen-osnabruck-berlin-14861",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T14:30:22+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-founding-forward-deployed-ml-engineer-105660",
-        "title": "Founding Forward-Deployed ML Engineer",
-        "company": "Clera",
-        "location": "remote",
+        "id": "arbeitnow-remote-forward-deployed-engineer-emea-129474",
+        "title": "Forward Deployed Engineer - EMEA",
+        "company": "Redpanda Data",
+        "location": "UK - Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-forward-deployed-ml-engineer-105660",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/redpanda-data/remote-forward-deployed-engineer-emea-129474",
         "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:40:09+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-geospatial-machine-learning-engineer-113270",
-        "title": "Senior Geospatial Machine Learning Engineer",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-senior-geospatial-machine-learning-engineer-113270",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:40:09+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-founding-product-engineer-196759",
-        "title": "Founding Product Engineer",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-product-engineer-196759",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:40:09+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-site-reliability-engineer-255439",
-        "title": "Senior Site Reliability Engineer",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-senior-site-reliability-engineer-255439",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:40:09+00:00",
+        "published_at": "2026-08-07T00:40:19+00:00",
         "remote": false
     },
     {
@@ -349,72 +206,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/secfix/senior-information-security-specialist-berlin-298456",
         "source": "Arbeitnow",
         "published_at": "2026-08-06T20:40:14+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-data-scientist-agent-evaluations-quality-298047",
-        "title": "Data Scientist — Agent Evaluations & Quality",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-data-scientist-agent-evaluations-quality-298047",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T18:40:22+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-full-stack-engineer-277955",
-        "title": "Full Stack Engineer",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-full-stack-engineer-277955",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T18:40:22+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-pre-sales-deployed-engineer-218767",
-        "title": "Pre-Sales Deployed Engineer",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-pre-sales-deployed-engineer-218767",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T18:40:22+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-ml-engineer-robotics-351960",
-        "title": "ML Engineer - Robotics",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-ml-engineer-robotics-351960",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T18:40:22+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-founding-machine-learning-engineer-270447",
-        "title": "Founding Machine Learning Engineer",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-machine-learning-engineer-270447",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T18:40:22+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-founding-full-stack-ios-engineer-149925",
-        "title": "Founding Full-Stack iOS Engineer",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-full-stack-ios-engineer-149925",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T18:40:22+00:00",
         "remote": false
     },
     {
@@ -517,17 +308,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-software-engineer-ai-governance-united-kingdom-490614",
-        "title": "Software Engineer (AI Governance)",
-        "company": "Coder",
-        "location": "United Kingdom",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/software-engineer-ai-governance-united-kingdom-490614",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:40:13+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-working-student-information-security-access-management-berlin-berlin-464474",
         "title": "Working Student Information Security & Access Management (m/f/d)",
         "company": "Raisin",
@@ -550,17 +330,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-manager-ai-deployment-engineering-large-enterprise-london-394639",
-        "title": "Manager, AI Deployment Engineering - Large Enterprise",
-        "company": "Openai",
-        "location": "London, UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/openai/manager-ai-deployment-engineering-large-enterprise-london-394639",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T18:40:27+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-lead-ai-engineer-berlin-18369",
         "title": "Lead AI Engineer",
         "company": "All Your BI",
@@ -572,36 +341,25 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-fullstack-engineer-adtech-london-107382",
-        "title": "FullStack Engineer, AdTech",
-        "company": "Wolt - English",
-        "location": "London, England, United Kingdom",
+        "id": "arbeitnow-staff-software-engineer-backend-oxfordshire-265723",
+        "title": "Staff Software Engineer - Backend",
+        "company": "84674Th44Metrea9999",
+        "location": "Oxfordshire",
         "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt-english/fullstack-engineer-adtech-london-107382",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/84674th44metrea9999/staff-software-engineer-backend-oxfordshire-265723",
         "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:45:23+00:00",
+        "published_at": "2026-08-07T00:55:03+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-senior-fullstack-engineer-london-386484",
-        "title": "Senior Fullstack Engineer",
-        "company": "Hook",
+        "id": "arbeitnow-staff-software-engineer-backend-london-297434",
+        "title": "Staff Software Engineer - Backend",
+        "company": "84674Th44Metrea9999",
         "location": "London",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/hook/senior-fullstack-engineer-london-386484",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T18:40:23+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-software-engineer-backend-208406",
-        "title": "Software Engineer, Backend",
-        "company": "Sevenroomsuk",
-        "location": "",
         "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sevenroomsuk/software-engineer-backend-208406",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/84674th44metrea9999/staff-software-engineer-backend-london-297434",
         "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:56:13+00:00",
+        "published_at": "2026-08-07T00:55:03+00:00",
         "remote": false
     },
     {
@@ -627,135 +385,146 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-qa-lead-all-genders-munich-8475",
-        "title": "QA Lead (all genders)",
-        "company": "JustPlay GmbH",
-        "location": "Munich (Hybrid)",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/qa-lead-all-genders-munich-8475",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T14:40:24+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-freelance-backend-engineer-kotlin-berlin-422368",
-        "title": "Freelance Backend Engineer - Kotlin (m/f/d)",
-        "company": "Voize",
-        "location": "Berlin",
-        "job_type": "Contract",
-        "url": "https://www.arbeitnow.com/jobs/companies/voize/freelance-backend-engineer-kotlin-berlin-422368",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T14:40:18+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-security-engineer-product-london-466523",
-        "title": "Security Engineer - Product",
-        "company": "Wizinc",
+        "id": "arbeitnow-wordpress-web-developer-at-setsales-london-13223",
+        "title": "Wordpress Web Developer at SetSales",
+        "company": "Setsales",
         "location": "London",
         "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wizinc/security-engineer-product-london-466523",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/setsales/wordpress-web-developer-at-setsales-london-13223",
         "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:55:05+00:00",
+        "published_at": "2026-08-07T00:55:09+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-software-engineer-ios-core-product-cardiff-united-kingdom-445622",
-        "title": "Software Engineer, iOS Core Product - Cardiff, United Kingdom",
-        "company": "Speechify",
-        "location": "Cardiff, Wales, United Kingdom",
+        "id": "arbeitnow-software-engineer-london-11933",
+        "title": "Software Engineer",
+        "company": "84674Th44Metrea9999",
+        "location": "London",
         "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-ios-core-product-cardiff-united-kingdom-445622",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/84674th44metrea9999/software-engineer-london-11933",
         "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:45:36+00:00",
+        "published_at": "2026-08-07T00:55:03+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-software-engineer-ios-core-product-glasgow-united-kingdom-252104",
-        "title": "Software Engineer, iOS Core Product - Glasgow, United Kingdom",
-        "company": "Speechify",
-        "location": "Glasgow, Scotland, United Kingdom",
+        "id": "arbeitnow-senior-devops-engineer-london-355798",
+        "title": "Senior DevOps Engineer",
+        "company": "84674Th44Metrea9999",
+        "location": "London",
         "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-ios-core-product-glasgow-united-kingdom-252104",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/84674th44metrea9999/senior-devops-engineer-london-355798",
         "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:45:36+00:00",
+        "published_at": "2026-08-07T00:55:03+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-senior-software-engineer-core-experiences-glasgow-united-kingdom-185180",
-        "title": "Senior Software Engineer, Core Experiences - Glasgow, United Kingdom",
-        "company": "Speechify",
-        "location": "Glasgow, Scotland, United Kingdom",
+        "id": "arbeitnow-group-product-lead-decision-advantage-software-london-300081",
+        "title": "Group Product Lead - Decision Advantage Software",
+        "company": "84674Th44Metrea9999",
+        "location": "London",
         "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/senior-software-engineer-core-experiences-glasgow-united-kingdom-185180",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/84674th44metrea9999/group-product-lead-decision-advantage-software-london-300081",
         "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:45:35+00:00",
+        "published_at": "2026-08-07T00:55:03+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-senior-software-engineer-core-experiences-manchester-united-kingdom-43395",
-        "title": "Senior Software Engineer, Core Experiences - Manchester, United Kingdom",
+        "id": "arbeitnow-data-scientist-electromagnetic-environment-london-244034",
+        "title": "Data Scientist (Electromagnetic Environment)",
+        "company": "84674Th44Metrea9999",
+        "location": "London",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/84674th44metrea9999/data-scientist-electromagnetic-environment-london-244034",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-07T00:55:03+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-go-to-market-leeds-united-kingdom-219758",
+        "title": "Go-to-Market - Leeds, United Kingdom",
+        "company": "Speechify",
+        "location": "Leeds, England, United Kingdom",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-leeds-united-kingdom-219758",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-07T00:45:28+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-go-to-market-manchester-united-kingdom-159014",
+        "title": "Go-to-Market - Manchester, United Kingdom",
         "company": "Speechify",
         "location": "Manchester, England, United Kingdom",
         "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/senior-software-engineer-core-experiences-manchester-united-kingdom-43395",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-manchester-united-kingdom-159014",
         "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:45:35+00:00",
+        "published_at": "2026-08-07T00:45:28+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-software-engineer-london-167121",
-        "title": "Software Engineer",
+        "id": "arbeitnow-software-engineer-ios-core-product-oxford-united-kingdom-225768",
+        "title": "Software Engineer, iOS Core Product - Oxford, United Kingdom",
+        "company": "Speechify",
+        "location": "Oxford, England, United Kingdom",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-ios-core-product-oxford-united-kingdom-225768",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-07T00:45:28+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-software-engineer-ios-core-product-dusseldorf-germany-dusseldorf-57565",
+        "title": "Software Engineer, iOS Core Product - Düsseldorf, Germany",
+        "company": "Speechify",
+        "location": "Dusseldorf, North Rhine-Westphalia, Germany",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-dusseldorf-germany-dusseldorf-57565",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-06T23:45:28+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-ecosystem-engineer-working-student-munich-334678",
+        "title": "Ecosystem Engineer Working Student",
+        "company": "Tulip Interfaces",
+        "location": "Munich, Bavaria, Germany",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/tulip-interfaces/ecosystem-engineer-working-student-munich-334678",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-06T23:45:26+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-senior-software-engineer-berlin-413146",
+        "title": "Senior Software Engineer",
         "company": "Wolt - English",
-        "location": "London, England, United Kingdom",
+        "location": "Berlin, Berlin, Germany",
         "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt-english/software-engineer-london-167121",
+        "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-software-engineer-berlin-413146",
         "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:45:23+00:00",
+        "published_at": "2026-08-06T23:45:22+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-staff-engineer-london-414876",
-        "title": "Staff Engineer",
-        "company": "Wolt - English",
-        "location": "London, England, United Kingdom",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt-english/staff-engineer-london-414876",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:45:23+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-staff-react-native-engineer-london-hybrid-174700",
-        "title": "Senior/Staff React Native Engineer",
-        "company": "MoonPay",
-        "location": "London - Hybrid",
+        "id": "arbeitnow-senior-product-manager-data-and-api-berlin-221982",
+        "title": "Senior Product Manager, Data and API",
+        "company": "Climatiq",
+        "location": "Berlin",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/senior-staff-react-native-engineer-london-hybrid-174700",
+        "url": "https://www.arbeitnow.com/jobs/companies/climatiq/senior-product-manager-data-and-api-berlin-221982",
         "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:05:10+00:00",
+        "published_at": "2026-08-06T23:40:16+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-senior-staff-data-analyst-london-hybrid-302149",
-        "title": "Senior/Staff Data Analyst",
-        "company": "MoonPay",
-        "location": "London - Hybrid",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/senior-staff-data-analyst-london-hybrid-302149",
+        "id": "arbeitnow-senior-earth-observation-data-supplier-manager-liveeo-gmbh-berlin-office-hybrid-461664",
+        "title": "(Senior) Earth Observation Data Supplier Manager (f/m/x)",
+        "company": "Liveeo Gmbh",
+        "location": "LiveEO GmbH Berlin Office (Hybrid)",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/senior-earth-observation-data-supplier-manager-liveeo-gmbh-berlin-office-hybrid-461664",
         "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:05:10+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-analytics-engineer-crypto-and-payments-london-187907",
-        "title": "Analytics Engineer - Crypto and Payments",
-        "company": "MoonPay",
-        "location": "London",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/analytics-engineer-crypto-and-payments-london-187907",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T21:05:10+00:00",
+        "published_at": "2026-08-06T23:09:42+00:00",
         "remote": false
     },
     {
@@ -767,28 +536,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/wire-1/site-reliability-engineer-berlin-143278",
         "source": "Arbeitnow",
         "published_at": "2026-08-06T20:09:05+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-design-engineer-uk-united-kingdom-460618",
-        "title": "Design Engineer - UK",
-        "company": "Ashby",
-        "location": "United Kingdom",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/ashby/design-engineer-uk-united-kingdom-460618",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T18:40:12+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-finance-data-manager-london-gb-441130",
-        "title": "Finance Data Manager",
-        "company": "Octopus Energy Group jobs",
-        "location": "London (GB)",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group-jobs/finance-data-manager-london-gb-441130",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T18:04:50+00:00",
         "remote": false
     },
     {
@@ -855,94 +602,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/right-search/stv-leiter-it-betrieb-flensburg-139434",
         "source": "Arbeitnow",
         "published_at": "2026-08-06T17:00:36+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-team-lead-it-operations-service-management-hamburg-36522",
-        "title": "Team Lead IT Operations & Service Management (m/w/d)",
-        "company": "Reos GmbH",
-        "location": "Hamburg",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/reos-gmbh/team-lead-it-operations-service-management-hamburg-36522",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T15:32:20+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-full-stack-engineer-hybrid-munich-368635",
-        "title": "Senior Full-Stack Engineer (m/f/x) | hybrid",
-        "company": "fleetster",
-        "location": "Munich",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/fleetster/senior-full-stack-engineer-hybrid-munich-368635",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T15:32:20+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-software-engineer-virtualization-vehicle-os-munchen-271552",
-        "title": "Software Engineer - Virtualization (Vehicle OS)",
-        "company": "Applied",
-        "location": "Munich",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/applied/software-engineer-virtualization-vehicle-os-munchen-271552",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T14:40:29+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-freelance-android-engineer-kotlin-berlin-407056",
-        "title": "Senior Freelance Android Engineer - Kotlin (m/f/d)",
-        "company": "Voize",
-        "location": "Berlin",
-        "job_type": "Contract",
-        "url": "https://www.arbeitnow.com/jobs/companies/voize/senior-freelance-android-engineer-kotlin-berlin-407056",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T14:40:18+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-staff-product-engineer-berlin-452858",
-        "title": "Senior / Staff Product Engineer",
-        "company": "Passionfroot",
-        "location": "Berlin",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/passionfroot/senior-staff-product-engineer-berlin-452858",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T14:40:15+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-flutter-mobile-developer-join-our-award-winning-team-munich-27074",
-        "title": "Flutter Mobile Developer (f/m/d) - Join our Award-Winning team",
-        "company": "bd operations GmbH",
-        "location": "Munich",
-        "job_type": "professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/bd-operations-gmbh/flutter-mobile-developer-join-our-award-winning-team-munich-27074",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T14:30:41+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-hmi-concept-engineer-munchen-373777",
-        "title": "Senior HMI Concept Engineer (m/w/d)",
-        "company": "pmX Group",
-        "location": "München",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/pmx-group/senior-hmi-concept-engineer-munchen-373777",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T14:09:43+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-data-analyst-mit-schwerpunkt-power-bi-databricks-stuttgart-286658",
-        "title": "Data Analyst mit Schwerpunkt Power BI & Databricks (m/w/d)",
-        "company": "pmX Group",
-        "location": "Stuttgart",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/pmx-group/data-analyst-mit-schwerpunkt-power-bi-databricks-stuttgart-286658",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-06T14:09:43+00:00",
         "remote": false
     }
 ]

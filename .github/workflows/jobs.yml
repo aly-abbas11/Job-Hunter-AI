@@ -34,8 +34,8 @@ jobs:
 
       - name: Commit updated files
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "aly-abbas11"
+          git config --global user.email "176041272+aly-abbas11@users.noreply.github.com"
 
           git add .
 

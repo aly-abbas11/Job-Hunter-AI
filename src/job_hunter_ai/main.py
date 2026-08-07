@@ -32,6 +32,9 @@ def print_summary(
     internships = sum(JobFilter.is_internship(job) for job in filtered_jobs)
     remote_jobs = sum(JobFilter.is_remote(job) for job in filtered_jobs)
     pakistan_jobs = sum(JobFilter.is_pakistan(job) for job in filtered_jobs)
+    starter_jobs = sum(
+        JobFilter.is_starter_job(job) for job in filtered_jobs
+    )
 
     logger.info("=" * 70)
 
@@ -39,7 +42,9 @@ def print_summary(
         logger.info("%-22s : %d", f"{source} fetched", count)
 
     logger.info("Total normalized      : %d", normalized_count)
-    logger.info("Valid tech jobs       : %d", len(filtered_jobs))
+    logger.info("Valid tech jobs       : %d",
+                len(filtered_jobs) - starter_jobs)
+    logger.info("Career starter jobs   : %d", starter_jobs)
     logger.info("")
     logger.info("Previous snapshot     : %d", len(previous_jobs))
     logger.info("Current snapshot      : %d", len(filtered_jobs))
@@ -116,7 +121,9 @@ def main() -> None:
     )
 
     # Filter
-    filtered_jobs = JobFilter.filter_jobs(all_jobs)
+    tech_jobs, starter_jobs = JobFilter.split_jobs(all_jobs)
+
+    combined_jobs = tech_jobs + starter_jobs
 
     # Load previous snapshot
     previous_jobs = JobState.load()
@@ -124,17 +131,18 @@ def main() -> None:
     # Compare snapshots
     new_jobs, removed_jobs, unchanged_jobs = JobDiff.compare(
         previous_jobs,
-        filtered_jobs,
+        combined_jobs,
     )
 
     # Save current snapshot
-    JobState.save(filtered_jobs)
+    JobState.save(combined_jobs)
 
     logger.info("Current snapshot saved.")
 
     # Generate README.md
     ReadmeGenerator.generate(
-        jobs=filtered_jobs,
+        jobs=tech_jobs,
+        starter_jobs=starter_jobs,
         new_jobs=len(new_jobs),
         removed_jobs=len(removed_jobs),
     )
@@ -152,7 +160,7 @@ def main() -> None:
             "WeWorkRemotely": len(wwr_raw),
         },
         normalized_count=len(all_jobs),
-        filtered_jobs=filtered_jobs,
+        filtered_jobs=combined_jobs,
         previous_jobs=previous_jobs,
         new_jobs=new_jobs,
         removed_jobs=removed_jobs,
@@ -160,7 +168,7 @@ def main() -> None:
     )
 
     # Print best job
-    print_top_job(filtered_jobs)
+    print_top_job(tech_jobs + starter_jobs)
 
 
 if __name__ == "__main__":

@@ -19,7 +19,10 @@ GREENHOUSE_API = "https://boards-api.greenhouse.io/v1/boards/{company}/jobs"
 ASHBY_API = "https://api.ashbyhq.com/posting-api/job-board/{company}"
 
 WW_REMOTELY_RSS = (
-    "https://weworkremotely.com/categories/remote-programming-jobs.rss"
+    "https://weworkremotely.com/categories/remote-programming-jobs.rss",
+    "https://weworkremotely.com/categories/remote-design-jobs.rss",
+    "https://weworkremotely.com/categories/remote-customer-support-jobs.rss",
+    "https://weworkremotely.com/categories/remote-copywriting-jobs.rss",
 )
 
 # ==========================================================
@@ -186,6 +189,53 @@ REMOTE_KEYWORDS = {
     "distributed",
     "work from home",
     "wfh",
+}
+
+# ==========================================================
+# Career Starter Keywords
+# ==========================================================
+# Entry-level friendly roles: admin, virtual assistance,
+# graphics/design, writing, customer support. Data entry and
+# transcription are intentionally excluded (scam magnets).
+
+STARTER_KEYWORDS = {
+    "admin",
+    "administrative",
+    "assistant",
+    "virtual assistant",
+    "support",
+    "customer service",
+    "customer support",
+    "helpdesk",
+    "receptionist",
+    "scheduler",
+    "office manager",
+    "executive assistant",
+    "designer",
+    "graphic design",
+    "graphic designer",
+    "product designer",
+    "ui designer",
+    "ux designer",
+    "web designer",
+    "visual designer",
+    "brand designer",
+    "creative designer",
+    "ui",
+    "ux",
+    "illustrator",
+    "photoshop",
+    "figma",
+    "copywriter",
+    "copywriting",
+    "content writer",
+    "content creator",
+    "social media",
+    "writer",
+    "writing",
+    "editor",
+    "proofreader",
+    "blogger",
 }
 
 # ==========================================================

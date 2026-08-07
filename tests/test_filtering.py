@@ -155,3 +155,60 @@ def test_filter_pipeline_rejects_non_remote():
     filtered = JobFilter.filter_jobs(jobs)
 
     assert filtered == []
+
+
+def test_starter_job_detection():
+    job = make_job(
+        title="Virtual Assistant",
+        location="Remote",
+        remote=True,
+    )
+
+    assert JobFilter.is_starter_job(job)
+
+
+def test_starter_job_detection_design():
+    job = make_job(
+        title="Graphic Designer",
+        location="Remote",
+        remote=True,
+    )
+
+    assert JobFilter.is_starter_job(job)
+
+
+def test_tech_job_not_starter():
+    job = make_job(
+        title="Senior Backend Engineer",
+        location="Remote",
+        remote=True,
+    )
+
+    assert not JobFilter.is_starter_job(job)
+
+
+def test_split_jobs_returns_starter_and_tech():
+    jobs = [
+        make_job(
+            title="Python Developer",
+            location="Remote",
+            remote=True,
+        ),
+        make_job(
+            title="Virtual Assistant",
+            location="Remote",
+            remote=True,
+        ),
+        make_job(
+            title="Restaurant Chef",
+            location="Remote",
+            remote=True,
+        ),
+    ]
+
+    tech, starter = JobFilter.split_jobs(jobs)
+
+    assert len(tech) == 1
+    assert tech[0].title == "Python Developer"
+    assert len(starter) == 1
+    assert starter[0].title == "Virtual Assistant"

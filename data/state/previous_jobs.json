@@ -251,5 +251,93 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-07T06:30:41+00:00",
         "remote": true
+    },
+    {
+        "id": "ashby-73fdf2c0-4318-4b13-addc-b66bc1308ba4",
+        "title": "Product Designer, Engineering Acceleration",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Product Design",
+        "url": "https://jobs.ashbyhq.com/openai/73fdf2c0-4318-4b13-addc-b66bc1308ba4",
+        "source": "Ashby",
+        "published_at": "2026-08-06T17:39:11.107000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-3813977e-5940-456d-bf5a-16efcdc3a6dc",
+        "title": "Product Designer, Payments",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Product Design",
+        "url": "https://jobs.ashbyhq.com/openai/3813977e-5940-456d-bf5a-16efcdc3a6dc",
+        "source": "Ashby",
+        "published_at": "2026-08-06T17:31:18.776000+00:00",
+        "remote": true
+    },
+    {
+        "id": "wwr-f2d573c4f155",
+        "title": "Brand & Creative Designer (Freelance, 100% Remote)",
+        "company": "Kazaar Fragrances",
+        "location": "Anywhere in the World",
+        "job_type": "Design",
+        "url": "https://weworkremotely.com/remote-jobs/kazaar-fragrances-brand-creative-designer-freelance-100-remote",
+        "source": "WeWorkRemotely",
+        "published_at": "2026-08-07T09:59:18+00:00",
+        "remote": true
+    },
+    {
+        "id": "wwr-8a2494710001",
+        "title": "Associate Observability Architect | EST | Remote",
+        "company": "Grafana Labs",
+        "location": "Anywhere in the World",
+        "job_type": "Customer Support",
+        "url": "https://weworkremotely.com/remote-jobs/grafana-labs-associate-observability-architect-est-remote",
+        "source": "WeWorkRemotely",
+        "published_at": "2026-08-07T07:31:06+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-5b9997fd-7507-4437-8fd7-14178c99ab5d",
+        "title": "Production Designer",
+        "company": "Linear",
+        "location": "Remote",
+        "job_type": "FullTime, GTM",
+        "url": "https://jobs.ashbyhq.com/linear/5b9997fd-7507-4437-8fd7-14178c99ab5d",
+        "source": "Ashby",
+        "published_at": "2026-08-06T19:59:06.175000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-freelance-textile-graphic-designer-socks-caps-berlin-161872",
+        "title": "Freelance Textile Graphic Designer (Socks & Caps)",
+        "company": "No Bad Days Club (NBDC)",
+        "location": "Berlin",
+        "job_type": "Freelance, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/no-bad-days-club-nbdc/freelance-textile-graphic-designer-socks-caps-berlin-161872",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-07T08:30:36+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-werkstudent-founders-associate-social-media-recruiting-munich-139416",
+        "title": "Werkstudent Founders Associate - Social Media & Recruiting (w/m/d)",
+        "company": "Kintscher GbR",
+        "location": "Munich",
+        "job_type": "Working student",
+        "url": "https://www.arbeitnow.com/jobs/companies/kintscher-gbr/werkstudent-founders-associate-social-media-recruiting-munich-139416",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-07T08:30:35+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-werkstudent-social-media-marketing-recruiting-munich-136590",
+        "title": "Werkstudent Social Media Marketing & Recruiting (w/m/d)",
+        "company": "Kintscher GbR",
+        "location": "Munich",
+        "job_type": "Working student, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/kintscher-gbr/werkstudent-social-media-marketing-recruiting-munich-136590",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-07T08:30:32+00:00",
+        "remote": true
     }
 ]

@@ -24,30 +24,36 @@ class ReadmeGenerator:
     def generate(
         cls,
         jobs: list[Job],
+        starter_jobs: list[Job],
         new_jobs: int,
         removed_jobs: int,
     ) -> None:
 
         template = TEMPLATE_PATH.read_text(encoding="utf-8")
 
-        remote_jobs = sum(job.remote for job in jobs)
+        all_jobs = jobs + starter_jobs
+
+        remote_jobs = sum(job.remote for job in all_jobs)
         internships = sum(
             JobFilter.is_internship(job)
-            for job in jobs
+            for job in all_jobs
         )
 
         table = cls.build_job_table(jobs)
+        starter_table = cls.build_job_table(starter_jobs)
 
         replacements = {
             "{{LAST_UPDATED}}": datetime.utcnow().strftime(
                 README_DATE_FORMAT
             ),
-            "{{TOTAL_JOBS}}": str(len(jobs)),
+            "{{TOTAL_JOBS}}": str(len(all_jobs)),
             "{{NEW_JOBS}}": str(new_jobs),
             "{{REMOVED_JOBS}}": str(removed_jobs),
             "{{REMOTE_JOBS}}": str(remote_jobs),
             "{{INTERNSHIPS}}": str(internships),
+            "{{STARTER_JOBS}}": str(len(starter_jobs)),
             "{{JOB_TABLE}}": table,
+            "{{STARTER_TABLE}}": starter_table,
         }
 
         for key, value in replacements.items():

@@ -25,6 +25,7 @@ The repository is automatically updated every 3 hours.
 | Removed Jobs | {{REMOVED_JOBS}} |
 | Remote Jobs | {{REMOTE_JOBS}} |
 | Internships | {{INTERNSHIPS}} |
+| Career Starter | {{STARTER_JOBS}} |
 
 ---
 
@@ -33,6 +34,16 @@ The repository is automatically updated every 3 hours.
 | Company | Position | Location | Source | Apply |
 |----------|----------|----------|--------|-------|
 {{JOB_TABLE}}
+
+---
+
+## Career Starter Opportunities
+
+> Admin, virtual assistant, graphics/design, writing and customer support roles — accessible for juniors and beginners.
+
+| Company | Position | Location | Source | Apply |
+|----------|----------|----------|--------|-------|
+{{STARTER_TABLE}}
 
 ---
 

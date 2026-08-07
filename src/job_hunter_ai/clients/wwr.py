@@ -29,47 +29,49 @@ class WeWorkRemotelyClient:
 
     def fetch_jobs(self) -> list[dict]:
         """
-        Fetch jobs from the We Work Remotely programming feed.
+        Fetch jobs from the We Work Remotely category feeds.
         """
 
-        logger.info("Fetching jobs from We Work Remotely...")
+        jobs: list[dict] = []
 
-        try:
-            response = self.session.get(
-                WW_REMOTELY_RSS,
-                timeout=settings.request_timeout,
-            )
+        for feed in WW_REMOTELY_RSS:
+            logger.info("Fetching We Work Remotely feed %s...", feed)
 
-            response.raise_for_status()
+            try:
+                response = self.session.get(
+                    feed,
+                    timeout=settings.request_timeout,
+                )
 
-            root = ET.fromstring(response.content)
+                response.raise_for_status()
 
-            items = root.findall(".//item")
+                root = ET.fromstring(response.content)
 
-            jobs = []
+                for item in root.findall(".//item"):
+                    job = {}
 
-            for item in items:
-                job = {}
+                    for field in ("title", "link", "pubDate"):
+                        node = item.find(field)
 
-                for field in ("title", "link", "pubDate"):
-                    node = item.find(field)
+                        if node is not None and node.text:
+                            job[field] = node.text.strip()
 
-                    if node is not None and node.text:
-                        job[field] = node.text.strip()
+                    for field in ("region", "category"):
+                        node = item.find(field)
 
-                for field in ("region", "category"):
-                    node = item.find(field)
+                        if node is not None and node.text:
+                            job[field] = node.text.strip()
 
-                    if node is not None and node.text:
-                        job[field] = node.text.strip()
+                    if job.get("link"):
+                        jobs.append(job)
 
-                if job.get("link"):
-                    jobs.append(job)
+            except (requests.RequestException, ET.ParseError) as exc:
+                logger.error(
+                    "We Work Remotely feed %s failed: %s",
+                    feed,
+                    exc,
+                )
 
-            logger.info("Fetched %s jobs from We Work Remotely.", len(jobs))
+        logger.info("Fetched %s jobs from We Work Remotely.", len(jobs))
 
-            return jobs
-
-        except (requests.RequestException, ET.ParseError) as exc:
-            logger.error("We Work Remotely request failed: %s", exc)
-            return []
+        return jobs

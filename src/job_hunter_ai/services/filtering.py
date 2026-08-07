@@ -12,6 +12,7 @@ from job_hunter_ai.core.constants import (
     MAX_JOB_AGE_HOURS,
     PAKISTAN_CITIES,
     REMOTE_KEYWORDS,
+    STARTER_KEYWORDS,
     TECH_KEYWORDS,
 )
 from job_hunter_ai.models.job import Job
@@ -97,6 +98,36 @@ class JobFilter:
         return any(word in searchable for word in REMOTE_KEYWORDS)
 
     @classmethod
+    def is_starter_job(cls, job: Job) -> bool:
+        """
+        Detect career starter roles: admin, virtual assistant,
+        graphics/design, writing, customer support.
+        """
+
+        searchable = (
+            f"{job.title} {job.job_type}"
+        ).lower()
+
+        words = set(
+            searchable.replace("/", " ")
+            .replace("-", " ")
+            .split()
+        )
+
+        for keyword in STARTER_KEYWORDS:
+
+            keyword = keyword.lower()
+
+            if " " in keyword:
+                if keyword in searchable:
+                    return True
+            else:
+                if keyword in words:
+                    return True
+
+        return False
+
+    @classmethod
     def is_pakistan(cls, job: Job) -> bool:
         """
         Detect Pakistan-based jobs.
@@ -158,9 +189,9 @@ class JobFilter:
         return list(unique.values())
 
     @classmethod
-    def filter_jobs(cls, jobs: list[Job]) -> list[Job]:
+    def _filter_base(cls, jobs: list[Job]) -> list[Job]:
         """
-        Complete filtering pipeline.
+        Shared pipeline: valid, recent and remote jobs, deduplicated.
         """
 
         filtered: list[Job] = []
@@ -173,17 +204,34 @@ class JobFilter:
             if not cls.is_recent(job):
                 continue
 
-            if not cls.is_tech_job(job):
-                continue
-
             if not cls.is_remote(job):
                 continue
 
             filtered.append(job)
 
-        filtered = cls.deduplicate(filtered)
+        return cls.deduplicate(filtered)
 
-        filtered.sort(
+    @classmethod
+    def split_jobs(cls, jobs: list[Job]) -> tuple[list[Job], list[Job]]:
+        """
+        Split filtered jobs into tech and career-starter lists.
+
+        Career starter roles (admin, design, writing, support) take
+        priority; tech jobs are what remains. Returns (tech, starter).
+        """
+
+        base = cls._filter_base(jobs)
+
+        starter = [job for job in base if cls.is_starter_job(job)]
+        starter_ids = {job.id for job in starter}
+
+        tech = [
+            job
+            for job in base
+            if job.id not in starter_ids and cls.is_tech_job(job)
+        ]
+
+        starter.sort(
             key=lambda job: (
                 cls.score(job),
                 job.published_at,
@@ -191,4 +239,22 @@ class JobFilter:
             reverse=True,
         )
 
-        return filtered
+        tech.sort(
+            key=lambda job: (
+                cls.score(job),
+                job.published_at,
+            ),
+            reverse=True,
+        )
+
+        return tech, starter
+
+    @classmethod
+    def filter_jobs(cls, jobs: list[Job]) -> list[Job]:
+        """
+        Complete filtering pipeline for tech jobs.
+        """
+
+        tech, _ = cls.split_jobs(jobs)
+
+        return tech

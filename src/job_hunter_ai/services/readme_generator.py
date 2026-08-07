@@ -66,24 +66,41 @@ class ReadmeGenerator:
 
     @staticmethod
     def _escape(value: str) -> str:
-        """Escape markdown table characters."""
+        """Escape HTML characters in table cells."""
 
-        return str(value).replace("|", "\\|").replace("\n", " ")
+        return (
+            str(value)
+            .replace("&", "&amp;")
+            .replace("<", "&lt;")
+            .replace(">", "&gt;")
+            .replace("\n", " ")
+            .strip()
+        )
 
     @staticmethod
     def build_job_table(jobs: list[Job]) -> str:
-        """Generate markdown job table."""
+        """Generate an HTML job table with the black/gold theme."""
 
         rows = []
 
         for job in jobs[:MAX_README_JOBS]:
             rows.append(
-                "| "
-                f"{ReadmeGenerator._escape(job.company)} | "
-                f"{ReadmeGenerator._escape(job.title)} | "
-                f"{ReadmeGenerator._escape(job.location)} | "
-                f"{ReadmeGenerator._escape(job.source)} | "
-                f"[Apply]({job.url}) |"
+                f"""<tr>
+      <td style="background-color:#0A0A0A;border:1px solid #2A2A2A;padding:8px 12px;color:#FFFFFF;">{ReadmeGenerator._escape(job.company)}</td>
+      <td style="background-color:#0A0A0A;border:1px solid #2A2A2A;padding:8px 12px;color:#FFD700;">{ReadmeGenerator._escape(job.title)}</td>
+      <td style="background-color:#0A0A0A;border:1px solid #2A2A2A;padding:8px 12px;color:#D9D9D9;">{ReadmeGenerator._escape(job.location)}</td>
+      <td style="background-color:#0A0A0A;border:1px solid #2A2A2A;padding:8px 12px;color:#F5A623;">{ReadmeGenerator._escape(job.source)}</td>
+      <td style="background-color:#0A0A0A;border:1px solid #2A2A2A;padding:8px 12px;text-align:center;"><a href="{ReadmeGenerator._escape(job.url)}" style="color:#050505;background-color:#FFD700;text-decoration:none;font-weight:bold;padding:4px 14px;border-radius:4px;">APPLY</a></td>
+    </tr>"""
             )
 
-        return "\n".join(rows)
+        header = """<table align="center" style="border-collapse:collapse;max-width:980px;width:100%;">
+  <tr>
+    <th style="background-color:#FFD700;border:1px solid #FFD700;padding:8px 12px;color:#050505;">Company</th>
+    <th style="background-color:#FFD700;border:1px solid #FFD700;padding:8px 12px;color:#050505;">Position</th>
+    <th style="background-color:#FFD700;border:1px solid #FFD700;padding:8px 12px;color:#050505;">Location</th>
+    <th style="background-color:#FFD700;border:1px solid #FFD700;padding:8px 12px;color:#050505;">Source</th>
+    <th style="background-color:#FFD700;border:1px solid #FFD700;padding:8px 12px;color:#050505;">Apply</th>
+  </tr>"""
+
+        return header + "\n".join(rows) + "\n</table>"

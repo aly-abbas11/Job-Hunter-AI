@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-remote-senior-backend-engineer-ruby-ai-engineering-dap-repository-flows-58849",
+        "title": "Senior Backend Engineer (Ruby), AI Engineering: DAP Repository Flows",
+        "company": "Gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-ruby-ai-engineering-dap-repository-flows-58849",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-08T09:55:07+00:00",
+        "remote": false
+    },
+    {
         "id": "greenhouse-6453135002",
         "title": "Staff Backend Engineer (Ruby), AI Engineering: DAP Repository Flows",
         "company": "GitLab",
@@ -66,17 +77,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-solutions-engineer-emea-238236",
-        "title": "Solutions Engineer - EMEA",
-        "company": "Redpanda Data",
-        "location": "UK - Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/redpanda-data/remote-solutions-engineer-emea-238236",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-07T21:40:18+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3514972",
         "title": "Staff Software Engineer (Platform - Access & Authorization)",
         "company": "Coinbase",
@@ -110,17 +110,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-forward-deployed-engineer-3110",
-        "title": "Forward Deployed Engineer",
-        "company": "Hexa",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/hexa/remote-forward-deployed-engineer-3110",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-07T17:40:19+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3449661",
         "title": "Senior Software Engineer - Core Experience, Growth",
         "company": "Instacart",
@@ -152,17 +141,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-08T02:20:21+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-technical-support-specialist-london-209868",
-        "title": "Technical Support Specialist",
-        "company": "Absorblms",
-        "location": "Remote UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/absorblms/technical-support-specialist-london-209868",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-07T18:40:22+00:00",
-        "remote": false
     },
     {
         "id": "greenhouse-3514823",

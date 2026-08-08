@@ -44,69 +44,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-account-executive-ai-hpc-uk-371955",
-        "title": "Account Executive, AI/HPC (UK)",
-        "company": "purestorage",
-        "location": "Remote",
+        "id": "arbeitnow-remote-senior-full-stack-engineer-backend-frontend-germany-4455",
+        "title": "Senior Full-Stack Engineer (Backend + Frontend)",
+        "company": "Soda Data Nv",
+        "location": "Germany",
         "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/purestorage/remote-account-executive-ai-hpc-uk-371955",
+        "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-full-stack-engineer-backend-frontend-germany-4455",
         "source": "Arbeitnow",
-        "published_at": "2026-08-07T15:55:05+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-copy-of-staff-principal-applied-ai-researcher-agentic-search-129436",
-        "title": "Copy of Staff / Principal Applied AI Researcher (Agentic Search)",
-        "company": "Nebius",
-        "location": "Remote - Europe",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/remote-copy-of-staff-principal-applied-ai-researcher-agentic-search-129436",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-07T13:15:10+00:00",
-        "remote": false
-    },
-    {
-        "id": "ashby-9ea666f7-9b16-481f-a16d-f533d45ca795",
-        "title": "Partner Director - AWS Alliance Partnership, Japan",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/9ea666f7-9b16-481f-a16d-f533d45ca795",
-        "source": "Ashby",
-        "published_at": "2026-08-07T03:34:24.320000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-34639ac0-d7c9-4106-8e34-f490f377e1a0",
-        "title": "Client Partner - Media & Entertainment, Ads Solutions",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/34639ac0-d7c9-4106-8e34-f490f377e1a0",
-        "source": "Ashby",
-        "published_at": "2026-08-07T02:47:45.918000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-eb4e4757-94b6-4c7d-a3ba-35fad40c0859",
-        "title": "Account Director, Large Enterprise",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/eb4e4757-94b6-4c7d-a3ba-35fad40c0859",
-        "source": "Ashby",
-        "published_at": "2026-08-07T02:17:20.884000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-6245809c-5646-4226-9f20-7bc88a4135aa",
-        "title": "Account Director, Digital Natives",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/6245809c-5646-4226-9f20-7bc88a4135aa",
-        "source": "Ashby",
-        "published_at": "2026-08-07T02:16:45.637000+00:00",
+        "published_at": "2026-08-08T02:20:21+00:00",
         "remote": true
     },
     {
@@ -184,6 +129,28 @@
         "url": "https://instacart.careers/job/?gh_jid=8113993",
         "source": "Greenhouse",
         "published_at": "2026-08-07T09:24:11-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-frontend-engineer-full-stack-germany-476687",
+        "title": "Senior Frontend Engineer (Full-stack)",
+        "company": "Soda Data Nv",
+        "location": "Germany",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-frontend-engineer-full-stack-germany-476687",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-08T02:20:21+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-backend-infrastructure-engineer-platform-germany-203231",
+        "title": "Senior Backend + Infrastructure Engineer (Platform)",
+        "company": "Soda Data Nv",
+        "location": "Germany",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-backend-infrastructure-engineer-platform-germany-203231",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-08T02:20:21+00:00",
         "remote": true
     },
     {

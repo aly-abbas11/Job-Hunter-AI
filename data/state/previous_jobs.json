@@ -33,37 +33,103 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3506996",
-        "title": "Staff Software Engineer, Marketing technology",
-        "company": "Airbnb",
-        "location": "Remote, USA",
+        "id": "arbeitnow-remote-data-analyst-retail-media-360467",
+        "title": "Data Analyst: Retail Media",
+        "company": "Constructor",
+        "location": "Remote - EMEA",
         "job_type": "Full Time",
-        "url": "https://careers.airbnb.com/positions/8095436?gh_jid=8095436",
-        "source": "Greenhouse",
-        "published_at": "2026-08-07T14:02:40-04:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-12f6b6ef-be98-4159-9aef-7baac78489bc",
-        "title": "Agency Partner, Ads Solutions",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/12f6b6ef-be98-4159-9aef-7baac78489bc",
-        "source": "Ashby",
-        "published_at": "2026-08-07T16:05:12.152000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-full-stack-engineer-backend-frontend-germany-4455",
-        "title": "Senior Full-Stack Engineer (Backend + Frontend)",
-        "company": "Soda Data Nv",
-        "location": "Germany",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-full-stack-engineer-backend-frontend-germany-4455",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-data-analyst-retail-media-360467",
         "source": "Arbeitnow",
-        "published_at": "2026-08-08T02:20:21+00:00",
+        "published_at": "2026-08-08T12:40:09+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-founding-cloud-infrastructure-engineer-100861",
+        "title": "Founding Cloud Infrastructure Engineer",
+        "company": "Clera",
+        "location": "remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-cloud-infrastructure-engineer-100861",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-08T14:40:22+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-backend-engineer-machine-learning-infrastructure-169800",
+        "title": "Senior Backend Engineer: Machine Learning Infrastructure",
+        "company": "Constructor",
+        "location": "Remote - EMEA",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-senior-backend-engineer-machine-learning-infrastructure-169800",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-08T12:40:09+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-ai-strategy-digital-implementation-munich-109620",
+        "title": "AI-Strategy & Digital Implementation",
+        "company": "Xeno Patch",
+        "location": "Munich",
+        "job_type": "Working student",
+        "url": "https://www.arbeitnow.com/jobs/companies/xeno-patch/ai-strategy-digital-implementation-munich-109620",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-08T15:30:26+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-forward-deployment-engineer-53846",
+        "title": "Forward Deployment Engineer",
+        "company": "Clera",
+        "location": "remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-forward-deployment-engineer-53846",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-08T14:40:22+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-founding-product-engineer-207401",
+        "title": "Founding Product Engineer",
+        "company": "Clera",
+        "location": "remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-product-engineer-207401",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-08T14:40:22+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-staff-engineer-founding-111093",
+        "title": "Staff Engineer (Founding)",
+        "company": "Clera",
+        "location": "remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-staff-engineer-founding-111093",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-08T14:40:22+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-founding-forward-deployed-ml-engineer-295402",
+        "title": "Founding Forward-Deployed ML Engineer",
+        "company": "Clera",
+        "location": "remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-forward-deployed-ml-engineer-295402",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-08T14:40:22+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-geospatial-machine-learning-engineer-452654",
+        "title": "Senior Geospatial Machine Learning Engineer",
+        "company": "Clera",
+        "location": "remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-senior-geospatial-machine-learning-engineer-452654",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-08T14:40:22+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3515195",
@@ -85,83 +151,6 @@
         "url": "https://www.coinbase.com/careers/positions/8114877?gh_jid=8114877",
         "source": "Greenhouse",
         "published_at": "2026-08-07T16:42:46-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-staff-software-engineer-116557",
-        "title": "Staff Software Engineer (m/w/d)",
-        "company": "Conceptboard",
-        "location": "Stuttgart / Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/conceptboard/remote-staff-software-engineer-116557",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-07T20:09:25+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-350992",
-        "title": "Senior Software Engineer (m/w/d)",
-        "company": "Conceptboard",
-        "location": "Stuttgart / Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/conceptboard/remote-senior-software-engineer-350992",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-07T20:09:25+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-3449661",
-        "title": "Senior Software Engineer - Core Experience, Growth",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8113993",
-        "source": "Greenhouse",
-        "published_at": "2026-08-07T09:24:11-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-frontend-engineer-full-stack-germany-476687",
-        "title": "Senior Frontend Engineer (Full-stack)",
-        "company": "Soda Data Nv",
-        "location": "Germany",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-frontend-engineer-full-stack-germany-476687",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-08T02:20:21+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-backend-infrastructure-engineer-platform-germany-203231",
-        "title": "Senior Backend + Infrastructure Engineer (Platform)",
-        "company": "Soda Data Nv",
-        "location": "Germany",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-backend-infrastructure-engineer-platform-germany-203231",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-08T02:20:21+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3514823",
-        "title": "Senior Product Designer, Coinbase One",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8114474?gh_jid=8114474",
-        "source": "Greenhouse",
-        "published_at": "2026-08-07T13:26:58-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3494453",
-        "title": "Staff Product Designer, Financial Services Lead",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8064324?gh_jid=8064324",
-        "source": "Greenhouse",
-        "published_at": "2026-08-07T13:21:26-04:00",
         "remote": true
     }
 ]

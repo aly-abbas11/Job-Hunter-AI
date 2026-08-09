@@ -33,14 +33,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-founding-cloud-infrastructure-engineer-100861",
+        "id": "arbeitnow-remote-founding-cloud-infrastructure-engineer-257151",
         "title": "Founding Cloud Infrastructure Engineer",
         "company": "Clera",
         "location": "remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-cloud-infrastructure-engineer-100861",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-cloud-infrastructure-engineer-257151",
         "source": "Arbeitnow",
-        "published_at": "2026-08-08T14:40:22+00:00",
+        "published_at": "2026-08-09T02:40:09+00:00",
         "remote": false
     },
     {
@@ -55,36 +55,58 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-ai-strategy-digital-implementation-munich-109620",
-        "title": "AI-Strategy & Digital Implementation",
-        "company": "Xeno Patch",
-        "location": "Munich",
-        "job_type": "Working student",
-        "url": "https://www.arbeitnow.com/jobs/companies/xeno-patch/ai-strategy-digital-implementation-munich-109620",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-08T15:30:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-forward-deployment-engineer-53846",
+        "id": "arbeitnow-remote-forward-deployment-engineer-250362",
         "title": "Forward Deployment Engineer",
         "company": "Clera",
         "location": "remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-forward-deployment-engineer-53846",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-forward-deployment-engineer-250362",
         "source": "Arbeitnow",
-        "published_at": "2026-08-08T14:40:22+00:00",
+        "published_at": "2026-08-09T02:40:09+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-founding-product-engineer-207401",
+        "id": "arbeitnow-remote-founding-product-engineer-42197",
         "title": "Founding Product Engineer",
         "company": "Clera",
         "location": "remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-product-engineer-207401",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-product-engineer-42197",
         "source": "Arbeitnow",
-        "published_at": "2026-08-08T14:40:22+00:00",
+        "published_at": "2026-08-09T02:40:09+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-staff-engineer-founding-131517",
+        "title": "Staff Engineer (Founding)",
+        "company": "Clera",
+        "location": "remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-staff-engineer-founding-131517",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-09T02:40:09+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-solutions-engineer-dach-234286",
+        "title": "Solutions Engineer DACH (m/f/d)",
+        "company": "360Learning",
+        "location": "Berlin, Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-solutions-engineer-dach-234286",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-09T02:05:11+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-product-designer-at-aios-medical-remote-90k-150k-yr-inc-equity-berlin-32045",
+        "title": "Product Designer at AIOS Medical — Remote, $90k-$150k/yr inc equity",
+        "company": "Aios",
+        "location": "Remote (EU)",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/aios/product-designer-at-aios-medical-remote-90k-150k-yr-inc-equity-berlin-32045",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-09T05:40:17+00:00",
         "remote": false
     },
     {

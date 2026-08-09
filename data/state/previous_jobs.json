@@ -1,13 +1,13 @@
 [
     {
-        "id": "arbeitnow-remote-senior-backend-engineer-ruby-ai-engineering-dap-repository-flows-58849",
-        "title": "Senior Backend Engineer (Ruby), AI Engineering: DAP Repository Flows",
-        "company": "Gitlab",
+        "id": "arbeitnow-remote-staff-engineer-heartbeat-ai-493270",
+        "title": "Staff Engineer - Heartbeat AI (m/f/d)",
+        "company": "1Komma5Grad",
         "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-ruby-ai-engineering-dap-repository-flows-58849",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-staff-engineer-heartbeat-ai-493270",
         "source": "Arbeitnow",
-        "published_at": "2026-08-08T09:55:07+00:00",
+        "published_at": "2026-08-09T09:09:37+00:00",
         "remote": false
     },
     {
@@ -22,17 +22,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-data-analyst-retail-media-360467",
-        "title": "Data Analyst: Retail Media",
-        "company": "Constructor",
-        "location": "Remote - EMEA",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-data-analyst-retail-media-360467",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-08T12:40:09+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-founding-cloud-infrastructure-engineer-257151",
         "title": "Founding Cloud Infrastructure Engineer",
         "company": "Clera",
@@ -44,14 +33,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-backend-engineer-machine-learning-infrastructure-169800",
-        "title": "Senior Backend Engineer: Machine Learning Infrastructure",
-        "company": "Constructor",
-        "location": "Remote - EMEA",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-senior-backend-engineer-machine-learning-infrastructure-169800",
+        "id": "arbeitnow-remote-staff-engineer-virtual-assembly-line-49485",
+        "title": "Staff Engineer - Virtual Assembly Line (m/f/d)",
+        "company": "1Komma5Grad",
+        "location": "Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-staff-engineer-virtual-assembly-line-49485",
         "source": "Arbeitnow",
-        "published_at": "2026-08-08T12:40:09+00:00",
+        "published_at": "2026-08-09T09:09:37+00:00",
         "remote": false
     },
     {
@@ -88,17 +77,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-solutions-engineer-dach-234286",
-        "title": "Solutions Engineer DACH (m/f/d)",
-        "company": "360Learning",
-        "location": "Berlin, Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-solutions-engineer-dach-234286",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-09T02:05:11+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-product-designer-at-aios-medical-remote-90k-150k-yr-inc-equity-berlin-32045",
         "title": "Product Designer at AIOS Medical — Remote, $90k-$150k/yr inc equity",
         "company": "Aios",
@@ -108,16 +86,5 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-09T05:40:17+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-social-media-manager-1-year-fixed-term-maternity-cover-karlsruhe-136616",
-        "title": "Senior Social Media Manager (m/f/d) - 1-Year Fixed Term (Maternity Cover)",
-        "company": "Chaos",
-        "location": "Remote job",
-        "job_type": "Mid, temporary",
-        "url": "https://www.arbeitnow.com/jobs/companies/chaos/remote-senior-social-media-manager-1-year-fixed-term-maternity-cover-karlsruhe-136616",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-08T20:30:21+00:00",
-        "remote": true
     }
 ]

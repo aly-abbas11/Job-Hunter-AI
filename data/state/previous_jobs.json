@@ -33,6 +33,17 @@
         "remote": false
     },
     {
+        "id": "arbeitnow-remote-director-vice-president-it-ot-262471",
+        "title": "Director / Vice President, IT/OT",
+        "company": "Submer",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/submer/remote-director-vice-president-it-ot-262471",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-09T15:55:08+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-staff-engineer-virtual-assembly-line-49485",
         "title": "Staff Engineer - Virtual Assembly Line (m/f/d)",
         "company": "1Komma5Grad",
@@ -66,15 +77,26 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-staff-engineer-founding-131517",
-        "title": "Staff Engineer (Founding)",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-staff-engineer-founding-131517",
+        "id": "arbeitnow-cloud-engineer-mit-karriereambitionen-markt-indersdorf-127168",
+        "title": "Cloud Engineer (m/w/d) mit Karriereambitionen!",
+        "company": "Auralis Group",
+        "location": "Markt Indersdorf",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/cloud-engineer-mit-karriereambitionen-markt-indersdorf-127168",
         "source": "Arbeitnow",
-        "published_at": "2026-08-09T02:40:09+00:00",
-        "remote": false
+        "published_at": "2026-08-09T16:30:36+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-java-backend-entwickler-spring-boot-camunda-stuttgart-238501",
+        "title": "Java Backend Entwickler - Spring Boot & Camunda (m/w/d)",
+        "company": "Rockstardevelopers GmbH",
+        "location": "Stuttgart",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/java-backend-entwickler-spring-boot-camunda-stuttgart-238501",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-09T11:30:25+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-product-designer-at-aios-medical-remote-90k-150k-yr-inc-equity-berlin-32045",

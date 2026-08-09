@@ -11,25 +11,14 @@
         "remote": false
     },
     {
-        "id": "greenhouse-6453135002",
-        "title": "Staff Backend Engineer (Ruby), AI Engineering: DAP Repository Flows",
-        "company": "GitLab",
-        "location": "Remote, Canada; Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646573002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-07T21:00:24-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6453146002",
-        "title": "Senior Backend Engineer (Ruby), AI Engineering: DAP Repository Flows",
-        "company": "GitLab",
-        "location": "Remote, United Kingdom",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646595002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-07T20:40:55-04:00",
+        "id": "ashby-f9da623f-b16e-496d-ae06-056132b01ff7",
+        "title": "Real Estate Lead, Data Center Site Acquisition",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Scaling",
+        "url": "https://jobs.ashbyhq.com/openai/f9da623f-b16e-496d-ae06-056132b01ff7",
+        "source": "Ashby",
+        "published_at": "2026-08-09T00:09:34.247000+00:00",
         "remote": true
     },
     {
@@ -99,58 +88,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-staff-engineer-founding-111093",
-        "title": "Staff Engineer (Founding)",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-staff-engineer-founding-111093",
+        "id": "arbeitnow-remote-senior-social-media-manager-1-year-fixed-term-maternity-cover-karlsruhe-136616",
+        "title": "Senior Social Media Manager (m/f/d) - 1-Year Fixed Term (Maternity Cover)",
+        "company": "Chaos",
+        "location": "Remote job",
+        "job_type": "Mid, temporary",
+        "url": "https://www.arbeitnow.com/jobs/companies/chaos/remote-senior-social-media-manager-1-year-fixed-term-maternity-cover-karlsruhe-136616",
         "source": "Arbeitnow",
-        "published_at": "2026-08-08T14:40:22+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-founding-forward-deployed-ml-engineer-295402",
-        "title": "Founding Forward-Deployed ML Engineer",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-forward-deployed-ml-engineer-295402",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-08T14:40:22+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-geospatial-machine-learning-engineer-452654",
-        "title": "Senior Geospatial Machine Learning Engineer",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-senior-geospatial-machine-learning-engineer-452654",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-08T14:40:22+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-3515195",
-        "title": "Staff Machine Learning Engineer, Shopping Ads",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8115838",
-        "source": "Greenhouse",
-        "published_at": "2026-08-07T19:10:34-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3514972",
-        "title": "Staff Software Engineer (Platform - Access & Authorization)",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8114877?gh_jid=8114877",
-        "source": "Greenhouse",
-        "published_at": "2026-08-07T16:42:46-04:00",
+        "published_at": "2026-08-08T20:30:21+00:00",
         "remote": true
     }
 ]

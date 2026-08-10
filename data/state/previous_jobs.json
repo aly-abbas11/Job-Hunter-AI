@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-remote-senior-ai-engineer-notebooks-104660",
+        "title": "Senior AI Engineer – Notebooks",
+        "company": "Datadog",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-senior-ai-engineer-notebooks-104660",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-09T20:55:28+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-staff-engineer-heartbeat-ai-493270",
         "title": "Staff Engineer - Heartbeat AI (m/f/d)",
         "company": "1Komma5Grad",
@@ -11,25 +22,69 @@
         "remote": false
     },
     {
-        "id": "ashby-f9da623f-b16e-496d-ae06-056132b01ff7",
-        "title": "Real Estate Lead, Data Center Site Acquisition",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/f9da623f-b16e-496d-ae06-056132b01ff7",
-        "source": "Ashby",
-        "published_at": "2026-08-09T00:09:34.247000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-founding-cloud-infrastructure-engineer-257151",
+        "id": "arbeitnow-remote-founding-cloud-infrastructure-engineer-80378",
         "title": "Founding Cloud Infrastructure Engineer",
         "company": "Clera",
         "location": "remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-cloud-infrastructure-engineer-257151",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-cloud-infrastructure-engineer-80378",
         "source": "Arbeitnow",
-        "published_at": "2026-08-09T02:40:09+00:00",
+        "published_at": "2026-08-09T18:40:11+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-security-consultant-328302",
+        "title": "Senior Security Consultant",
+        "company": "Tenableinc",
+        "location": "Netherlands - Remote, Italy - Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/tenableinc/remote-senior-security-consultant-328302",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-09T23:55:25+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-staff-software-engineer-security-agent-182551",
+        "title": "Staff Software Engineer - Security Agent",
+        "company": "Datadog",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-staff-software-engineer-security-agent-182551",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-09T20:55:29+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-forward-deployment-engineer-329361",
+        "title": "Forward Deployment Engineer",
+        "company": "Clera",
+        "location": "remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-forward-deployment-engineer-329361",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-09T18:40:11+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-founding-product-engineer-38544",
+        "title": "Founding Product Engineer",
+        "company": "Clera",
+        "location": "remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-product-engineer-38544",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-09T18:40:11+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-staff-engineer-founding-118878",
+        "title": "Staff Engineer (Founding)",
+        "company": "Clera",
+        "location": "remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-staff-engineer-founding-118878",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-09T18:40:11+00:00",
         "remote": false
     },
     {
@@ -55,28 +110,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-forward-deployment-engineer-250362",
-        "title": "Forward Deployment Engineer",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-forward-deployment-engineer-250362",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-09T02:40:09+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-founding-product-engineer-42197",
-        "title": "Founding Product Engineer",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-product-engineer-42197",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-09T02:40:09+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-cloud-engineer-mit-karriereambitionen-markt-indersdorf-127168",
         "title": "Cloud Engineer (m/w/d) mit Karriereambitionen!",
         "company": "Auralis Group",
@@ -99,14 +132,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-product-designer-at-aios-medical-remote-90k-150k-yr-inc-equity-berlin-32045",
-        "title": "Product Designer at AIOS Medical — Remote, $90k-$150k/yr inc equity",
-        "company": "Aios",
-        "location": "Remote (EU)",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/aios/product-designer-at-aios-medical-remote-90k-150k-yr-inc-equity-berlin-32045",
+        "id": "arbeitnow-onboarding-customer-success-manager-mit-paid-social-media-marketing-erfahrung-remote-cologne-172885",
+        "title": "Onboarding & Customer Support Manager mit Paid / Social Media Marketing Erfahrung (w/m/d) remote",
+        "company": "DatAds",
+        "location": "Cologne",
+        "job_type": "teamleitung",
+        "url": "https://www.arbeitnow.com/jobs/companies/datads/onboarding-customer-success-manager-mit-paid-social-media-marketing-erfahrung-remote-cologne-172885",
         "source": "Arbeitnow",
-        "published_at": "2026-08-09T05:40:17+00:00",
-        "remote": false
+        "published_at": "2026-08-09T22:59:05+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-customer-success-manager-mit-paid-social-media-buyer-social-media-marketing-erfahrung-remote-cologne-293288",
+        "title": "Customer Success Manager mit Paid Social Media Buyer / Social Media Marketing Erfahrung (w/m/d) remote",
+        "company": "DatAds",
+        "location": "Cologne",
+        "job_type": "teamleitung",
+        "url": "https://www.arbeitnow.com/jobs/companies/datads/customer-success-manager-mit-paid-social-media-buyer-social-media-marketing-erfahrung-remote-cologne-293288",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-09T18:30:30+00:00",
+        "remote": true
     }
 ]

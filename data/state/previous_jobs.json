@@ -1,5 +1,60 @@
 [
     {
+        "id": "arbeitnow-junior-fullstack-engineer-ts-react-nextjs-ai-100-remote-hamburg-425588",
+        "title": "Junior Fullstack Engineer (m/w/d) TS, React, Next.js & AI  100% Remote",
+        "company": "NotarPartner GmbH",
+        "location": "Hamburg",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/notarpartner-gmbh/junior-fullstack-engineer-ts-react-nextjs-ai-100-remote-hamburg-425588",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T11:00:34+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-werkstudent-it-solution-management-17916",
+        "title": "Werkstudent (m/w/d) IT Solution Management",
+        "company": "OXG Glasfaser GmbH",
+        "location": "Düsseldorf und Remote",
+        "job_type": "Student, Intern, Part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-werkstudent-it-solution-management-17916",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T11:09:16+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-engineering-lead-ts-react-nextjs-ai-100-remote-hamburg-153675",
+        "title": "Engineering Lead (m/w/d) TS, React, Next.js & AI 100% Remote",
+        "company": "NotarPartner GmbH",
+        "location": "Hamburg",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/notarpartner-gmbh/engineering-lead-ts-react-nextjs-ai-100-remote-hamburg-153675",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T11:30:43+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-it-administration-remote-werkstudent-karlstein-am-main-271620",
+        "title": "IT-Administration / REMOTE / Werkstudent (m/w/d)",
+        "company": "eternus technology gmbh",
+        "location": "Karlstein am Main",
+        "job_type": "Working student, berufseinstieg",
+        "url": "https://www.arbeitnow.com/jobs/companies/eternus-technology-gmbh/it-administration-remote-werkstudent-karlstein-am-main-271620",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T08:00:36+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-full-stack-developer-java-react-422213",
+        "title": "Full Stack Developer - Java & React (f/m/d)",
+        "company": "ecosio",
+        "location": "Austria, Germany, Spain, Italy, Hungary, Portugal, Croatia - Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ecosio/remote-full-stack-developer-java-react-422213",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T06:55:18+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-6922ab5c-5b90-4da2-ab10-cbc46d4f4860",
         "title": "Tech Lead Manager, Education",
         "company": "OpenAI",
@@ -11,26 +66,15 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-ai-engineer-notebooks-104660",
-        "title": "Senior AI Engineer – Notebooks",
-        "company": "Datadog",
-        "location": "Remote",
+        "id": "arbeitnow-software-developer-python-haltern-am-see-400521",
+        "title": "Software Developer: Python (m/w/d)",
+        "company": "sync.blue® GmbH",
+        "location": "Haltern am See",
         "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-senior-ai-engineer-notebooks-104660",
+        "url": "https://www.arbeitnow.com/jobs/companies/syncblue-gmbh/software-developer-python-haltern-am-see-400521",
         "source": "Arbeitnow",
-        "published_at": "2026-08-09T20:55:28+00:00",
+        "published_at": "2026-08-10T11:30:44+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-data-engineering-lead-agentic-infrastructure-320633",
-        "title": "Data Engineering Lead, Agentic Infrastructure",
-        "company": "Vivenu",
-        "location": "Remote Germany",
-        "job_type": "Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-data-engineering-lead-agentic-infrastructure-320633",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T05:24:11+00:00",
-        "remote": false
     },
     {
         "id": "arbeitnow-remote-forward-deployed-engineer-emea-395716",
@@ -44,69 +88,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-security-consultant-328302",
-        "title": "Senior Security Consultant",
-        "company": "Tenableinc",
-        "location": "Netherlands - Remote, Italy - Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/tenableinc/remote-senior-security-consultant-328302",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-09T23:55:25+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-staff-software-engineer-security-agent-182551",
-        "title": "Staff Software Engineer - Security Agent",
-        "company": "Datadog",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-staff-software-engineer-security-agent-182551",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-09T20:55:29+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-cloud-engineer-mit-karriereambitionen-markt-indersdorf-127168",
-        "title": "Cloud Engineer (m/w/d) mit Karriereambitionen!",
-        "company": "Auralis Group",
-        "location": "Markt Indersdorf",
+        "id": "arbeitnow-product-engineer-munich-30842",
+        "title": "Product Engineer",
+        "company": "MedMatic GmbH",
+        "location": "Munich",
         "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/cloud-engineer-mit-karriereambitionen-markt-indersdorf-127168",
+        "url": "https://www.arbeitnow.com/jobs/companies/medmatic-gmbh/product-engineer-munich-30842",
         "source": "Arbeitnow",
-        "published_at": "2026-08-09T16:30:36+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-java-backend-entwickler-spring-boot-camunda-stuttgart-238501",
-        "title": "Java Backend Entwickler - Spring Boot & Camunda (m/w/d)",
-        "company": "Rockstardevelopers GmbH",
-        "location": "Stuttgart",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/java-backend-entwickler-spring-boot-camunda-stuttgart-238501",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-09T11:30:25+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-onboarding-customer-success-manager-mit-paid-social-media-marketing-erfahrung-remote-cologne-172885",
-        "title": "Onboarding & Customer Support Manager mit Paid / Social Media Marketing Erfahrung (w/m/d) remote",
-        "company": "DatAds",
-        "location": "Cologne",
-        "job_type": "teamleitung",
-        "url": "https://www.arbeitnow.com/jobs/companies/datads/onboarding-customer-success-manager-mit-paid-social-media-marketing-erfahrung-remote-cologne-172885",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-09T22:59:05+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-customer-success-manager-mit-paid-social-media-buyer-social-media-marketing-erfahrung-remote-cologne-293288",
-        "title": "Customer Success Manager mit Paid Social Media Buyer / Social Media Marketing Erfahrung (w/m/d) remote",
-        "company": "DatAds",
-        "location": "Cologne",
-        "job_type": "teamleitung",
-        "url": "https://www.arbeitnow.com/jobs/companies/datads/customer-success-manager-mit-paid-social-media-buyer-social-media-marketing-erfahrung-remote-cologne-293288",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-09T18:30:30+00:00",
+        "published_at": "2026-08-10T10:30:44+00:00",
         "remote": true
     }
 ]

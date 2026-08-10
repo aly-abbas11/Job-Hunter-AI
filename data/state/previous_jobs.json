@@ -1,5 +1,16 @@
 [
     {
+        "id": "ashby-6922ab5c-5b90-4da2-ab10-cbc46d4f4860",
+        "title": "Tech Lead Manager, Education",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/6922ab5c-5b90-4da2-ab10-cbc46d4f4860",
+        "source": "Ashby",
+        "published_at": "2026-08-10T05:36:37.356000+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-senior-ai-engineer-notebooks-104660",
         "title": "Senior AI Engineer – Notebooks",
         "company": "Datadog",
@@ -11,25 +22,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-staff-engineer-heartbeat-ai-493270",
-        "title": "Staff Engineer - Heartbeat AI (m/f/d)",
-        "company": "1Komma5Grad",
-        "location": "Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-staff-engineer-heartbeat-ai-493270",
+        "id": "arbeitnow-remote-data-engineering-lead-agentic-infrastructure-320633",
+        "title": "Data Engineering Lead, Agentic Infrastructure",
+        "company": "Vivenu",
+        "location": "Remote Germany",
+        "job_type": "Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-data-engineering-lead-agentic-infrastructure-320633",
         "source": "Arbeitnow",
-        "published_at": "2026-08-09T09:09:37+00:00",
+        "published_at": "2026-08-10T05:24:11+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-founding-cloud-infrastructure-engineer-80378",
-        "title": "Founding Cloud Infrastructure Engineer",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-cloud-infrastructure-engineer-80378",
+        "id": "arbeitnow-remote-forward-deployed-engineer-emea-395716",
+        "title": "Forward Deployed Engineer - EMEA",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-395716",
         "source": "Arbeitnow",
-        "published_at": "2026-08-09T18:40:11+00:00",
+        "published_at": "2026-08-10T00:55:21+00:00",
         "remote": false
     },
     {
@@ -53,61 +64,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-09T20:55:29+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-forward-deployment-engineer-329361",
-        "title": "Forward Deployment Engineer",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-forward-deployment-engineer-329361",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-09T18:40:11+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-founding-product-engineer-38544",
-        "title": "Founding Product Engineer",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-product-engineer-38544",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-09T18:40:11+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-staff-engineer-founding-118878",
-        "title": "Staff Engineer (Founding)",
-        "company": "Clera",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-staff-engineer-founding-118878",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-09T18:40:11+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-director-vice-president-it-ot-262471",
-        "title": "Director / Vice President, IT/OT",
-        "company": "Submer",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/submer/remote-director-vice-president-it-ot-262471",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-09T15:55:08+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-staff-engineer-virtual-assembly-line-49485",
-        "title": "Staff Engineer - Virtual Assembly Line (m/f/d)",
-        "company": "1Komma5Grad",
-        "location": "Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-staff-engineer-virtual-assembly-line-49485",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-09T09:09:37+00:00",
-        "remote": false
     },
     {
         "id": "arbeitnow-cloud-engineer-mit-karriereambitionen-markt-indersdorf-127168",

@@ -1,5 +1,159 @@
 [
     {
+        "id": "arbeitnow-remote-senior-qa-engineer-bad-225074",
+        "title": "Senior QA engineer (BAD)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-qa-engineer-bad-225074",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T20:55:12+00:00",
+        "remote": false
+    },
+    {
+        "id": "ashby-dc0b907b-f833-4559-8fd8-d3d4c80b58d8",
+        "title": "Federal Account Director, National Security",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, OpenAI for Gov",
+        "url": "https://jobs.ashbyhq.com/openai/dc0b907b-f833-4559-8fd8-d3d4c80b58d8",
+        "source": "Ashby",
+        "published_at": "2026-08-10T23:55:43.926000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-edabef84-70d8-4c20-a3b2-41a8c9a76417",
+        "title": "Civil Engineer",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Scaling",
+        "url": "https://jobs.ashbyhq.com/openai/edabef84-70d8-4c20-a3b2-41a8c9a76417",
+        "source": "Ashby",
+        "published_at": "2026-08-10T22:28:24.675000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-staff-research-engineer-llm-pre-training-146780",
+        "title": "Staff Research Engineer (LLM Pre-Training)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-staff-research-engineer-llm-pre-training-146780",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T20:55:12+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-appglass-466852",
+        "title": "Senior Software Engineer (AppGlass)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-software-engineer-appglass-466852",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T20:55:12+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-mlops-engineer-ml-workflows-engineering-85174",
+        "title": "Senior MLOps Engineer (ML Workflows Engineering)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-mlops-engineer-ml-workflows-engineering-85174",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T20:55:12+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-ml-engineer-jetbrains-research-270325",
+        "title": "Senior ML Engineer (JetBrains Research)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-ml-engineer-jetbrains-research-270325",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T20:55:12+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-machine-learning-developer-junie-361256",
+        "title": "(Senior) Machine Learning Developer (Junie)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-machine-learning-developer-junie-361256",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T20:55:12+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-graphics-jvm-software-engineer-jvm-runtime-554",
+        "title": "Senior Graphics/JVM Software Engineer  (JVM Runtime)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-graphics-jvm-software-engineer-jvm-runtime-554",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T20:55:12+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-ai-engineer-core-engine-327724",
+        "title": "Senior AI Engineer (Core Engine)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-ai-engineer-core-engine-327724",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T20:55:11+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-research-engineer-agentic-models-217165",
+        "title": "Research Engineer (Agentic Models)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-research-engineer-agentic-models-217165",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T20:55:11+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-founding-ml-engineer-spectrum-228679",
+        "title": "Founding ML Engineer (Spectrum)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-founding-ml-engineer-spectrum-228679",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T20:55:11+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-ai-technical-lead-c-ecosystem-138047",
+        "title": "AI Technical Lead - C++ Ecosystem",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-ai-technical-lead-c-ecosystem-138047",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T20:55:11+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-ai-research-engineer-pre-training-llm-multi-modal-100-remote-worldwide-united-kindom-168124",
+        "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal) - 100% Remote Worldwide",
+        "company": "Tether Operations Limited",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-pre-training-llm-multi-modal-100-remote-worldwide-united-kindom-168124",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T18:30:14+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-91cf75be-a3c6-4f39-9623-f72186fd8553",
         "title": "Commissioning Project Lead, Data Center Delivery",
         "company": "OpenAI",
@@ -33,17 +187,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-full-stack-developer-java-react-422213",
-        "title": "Full Stack Developer - Java & React (f/m/d)",
-        "company": "ecosio",
-        "location": "Austria, Germany, Spain, Italy, Hungary, Portugal, Croatia - Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/ecosio/remote-full-stack-developer-java-react-422213",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T06:55:18+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-6922ab5c-5b90-4da2-ab10-cbc46d4f4860",
         "title": "Tech Lead Manager, Education",
         "company": "OpenAI",
@@ -53,6 +196,28 @@
         "source": "Ashby",
         "published_at": "2026-08-10T05:36:37.356000+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-software-engineer-backend-distributed-systems-306240",
+        "title": "Software Engineer, Backend - Distributed Systems",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-backend-distributed-systems-306240",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T21:40:20+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-frontend-engineer-all-genders-356397",
+        "title": "(Senior) Frontend Engineer (all genders)",
+        "company": "Envelio",
+        "location": "Cologne / Remote from Germany",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/envelio/remote-senior-frontend-engineer-all-genders-356397",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T20:09:05+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-6468765002",
@@ -77,6 +242,61 @@
         "remote": true
     },
     {
+        "id": "ashby-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
+        "title": "Analytics Engineer",
+        "company": "Linear",
+        "location": "Remote",
+        "job_type": "FullTime, GTM",
+        "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
+        "source": "Ashby",
+        "published_at": "2026-08-11T00:36:47.459000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-fullstack-engineer-german-speaking-germany-239019",
+        "title": "FullStack Engineer - German speaking",
+        "company": "Huzzle",
+        "location": "Germany",
+        "job_type": "Full time, mid-senior",
+        "url": "https://www.arbeitnow.com/jobs/companies/huzzle/remote-fullstack-engineer-german-speaking-germany-239019",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T23:20:28+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-team-lead-data-products-analytics-gn-398648",
+        "title": "Team Lead Data Products & Analytics (gn)",
+        "company": "Bikeleasing",
+        "location": "Remote Deutschland",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-team-lead-data-products-analytics-gn-398648",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T23:09:35+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-lead-data-products-engineer-380765",
+        "title": "Lead Data Products Engineer",
+        "company": "Baringa",
+        "location": "London; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/remote-lead-data-products-engineer-380765",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T21:55:44+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-director-vice-president-it-ot-35347",
+        "title": "Director / Vice President, IT/OT",
+        "company": "Submer",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/submer/remote-director-vice-president-it-ot-35347",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T18:56:07+00:00",
+        "remote": false
+    },
+    {
         "id": "greenhouse-3514232",
         "title": "Senior Machine Learning Systems Engineer, Ads ML Experience Platform",
         "company": "Reddit",
@@ -86,6 +306,28 @@
         "source": "Greenhouse",
         "published_at": "2026-08-10T14:29:49-04:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-it-infrastructure-and-systems-engineer-network-229847",
+        "title": "Senior IT Infrastructure and Systems Engineer - Network",
+        "company": "Flatrock",
+        "location": "Remote UK",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/flatrock/remote-senior-it-infrastructure-and-systems-engineer-network-229847",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T18:09:50+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-it-infrastructure-systems-engineer-87153",
+        "title": "Senior IT Infrastructure / Systems Engineer",
+        "company": "Flatrock",
+        "location": "Remote UK",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/flatrock/remote-senior-it-infrastructure-systems-engineer-87153",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-10T18:09:50+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-information-security-lead-berlin-385700",
@@ -99,17 +341,6 @@
         "remote": false
     },
     {
-        "id": "greenhouse-3449661",
-        "title": "Senior Software Engineer, Marketing Platform Tooling",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8119683",
-        "source": "Greenhouse",
-        "published_at": "2026-08-10T12:27:01-04:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3498947",
         "title": "Staff Software Engineer, Web Product Enablement",
         "company": "Pinterest",
@@ -119,28 +350,6 @@
         "source": "Greenhouse",
         "published_at": "2026-08-10T12:26:10-04:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-clinical-data-manager-ii-senior-clinical-data-manager-17794",
-        "title": "Clinical Data Manager II/Senior Clinical Data Manager",
-        "company": "Precisionmedicinegroup",
-        "location": "Remote, Slovakia",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-clinical-data-manager-ii-senior-clinical-data-manager-17794",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T15:55:33+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-clinical-data-manager-ii-senior-clinical-data-manager-84106",
-        "title": "Clinical Data Manager II/Senior Clinical Data Manager",
-        "company": "Precisionmedicinegroup",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-clinical-data-manager-ii-senior-clinical-data-manager-84106",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T15:55:33+00:00",
-        "remote": false
     },
     {
         "id": "arbeitnow-remote-senior-sales-engineer-174596",
@@ -176,6 +385,17 @@
         "remote": true
     },
     {
+        "id": "greenhouse-3517220",
+        "title": "Staff Product Designer, Presence",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8120566",
+        "source": "Greenhouse",
+        "published_at": "2026-08-10T18:01:06-04:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-3504504",
         "title": "Sr. Staff Software Engineer, Pinterest Assistant",
         "company": "Pinterest",
@@ -195,28 +415,6 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-senior-medical-writer-principal-medical-writer-88441",
         "source": "Arbeitnow",
         "published_at": "2026-08-10T15:55:33+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-sap-abap-developer-hr-data-migration-support-freelance-remote-bonn-24417",
-        "title": "Senior SAP ABAP Developer - HR Data Migration Support (Freelance, Remote)",
-        "company": "Sidekick Network GmbH & Co. KG",
-        "location": "Bonn",
-        "job_type": "Freelance, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-abap-developer-hr-data-migration-support-freelance-remote-bonn-24417",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T14:30:42+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-ux-designer-design-ki-59228",
-        "title": "UX Designer (m/w/d) – Design & KI",
-        "company": "Id1",
-        "location": "Remote (Deutschland)",
-        "job_type": "Experienced, Permanent, Full or part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/id1/remote-ux-designer-design-ki-59228",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T14:10:02+00:00",
         "remote": false
     }
 ]

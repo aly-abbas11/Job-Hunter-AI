@@ -143,17 +143,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-ai-research-engineer-pre-training-llm-multi-modal-100-remote-worldwide-united-kindom-168124",
-        "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal) - 100% Remote Worldwide",
-        "company": "Tether Operations Limited",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-pre-training-llm-multi-modal-100-remote-worldwide-united-kindom-168124",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T18:30:14+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-91cf75be-a3c6-4f39-9623-f72186fd8553",
         "title": "Commissioning Project Lead, Data Center Delivery",
         "company": "OpenAI",
@@ -165,17 +154,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-full-stack-developer-java-react-241076",
-        "title": "Full Stack Developer - Java & React (f/m/d)",
-        "company": "ecosio",
-        "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-241076",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T14:55:16+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-43fb1de2-1d32-4841-a685-412bc7bd56b6",
         "title": "Maintenance Analyst, Data Center Delivery",
         "company": "OpenAI",
@@ -184,17 +162,6 @@
         "url": "https://jobs.ashbyhq.com/openai/43fb1de2-1d32-4841-a685-412bc7bd56b6",
         "source": "Ashby",
         "published_at": "2026-08-10T14:53:57.706000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-6922ab5c-5b90-4da2-ab10-cbc46d4f4860",
-        "title": "Tech Lead Manager, Education",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/6922ab5c-5b90-4da2-ab10-cbc46d4f4860",
-        "source": "Ashby",
-        "published_at": "2026-08-10T05:36:37.356000+00:00",
         "remote": true
     },
     {
@@ -231,14 +198,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-ai-native-business-analyst-dach-mannheim-198122",
-        "title": "AI-Native Business Analyst - DACH",
-        "company": "Oper",
-        "location": "Mannheim",
-        "job_type": "Freelance, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/oper/ai-native-business-analyst-dach-mannheim-198122",
+        "id": "arbeitnow-remote-forward-deployed-engineer-emea-309209",
+        "title": "Forward Deployed Engineer - EMEA",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-309209",
         "source": "Arbeitnow",
-        "published_at": "2026-08-10T16:00:32+00:00",
+        "published_at": "2026-08-11T05:55:10+00:00",
         "remote": true
     },
     {
@@ -286,17 +253,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-director-vice-president-it-ot-35347",
-        "title": "Director / Vice President, IT/OT",
-        "company": "Submer",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/submer/remote-director-vice-president-it-ot-35347",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T18:56:07+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3514232",
         "title": "Senior Machine Learning Systems Engineer, Ads ML Experience Platform",
         "company": "Reddit",
@@ -308,39 +264,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-it-infrastructure-and-systems-engineer-network-229847",
-        "title": "Senior IT Infrastructure and Systems Engineer - Network",
-        "company": "Flatrock",
-        "location": "Remote UK",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/flatrock/remote-senior-it-infrastructure-and-systems-engineer-network-229847",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T18:09:50+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-it-infrastructure-systems-engineer-87153",
-        "title": "Senior IT Infrastructure / Systems Engineer",
-        "company": "Flatrock",
-        "location": "Remote UK",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/flatrock/remote-senior-it-infrastructure-systems-engineer-87153",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T18:09:50+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-information-security-lead-berlin-385700",
-        "title": "Information Security Lead",
-        "company": "Secfix",
-        "location": "Remote-Europe",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/secfix/information-security-lead-berlin-385700",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T17:40:21+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3498947",
         "title": "Staff Software Engineer, Web Product Enablement",
         "company": "Pinterest",
@@ -349,17 +272,6 @@
         "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8075888",
         "source": "Greenhouse",
         "published_at": "2026-08-10T12:26:10-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-sales-engineer-174596",
-        "title": "Senior Sales Engineer",
-        "company": "Veeamsoftware",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-sales-engineer-174596",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T14:55:23+00:00",
         "remote": true
     },
     {
@@ -374,14 +286,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-solution-architect-aws-plattform-cloud-security-stuttgart-12120",
-        "title": "Solution Architect - AWS Plattform & Cloud Security (m/w/d)",
-        "company": "Rockstardevelopers GmbH",
-        "location": "Stuttgart",
+        "id": "arbeitnow-frontend-entwickler-drupal-twig-erfurt-363575",
+        "title": "Frontend-Entwickler (Drupal / Twig)",
+        "company": "brandmediale GmbH",
+        "location": "Erfurt",
         "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/solution-architect-aws-plattform-cloud-security-stuttgart-12120",
+        "url": "https://www.arbeitnow.com/jobs/companies/brandmediale-gmbh/frontend-entwickler-drupal-twig-erfurt-363575",
         "source": "Arbeitnow",
-        "published_at": "2026-08-10T15:00:24+00:00",
+        "published_at": "2026-08-11T00:30:27+00:00",
         "remote": true
     },
     {
@@ -405,16 +317,5 @@
         "source": "Greenhouse",
         "published_at": "2026-08-10T12:17:06-04:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-medical-writer-principal-medical-writer-88441",
-        "title": "Senior Medical Writer/Principal Medical Writer",
-        "company": "Precisionmedicinegroup",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-senior-medical-writer-principal-medical-writer-88441",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T15:55:33+00:00",
-        "remote": false
     }
 ]

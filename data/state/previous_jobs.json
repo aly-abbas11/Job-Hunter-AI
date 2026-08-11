@@ -1,16 +1,5 @@
 [
     {
-        "id": "arbeitnow-remote-senior-qa-engineer-bad-225074",
-        "title": "Senior QA engineer (BAD)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-qa-engineer-bad-225074",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T20:55:12+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-dc0b907b-f833-4559-8fd8-d3d4c80b58d8",
         "title": "Federal Account Director, National Security",
         "company": "OpenAI",
@@ -31,116 +20,6 @@
         "source": "Ashby",
         "published_at": "2026-08-10T22:28:24.675000+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-staff-research-engineer-llm-pre-training-146780",
-        "title": "Staff Research Engineer (LLM Pre-Training)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-staff-research-engineer-llm-pre-training-146780",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T20:55:12+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-appglass-466852",
-        "title": "Senior Software Engineer (AppGlass)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-software-engineer-appglass-466852",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T20:55:12+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-mlops-engineer-ml-workflows-engineering-85174",
-        "title": "Senior MLOps Engineer (ML Workflows Engineering)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-mlops-engineer-ml-workflows-engineering-85174",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T20:55:12+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-ml-engineer-jetbrains-research-270325",
-        "title": "Senior ML Engineer (JetBrains Research)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-ml-engineer-jetbrains-research-270325",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T20:55:12+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-machine-learning-developer-junie-361256",
-        "title": "(Senior) Machine Learning Developer (Junie)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-machine-learning-developer-junie-361256",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T20:55:12+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-graphics-jvm-software-engineer-jvm-runtime-554",
-        "title": "Senior Graphics/JVM Software Engineer  (JVM Runtime)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-graphics-jvm-software-engineer-jvm-runtime-554",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T20:55:12+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-ai-engineer-core-engine-327724",
-        "title": "Senior AI Engineer (Core Engine)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-ai-engineer-core-engine-327724",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T20:55:11+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-research-engineer-agentic-models-217165",
-        "title": "Research Engineer (Agentic Models)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-research-engineer-agentic-models-217165",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T20:55:11+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-founding-ml-engineer-spectrum-228679",
-        "title": "Founding ML Engineer (Spectrum)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-founding-ml-engineer-spectrum-228679",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T20:55:11+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-ai-technical-lead-c-ecosystem-138047",
-        "title": "AI Technical Lead - C++ Ecosystem",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-ai-technical-lead-c-ecosystem-138047",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T20:55:11+00:00",
-        "remote": false
     },
     {
         "id": "ashby-91cf75be-a3c6-4f39-9623-f72186fd8553",
@@ -165,28 +44,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-software-engineer-backend-distributed-systems-306240",
-        "title": "Software Engineer, Backend - Distributed Systems",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-backend-distributed-systems-306240",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T21:40:20+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-frontend-engineer-all-genders-356397",
-        "title": "(Senior) Frontend Engineer (all genders)",
-        "company": "Envelio",
-        "location": "Cologne / Remote from Germany",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/envelio/remote-senior-frontend-engineer-all-genders-356397",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T20:09:05+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-6468765002",
         "title": "Senior Backend Engineer (Ruby), Plan: Portfolio Experience",
         "company": "GitLab",
@@ -195,17 +52,6 @@
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8682707002",
         "source": "Greenhouse",
         "published_at": "2026-08-10T11:15:21-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-forward-deployed-engineer-emea-309209",
-        "title": "Forward Deployed Engineer - EMEA",
-        "company": "gitlab",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-309209",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-11T05:55:10+00:00",
         "remote": true
     },
     {
@@ -218,39 +64,6 @@
         "source": "Ashby",
         "published_at": "2026-08-11T00:36:47.459000+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-fullstack-engineer-german-speaking-germany-239019",
-        "title": "FullStack Engineer - German speaking",
-        "company": "Huzzle",
-        "location": "Germany",
-        "job_type": "Full time, mid-senior",
-        "url": "https://www.arbeitnow.com/jobs/companies/huzzle/remote-fullstack-engineer-german-speaking-germany-239019",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T23:20:28+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-team-lead-data-products-analytics-gn-398648",
-        "title": "Team Lead Data Products & Analytics (gn)",
-        "company": "Bikeleasing",
-        "location": "Remote Deutschland",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-team-lead-data-products-analytics-gn-398648",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T23:09:35+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-lead-data-products-engineer-380765",
-        "title": "Lead Data Products Engineer",
-        "company": "Baringa",
-        "location": "London; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/remote-lead-data-products-engineer-380765",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-10T21:55:44+00:00",
-        "remote": false
     },
     {
         "id": "greenhouse-3514232",
@@ -283,17 +96,6 @@
         "url": "https://instacart.careers/job/?gh_jid=8110286",
         "source": "Greenhouse",
         "published_at": "2026-08-10T10:28:12-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-frontend-entwickler-drupal-twig-erfurt-363575",
-        "title": "Frontend-Entwickler (Drupal / Twig)",
-        "company": "brandmediale GmbH",
-        "location": "Erfurt",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/brandmediale-gmbh/frontend-entwickler-drupal-twig-erfurt-363575",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-11T00:30:27+00:00",
         "remote": true
     },
     {

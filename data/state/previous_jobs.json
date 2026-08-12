@@ -1,5 +1,27 @@
 [
     {
+        "id": "arbeitnow-remote-qa-automation-engineer-idea-ultimate-qa-51359",
+        "title": "QA Automation Engineer (IDEA Ultimate QA)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-qa-automation-engineer-idea-ultimate-qa-51359",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-11T20:55:29+00:00",
+        "remote": false
+    },
+    {
+        "id": "ashby-a23bd45a-e192-460d-bd34-a0f6c4bc6865",
+        "title": "Backend Software Engineer - Codex for Finance",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/a23bd45a-e192-460d-bd34-a0f6c4bc6865",
+        "source": "Ashby",
+        "published_at": "2026-08-11T19:23:49.234000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-1e28e1f0-2580-46d9-b5ba-55c77d706f81",
         "title": "Order Management & Billing Lead — Cloud Marketplaces & Partnerships",
         "company": "OpenAI",
@@ -19,6 +41,61 @@
         "url": "https://jobs.ashbyhq.com/openai/103d7043-28ec-4639-9c8d-0910083a1755",
         "source": "Ashby",
         "published_at": "2026-08-11T15:53:49.680000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-ai-ml-engineer-berlin-374215",
+        "title": "AI / ML Engineer (m/w/d)",
+        "company": "Recare Deutschland GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-ai-ml-engineer-berlin-374215",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-11T23:30:16+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-ai-platform-233825",
+        "title": "Senior Software Engineer (AI Platform) (m/f/d)",
+        "company": "Auxmoney Gmbh",
+        "location": "Remote / Düsseldorf",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-ai-platform-233825",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-11T23:09:39+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-ai-engineer-346263",
+        "title": "Senior AI Engineer (m/w/d)",
+        "company": "Auxmoney Gmbh",
+        "location": "Remote / Düsseldorf",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-ai-engineer-346263",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-11T23:09:39+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3517899",
+        "title": "Senior Manager, Legal Technology, Operations & AI Enablement",
+        "company": "Instacart",
+        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8122333",
+        "source": "Greenhouse",
+        "published_at": "2026-08-11T17:11:20-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3517899",
+        "title": "Senior Manager, Legal Technology, Operations & AI Enablement",
+        "company": "Instacart",
+        "location": "United States - Remote",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8122176",
+        "source": "Greenhouse",
+        "published_at": "2026-08-11T17:11:19-04:00",
         "remote": true
     },
     {
@@ -66,25 +143,14 @@
         "remote": true
     },
     {
-        "id": "ashby-dc0b907b-f833-4559-8fd8-d3d4c80b58d8",
-        "title": "Federal Account Director, National Security",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, OpenAI for Gov",
-        "url": "https://jobs.ashbyhq.com/openai/dc0b907b-f833-4559-8fd8-d3d4c80b58d8",
-        "source": "Ashby",
-        "published_at": "2026-08-10T23:55:43.926000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-edabef84-70d8-4c20-a3b2-41a8c9a76417",
-        "title": "Civil Engineer",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/edabef84-70d8-4c20-a3b2-41a8c9a76417",
-        "source": "Ashby",
-        "published_at": "2026-08-10T22:28:24.675000+00:00",
+        "id": "greenhouse-6475328002",
+        "title": "Senior Fullstack Engineer, Marketing",
+        "company": "GitLab",
+        "location": "Remote, United Kingdom",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8697493002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-11T18:50:24-04:00",
         "remote": true
     },
     {
@@ -99,14 +165,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-software-engineer-backend-distributed-systems-206003",
-        "title": "Software Engineer, Backend - Distributed Systems",
-        "company": "Camunda",
-        "location": "Remote",
+        "id": "greenhouse-6475188002",
+        "title": "Principal Program Manager, Go-To-Market",
+        "company": "GitLab",
+        "location": "Remote, Canada; Remote, United States",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-backend-distributed-systems-206003",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-11T11:40:24+00:00",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8697215002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-11T17:49:44-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3518047",
+        "title": "Senior Staff Machine Learning Engineer, Feed Relevance",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8122606",
+        "source": "Greenhouse",
+        "published_at": "2026-08-11T16:29:13-04:00",
         "remote": true
     },
     {
@@ -118,39 +195,6 @@
         "url": "https://jobs.ashbyhq.com/ramp/aa5512b1-d973-4d74-9d10-d56446ecf803",
         "source": "Ashby",
         "published_at": "2026-08-11T16:02:54.137000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-data-engineer-fully-remote-working-hours-5am-2pm-cest-313475",
-        "title": "Data Engineer - fully remote (working hours 5am-2pm CEST) (m/f/d)",
-        "company": "JobLeads Careers",
-        "location": "Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/jobleads-careers/data-engineer-fully-remote-working-hours-5am-2pm-cest-313475",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-11T15:09:39+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-software-engineer-infrastructure-44606",
-        "title": "Software Engineer, Infrastructure",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-infrastructure-44606",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-11T11:40:24+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
-        "title": "Analytics Engineer",
-        "company": "Linear",
-        "location": "Remote",
-        "job_type": "FullTime, GTM",
-        "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
-        "source": "Ashby",
-        "published_at": "2026-08-11T00:36:47.459000+00:00",
         "remote": true
     },
     {
@@ -176,6 +220,39 @@
         "remote": true
     },
     {
+        "id": "ashby-7c1cd1ec-47a9-4d15-8eb9-2f44272db796",
+        "title": "Product Designer, GenUI",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Product Design",
+        "url": "https://jobs.ashbyhq.com/openai/7c1cd1ec-47a9-4d15-8eb9-2f44272db796",
+        "source": "Ashby",
+        "published_at": "2026-08-11T23:46:58.918000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-product-designer-inventory-166209",
+        "title": "Senior Product Designer – Inventory",
+        "company": "Nory",
+        "location": "UK - Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nory/remote-senior-product-designer-inventory-166209",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T00:40:13+00:00",
+        "remote": false
+    },
+    {
+        "id": "greenhouse-3518158",
+        "title": "Principal UX Engineer, Ads",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8122887",
+        "source": "Greenhouse",
+        "published_at": "2026-08-11T17:33:21-04:00",
+        "remote": true
+    },
+    {
         "id": "ashby-2ddd97a8-70b2-4030-ba42-21124ad304d3",
         "title": "Associate Manager, Premier Support (Customer Experience)",
         "company": "Ramp",
@@ -187,17 +264,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-customer-support-executive-london-19943",
-        "title": "Customer Support Executive",
-        "company": "Fanvue.com",
-        "location": "Remote with London office",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/fanvuecom/customer-support-executive-london-19943",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-11T15:40:11+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-customer-service-agent-dentolo-all-genders-remote-berlin-243548",
         "title": "Customer Service Agent - dentolo (all genders) - remote",
         "company": "getolo GmbH",
@@ -206,17 +272,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/getolo-gmbh/customer-service-agent-dentolo-all-genders-remote-berlin-243548",
         "source": "Arbeitnow",
         "published_at": "2026-08-11T13:30:35+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3517220",
-        "title": "Staff Product Designer, Presence",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8120566",
-        "source": "Greenhouse",
-        "published_at": "2026-08-10T18:01:06-04:00",
         "remote": true
     },
     {

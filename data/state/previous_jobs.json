@@ -11,25 +11,58 @@
         "remote": true
     },
     {
-        "id": "ashby-1e28e1f0-2580-46d9-b5ba-55c77d706f81",
-        "title": "Order Management & Billing Lead — Cloud Marketplaces & Partnerships",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Finance",
-        "url": "https://jobs.ashbyhq.com/openai/1e28e1f0-2580-46d9-b5ba-55c77d706f81",
-        "source": "Ashby",
-        "published_at": "2026-08-11T17:31:57.805000+00:00",
+        "id": "arbeitnow-remote-founding-g2m-sales-manager-dach-nordics-gn-at-ai-digital-defense-venture-germany-berlin-71448",
+        "title": "Founding G2M & Sales Manager - DACH & Nordics (gn) @ AI Digital Defense Venture, Germany",
+        "company": "atlantic.vc",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/remote-founding-g2m-sales-manager-dach-nordics-gn-at-ai-digital-defense-venture-germany-berlin-71448",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T17:30:05+00:00",
         "remote": true
     },
     {
-        "id": "ashby-103d7043-28ec-4639-9c8d-0910083a1755",
-        "title": "Senior Manager, Order to Cash — AI Products & Cloud Partnerships",
+        "id": "ashby-0b57e309-426d-4f5c-a28c-6dd941b84703",
+        "title": "Machine Learning Data Scientist, Forecasting",
         "company": "OpenAI",
         "location": "Remote",
-        "job_type": "FullTime, Finance",
-        "url": "https://jobs.ashbyhq.com/openai/103d7043-28ec-4639-9c8d-0910083a1755",
+        "job_type": "FullTime, Data Science",
+        "url": "https://jobs.ashbyhq.com/openai/0b57e309-426d-4f5c-a28c-6dd941b84703",
         "source": "Ashby",
-        "published_at": "2026-08-11T15:53:49.680000+00:00",
+        "published_at": "2026-08-12T17:04:27.481000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-f8b84ae5-743b-41c9-8432-02dff9993d6b",
+        "title": "Software Engineer, GPU Infrastructure- ChatGPT Engineering",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/f8b84ae5-743b-41c9-8432-02dff9993d6b",
+        "source": "Ashby",
+        "published_at": "2026-08-12T16:29:53.971000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-forward-deployed-ai-engineer-birmingham-416431",
+        "title": "Forward Deployed AI Engineer",
+        "company": "gravity9",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gravity9/remote-forward-deployed-ai-engineer-birmingham-416431",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T15:30:19+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-140a4a88-1d0f-4d30-abae-a35a19618fe6",
+        "title": "Manager, Partner Applied AI Engineering (AWS)",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/140a4a88-1d0f-4d30-abae-a35a19618fe6",
+        "source": "Ashby",
+        "published_at": "2026-08-12T15:23:47.237000+00:00",
         "remote": true
     },
     {
@@ -66,39 +99,6 @@
         "remote": true
     },
     {
-        "id": "ashby-43015fcc-fa12-4842-83d2-f9ae9376c550",
-        "title": "Enterprise Sales Manager, Energy",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/43015fcc-fa12-4842-83d2-f9ae9376c550",
-        "source": "Ashby",
-        "published_at": "2026-08-11T17:51:09.294000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-60b966d1-9c7f-4f61-b05e-7bda3e0b0a69",
-        "title": "Technical Program Manager, AI Safety & Safeguards",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Technical Program Management",
-        "url": "https://jobs.ashbyhq.com/openai/60b966d1-9c7f-4f61-b05e-7bda3e0b0a69",
-        "source": "Ashby",
-        "published_at": "2026-08-11T16:58:22.504000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-5b75027a-a5eb-4d28-a608-aa6bebcb079f",
-        "title": "Actuator Design Engineer",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Research",
-        "url": "https://jobs.ashbyhq.com/openai/5b75027a-a5eb-4d28-a608-aa6bebcb079f",
-        "source": "Ashby",
-        "published_at": "2026-08-11T16:33:35.822000+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-6475328002",
         "title": "Senior Fullstack Engineer, Marketing",
         "company": "GitLab",
@@ -108,17 +108,6 @@
         "source": "Greenhouse",
         "published_at": "2026-08-11T18:50:24-04:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-devops-cloud-engineer-konstanz-berlin-oder-remote-104284",
-        "title": "DevOps & Cloud Engineer (m/w/d) - Konstanz, Berlin oder remote",
-        "company": "Seitenbau Gmbh",
-        "location": "Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/devops-cloud-engineer-konstanz-berlin-oder-remote-104284",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-12T09:09:06+00:00",
-        "remote": false
     },
     {
         "id": "greenhouse-6468814002",
@@ -132,70 +121,48 @@
         "remote": true
     },
     {
-        "id": "ashby-6a3f42e6-00d6-4e9d-9caa-9663ffac6d53",
-        "title": "Technical Consultant, Enterprise, Oracle Cloud",
-        "company": "Ramp",
-        "location": "Remote",
-        "job_type": "FullTime, Sales",
-        "url": "https://jobs.ashbyhq.com/ramp/6a3f42e6-00d6-4e9d-9caa-9663ffac6d53",
-        "source": "Ashby",
-        "published_at": "2026-08-11T17:30:41.629000+00:00",
+        "id": "greenhouse-3426116",
+        "title": "Senior Data Engineer II, Finance",
+        "company": "Instacart",
+        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8126023",
+        "source": "Greenhouse",
+        "published_at": "2026-08-12T12:58:43-04:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-technical-product-managerin-ai-operations-in-einem-ki-start-up-koln-432369",
-        "title": "Technical Product Manager:in AI & Operations (m/w/d) in einem KI-Start-up",
-        "company": "GrowInTheRole",
-        "location": "Köln",
-        "job_type": "teamleitung",
-        "url": "https://www.arbeitnow.com/jobs/companies/growintherole/technical-product-managerin-ai-operations-in-einem-ki-start-up-koln-432369",
+        "id": "arbeitnow-remote-senior-talent-acquisition-partner-technology-product-software-engineering-193061",
+        "title": "Senior Talent Acquisition Partner - Technology (Product & Software Engineering)",
+        "company": "The Rec Hub",
+        "location": "UK Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/the-rec-hub/remote-senior-talent-acquisition-partner-technology-product-software-engineering-193061",
         "source": "Arbeitnow",
-        "published_at": "2026-08-12T08:30:50+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-full-stack-engineer-backend-frontend-germany-88363",
-        "title": "Senior Full-Stack Engineer (Backend + Frontend)",
-        "company": "Soda Data Nv",
-        "location": "Germany",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-full-stack-engineer-backend-frontend-germany-88363",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-12T08:20:13+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-fullstack-developer-hamburg-361101",
-        "title": "Fullstack Developer (m/w/d)",
-        "company": "Metanoia IT Solutions GmbH",
-        "location": "Hamburg",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/metanoia-it-solutions-gmbh/fullstack-developer-hamburg-361101",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-12T11:30:46+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-site-reliability-engineer-konstanz-berlin-oder-remote-382272",
-        "title": "Site Reliability Engineer (m/w/d) – Konstanz, Berlin oder remote",
-        "company": "Seitenbau Gmbh",
-        "location": "Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/site-reliability-engineer-konstanz-berlin-oder-remote-382272",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-12T09:09:06+00:00",
+        "published_at": "2026-08-12T15:40:16+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-senior-java-developer-konstanz-berlin-oder-remote-146101",
-        "title": "Senior Java Developer (m/w/d) - Konstanz, Berlin oder remote",
-        "company": "Seitenbau Gmbh",
-        "location": "Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/senior-java-developer-konstanz-berlin-oder-remote-146101",
+        "id": "arbeitnow-remote-forward-deployed-engineer-gilching-471511",
+        "title": "Forward Deployed Engineer (m/f/d)",
+        "company": "Quantum-Systems GmbH",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-forward-deployed-engineer-gilching-471511",
         "source": "Arbeitnow",
-        "published_at": "2026-08-12T09:09:06+00:00",
-        "remote": false
+        "published_at": "2026-08-12T14:30:10+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3518919",
+        "title": "Senior Machine Learning Manager, Video Ranking",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8125507",
+        "source": "Greenhouse",
+        "published_at": "2026-08-12T10:09:24-04:00",
+        "remote": true
     },
     {
         "id": "greenhouse-3518576",
@@ -231,39 +198,6 @@
         "remote": true
     },
     {
-        "id": "ashby-aa5512b1-d973-4d74-9d10-d56446ecf803",
-        "title": "Data Scientist, Finance",
-        "company": "Ramp",
-        "location": "Remote",
-        "job_type": "FullTime, Data",
-        "url": "https://jobs.ashbyhq.com/ramp/aa5512b1-d973-4d74-9d10-d56446ecf803",
-        "source": "Ashby",
-        "published_at": "2026-08-11T16:02:54.137000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-frontend-engineer-full-stack-germany-21527",
-        "title": "Senior Frontend Engineer (Full-stack)",
-        "company": "Soda Data Nv",
-        "location": "Germany",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-frontend-engineer-full-stack-germany-21527",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-12T08:20:13+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-backend-infrastructure-engineer-platform-germany-169316",
-        "title": "Senior Backend + Infrastructure Engineer (Platform)",
-        "company": "Soda Data Nv",
-        "location": "Germany",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-backend-infrastructure-engineer-platform-germany-169316",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-12T08:20:13+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-7c1cd1ec-47a9-4d15-8eb9-2f44272db796",
         "title": "Product Designer, GenUI",
         "company": "OpenAI",
@@ -283,28 +217,6 @@
         "url": "https://job-boards.greenhouse.io/reddit/jobs/8122887",
         "source": "Greenhouse",
         "published_at": "2026-08-11T17:33:21-04:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-2ddd97a8-70b2-4030-ba42-21124ad304d3",
-        "title": "Associate Manager, Premier Support (Customer Experience)",
-        "company": "Ramp",
-        "location": "Remote",
-        "job_type": "FullTime, Customer Experience",
-        "url": "https://jobs.ashbyhq.com/ramp/2ddd97a8-70b2-4030-ba42-21124ad304d3",
-        "source": "Ashby",
-        "published_at": "2026-08-11T17:23:19.988000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-social-media-manager-schwerpunkt-tiktok-content-vollzeit-100-homeoffice-grafschaft-308402",
-        "title": "Social Media Manager (m/w/d) - Schwerpunkt TikTok Content - Vollzeit, 100 % Homeoffice",
-        "company": "Nutrition-Plus Germany e.K.",
-        "location": "Grafschaft",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/nutrition-plus-germany-ek/social-media-manager-schwerpunkt-tiktok-content-vollzeit-100-homeoffice-grafschaft-308402",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-12T07:30:30+00:00",
         "remote": true
     }
 ]

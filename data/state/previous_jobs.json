@@ -1,16 +1,5 @@
 [
     {
-        "id": "arbeitnow-remote-qa-automation-engineer-idea-ultimate-qa-51359",
-        "title": "QA Automation Engineer (IDEA Ultimate QA)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-qa-automation-engineer-idea-ultimate-qa-51359",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-11T20:55:29+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-a23bd45a-e192-460d-bd34-a0f6c4bc6865",
         "title": "Backend Software Engineer - Codex for Finance",
         "company": "OpenAI",
@@ -44,36 +33,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-ml-engineer-berlin-374215",
-        "title": "AI / ML Engineer (m/w/d)",
-        "company": "Recare Deutschland GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-ai-ml-engineer-berlin-374215",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-11T23:30:16+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-ai-platform-233825",
-        "title": "Senior Software Engineer (AI Platform) (m/f/d)",
-        "company": "Auxmoney Gmbh",
-        "location": "Remote / Düsseldorf",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-ai-platform-233825",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-11T23:09:39+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-ai-engineer-346263",
-        "title": "Senior AI Engineer (m/w/d)",
-        "company": "Auxmoney Gmbh",
-        "location": "Remote / Düsseldorf",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-ai-engineer-346263",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-11T23:09:39+00:00",
+        "id": "greenhouse-6473315002",
+        "title": "Senior Software Engineer (Typescript), AI Clients: Duo CLI",
+        "company": "GitLab",
+        "location": "Remote, Poland; Remote, United Kingdom",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8693103002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-12T06:18:36-04:00",
         "remote": true
     },
     {
@@ -110,17 +77,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-solution-architect-300168",
-        "title": "AI Solution Architect (w/m/d)",
-        "company": "Virtual Solution Ag",
-        "location": "Remote in Germany",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual-solution-ag/remote-ai-solution-architect-300168",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-11T17:09:17+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-60b966d1-9c7f-4f61-b05e-7bda3e0b0a69",
         "title": "Technical Program Manager, AI Safety & Safeguards",
         "company": "OpenAI",
@@ -154,6 +110,28 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-devops-cloud-engineer-konstanz-berlin-oder-remote-104284",
+        "title": "DevOps & Cloud Engineer (m/w/d) - Konstanz, Berlin oder remote",
+        "company": "Seitenbau Gmbh",
+        "location": "Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/devops-cloud-engineer-konstanz-berlin-oder-remote-104284",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T09:09:06+00:00",
+        "remote": false
+    },
+    {
+        "id": "greenhouse-6468814002",
+        "title": "Senior Backend Engineer (Ruby), Plan: Spec-Driven Development",
+        "company": "GitLab",
+        "location": "Remote, Poland; Remote, United Kingdom",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8682860002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-12T04:18:04-04:00",
+        "remote": true
+    },
+    {
         "id": "ashby-6a3f42e6-00d6-4e9d-9caa-9663ffac6d53",
         "title": "Technical Consultant, Enterprise, Oracle Cloud",
         "company": "Ramp",
@@ -163,6 +141,61 @@
         "source": "Ashby",
         "published_at": "2026-08-11T17:30:41.629000+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-technical-product-managerin-ai-operations-in-einem-ki-start-up-koln-432369",
+        "title": "Technical Product Manager:in AI & Operations (m/w/d) in einem KI-Start-up",
+        "company": "GrowInTheRole",
+        "location": "Köln",
+        "job_type": "teamleitung",
+        "url": "https://www.arbeitnow.com/jobs/companies/growintherole/technical-product-managerin-ai-operations-in-einem-ki-start-up-koln-432369",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T08:30:50+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-full-stack-engineer-backend-frontend-germany-88363",
+        "title": "Senior Full-Stack Engineer (Backend + Frontend)",
+        "company": "Soda Data Nv",
+        "location": "Germany",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-full-stack-engineer-backend-frontend-germany-88363",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T08:20:13+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-fullstack-developer-hamburg-361101",
+        "title": "Fullstack Developer (m/w/d)",
+        "company": "Metanoia IT Solutions GmbH",
+        "location": "Hamburg",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/metanoia-it-solutions-gmbh/fullstack-developer-hamburg-361101",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T11:30:46+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-site-reliability-engineer-konstanz-berlin-oder-remote-382272",
+        "title": "Site Reliability Engineer (m/w/d) – Konstanz, Berlin oder remote",
+        "company": "Seitenbau Gmbh",
+        "location": "Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/site-reliability-engineer-konstanz-berlin-oder-remote-382272",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T09:09:06+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-senior-java-developer-konstanz-berlin-oder-remote-146101",
+        "title": "Senior Java Developer (m/w/d) - Konstanz, Berlin oder remote",
+        "company": "Seitenbau Gmbh",
+        "location": "Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/senior-java-developer-konstanz-berlin-oder-remote-146101",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T09:09:06+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3518576",
@@ -209,14 +242,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-cloud-engineer-azure-hamburg-183946",
-        "title": "Cloud Engineer (m/w/d) Azure",
-        "company": "group24 AG",
-        "location": "Hamburg",
+        "id": "arbeitnow-remote-senior-frontend-engineer-full-stack-germany-21527",
+        "title": "Senior Frontend Engineer (Full-stack)",
+        "company": "Soda Data Nv",
+        "location": "Germany",
         "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/group24-ag/cloud-engineer-azure-hamburg-183946",
+        "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-frontend-engineer-full-stack-germany-21527",
         "source": "Arbeitnow",
-        "published_at": "2026-08-11T16:30:36+00:00",
+        "published_at": "2026-08-12T08:20:13+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-backend-infrastructure-engineer-platform-germany-169316",
+        "title": "Senior Backend + Infrastructure Engineer (Platform)",
+        "company": "Soda Data Nv",
+        "location": "Germany",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-backend-infrastructure-engineer-platform-germany-169316",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T08:20:13+00:00",
         "remote": true
     },
     {
@@ -250,6 +294,17 @@
         "url": "https://jobs.ashbyhq.com/ramp/2ddd97a8-70b2-4030-ba42-21124ad304d3",
         "source": "Ashby",
         "published_at": "2026-08-11T17:23:19.988000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-social-media-manager-schwerpunkt-tiktok-content-vollzeit-100-homeoffice-grafschaft-308402",
+        "title": "Social Media Manager (m/w/d) - Schwerpunkt TikTok Content - Vollzeit, 100 % Homeoffice",
+        "company": "Nutrition-Plus Germany e.K.",
+        "location": "Grafschaft",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/nutrition-plus-germany-ek/social-media-manager-schwerpunkt-tiktok-content-vollzeit-100-homeoffice-grafschaft-308402",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T07:30:30+00:00",
         "remote": true
     }
 ]

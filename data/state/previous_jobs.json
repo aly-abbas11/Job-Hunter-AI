@@ -1,13 +1,35 @@
 [
     {
-        "id": "ashby-a23bd45a-e192-460d-bd34-a0f6c4bc6865",
-        "title": "Backend Software Engineer - Codex for Finance",
+        "id": "greenhouse-3519451",
+        "title": "Senior Frontend Engineer, Agent Core Products",
+        "company": "Airbnb",
+        "location": "Remote, USA",
+        "job_type": "Full Time",
+        "url": "https://careers.airbnb.com/positions/8127109?gh_jid=8127109",
+        "source": "Greenhouse",
+        "published_at": "2026-08-12T21:11:49-04:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-9e39d642-6c78-4c21-bc86-49b1773c933c",
+        "title": "Forward Deployed Engineer - Sydney",
         "company": "OpenAI",
         "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/a23bd45a-e192-460d-bd34-a0f6c4bc6865",
+        "job_type": "FullTime, Forward Deployed Engineering",
+        "url": "https://jobs.ashbyhq.com/openai/9e39d642-6c78-4c21-bc86-49b1773c933c",
         "source": "Ashby",
-        "published_at": "2026-08-11T19:23:49.234000+00:00",
+        "published_at": "2026-08-13T00:27:14.140000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-5c5cfcff-91c8-4181-b30d-2ab9b0091539",
+        "title": "GTM Strategy & Operations, Overlay",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/5c5cfcff-91c8-4181-b30d-2ab9b0091539",
+        "source": "Ashby",
+        "published_at": "2026-08-12T21:44:06.639000+00:00",
         "remote": true
     },
     {
@@ -44,17 +66,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-forward-deployed-ai-engineer-birmingham-416431",
-        "title": "Forward Deployed AI Engineer",
-        "company": "gravity9",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gravity9/remote-forward-deployed-ai-engineer-birmingham-416431",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-12T15:30:19+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-140a4a88-1d0f-4d30-abae-a35a19618fe6",
         "title": "Manager, Partner Applied AI Engineering (AWS)",
         "company": "OpenAI",
@@ -77,37 +88,15 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3517899",
-        "title": "Senior Manager, Legal Technology, Operations & AI Enablement",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+        "id": "arbeitnow-remote-senior-software-engineer-rust-go-python-41151",
+        "title": "Senior Software Engineer (Rust/Go/Python)",
+        "company": "Berlitz",
+        "location": "Germany Remote",
         "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8122333",
-        "source": "Greenhouse",
-        "published_at": "2026-08-11T17:11:20-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3517899",
-        "title": "Senior Manager, Legal Technology, Operations & AI Enablement",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8122176",
-        "source": "Greenhouse",
-        "published_at": "2026-08-11T17:11:19-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6475328002",
-        "title": "Senior Fullstack Engineer, Marketing",
-        "company": "GitLab",
-        "location": "Remote, United Kingdom",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8697493002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-11T18:50:24-04:00",
-        "remote": true
+        "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-senior-software-engineer-rust-go-python-41151",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T20:40:10+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-6468814002",
@@ -121,6 +110,138 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-336398",
+        "title": "AI Solution Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-336398",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T20:30:23+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3519412",
+        "title": "Staff Android Engineer, Brand Ad Formats",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-12T19:32:32-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-staff-senior-software-engineer-all-genders-berlin-329891",
+        "title": "Staff / Senior Software Engineer (all genders)",
+        "company": "Distribusion Technologies",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-staff-senior-software-engineer-all-genders-berlin-329891",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T23:30:15+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3275825",
+        "title": "Senior Machine Learning Infrastructure Engineer, Embedding Platform",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8127022",
+        "source": "Greenhouse",
+        "published_at": "2026-08-12T19:02:49-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3275825",
+        "title": "Staff Machine Learning Infrastructure Engineer, Embedding Platform",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8126982",
+        "source": "Greenhouse",
+        "published_at": "2026-08-12T18:33:37-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3510961",
+        "title": "Senior Data Scientist, Ads",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8104403",
+        "source": "Greenhouse",
+        "published_at": "2026-08-12T18:32:15-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3519397",
+        "title": "Senior Data Scientist - Consumer",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8126946",
+        "source": "Greenhouse",
+        "published_at": "2026-08-12T18:19:55-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-mobile-react-native-376056",
+        "title": "Senior Software Engineer (Mobile / React Native)",
+        "company": "Berlitz",
+        "location": "Germany Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-senior-software-engineer-mobile-react-native-376056",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T20:40:10+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-machine-learning-engineer-284220",
+        "title": "Senior Machine Learning Engineer",
+        "company": "Berlitz",
+        "location": "Germany Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-senior-machine-learning-engineer-284220",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T20:40:10+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-data-scientist-berlin-323426",
+        "title": "Senior Data Scientist (m/f/x)",
+        "company": "Makersite GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-323426",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T20:30:26+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-staff-software-engineer-413081",
+        "title": "Staff Software Engineer (m/w/d)",
+        "company": "Conceptboard",
+        "location": "Stuttgart / Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/conceptboard/remote-staff-software-engineer-413081",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T20:09:05+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-310876",
+        "title": "Senior Software Engineer (m/w/d)",
+        "company": "Conceptboard",
+        "location": "Stuttgart / Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/conceptboard/remote-senior-software-engineer-310876",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T20:09:05+00:00",
+        "remote": false
+    },
+    {
         "id": "greenhouse-3426116",
         "title": "Senior Data Engineer II, Finance",
         "company": "Instacart",
@@ -129,28 +250,6 @@
         "url": "https://instacart.careers/job/?gh_jid=8126023",
         "source": "Greenhouse",
         "published_at": "2026-08-12T12:58:43-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-talent-acquisition-partner-technology-product-software-engineering-193061",
-        "title": "Senior Talent Acquisition Partner - Technology (Product & Software Engineering)",
-        "company": "The Rec Hub",
-        "location": "UK Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/the-rec-hub/remote-senior-talent-acquisition-partner-technology-product-software-engineering-193061",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-12T15:40:16+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-forward-deployed-engineer-gilching-471511",
-        "title": "Forward Deployed Engineer (m/f/d)",
-        "company": "Quantum-Systems GmbH",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-forward-deployed-engineer-gilching-471511",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-12T14:30:10+00:00",
         "remote": true
     },
     {
@@ -176,47 +275,47 @@
         "remote": true
     },
     {
-        "id": "greenhouse-6475188002",
-        "title": "Principal Program Manager, Go-To-Market",
-        "company": "GitLab",
-        "location": "Remote, Canada; Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8697215002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-11T17:49:44-04:00",
+        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-33746",
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-33746",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T20:30:23+00:00",
         "remote": true
     },
     {
-        "id": "greenhouse-3518047",
-        "title": "Senior Staff Machine Learning Engineer, Feed Relevance",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8122606",
-        "source": "Greenhouse",
-        "published_at": "2026-08-11T16:29:13-04:00",
+        "id": "arbeitnow-copy-writer-hamburg-71306",
+        "title": "Copy Writer (m/w/d)",
+        "company": "BrainersHub GmbH",
+        "location": "Hamburg",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/brainershub-gmbh/copy-writer-hamburg-71306",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T20:30:31+00:00",
         "remote": true
     },
     {
-        "id": "ashby-7c1cd1ec-47a9-4d15-8eb9-2f44272db796",
-        "title": "Product Designer, GenUI",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Product Design",
-        "url": "https://jobs.ashbyhq.com/openai/7c1cd1ec-47a9-4d15-8eb9-2f44272db796",
-        "source": "Ashby",
-        "published_at": "2026-08-11T23:46:58.918000+00:00",
+        "id": "greenhouse-3519373",
+        "title": "Product Designer II, Design Systems",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8126896?gh_jid=8126896",
+        "source": "Greenhouse",
+        "published_at": "2026-08-12T17:41:17-04:00",
         "remote": true
     },
     {
-        "id": "greenhouse-3518158",
-        "title": "Principal UX Engineer, Ads",
-        "company": "Reddit",
-        "location": "Remote - United States",
+        "id": "arbeitnow-remote-staff-product-designer-enterprise-products-376214",
+        "title": "Staff Product Designer, Enterprise Products",
+        "company": "Berlitz",
+        "location": "Germany Remote",
         "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8122887",
-        "source": "Greenhouse",
-        "published_at": "2026-08-11T17:33:21-04:00",
-        "remote": true
+        "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-staff-product-designer-enterprise-products-376214",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-12T20:40:10+00:00",
+        "remote": false
     }
 ]

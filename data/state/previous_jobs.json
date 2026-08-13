@@ -1,5 +1,27 @@
 [
     {
+        "id": "arbeitnow-remote-junior-data-engineer-data-platform-472883",
+        "title": "(Junior) Data Engineer - Data Platform (m/f/d)",
+        "company": "1Komma5Grad",
+        "location": "Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-472883",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-13T03:09:29+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-qa-engineer-ai-driven-testing-209817",
+        "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
+        "company": "1Komma5Grad",
+        "location": "Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-qa-engineer-ai-driven-testing-209817",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-13T03:09:29+00:00",
+        "remote": false
+    },
+    {
         "id": "greenhouse-3519451",
         "title": "Senior Frontend Engineer, Agent Core Products",
         "company": "Airbnb",
@@ -8,6 +30,28 @@
         "url": "https://careers.airbnb.com/positions/8127109?gh_jid=8127109",
         "source": "Greenhouse",
         "published_at": "2026-08-12T21:11:49-04:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-a547274b-246c-41a0-8590-a874fcc6f28b",
+        "title": "PCBA Manufacturing Engineer",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Scaling",
+        "url": "https://jobs.ashbyhq.com/openai/a547274b-246c-41a0-8590-a874fcc6f28b",
+        "source": "Ashby",
+        "published_at": "2026-08-13T04:29:16.509000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-d9b730a4-ee24-4d18-bb46-d8111591c6d2",
+        "title": "Engineering Manager, Artifacts",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/d9b730a4-ee24-4d18-bb46-d8111591c6d2",
+        "source": "Ashby",
+        "published_at": "2026-08-13T03:32:28.784000+00:00",
         "remote": true
     },
     {
@@ -30,17 +74,6 @@
         "url": "https://jobs.ashbyhq.com/openai/5c5cfcff-91c8-4181-b30d-2ab9b0091539",
         "source": "Ashby",
         "published_at": "2026-08-12T21:44:06.639000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-founding-g2m-sales-manager-dach-nordics-gn-at-ai-digital-defense-venture-germany-berlin-71448",
-        "title": "Founding G2M & Sales Manager - DACH & Nordics (gn) @ AI Digital Defense Venture, Germany",
-        "company": "atlantic.vc",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/remote-founding-g2m-sales-manager-dach-nordics-gn-at-ai-digital-defense-venture-germany-berlin-71448",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-12T17:30:05+00:00",
         "remote": true
     },
     {
@@ -119,6 +152,17 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-12T20:30:23+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-analytics-engineer-166034",
+        "title": "(Senior) Analytics Engineer (m/f/d)",
+        "company": "1Komma5Grad",
+        "location": "Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-analytics-engineer-166034",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-13T03:09:29+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3519412",
@@ -261,17 +305,6 @@
         "url": "https://job-boards.greenhouse.io/reddit/jobs/8125507",
         "source": "Greenhouse",
         "published_at": "2026-08-12T10:09:24-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3518576",
-        "title": "Senior Engineering Manager, Core Automation (Platform)",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8124224?gh_jid=8124224",
-        "source": "Greenhouse",
-        "published_at": "2026-08-12T01:44:55-04:00",
         "remote": true
     },
     {

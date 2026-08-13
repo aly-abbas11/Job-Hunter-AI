@@ -1,14 +1,14 @@
 [
     {
-        "id": "arbeitnow-remote-junior-data-engineer-data-platform-472883",
-        "title": "(Junior) Data Engineer - Data Platform (m/f/d)",
-        "company": "1Komma5Grad",
+        "id": "ashby-9a6a2f08-d4ef-400b-a765-48b7dab42cc9",
+        "title": "Technical Program Manager, Cloud AI Partnerships",
+        "company": "OpenAI",
         "location": "Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-472883",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-13T03:09:29+00:00",
-        "remote": false
+        "job_type": "FullTime, Technical Program Management",
+        "url": "https://jobs.ashbyhq.com/openai/9a6a2f08-d4ef-400b-a765-48b7dab42cc9",
+        "source": "Ashby",
+        "published_at": "2026-08-13T16:47:44.249000+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-senior-cloud-security-engineer-ai-resilience-security-enhancements-contract-289016",
@@ -22,26 +22,37 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-qa-engineer-ai-driven-testing-209817",
-        "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
-        "company": "1Komma5Grad",
+        "id": "ashby-099dd6af-b017-4a60-85d5-4c79da3a9ead",
+        "title": "Full Stack Software Engineer - Codex for Finance",
+        "company": "OpenAI",
         "location": "Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-qa-engineer-ai-driven-testing-209817",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/099dd6af-b017-4a60-85d5-4c79da3a9ead",
+        "source": "Ashby",
+        "published_at": "2026-08-13T16:31:47.234000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-typescript-ai-clients-duo-cli-38806",
+        "title": "Senior Software Engineer (Typescript), AI Clients: Duo CLI",
+        "company": "Gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-software-engineer-typescript-ai-clients-duo-cli-38806",
         "source": "Arbeitnow",
-        "published_at": "2026-08-13T03:09:29+00:00",
+        "published_at": "2026-08-13T15:55:43+00:00",
         "remote": false
     },
     {
-        "id": "greenhouse-3519451",
-        "title": "Senior Frontend Engineer, Agent Core Products",
-        "company": "Airbnb",
-        "location": "Remote, USA",
-        "job_type": "Full Time",
-        "url": "https://careers.airbnb.com/positions/8127109?gh_jid=8127109",
-        "source": "Greenhouse",
-        "published_at": "2026-08-12T21:11:49-04:00",
-        "remote": true
+        "id": "arbeitnow-remote-staff-engineer-heartbeat-ai-452463",
+        "title": "Staff Engineer - Heartbeat AI (m/f/d)",
+        "company": "1Komma5Grad",
+        "location": "Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-staff-engineer-heartbeat-ai-452463",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-13T15:09:11+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-senior-software-engineer-go-ai-resilience-security-enhancements-contract-468060",
@@ -88,6 +99,17 @@
         "remote": true
     },
     {
+        "id": "greenhouse-3519451",
+        "title": "Senior Software Engineer, Agent Core Products",
+        "company": "Airbnb",
+        "location": "Remote, USA",
+        "job_type": "Full Time",
+        "url": "https://careers.airbnb.com/positions/8127109?gh_jid=8127109",
+        "source": "Greenhouse",
+        "published_at": "2026-08-12T21:11:49-04:00",
+        "remote": true
+    },
+    {
         "id": "ashby-9e39d642-6c78-4c21-bc86-49b1773c933c",
         "title": "Forward Deployed Engineer - Sydney",
         "company": "OpenAI",
@@ -110,81 +132,59 @@
         "remote": true
     },
     {
-        "id": "ashby-0b57e309-426d-4f5c-a28c-6dd941b84703",
-        "title": "Machine Learning Data Scientist, Forecasting",
-        "company": "OpenAI",
+        "id": "arbeitnow-remote-senior-fullstack-engineer-marketing-161959",
+        "title": "Senior Fullstack Engineer, Marketing",
+        "company": "Gitlab",
         "location": "Remote",
-        "job_type": "FullTime, Data Science",
-        "url": "https://jobs.ashbyhq.com/openai/0b57e309-426d-4f5c-a28c-6dd941b84703",
-        "source": "Ashby",
-        "published_at": "2026-08-12T17:04:27.481000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-f8b84ae5-743b-41c9-8432-02dff9993d6b",
-        "title": "Software Engineer, GPU Infrastructure- ChatGPT Engineering",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/f8b84ae5-743b-41c9-8432-02dff9993d6b",
-        "source": "Ashby",
-        "published_at": "2026-08-12T16:29:53.971000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-140a4a88-1d0f-4d30-abae-a35a19618fe6",
-        "title": "Manager, Partner Applied AI Engineering (AWS)",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/140a4a88-1d0f-4d30-abae-a35a19618fe6",
-        "source": "Ashby",
-        "published_at": "2026-08-12T15:23:47.237000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-ai-developer-hamburg-381069",
-        "title": "AI Developer (m/w/d)",
-        "company": "Metanoia IT Solutions GmbH",
-        "location": "Hamburg",
         "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/metanoia-it-solutions-gmbh/ai-developer-hamburg-381069",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-fullstack-engineer-marketing-161959",
         "source": "Arbeitnow",
-        "published_at": "2026-08-13T11:30:41+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-data-analyst-german-10864",
-        "title": "Data Analyst (German)",
-        "company": "Economicmodeling",
-        "location": "Remote - Germany",
-        "job_type": "Contract",
-        "url": "https://www.arbeitnow.com/jobs/companies/economicmodeling/remote-data-analyst-german-10864",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-13T11:04:53+00:00",
+        "published_at": "2026-08-13T15:55:43+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-senior-software-developer-python-haltern-am-see-285434",
-        "title": "Senior Software Developer: Python (m/w/d)",
-        "company": "sync.blue® GmbH",
-        "location": "Haltern am See",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/syncblue-gmbh/senior-software-developer-python-haltern-am-see-285434",
+        "id": "arbeitnow-senior-go-kubernetes-developer-cloud-edge-infrastructure-freelance-remote-bonn-235710",
+        "title": "Senior Go / Kubernetes Developer - Cloud & Edge Infrastructure (Freelance, Remote)",
+        "company": "Sidekick Network GmbH & Co. KG",
+        "location": "Bonn",
+        "job_type": "Freelance, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-go-kubernetes-developer-cloud-edge-infrastructure-freelance-remote-bonn-235710",
         "source": "Arbeitnow",
-        "published_at": "2026-08-13T09:00:42+00:00",
+        "published_at": "2026-08-13T16:00:33+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-analytics-engineer-166034",
-        "title": "(Senior) Analytics Engineer (m/f/d)",
+        "id": "arbeitnow-remote-senior-backend-engineer-ruby-plan-spec-driven-development-221835",
+        "title": "Senior Backend Engineer (Ruby), Plan: Spec-Driven Development",
+        "company": "Gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-ruby-plan-spec-driven-development-221835",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-13T15:55:43+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-staff-engineer-virtual-assembly-line-112974",
+        "title": "Staff Engineer - Virtual Assembly Line (m/f/d)",
         "company": "1Komma5Grad",
         "location": "Remote",
         "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-analytics-engineer-166034",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-staff-engineer-virtual-assembly-line-112974",
         "source": "Arbeitnow",
-        "published_at": "2026-08-13T03:09:29+00:00",
+        "published_at": "2026-08-13T15:09:11+00:00",
         "remote": false
+    },
+    {
+        "id": "greenhouse-3519270",
+        "title": "Senior Sales Engineer - Majors (West)",
+        "company": "Datadog",
+        "location": "California, USA, Remote",
+        "job_type": "Full Time",
+        "url": "https://careers.datadoghq.com/detail/8126596/?gh_jid=8126596",
+        "source": "Greenhouse",
+        "published_at": "2026-08-13T10:00:23-04:00",
+        "remote": true
     },
     {
         "id": "greenhouse-3519412",
@@ -242,25 +242,14 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3426116",
-        "title": "Senior Data Engineer II, Finance",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8126023",
-        "source": "Greenhouse",
-        "published_at": "2026-08-12T12:58:43-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3518919",
-        "title": "Senior Machine Learning Manager, Video Ranking",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8125507",
-        "source": "Greenhouse",
-        "published_at": "2026-08-12T10:09:24-04:00",
+        "id": "arbeitnow-it-security-experte-incident-response-dlp-munich-455340",
+        "title": "IT Security Experte (m/w/d) Incident Response & DLP",
+        "company": "Mandl. Executives & Experts",
+        "location": "Munich",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/mandl-executives-experts/it-security-experte-incident-response-dlp-munich-455340",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-13T13:30:26+00:00",
         "remote": true
     },
     {
@@ -275,14 +264,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-marketing-designer-berlin-215303",
-        "title": "Senior Marketing Designer (m/f/d)",
-        "company": "Onepage GmbH",
-        "location": "Berlin",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/onepage-gmbh/senior-marketing-designer-berlin-215303",
+        "id": "arbeitnow-customer-service-accounting-werkstudent-cologne-65877",
+        "title": "Customer Service & Accounting Werkstudent (m/w/d)",
+        "company": "BC Better Cakez GmbH",
+        "location": "Cologne",
+        "job_type": "Working student, hilfstätigkeit / student",
+        "url": "https://www.arbeitnow.com/jobs/companies/bc-better-cakez-gmbh/customer-service-accounting-werkstudent-cologne-65877",
         "source": "Arbeitnow",
-        "published_at": "2026-08-13T09:00:41+00:00",
+        "published_at": "2026-08-13T15:00:24+00:00",
         "remote": true
     }
 ]

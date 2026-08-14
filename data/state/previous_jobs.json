@@ -1,24 +1,13 @@
 [
     {
-        "id": "ashby-9a6a2f08-d4ef-400b-a765-48b7dab42cc9",
-        "title": "Technical Program Manager, Cloud AI Partnerships",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Technical Program Management",
-        "url": "https://jobs.ashbyhq.com/openai/9a6a2f08-d4ef-400b-a765-48b7dab42cc9",
-        "source": "Ashby",
-        "published_at": "2026-08-13T16:47:44.249000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-ai-data-platform-engineer-berlin-232493",
-        "title": "Senior AI Data Platform Engineer (m/w/d)",
-        "company": "Recare Deutschland GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime fixed term",
-        "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-ai-data-platform-engineer-berlin-232493",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-14T08:30:19+00:00",
+        "id": "greenhouse-3518197",
+        "title": "Senior Data Scientist - Payments (Inference)",
+        "company": "Airbnb",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://careers.airbnb.com/positions/8123037?gh_jid=8123037",
+        "source": "Greenhouse",
+        "published_at": "2026-08-14T13:25:31-04:00",
         "remote": true
     },
     {
@@ -44,17 +33,6 @@
         "remote": true
     },
     {
-        "id": "ashby-099dd6af-b017-4a60-85d5-4c79da3a9ead",
-        "title": "Full Stack Software Engineer - Codex for Finance",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/099dd6af-b017-4a60-85d5-4c79da3a9ead",
-        "source": "Ashby",
-        "published_at": "2026-08-13T16:31:47.234000+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-data-python-software-engineer-235366",
         "title": "Senior Data & Python Software Engineer",
         "company": "Ceartas",
@@ -66,26 +44,26 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-frontend-engineer-vue-create-repository-management-117677",
-        "title": "Senior Frontend Engineer (Vue), Create:  Repository Management",
-        "company": "Gitlab",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-frontend-engineer-vue-create-repository-management-117677",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-14T03:55:20+00:00",
-        "remote": false
+        "id": "greenhouse-6483846002",
+        "title": "Senior Backend Engineer",
+        "company": "GitLab",
+        "location": "Remote, Poland; Remote, United Kingdom",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8716138002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-14T14:16:35-04:00",
+        "remote": true
     },
     {
-        "id": "arbeitnow-remote-backend-engineer-create-repository-management-ruby-450092",
-        "title": "Backend Engineer, Create: Repository Management (Ruby)",
-        "company": "Gitlab",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-create-repository-management-ruby-450092",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-14T03:55:20+00:00",
-        "remote": false
+        "id": "greenhouse-6483785002",
+        "title": "Senior Backend Engineer",
+        "company": "GitLab",
+        "location": "Remote, Canada; Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8715968002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-14T14:16:33-04:00",
+        "remote": true
     },
     {
         "id": "greenhouse-3520097",
@@ -96,39 +74,6 @@
         "url": "https://job-boards.greenhouse.io/reddit/jobs/8128860",
         "source": "Greenhouse",
         "published_at": "2026-08-13T20:24:47-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6471044002",
-        "title": "Backend Engineer, Source Code Experience (Ruby)",
-        "company": "GitLab",
-        "location": "Remote, Canada",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687926002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-13T15:59:22-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6471038002",
-        "title": "Senior Backend Engineer, Create: Source Code Experience (Ruby)",
-        "company": "GitLab",
-        "location": "Remote, Canada",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687910002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-13T15:50:29-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6471047002",
-        "title": "Backend Engineer, Create: Repository Management (Ruby)",
-        "company": "GitLab",
-        "location": "Remote, United Kingdom",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687932002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-13T15:43:32-04:00",
         "remote": true
     },
     {
@@ -143,6 +88,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-no-code-developer-100-remote-bubbleio-potsdam-438646",
+        "title": "No-Code Developer 100% Remote | Bubble.io (m/w/d)",
+        "company": "ALPHA Software GmbH",
+        "location": "Potsdam",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/alpha-software-gmbh/no-code-developer-100-remote-bubbleio-potsdam-438646",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-14T15:30:33+00:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-3517800",
         "title": "Site Reliability Engineer II",
         "company": "Instacart",
@@ -154,25 +110,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-fullstack-software-engineer-mid-level-munich-130496",
-        "title": "Fullstack Software Engineer (m/f/d) - Mid Level",
-        "company": "Beglaubigt.de",
-        "location": "Munich",
-        "job_type": "professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/beglaubigtde/fullstack-software-engineer-mid-level-munich-130496",
+        "id": "arbeitnow-senior-cloud-native-engineer-openstack-networking-nuremberg-49424",
+        "title": "Senior Cloud Native Engineer (OpenStack & Networking) (m/w/d)",
+        "company": "noris network AG",
+        "location": "Nuremberg",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/noris-network-ag/senior-cloud-native-engineer-openstack-networking-nuremberg-49424",
         "source": "Arbeitnow",
-        "published_at": "2026-08-14T09:30:28+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3519270",
-        "title": "Senior Sales Engineer - Majors (West)",
-        "company": "Datadog",
-        "location": "California, USA, Remote",
-        "job_type": "Full Time",
-        "url": "https://careers.datadoghq.com/detail/8126596/?gh_jid=8126596",
-        "source": "Greenhouse",
-        "published_at": "2026-08-13T10:00:23-04:00",
+        "published_at": "2026-08-14T12:30:25+00:00",
         "remote": true
     },
     {
@@ -198,6 +143,28 @@
         "remote": true
     },
     {
+        "id": "ashby-d5de4cd0-9c4e-4266-93f2-8c1d5fc4a912",
+        "title": "Product Designer, Identity",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Product Design",
+        "url": "https://jobs.ashbyhq.com/openai/d5de4cd0-9c4e-4266-93f2-8c1d5fc4a912",
+        "source": "Ashby",
+        "published_at": "2026-08-14T17:20:34.839000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-c6cb3f11-8e1f-4e34-b407-6a3327e39f2e",
+        "title": "Product Marketing Manager, IT Admin and Governance",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Marketing",
+        "url": "https://jobs.ashbyhq.com/openai/c6cb3f11-8e1f-4e34-b407-6a3327e39f2e",
+        "source": "Ashby",
+        "published_at": "2026-08-14T16:31:19.176000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-7c1cd1ec-47a9-4d15-8eb9-2f44272db796",
         "title": "Product Designer, Design Systems",
         "company": "OpenAI",
@@ -206,28 +173,6 @@
         "url": "https://jobs.ashbyhq.com/openai/7c1cd1ec-47a9-4d15-8eb9-2f44272db796",
         "source": "Ashby",
         "published_at": "2026-08-14T00:14:37.160000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-customer-support-associate-apac-london-65958",
-        "title": "Customer Support Associate - APAC",
-        "company": "Synthesia",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/customer-support-associate-apac-london-65958",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-14T03:40:21+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-freelance-creative-content-writer-slovakian-sk-berlin-398171",
-        "title": "Freelance Creative Content Writer (f/m/x) - Slovakian SK",
-        "company": "homify GmbH & Co. KG",
-        "location": "Berlin",
-        "job_type": "Freelance, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/homify-gmbh-co-kg/freelance-creative-content-writer-slovakian-sk-berlin-398171",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-14T09:30:28+00:00",
         "remote": true
     }
 ]

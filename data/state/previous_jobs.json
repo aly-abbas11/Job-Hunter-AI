@@ -55,26 +55,26 @@
         "remote": true
     },
     {
-        "id": "ashby-a547274b-246c-41a0-8590-a874fcc6f28b",
-        "title": "PCBA Manufacturing Engineer",
-        "company": "OpenAI",
+        "id": "arbeitnow-remote-senior-frontend-engineer-vue-create-repository-management-117677",
+        "title": "Senior Frontend Engineer (Vue), Create:  Repository Management",
+        "company": "Gitlab",
         "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/a547274b-246c-41a0-8590-a874fcc6f28b",
-        "source": "Ashby",
-        "published_at": "2026-08-13T04:29:16.509000+00:00",
-        "remote": true
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-frontend-engineer-vue-create-repository-management-117677",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-14T03:55:20+00:00",
+        "remote": false
     },
     {
-        "id": "ashby-d9b730a4-ee24-4d18-bb46-d8111591c6d2",
-        "title": "Engineering Manager, Artifacts",
-        "company": "OpenAI",
+        "id": "arbeitnow-remote-backend-engineer-create-repository-management-ruby-450092",
+        "title": "Backend Engineer, Create: Repository Management (Ruby)",
+        "company": "Gitlab",
         "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/d9b730a4-ee24-4d18-bb46-d8111591c6d2",
-        "source": "Ashby",
-        "published_at": "2026-08-13T03:32:28.784000+00:00",
-        "remote": true
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-create-repository-management-ruby-450092",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-14T03:55:20+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3520097",
@@ -132,17 +132,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-go-kubernetes-developer-cloud-edge-infrastructure-freelance-remote-bonn-235710",
-        "title": "Senior Go / Kubernetes Developer - Cloud & Edge Infrastructure (Freelance, Remote)",
-        "company": "Sidekick Network GmbH & Co. KG",
-        "location": "Bonn",
-        "job_type": "Freelance, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-go-kubernetes-developer-cloud-edge-infrastructure-freelance-remote-bonn-235710",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-13T16:00:33+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3519270",
         "title": "Senior Sales Engineer - Majors (West)",
         "company": "Datadog",
@@ -151,6 +140,17 @@
         "url": "https://careers.datadoghq.com/detail/8126596/?gh_jid=8126596",
         "source": "Greenhouse",
         "published_at": "2026-08-13T10:00:23-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-mechanical-product-engineer-allgau-428718",
+        "title": "Senior Mechanical Product Engineer (m/w/d)",
+        "company": "ANGEHEUERT GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-senior-mechanical-product-engineer-allgau-428718",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-14T02:30:12+00:00",
         "remote": true
     },
     {
@@ -165,14 +165,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-customer-service-accounting-werkstudent-cologne-65877",
-        "title": "Customer Service & Accounting Werkstudent (m/w/d)",
-        "company": "BC Better Cakez GmbH",
-        "location": "Cologne",
-        "job_type": "Working student, hilfstätigkeit / student",
-        "url": "https://www.arbeitnow.com/jobs/companies/bc-better-cakez-gmbh/customer-service-accounting-werkstudent-cologne-65877",
+        "id": "arbeitnow-customer-support-associate-apac-london-65958",
+        "title": "Customer Support Associate - APAC",
+        "company": "Synthesia",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/customer-support-associate-apac-london-65958",
         "source": "Arbeitnow",
-        "published_at": "2026-08-13T15:00:24+00:00",
-        "remote": true
+        "published_at": "2026-08-14T03:40:21+00:00",
+        "remote": false
     }
 ]

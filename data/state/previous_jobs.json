@@ -11,6 +11,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-senior-ai-data-platform-engineer-berlin-232493",
+        "title": "Senior AI Data Platform Engineer (m/w/d)",
+        "company": "Recare Deutschland GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime fixed term",
+        "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-ai-data-platform-engineer-berlin-232493",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-14T08:30:19+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-9f78c41f-8d39-46c9-b9c3-c3b075905b24",
         "title": "Network Engineer",
         "company": "OpenAI",
@@ -44,15 +55,15 @@
         "remote": true
     },
     {
-        "id": "ashby-1798a993-6acc-4732-aba9-c843c495987c",
-        "title": "GTM Strategy & Operations Lead, Ads Solutions",
-        "company": "OpenAI",
+        "id": "arbeitnow-remote-senior-data-python-software-engineer-235366",
+        "title": "Senior Data & Python Software Engineer",
+        "company": "Ceartas",
         "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/1798a993-6acc-4732-aba9-c843c495987c",
-        "source": "Ashby",
-        "published_at": "2026-08-13T09:36:56.762000+00:00",
-        "remote": true
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ceartas/remote-senior-data-python-software-engineer-235366",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-14T09:40:11+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-senior-frontend-engineer-vue-create-repository-management-117677",
@@ -132,6 +143,28 @@
         "remote": true
     },
     {
+        "id": "greenhouse-3517800",
+        "title": "Site Reliability Engineer II",
+        "company": "Instacart",
+        "location": "United States - Remote",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8121910",
+        "source": "Greenhouse",
+        "published_at": "2026-08-14T08:19:33-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-fullstack-software-engineer-mid-level-munich-130496",
+        "title": "Fullstack Software Engineer (m/f/d) - Mid Level",
+        "company": "Beglaubigt.de",
+        "location": "Munich",
+        "job_type": "professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/beglaubigtde/fullstack-software-engineer-mid-level-munich-130496",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-14T09:30:28+00:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-3519270",
         "title": "Senior Sales Engineer - Majors (West)",
         "company": "Datadog",
@@ -143,14 +176,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-mechanical-product-engineer-allgau-428718",
-        "title": "Senior Mechanical Product Engineer (m/w/d)",
-        "company": "ANGEHEUERT GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-senior-mechanical-product-engineer-allgau-428718",
+        "id": "arbeitnow-software-testautomatisierer-mit-karriereambitionen-markt-indersdorf-241909",
+        "title": "Software Testautomatisierer (m/w/d) mit Karriereambitionen",
+        "company": "Auralis Group",
+        "location": "Markt Indersdorf",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/software-testautomatisierer-mit-karriereambitionen-markt-indersdorf-241909",
         "source": "Arbeitnow",
-        "published_at": "2026-08-14T02:30:12+00:00",
+        "published_at": "2026-08-14T12:00:28+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-241574",
+        "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+        "company": "Auralis Group",
+        "location": "Markt Indersdorf",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-241574",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-14T12:00:27+00:00",
         "remote": true
     },
     {
@@ -174,5 +218,16 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-14T03:40:21+00:00",
         "remote": false
+    },
+    {
+        "id": "arbeitnow-freelance-creative-content-writer-slovakian-sk-berlin-398171",
+        "title": "Freelance Creative Content Writer (f/m/x) - Slovakian SK",
+        "company": "homify GmbH & Co. KG",
+        "location": "Berlin",
+        "job_type": "Freelance, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/homify-gmbh-co-kg/freelance-creative-content-writer-slovakian-sk-berlin-398171",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-14T09:30:28+00:00",
+        "remote": true
     }
 ]

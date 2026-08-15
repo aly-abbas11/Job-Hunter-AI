@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-remote-security-advocate-ai-appsec-75786",
+        "title": "Security Advocate | AI AppSec",
+        "company": "Escape",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/escape/remote-security-advocate-ai-appsec-75786",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-15T09:40:17+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-0444c5bd-7109-4bec-ac3e-b974e6236365",
         "title": "Optical Interconnect System Engineer",
         "company": "OpenAI",
@@ -8,17 +19,6 @@
         "url": "https://jobs.ashbyhq.com/openai/0444c5bd-7109-4bec-ac3e-b974e6236365",
         "source": "Ashby",
         "published_at": "2026-08-15T02:34:16.324000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-security-advocate-ai-appsec-150685",
-        "title": "Security Advocate | AI AppSec",
-        "company": "Escape",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/escape/remote-security-advocate-ai-appsec-150685",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-14T23:40:13+00:00",
         "remote": true
     },
     {
@@ -110,17 +110,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-backend-engineer-111294",
-        "title": "Senior Backend Engineer",
-        "company": "Gitlab",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-111294",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-14T18:55:11+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-6483846002",
         "title": "Senior Backend Engineer",
         "company": "GitLab",
@@ -176,26 +165,26 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3517800",
-        "title": "Site Reliability Engineer II",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8121910",
-        "source": "Greenhouse",
-        "published_at": "2026-08-14T08:19:33-04:00",
+        "id": "arbeitnow-volunteer-junior-it-support-id105-munich-381364",
+        "title": "(Volunteer) Junior IT Support (f/m/d) (ID105)",
+        "company": "EUSMS gGmbH",
+        "location": "Munich",
+        "job_type": "Freelance",
+        "url": "https://www.arbeitnow.com/jobs/companies/eusms-ggmbh/volunteer-junior-it-support-id105-munich-381364",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-15T08:00:29+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-data-scientist-germany-475338",
-        "title": "Data Scientist",
-        "company": "Hilobyaktiia",
-        "location": "Germany",
-        "job_type": "Full time, mid-senior",
-        "url": "https://www.arbeitnow.com/jobs/companies/hilobyaktiia/remote-data-scientist-germany-475338",
+        "id": "arbeitnow-remote-senior-technical-writer-data-documentation-51174",
+        "title": "Senior Technical Writer (Data Documentation)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-technical-writer-data-documentation-51174",
         "source": "Arbeitnow",
-        "published_at": "2026-08-14T20:20:41+00:00",
-        "remote": true
+        "published_at": "2026-08-15T08:55:16+00:00",
+        "remote": false
     },
     {
         "id": "ashby-d7a7c653-19d8-43db-800e-ce4dd2abf9ec",

@@ -22,17 +22,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-security-advocate-ai-appsec-75786",
-        "title": "Security Advocate | AI AppSec",
-        "company": "Escape",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/escape/remote-security-advocate-ai-appsec-75786",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-15T09:40:17+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-senior-frontend-engineer-all-genders-245364",
         "title": "(Senior) Frontend Engineer (all genders)",
         "company": "Envelio",
@@ -41,6 +30,17 @@
         "url": "https://www.arbeitnow.com/jobs/companies/envelio/remote-senior-frontend-engineer-all-genders-245364",
         "source": "Arbeitnow",
         "published_at": "2026-08-15T14:09:06+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-team-lead-data-products-analytics-gn-162562",
+        "title": "Team Lead Data Products & Analytics (gn)",
+        "company": "Bikeleasing",
+        "location": "Remote Deutschland",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-team-lead-data-products-analytics-gn-162562",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-16T08:09:08+00:00",
         "remote": false
     },
     {
@@ -74,17 +74,6 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/ukcsc-principal-or-chartered-professional-security-architecture-london-403148",
         "source": "Arbeitnow",
         "published_at": "2026-08-15T18:30:43+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-founding-product-designer-bielefeld-417897",
-        "title": "Founding Product Designer",
-        "company": "paddy",
-        "location": "Bielefeld",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/paddy/founding-product-designer-bielefeld-417897",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-15T12:30:24+00:00",
         "remote": true
     }
 ]

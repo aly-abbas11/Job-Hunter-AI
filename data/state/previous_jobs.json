@@ -22,61 +22,6 @@
         "remote": true
     },
     {
-        "id": "ashby-1e68e5f6-6bda-4d11-89fd-4be731077031",
-        "title": "IT Software Architect, SaaS Enablement and Governance",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Security",
-        "url": "https://jobs.ashbyhq.com/openai/1e68e5f6-6bda-4d11-89fd-4be731077031",
-        "source": "Ashby",
-        "published_at": "2026-08-14T23:31:56.931000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-ca300a6d-a2a7-4580-aad7-323fbdfee7b1",
-        "title": "Software Engineer, Compute Infrastructure",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1",
-        "source": "Ashby",
-        "published_at": "2026-08-14T23:27:55.134000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-68b1e4ba-da3f-4712-ad14-8c12ebaa28a4",
-        "title": "Senior Counsel, AI Product (Enterprise/API)",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Legal",
-        "url": "https://jobs.ashbyhq.com/openai/68b1e4ba-da3f-4712-ad14-8c12ebaa28a4",
-        "source": "Ashby",
-        "published_at": "2026-08-14T22:49:24.849000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-0ed5f6c7-3977-4da9-9961-202fe76de456",
-        "title": "Applied AI Engineer, Digital Natives",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/0ed5f6c7-3977-4da9-9961-202fe76de456",
-        "source": "Ashby",
-        "published_at": "2026-08-14T20:38:49.179000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-0a1722e3-493a-459d-841f-523ae46ef33e",
-        "title": "Account Director, Digital Natives",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/0a1722e3-493a-459d-841f-523ae46ef33e",
-        "source": "Ashby",
-        "published_at": "2026-08-14T20:31:43.698000+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-frontend-engineer-all-genders-245364",
         "title": "(Senior) Frontend Engineer (all genders)",
         "company": "Envelio",
@@ -110,58 +55,14 @@
         "remote": false
     },
     {
-        "id": "greenhouse-3520937",
-        "title": "Staff Software Engineer , Observability",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8131228",
-        "source": "Greenhouse",
-        "published_at": "2026-08-14T17:51:29-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-volunteer-junior-it-support-id105-munich-381364",
-        "title": "(Volunteer) Junior IT Support (f/m/d) (ID105)",
-        "company": "EUSMS gGmbH",
-        "location": "Munich",
-        "job_type": "Freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/eusms-ggmbh/volunteer-junior-it-support-id105-munich-381364",
+        "id": "arbeitnow-ukcsc-principal-or-chartered-professional-security-architecture-london-403148",
+        "title": "UKCSC Principal or Chartered Professional - Security Architecture",
+        "company": "Intelance",
+        "location": "London",
+        "job_type": "Freelance, professional / experienced",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/ukcsc-principal-or-chartered-professional-security-architecture-london-403148",
         "source": "Arbeitnow",
-        "published_at": "2026-08-15T08:00:29+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-technical-writer-data-documentation-51174",
-        "title": "Senior Technical Writer (Data Documentation)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-technical-writer-data-documentation-51174",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-15T08:55:16+00:00",
-        "remote": false
-    },
-    {
-        "id": "ashby-d7a7c653-19d8-43db-800e-ce4dd2abf9ec",
-        "title": "AI Support Engineer - Toronto",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, User Operations",
-        "url": "https://jobs.ashbyhq.com/openai/d7a7c653-19d8-43db-800e-ce4dd2abf9ec",
-        "source": "Ashby",
-        "published_at": "2026-08-15T00:22:22.066000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-6aa78bd0-98d6-4671-a98f-d1010c627eb5",
-        "title": "Senior Support Engineer - Toronto",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, User Operations",
-        "url": "https://jobs.ashbyhq.com/openai/6aa78bd0-98d6-4671-a98f-d1010c627eb5",
-        "source": "Ashby",
-        "published_at": "2026-08-15T00:20:15.752000+00:00",
+        "published_at": "2026-08-15T18:30:43+00:00",
         "remote": true
     },
     {

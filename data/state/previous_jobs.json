@@ -1,5 +1,27 @@
 [
     {
+        "id": "arbeitnow-remote-principal-product-manager-conversational-ai-260822",
+        "title": "Principal Product Manager- Conversational AI",
+        "company": "Hopper",
+        "location": "England - Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/hopper/remote-principal-product-manager-conversational-ai-260822",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-16T03:40:14+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-product-manager-ki-ai-100-remote-182721",
+        "title": "Product Manager KI // AI // (100% remote)",
+        "company": "Workidentity",
+        "location": "Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/workidentity/product-manager-ki-ai-100-remote-182721",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-16T00:09:08+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-security-advocate-ai-appsec-75786",
         "title": "Security Advocate | AI AppSec",
         "company": "Escape",
@@ -9,17 +31,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-15T09:40:17+00:00",
         "remote": false
-    },
-    {
-        "id": "ashby-0444c5bd-7109-4bec-ac3e-b974e6236365",
-        "title": "Optical Interconnect System Engineer",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/0444c5bd-7109-4bec-ac3e-b974e6236365",
-        "source": "Ashby",
-        "published_at": "2026-08-15T02:34:16.324000+00:00",
-        "remote": true
     },
     {
         "id": "arbeitnow-remote-senior-frontend-engineer-all-genders-245364",

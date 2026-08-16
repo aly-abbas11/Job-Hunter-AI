@@ -22,15 +22,15 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-frontend-engineer-all-genders-245364",
-        "title": "(Senior) Frontend Engineer (all genders)",
-        "company": "Envelio",
-        "location": "Cologne / Remote from Germany",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/envelio/remote-senior-frontend-engineer-all-genders-245364",
+        "id": "arbeitnow-remote-fullstack-developer-system-modernization-strategic-delivery-282401",
+        "title": "Fullstack Developer (m/f/d) System Modernization & Strategic Delivery",
+        "company": "primion Technology GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/primion-technology-gmbh/remote-fullstack-developer-system-modernization-strategic-delivery-282401",
         "source": "Arbeitnow",
-        "published_at": "2026-08-15T14:09:06+00:00",
-        "remote": false
+        "published_at": "2026-08-16T14:30:24+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-team-lead-data-products-analytics-gn-162562",
@@ -41,28 +41,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-team-lead-data-products-analytics-gn-162562",
         "source": "Arbeitnow",
         "published_at": "2026-08-16T08:09:08+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-it-infrastructure-and-systems-engineer-network-438566",
-        "title": "Senior IT Infrastructure and Systems Engineer - Network",
-        "company": "Flatrock",
-        "location": "Remote UK",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/flatrock/remote-senior-it-infrastructure-and-systems-engineer-network-438566",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-15T15:09:37+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-it-infrastructure-systems-engineer-385272",
-        "title": "Senior IT Infrastructure / Systems Engineer",
-        "company": "Flatrock",
-        "location": "Remote UK",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/flatrock/remote-senior-it-infrastructure-systems-engineer-385272",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-15T15:09:37+00:00",
         "remote": false
     },
     {

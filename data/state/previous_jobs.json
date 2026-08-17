@@ -1,5 +1,27 @@
 [
     {
+        "id": "arbeitnow-praktikum-online-marketing-marketing-ki-ai-bielefeld-273441",
+        "title": "Praktikum Online-Marketing / Marketing / KI / AI",
+        "company": "SEOMATIK GmbH",
+        "location": "Bielefeld",
+        "job_type": "Internship",
+        "url": "https://www.arbeitnow.com/jobs/companies/seomatik-gmbh/praktikum-online-marketing-marketing-ki-ai-bielefeld-273441",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-17T08:00:41+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-werkstudent-mobile-development-309634",
+        "title": "Werkstudent Mobile Development (m/w/d)",
+        "company": "Teveo Gmbh",
+        "location": "Remote",
+        "job_type": "Student, Intern, Part time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/teveo-gmbh/remote-werkstudent-mobile-development-309634",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-17T09:09:56+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-5ed99d32-eed1-4679-b7b4-037de073e57c",
         "title": "Product Engineer, Full Stack - Agents",
         "company": "OpenAI",
@@ -11,25 +33,69 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-fullstack-developer-system-modernization-strategic-delivery-282401",
-        "title": "Fullstack Developer (m/f/d) System Modernization & Strategic Delivery",
-        "company": "primion Technology GmbH",
+        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-234638",
+        "title": "AI Solution Architect (m/w/d)",
+        "company": "virtual7 GmbH",
         "location": "Homeoffice",
         "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/primion-technology-gmbh/remote-fullstack-developer-system-modernization-strategic-delivery-282401",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-234638",
         "source": "Arbeitnow",
-        "published_at": "2026-08-16T14:30:24+00:00",
+        "published_at": "2026-08-17T08:30:16+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-team-lead-data-products-analytics-gn-162562",
-        "title": "Team Lead Data Products & Analytics (gn)",
-        "company": "Bikeleasing",
-        "location": "Remote Deutschland",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-team-lead-data-products-analytics-gn-162562",
+        "id": "arbeitnow-remote-customer-success-manager-devops-418438",
+        "title": "Customer Success Manager - DevOps",
+        "company": "Sonatype",
+        "location": "UK - Remote",
+        "job_type": "Full-Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonatype/remote-customer-success-manager-devops-418438",
         "source": "Arbeitnow",
-        "published_at": "2026-08-16T08:09:08+00:00",
+        "published_at": "2026-08-17T09:24:07+00:00",
         "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-data-scientist-berlin-371753",
+        "title": "Senior Data Scientist (m/f/x)",
+        "company": "Makersite GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-371753",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-17T08:30:18+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-devops-140765",
+        "title": "Senior Software Engineer, DevOps",
+        "company": "Muckrack",
+        "location": "Remote (Bulgaria, Ireland",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-devops-140765",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-17T06:55:26+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-430852",
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-430852",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-17T08:30:16+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-epc-manager-owners-engineer-utility-scale-solar-bess-wind-heidenheim-409686",
+        "title": "EPC Manager / Owner's Engineer (m/w/d) - Utility-Scale Solar, BESS, Wind",
+        "company": "Renergo GmbH",
+        "location": "Heidenheim",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/renergo-gmbh/epc-manager-owners-engineer-utility-scale-solar-bess-wind-heidenheim-409686",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-17T10:00:41+00:00",
+        "remote": true
     }
 ]

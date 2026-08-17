@@ -1,16 +1,5 @@
 [
     {
-        "id": "arbeitnow-praktikum-online-marketing-marketing-ki-ai-bielefeld-273441",
-        "title": "Praktikum Online-Marketing / Marketing / KI / AI",
-        "company": "SEOMATIK GmbH",
-        "location": "Bielefeld",
-        "job_type": "Internship",
-        "url": "https://www.arbeitnow.com/jobs/companies/seomatik-gmbh/praktikum-online-marketing-marketing-ki-ai-bielefeld-273441",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-17T08:00:41+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-werkstudent-mobile-development-309634",
         "title": "Werkstudent Mobile Development (m/w/d)",
         "company": "Teveo Gmbh",
@@ -20,6 +9,50 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-17T09:09:56+00:00",
         "remote": false
+    },
+    {
+        "id": "ashby-4e9886c1-134b-4cc7-9bcf-eb56bd0ca71f",
+        "title": "Product Operations | AI Revenue Systems",
+        "company": "Ramp",
+        "location": "Remote",
+        "job_type": "FullTime, Product",
+        "url": "https://jobs.ashbyhq.com/ramp/4e9886c1-134b-4cc7-9bcf-eb56bd0ca71f",
+        "source": "Ashby",
+        "published_at": "2026-08-17T17:52:22.860000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-894ce80d-c587-4ef0-92d2-b16deb9a06b9",
+        "title": "Data Scientist, Cybersecurity",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Data Science",
+        "url": "https://jobs.ashbyhq.com/openai/894ce80d-c587-4ef0-92d2-b16deb9a06b9",
+        "source": "Ashby",
+        "published_at": "2026-08-17T17:44:00.786000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-2e223214-d8f1-4198-a5e3-1301bb46977a",
+        "title": "Account Director, Startups",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/2e223214-d8f1-4198-a5e3-1301bb46977a",
+        "source": "Ashby",
+        "published_at": "2026-08-17T17:14:30.968000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-f8b84ae5-743b-41c9-8432-02dff9993d6b",
+        "title": "Software Engineer, Model Deployment- ChatGPT Engineering",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/f8b84ae5-743b-41c9-8432-02dff9993d6b",
+        "source": "Ashby",
+        "published_at": "2026-08-17T16:45:16.766000+00:00",
+        "remote": true
     },
     {
         "id": "ashby-5ed99d32-eed1-4679-b7b4-037de073e57c",
@@ -33,14 +66,36 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-234638",
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-234638",
+        "id": "arbeitnow-backend-software-engineer-ai-systems-munster-362795",
+        "title": "Backend Software Engineer - AI Systems (m/w/d)",
+        "company": "HAIAR GmbH",
+        "location": "Münster",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/haiar-gmbh/backend-software-engineer-ai-systems-munster-362795",
         "source": "Arbeitnow",
-        "published_at": "2026-08-17T08:30:16+00:00",
+        "published_at": "2026-08-17T13:01:38+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3426116",
+        "title": "Senior Data Engineer II, Finance",
+        "company": "Instacart",
+        "location": "United States - Remote",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8132846",
+        "source": "Greenhouse",
+        "published_at": "2026-08-17T12:40:40-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-fullstack-entwickler-alle-geschlechter-fulda-407232",
+        "title": "Senior Fullstack Entwickler (alle Geschlechter)",
+        "company": "it-novum",
+        "location": "Fulda",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/it-novum/senior-fullstack-entwickler-alle-geschlechter-fulda-407232",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-17T14:01:15+00:00",
         "remote": true
     },
     {
@@ -55,17 +110,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-data-scientist-berlin-371753",
-        "title": "Senior Data Scientist (m/f/x)",
-        "company": "Makersite GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-371753",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-17T08:30:18+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-software-engineer-devops-140765",
         "title": "Senior Software Engineer, DevOps",
         "company": "Muckrack",
@@ -77,25 +121,47 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-430852",
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-430852",
+        "id": "arbeitnow-were-hiring-firmware-engineer-at-startup-powered-orthotics-walldorf-402341",
+        "title": "WE´RE HIRING FIRMWARE ENGINEER AT STARTUP POWERED ORTHOTICS",
+        "company": "innoWerft",
+        "location": "Walldorf",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/innowerft/were-hiring-firmware-engineer-at-startup-powered-orthotics-walldorf-402341",
         "source": "Arbeitnow",
-        "published_at": "2026-08-17T08:30:16+00:00",
+        "published_at": "2026-08-17T17:00:26+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-epc-manager-owners-engineer-utility-scale-solar-bess-wind-heidenheim-409686",
-        "title": "EPC Manager / Owner's Engineer (m/w/d) - Utility-Scale Solar, BESS, Wind",
-        "company": "Renergo GmbH",
-        "location": "Heidenheim",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/renergo-gmbh/epc-manager-owners-engineer-utility-scale-solar-bess-wind-heidenheim-409686",
+        "id": "arbeitnow-remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-293842",
+        "title": "Werkstudent Softwareentwicklung Schwerpunkt Security (m/w/d)",
+        "company": "Meierhofer",
+        "location": "Leipzig",
+        "job_type": "Student, Working student, Part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-293842",
         "source": "Arbeitnow",
-        "published_at": "2026-08-17T10:00:41+00:00",
+        "published_at": "2026-08-17T14:09:54+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-werkstudent-data-science-business-intelligence-leipzig-246165",
+        "title": "Werkstudent Data Science / Business Intelligence (m/w/d)",
+        "company": "Meierhofer",
+        "location": "Leipzig",
+        "job_type": "Student, Working student, Part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-data-science-business-intelligence-leipzig-246165",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-17T14:09:54+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-product-designer-heartbeat-ai-berlin-348478",
+        "title": "Senior Product Designer - Heartbeat AI (m/f/d)",
+        "company": "1KOMMA5˚",
+        "location": "Berlin",
+        "job_type": "professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-product-designer-heartbeat-ai-berlin-348478",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-17T14:30:27+00:00",
         "remote": true
     }
 ]

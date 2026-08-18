@@ -11,6 +11,17 @@
         "remote": false
     },
     {
+        "id": "arbeitnow-head-of-data-gsa-europe-berlin-58521",
+        "title": "Head of Data - GSA (m/w/d)",
+        "company": "sonymusicentertainment",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/sonymusicentertainment/head-of-data-gsa-europe-berlin-58521",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-18T11:55:33+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-staff-engineer-heartbeat-ai-177229",
         "title": "Staff Engineer - Heartbeat AI (m/f/d)",
         "company": "1Komma5Grad",
@@ -77,17 +88,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-backend-engineer-energy-management-platform-all-genders-322809",
-        "title": "Senior Backend Engineer - Energy Management Platform (all genders)",
-        "company": "gridX GmbH",
-        "location": "Remote DE; Aachen; Munich",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-senior-backend-engineer-energy-management-platform-all-genders-322809",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T02:30:07+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-senior-freelance-web-developer-350082",
         "title": "(Senior) Freelance Web Developer",
         "company": "Berlin Bytes",
@@ -96,28 +96,6 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/berlin-bytes/remote-senior-freelance-web-developer-350082",
         "source": "Arbeitnow",
         "published_at": "2026-08-18T03:10:09+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-fullstack-entwickler-java-angular-stuttgart-184739",
-        "title": "Senior Fullstack Entwickler Java / Angular (m/w/d)",
-        "company": "Rockstardevelopers GmbH",
-        "location": "Stuttgart",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-fullstack-entwickler-java-angular-stuttgart-184739",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T02:17:28+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-tools-automation-89931",
-        "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
-        "company": "Vmray Gmbh",
-        "location": "Germany, Bochum or Remote (Europe)",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-89931",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T02:09:40+00:00",
         "remote": false
     },
     {
@@ -176,25 +154,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-platform-boosters-backend-engineer-berlin-67421",
-        "title": "Platform Boosters - Backend Engineer (m/w/d)",
-        "company": "shopware AG",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-67421",
+        "id": "arbeitnow-soc-analyst-siem-engineer-pulsnitz-11459",
+        "title": "SOC-Analyst/SIEM Engineer (W/M/D)",
+        "company": "secupay AG",
+        "location": "Pulsnitz",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/secupay-ag/soc-analyst-siem-engineer-pulsnitz-11459",
         "source": "Arbeitnow",
-        "published_at": "2026-08-18T02:30:28+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-it-infrastructure-architect-cloud-focus-berlin-96356",
-        "title": "IT Infrastructure Architect – Cloud Focus  (m/w/d)",
-        "company": "shopware AG",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-it-infrastructure-architect-cloud-focus-berlin-96356",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T02:30:28+00:00",
+        "published_at": "2026-08-18T10:00:31+00:00",
         "remote": true
     },
     {

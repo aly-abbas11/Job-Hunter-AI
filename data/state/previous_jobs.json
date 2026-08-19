@@ -33,28 +33,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-manager-data-science-ai-engineering-264219",
-        "title": "Senior Manager Data Science & AI Engineering (w/m/d)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-science-ai-engineering-264219",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T17:29:18+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-ai-engineer-300978",
-        "title": "Senior AI Engineer (w/m/d)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-ai-engineer-300978",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T17:29:18+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-2226c39d-371b-4dec-bf60-2d76dbe4c445",
         "title": "Applied AI Engineer",
         "company": "OpenAI",
@@ -74,17 +52,6 @@
         "url": "https://jobs.ashbyhq.com/openai/4d0a2666-16e0-42e5-8573-180dcdc5439f",
         "source": "Ashby",
         "published_at": "2026-08-18T14:14:19.736000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-software-developer-linux-python-integrations-remote-dusseldorf-486714",
-        "title": "Software Developer Linux Python Integrations (m/w/d) REMOTE",
-        "company": "Pont Connects e.K.",
-        "location": "Düsseldorf",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/pont-connects-ek/software-developer-linux-python-integrations-remote-dusseldorf-486714",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T17:00:34+00:00",
         "remote": true
     },
     {
@@ -110,14 +77,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-automation-ai-specialist-munchen-229852",
-        "title": "Automation & AI Specialist (m/w/d)",
-        "company": "WorkflowX",
-        "location": "München",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/workflowx/automation-ai-specialist-munchen-229852",
+        "id": "arbeitnow-remote-product-engineer-391562",
+        "title": "Product Engineer",
+        "company": "0G",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/0g/remote-product-engineer-391562",
         "source": "Arbeitnow",
-        "published_at": "2026-08-18T15:30:39+00:00",
+        "published_at": "2026-08-19T05:40:22+00:00",
         "remote": true
     },
     {
@@ -143,28 +110,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-staff-software-engineer-37744",
-        "title": "Staff Software Engineer (m/w/d)",
-        "company": "Conceptboard",
-        "location": "Stuttgart / Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/conceptboard/remote-staff-software-engineer-37744",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T20:10:00+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-200108",
-        "title": "Senior Software Engineer (m/w/d)",
-        "company": "Conceptboard",
-        "location": "Stuttgart / Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/conceptboard/remote-senior-software-engineer-200108",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T20:10:00+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3522761",
         "title": "Software Engineer, Content Platform",
         "company": "Reddit",
@@ -185,50 +130,6 @@
         "source": "Greenhouse",
         "published_at": "2026-08-18T14:03:28-04:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-it-product-owner-data-platform-43391",
-        "title": "(Senior) IT Product Owner Data Platform (m/w/d)",
-        "company": "OXG Glasfaser GmbH",
-        "location": "Düsseldorf und Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-senior-it-product-owner-data-platform-43391",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T17:30:16+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-manager-data-analytics-134976",
-        "title": "Senior Manager Data Analytics (w/m/d)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-analytics-134976",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T17:29:18+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-analytics-engineer-all-genders-281631",
-        "title": "Senior Analytics Engineer (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-analytics-engineer-all-genders-281631",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T17:29:18+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-principal-cybersecurity-all-genders-29349",
-        "title": "Principal Cybersecurity (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-principal-cybersecurity-all-genders-29349",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T17:29:18+00:00",
-        "remote": false
     },
     {
         "id": "greenhouse-3519264",
@@ -261,6 +162,28 @@
         "url": "https://www.coinbase.com/careers/positions/8103569?gh_jid=8103569",
         "source": "Greenhouse",
         "published_at": "2026-08-18T09:06:07-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-data-engineer-gilching-244485",
+        "title": "Senior Data Engineer (m/w/d)",
+        "company": "celebrate company GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-data-engineer-gilching-244485",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-19T05:30:29+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-full-stack-engineer-gilching-136960",
+        "title": "Senior Full Stack Engineer (m/w/d)",
+        "company": "celebrate company GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-full-stack-engineer-gilching-136960",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-19T05:30:29+00:00",
         "remote": true
     },
     {
@@ -297,14 +220,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-software-sales-consultant-deutschlandweit-368169",
-        "title": "Software Sales Consultant (m/w/d)",
-        "company": "ANGEHEUERT GmbH",
-        "location": "Homeoffice",
-        "job_type": "Entry, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-software-sales-consultant-deutschlandweit-368169",
+        "id": "arbeitnow-social-media-community-manager-100-ehrenamt-100-remote-berlin-176849",
+        "title": "Social Media & Community Manager | 100 % Ehrenamt | 100 % Remote",
+        "company": "Deutscher Hilfsbund e.V.",
+        "location": "Berlin",
+        "job_type": "Freelance, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/deutscher-hilfsbund-ev/social-media-community-manager-100-ehrenamt-100-remote-berlin-176849",
         "source": "Arbeitnow",
-        "published_at": "2026-08-18T17:30:22+00:00",
+        "published_at": "2026-08-19T05:30:48+00:00",
         "remote": true
     },
     {
@@ -349,17 +272,6 @@
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8692880002",
         "source": "Greenhouse",
         "published_at": "2026-08-18T11:27:32-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-ux-ui-designer-freelance-berlin-206505",
-        "title": "Senior UX/UI Designer - Freelance (m/f/d)",
-        "company": "New Monday GmbH",
-        "location": "Berlin",
-        "job_type": "Freelance, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/senior-ux-ui-designer-freelance-berlin-206505",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T15:30:38+00:00",
         "remote": true
     }
 ]

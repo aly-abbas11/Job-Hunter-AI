@@ -1,5 +1,27 @@
 [
     {
+        "id": "arbeitnow-lead-ai-engineer-stuttgart-300585",
+        "title": "Lead AI Engineer (m/w/d)",
+        "company": "Flip GmbH",
+        "location": "Stuttgart & Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/lead-ai-engineer-stuttgart-300585",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-19T11:40:13+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-lead-ai-engineer-stuttgart-483394",
+        "title": "Lead AI Engineer (m/f/d)",
+        "company": "Flip GmbH",
+        "location": "Stuttgart & Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/lead-ai-engineer-stuttgart-483394",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-19T11:40:13+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-4ef8e8f4-a1ef-4d83-92cb-76463ec0a151",
         "title": "Protective Intelligence & Threat Analyst",
         "company": "OpenAI",
@@ -55,15 +77,26 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-software-engineer-backend-118699",
-        "title": "Senior Software Engineer, Backend",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-118699",
+        "id": "arbeitnow-frontend-software-engineer-100-remote-united-kindom-470934",
+        "title": "Frontend Software Engineer (100% Remote)",
+        "company": "Tether Operations Limited",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/frontend-software-engineer-100-remote-united-kindom-470934",
         "source": "Arbeitnow",
-        "published_at": "2026-08-18T23:40:19+00:00",
+        "published_at": "2026-08-19T06:30:11+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-devops-cloud-engineer-konstanz-berlin-oder-remote-329511",
+        "title": "DevOps & Cloud Engineer (m/w/d) - Konstanz, Berlin oder remote",
+        "company": "Seitenbau Gmbh",
+        "location": "Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/devops-cloud-engineer-konstanz-berlin-oder-remote-329511",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-19T06:10:30+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3505884",
@@ -77,15 +110,48 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-product-engineer-391562",
-        "title": "Product Engineer",
-        "company": "0G",
-        "location": "Remote",
+        "id": "greenhouse-3343167",
+        "title": "Security Sales Engineer",
+        "company": "Datadog",
+        "location": "California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/0g/remote-product-engineer-391562",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-19T05:40:22+00:00",
+        "url": "https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243",
+        "source": "Greenhouse",
+        "published_at": "2026-08-19T04:42:27-04:00",
         "remote": true
+    },
+    {
+        "id": "greenhouse-3343167",
+        "title": "Security Sales Engineer",
+        "company": "Datadog",
+        "location": "Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",
+        "job_type": "Full Time",
+        "url": "https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240",
+        "source": "Greenhouse",
+        "published_at": "2026-08-19T04:42:26-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-site-reliability-engineer-konstanz-berlin-oder-remote-143385",
+        "title": "Site Reliability Engineer (m/w/d) – Konstanz, Berlin oder remote",
+        "company": "Seitenbau Gmbh",
+        "location": "Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/site-reliability-engineer-konstanz-berlin-oder-remote-143385",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-19T06:10:30+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-senior-java-developer-konstanz-berlin-oder-remote-879",
+        "title": "Senior Java Developer (m/w/d) - Konstanz, Berlin oder remote",
+        "company": "Seitenbau Gmbh",
+        "location": "Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/senior-java-developer-konstanz-berlin-oder-remote-879",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-19T06:10:30+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-senior-cyber-security-engineer-190385",
@@ -97,17 +163,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-18T21:55:31+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-golang-entwickler-remote-deutschland-berlin-442801",
-        "title": "Golang Entwickler (m/w/d) - Remote (Deutschland)",
-        "company": "Muxon",
-        "location": "Berlin",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/muxon/golang-entwickler-remote-deutschland-berlin-442801",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T21:30:25+00:00",
-        "remote": true
     },
     {
         "id": "greenhouse-3522761",
@@ -162,72 +217,6 @@
         "url": "https://www.coinbase.com/careers/positions/8103569?gh_jid=8103569",
         "source": "Greenhouse",
         "published_at": "2026-08-18T09:06:07-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-data-engineer-gilching-244485",
-        "title": "Senior Data Engineer (m/w/d)",
-        "company": "celebrate company GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-data-engineer-gilching-244485",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-19T05:30:29+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-full-stack-engineer-gilching-136960",
-        "title": "Senior Full Stack Engineer (m/w/d)",
-        "company": "celebrate company GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-full-stack-engineer-gilching-136960",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-19T05:30:29+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-quality-assurance-engineer-germany-390882",
-        "title": "Quality Assurance Engineer (m/f/d)",
-        "company": "Hero Software",
-        "location": "Germany",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/hero-software/remote-quality-assurance-engineer-germany-390882",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T20:40:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-quality-assurance-engineer-berlin-278465",
-        "title": "Quality Assurance Engineer (m/f/d)",
-        "company": "Hero Software",
-        "location": "Berlin, Germany",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/hero-software/remote-quality-assurance-engineer-berlin-278465",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T20:40:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-quality-assurance-engineer-hanover-79244",
-        "title": "Quality Assurance Engineer (m/f/d)",
-        "company": "Hero Software",
-        "location": "Hanover, Germany",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/hero-software/remote-quality-assurance-engineer-hanover-79244",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-18T20:40:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-social-media-community-manager-100-ehrenamt-100-remote-berlin-176849",
-        "title": "Social Media & Community Manager | 100 % Ehrenamt | 100 % Remote",
-        "company": "Deutscher Hilfsbund e.V.",
-        "location": "Berlin",
-        "job_type": "Freelance, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/deutscher-hilfsbund-ev/social-media-community-manager-100-ehrenamt-100-remote-berlin-176849",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-19T05:30:48+00:00",
         "remote": true
     },
     {

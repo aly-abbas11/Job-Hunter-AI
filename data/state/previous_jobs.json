@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-junior-it-specialist-remote-buttelborn-88157",
+        "title": "Junior IT-Specialist (m/w/d) Remote",
+        "company": "INVENTRY GmbH",
+        "location": "Büttelborn",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/inventry-gmbh/junior-it-specialist-remote-buttelborn-88157",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-20T11:30:33+00:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-6478405002",
         "title": "Senior Backend Engineer (Python), Agent Developer: Flow Components",
         "company": "GitLab",
@@ -99,14 +110,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-engineering-manager-customer-developer-experience-munich-128504",
-        "title": "Engineering Manager - Customer Developer Experience",
-        "company": "Constructor",
-        "location": "Remote",
+        "id": "arbeitnow-remote-senior-full-stack-developer-480909",
+        "title": "Senior Full-Stack Developer",
+        "company": "Cside",
+        "location": "Remote - UK",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/constructor/engineering-manager-customer-developer-experience-munich-128504",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/cside/remote-senior-full-stack-developer-480909",
         "source": "Arbeitnow",
-        "published_at": "2026-08-20T05:40:18+00:00",
+        "published_at": "2026-08-20T09:41:09+00:00",
         "remote": false
     },
     {
@@ -119,28 +130,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-20T03:40:06+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-platform-devops-engineer-333753",
-        "title": "Senior Platform & DevOps Engineer",
-        "company": "Berlitz",
-        "location": "Germany Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-senior-platform-devops-engineer-333753",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-20T02:40:06+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-full-stack-developer-php-typescript-in-hamburg-oder-remote-27770",
-        "title": "Full Stack Developer PHP / TypeScript in Hamburg oder Remote (m/w/d)",
-        "company": "DEMV Systems Gmbh",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/demv-systems-gmbh/full-stack-developer-php-typescript-in-hamburg-oder-remote-27770",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-19T23:30:07+00:00",
-        "remote": true
     },
     {
         "id": "greenhouse-3523817",
@@ -165,17 +154,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-product-engineer-26924",
-        "title": "Product Engineer",
-        "company": "0G",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-product-engineer-26924",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-19T18:40:22+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3523509",
         "title": "Senior Software Engineer II, Marketing Enablement & Technology",
         "company": "Instacart",
@@ -198,25 +176,36 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3343167",
-        "title": "Security Sales Engineer",
-        "company": "Datadog",
-        "location": "California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",
-        "job_type": "Full Time",
-        "url": "https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243",
-        "source": "Greenhouse",
-        "published_at": "2026-08-19T04:42:27-04:00",
+        "id": "arbeitnow-full-stack-engineer-london-182572",
+        "title": "Full Stack Engineer",
+        "company": "Souk",
+        "location": "London",
+        "job_type": "1",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/souk/full-stack-engineer-london-182572",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-20T10:31:31+00:00",
         "remote": true
     },
     {
-        "id": "greenhouse-3343167",
-        "title": "Security Sales Engineer",
-        "company": "Datadog",
-        "location": "Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",
-        "job_type": "Full Time",
-        "url": "https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240",
-        "source": "Greenhouse",
-        "published_at": "2026-08-19T04:42:26-04:00",
+        "id": "arbeitnow-working-student-technical-integrations-automation-munich-188922",
+        "title": "Working Student Technical Integrations & Automation",
+        "company": "MedMatic GmbH",
+        "location": "Munich",
+        "job_type": "Working student, no experience required / student",
+        "url": "https://www.arbeitnow.com/jobs/companies/medmatic-gmbh/working-student-technical-integrations-automation-munich-188922",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-20T10:00:33+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-product-designer-illustration-motion-edtech-65502",
+        "title": "Senior Product Designer (Illustration & Motion, EdTech)",
+        "company": "Miaplaza",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-senior-product-designer-illustration-motion-edtech-65502",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-20T08:30:46+00:00",
         "remote": true
     },
     {

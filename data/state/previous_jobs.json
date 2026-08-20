@@ -99,6 +99,39 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-engineering-manager-customer-developer-experience-munich-128504",
+        "title": "Engineering Manager - Customer Developer Experience",
+        "company": "Constructor",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/constructor/engineering-manager-customer-developer-experience-munich-128504",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-20T05:40:18+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-product-design-engineer-351077",
+        "title": "Senior Product Design Engineer",
+        "company": "Duck Duck Go",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/duck-duck-go/remote-senior-product-design-engineer-351077",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-20T03:40:06+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-platform-devops-engineer-333753",
+        "title": "Senior Platform & DevOps Engineer",
+        "company": "Berlitz",
+        "location": "Germany Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-senior-platform-devops-engineer-333753",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-20T02:40:06+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-full-stack-developer-php-typescript-in-hamburg-oder-remote-27770",
         "title": "Full Stack Developer PHP / TypeScript in Hamburg oder Remote (m/w/d)",
         "company": "DEMV Systems Gmbh",
@@ -187,14 +220,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-cyber-security-expert-berlin-407196",
-        "title": "Senior Cyber Security Expert (d/f/m)",
-        "company": "intcube GmbH",
-        "location": "Berlin",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/intcube-gmbh/senior-cyber-security-expert-berlin-407196",
+        "id": "arbeitnow-remote-nominee-director-company-support-chalkhouse-green-378762",
+        "title": "Nominee Director – Company Support",
+        "company": "Emplyfy",
+        "location": "Remote job",
+        "job_type": "Entry, freelance",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/remote-nominee-director-company-support-chalkhouse-green-378762",
         "source": "Arbeitnow",
-        "published_at": "2026-08-19T19:47:32+00:00",
+        "published_at": "2026-08-20T00:30:32+00:00",
         "remote": true
     }
 ]

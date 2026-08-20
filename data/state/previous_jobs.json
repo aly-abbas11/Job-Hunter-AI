@@ -11,6 +11,72 @@
         "remote": true
     },
     {
+        "id": "ashby-5d1a6c05-e18b-43a2-8808-6498929ac253",
+        "title": "RE/RS, Data Understanding - Foundations",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Research",
+        "url": "https://jobs.ashbyhq.com/openai/5d1a6c05-e18b-43a2-8808-6498929ac253",
+        "source": "Ashby",
+        "published_at": "2026-08-19T23:36:25.257000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-2bf44c13-a463-4ec7-b152-b8367075246c",
+        "title": "Software Engineer, Trainium",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Scaling",
+        "url": "https://jobs.ashbyhq.com/openai/2bf44c13-a463-4ec7-b152-b8367075246c",
+        "source": "Ashby",
+        "published_at": "2026-08-19T23:09:36.243000+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3523960",
+        "title": "Software Engineer, Trust",
+        "company": "Airbnb",
+        "location": "Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://careers.airbnb.com/positions/8142827?gh_jid=8142827",
+        "source": "Greenhouse",
+        "published_at": "2026-08-19T18:53:29-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3521808",
+        "title": "Senior iOS Engineer, Passport & Commerce",
+        "company": "Airbnb",
+        "location": "Remote, USA",
+        "job_type": "Full Time",
+        "url": "https://careers.airbnb.com/positions/8135797?gh_jid=8135797",
+        "source": "Greenhouse",
+        "published_at": "2026-08-19T18:29:43-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3522134",
+        "title": "Senior Software Engineer, Payments Platform",
+        "company": "Airbnb",
+        "location": "Remote, USA",
+        "job_type": "Full Time",
+        "url": "https://careers.airbnb.com/positions/8138002?gh_jid=8138002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-19T17:13:04-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6483862002",
+        "title": "AI Transformation Owner, Product & Design",
+        "company": "GitLab",
+        "location": "Remote, Canada; Remote, United Kingdom; Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8716179002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-19T16:52:27-04:00",
+        "remote": true
+    },
+    {
         "id": "ashby-ca2fe3e4-8377-461f-b6f2-80d127f4b94d",
         "title": "ASIC Package SI/PI Engineer",
         "company": "OpenAI",
@@ -33,81 +99,48 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-engineer-452167",
-        "title": "AI Engineer",
-        "company": "51D",
-        "location": "Remote - UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/51d/remote-ai-engineer-452167",
+        "id": "arbeitnow-full-stack-developer-php-typescript-in-hamburg-oder-remote-27770",
+        "title": "Full Stack Developer PHP / TypeScript in Hamburg oder Remote (m/w/d)",
+        "company": "DEMV Systems Gmbh",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/demv-systems-gmbh/full-stack-developer-php-typescript-in-hamburg-oder-remote-27770",
         "source": "Arbeitnow",
-        "published_at": "2026-08-19T12:40:15+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-ai-engineer-83779",
-        "title": "Senior AI Engineer",
-        "company": "51D",
-        "location": "Remote - UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/51d/remote-senior-ai-engineer-83779",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-19T12:40:15+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-lead-ai-engineer-stuttgart-300585",
-        "title": "Lead AI Engineer (m/w/d)",
-        "company": "Flip GmbH",
-        "location": "Stuttgart & Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/lead-ai-engineer-stuttgart-300585",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-19T11:40:13+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-lead-ai-engineer-stuttgart-483394",
-        "title": "Lead AI Engineer (m/f/d)",
-        "company": "Flip GmbH",
-        "location": "Stuttgart & Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/lead-ai-engineer-stuttgart-483394",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-19T11:40:13+00:00",
-        "remote": false
-    },
-    {
-        "id": "ashby-4ef8e8f4-a1ef-4d83-92cb-76463ec0a151",
-        "title": "Protective Intelligence & Threat Analyst",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Corporate Security",
-        "url": "https://jobs.ashbyhq.com/openai/4ef8e8f4-a1ef-4d83-92cb-76463ec0a151",
-        "source": "Ashby",
-        "published_at": "2026-08-18T22:32:47.260000+00:00",
+        "published_at": "2026-08-19T23:30:07+00:00",
         "remote": true
     },
     {
-        "id": "ashby-71838fdf-4476-490c-81b6-4bf0746f6774",
-        "title": "Software Engineer, Plugin Developer Platform",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/71838fdf-4476-490c-81b6-4bf0746f6774",
-        "source": "Ashby",
-        "published_at": "2026-08-18T19:12:23.311000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3505884",
-        "title": "Senior Backend Engineer, Safety",
-        "company": "Reddit",
-        "location": "Remote - United States",
+        "id": "greenhouse-3523817",
+        "title": "Security Incident Response Engineer",
+        "company": "Stripe",
+        "location": "US Remote",
         "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8093006",
+        "url": "https://stripe.com/jobs/search?gh_jid=8142302",
         "source": "Greenhouse",
-        "published_at": "2026-08-18T17:57:34-04:00",
+        "published_at": "2026-08-19T16:33:11-04:00",
         "remote": true
+    },
+    {
+        "id": "greenhouse-6480900002",
+        "title": "Senior Migration Engineer - GitLab Dedicated",
+        "company": "GitLab",
+        "location": "Remote, Canada; Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8710061002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-19T15:47:04-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-product-engineer-26924",
+        "title": "Product Engineer",
+        "company": "0G",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-product-engineer-26924",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-19T18:40:22+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3523509",
@@ -129,17 +162,6 @@
         "url": "https://instacart.careers/job/?gh_jid=8141533",
         "source": "Greenhouse",
         "published_at": "2026-08-19T09:50:05-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-projektmitarbeiter-ki-data-research-nebenjob-freelancer-flexibel-remote-leipzig-401065",
-        "title": "Projektmitarbeiter KI / Data Research (m/w/d) - Nebenjob / Freelancer - flexibel + remote",
-        "company": "Talentwert Digital Research Studio",
-        "location": "Leipzig",
-        "job_type": "Side",
-        "url": "https://www.arbeitnow.com/jobs/companies/talentwert-digital-research-studio/projektmitarbeiter-ki-data-research-nebenjob-freelancer-flexibel-remote-leipzig-401065",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-19T12:00:32+00:00",
         "remote": true
     },
     {
@@ -165,17 +187,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3522761",
-        "title": "Software Engineer, Content Platform",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8139781",
-        "source": "Greenhouse",
-        "published_at": "2026-08-18T15:43:32-04:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-senior-cyber-security-expert-berlin-407196",
         "title": "Senior Cyber Security Expert (d/f/m)",
         "company": "intcube GmbH",
@@ -183,40 +194,7 @@
         "job_type": "berufserfahren",
         "url": "https://www.arbeitnow.com/jobs/companies/intcube-gmbh/senior-cyber-security-expert-berlin-407196",
         "source": "Arbeitnow",
-        "published_at": "2026-08-19T15:30:53+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-it-support-mitarbeiter-auf-minijob-basis-frankfurt-am-main-126250",
-        "title": "IT-Support Mitarbeiter (m/w/d) auf Minijob-Basis",
-        "company": "ME Group Germany GmbH",
-        "location": "Frankfurt am Main",
-        "job_type": "Side",
-        "url": "https://www.arbeitnow.com/jobs/companies/me-group-germany-gmbh/it-support-mitarbeiter-auf-minijob-basis-frankfurt-am-main-126250",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-19T12:00:33+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3520177",
-        "title": "Principal Product Designer, Presence",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8129209",
-        "source": "Greenhouse",
-        "published_at": "2026-08-18T15:33:36-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6479658002",
-        "title": "Manager, Support Engineering, US Government",
-        "company": "GitLab",
-        "location": "Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8707385002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-18T15:10:52-04:00",
+        "published_at": "2026-08-19T19:47:32+00:00",
         "remote": true
     }
 ]

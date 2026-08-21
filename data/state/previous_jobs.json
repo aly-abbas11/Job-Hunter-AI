@@ -33,6 +33,17 @@
         "remote": false
     },
     {
+        "id": "ashby-990397de-c00c-4577-b093-d8c82b4e9145",
+        "title": "Software Engineer, API Safety",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Core Product & Platform",
+        "url": "https://jobs.ashbyhq.com/openai/990397de-c00c-4577-b093-d8c82b4e9145",
+        "source": "Ashby",
+        "published_at": "2026-08-21T17:12:26.509000+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-senior-manager-product-security-engineering-security-posture-and-supply-chain-261318",
         "title": "Senior Manager, Product Security Engineering (Security Posture and Supply Chain)",
         "company": "gitlab",
@@ -154,25 +165,14 @@
         "remote": true
     },
     {
-        "id": "ashby-3ac187b2-dd75-4acd-b285-51ae6e603dbd",
-        "title": "Data Scientist, Real Estate & Workplace",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Data Science",
-        "url": "https://jobs.ashbyhq.com/openai/3ac187b2-dd75-4acd-b285-51ae6e603dbd",
-        "source": "Ashby",
-        "published_at": "2026-08-20T16:38:56.595000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3511414",
-        "title": "Senior Software Engineer, Blockchain Platform Nodes",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8105437?gh_jid=8105437",
-        "source": "Greenhouse",
-        "published_at": "2026-08-20T12:21:28-04:00",
+        "id": "arbeitnow-inhouse-net-backend-entwickler-full-remote-aus-bayern-dusseldorf-31441",
+        "title": "Inhouse .NET Backend Entwickler (m/w/d) - Full Remote aus Bayern",
+        "company": "DWWA Personalberatung GmbH",
+        "location": "Düsseldorf",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/dwwa-personalberatung-gmbh/inhouse-net-backend-entwickler-full-remote-aus-bayern-dusseldorf-31441",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-21T13:30:31+00:00",
         "remote": true
     },
     {
@@ -187,14 +187,80 @@
         "remote": false
     },
     {
-        "id": "greenhouse-6490088002",
-        "title": "Senior Backend Engineer (Go), Tenant Scale: Gitaly",
-        "company": "GitLab",
-        "location": "Remote, Poland; Remote, United Kingdom",
+        "id": "greenhouse-3525689",
+        "title": "Senior Android Engineer II, Digital Twin Platform",
+        "company": "Instacart",
+        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
         "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8729451002",
+        "url": "https://instacart.careers/job/?gh_jid=8147300",
         "source": "Greenhouse",
-        "published_at": "2026-08-20T11:45:55-04:00",
+        "published_at": "2026-08-21T13:23:16-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3525689",
+        "title": "Senior Android Engineer II, Digital Twin Platform",
+        "company": "Instacart",
+        "location": "United States - Remote",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8147298",
+        "source": "Greenhouse",
+        "published_at": "2026-08-21T13:13:57-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3523781",
+        "title": "Senior Sales Engineer - NorthCentral",
+        "company": "Datadog",
+        "location": "Illinois, USA, Remote; Minnesota, USA, Remote",
+        "job_type": "Full Time",
+        "url": "https://careers.datadoghq.com/detail/8142217/?gh_jid=8142217",
+        "source": "Greenhouse",
+        "published_at": "2026-08-21T10:54:46-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3524644",
+        "title": "Enterprise Sales Engineer - FED",
+        "company": "Datadog",
+        "location": "District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote",
+        "job_type": "Full Time",
+        "url": "https://careers.datadoghq.com/detail/8144607/?gh_jid=8144607",
+        "source": "Greenhouse",
+        "published_at": "2026-08-21T10:47:11-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3524657",
+        "title": "Senior Sales Engineer - FED",
+        "company": "Datadog",
+        "location": "District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote",
+        "job_type": "Full Time",
+        "url": "https://careers.datadoghq.com/detail/8144628/?gh_jid=8144628",
+        "source": "Greenhouse",
+        "published_at": "2026-08-21T10:46:26-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-salesforce-developer-431201",
+        "title": "Senior Salesforce Developer (m/f/d)",
+        "company": "Auxmoney Gmbh",
+        "location": "Remote / Düsseldorf",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-salesforce-developer-431201",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-21T14:29:12+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-hr-it-governance-senior-hr-it-governance-service-management-compliance-consultant-freelance-remote-bonn-327168",
+        "title": "Senior HR IT Governance, Senior HR IT Governance, Service Management & Compliance Consultant (Freelance, Remote)",
+        "company": "Sidekick Network GmbH & Co. KG",
+        "location": "Bonn",
+        "job_type": "Freelance, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-hr-it-governance-senior-hr-it-governance-service-management-compliance-consultant-freelance-remote-bonn-327168",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-21T13:30:31+00:00",
         "remote": true
     },
     {
@@ -256,7 +322,7 @@
         "id": "greenhouse-6471096002",
         "title": "Intermediate Software Engineer, Security Factory: Vulnerability Management",
         "company": "GitLab",
-        "location": "Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States",
+        "location": "Remote, Canada; Remote, Israel; Remote, United Kingdom",
         "job_type": "Full Time",
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8688078002",
         "source": "Greenhouse",
@@ -308,14 +374,36 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-consultant-microsoft-data-analytics-microsoft-fabric-gescher-229953",
-        "title": "(Senior) Consultant (m/w/d) Microsoft Data & Analytics / Microsoft Fabric",
-        "company": "Windhoff Group",
-        "location": "Gescher",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/windhoff-group/senior-consultant-microsoft-data-analytics-microsoft-fabric-gescher-229953",
+        "id": "arbeitnow-remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-124861",
+        "title": "Werkstudent Softwareentwicklung Schwerpunkt Security (m/w/d)",
+        "company": "Meierhofer",
+        "location": "Leipzig",
+        "job_type": "Student, Working student, Part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-124861",
         "source": "Arbeitnow",
-        "published_at": "2026-08-21T11:30:32+00:00",
+        "published_at": "2026-08-21T17:30:13+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-werkstudent-data-science-business-intelligence-leipzig-326594",
+        "title": "Werkstudent Data Science / Business Intelligence (m/w/d)",
+        "company": "Meierhofer",
+        "location": "Leipzig",
+        "job_type": "Student, Working student, Part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-data-science-business-intelligence-leipzig-326594",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-21T17:30:13+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-it-systems-engineer-fur-servicenow-nuremberg-328583",
+        "title": "(Senior) IT Systems Engineer für ServiceNow (m/w/d)",
+        "company": "noris network AG",
+        "location": "Nuremberg",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/noris-network-ag/senior-it-systems-engineer-fur-servicenow-nuremberg-328583",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-21T17:00:31+00:00",
         "remote": true
     },
     {
@@ -327,6 +415,17 @@
         "url": "https://jobs.ashbyhq.com/openai/f520fee9-859b-41e4-9f0b-ae03da7fca88",
         "source": "Ashby",
         "published_at": "2026-08-20T19:00:07.710000+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6479644002",
+        "title": "Support Engineer, U.S. Government Support",
+        "company": "GitLab",
+        "location": "Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8707353002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-21T13:48:35-04:00",
         "remote": true
     },
     {
@@ -350,27 +449,5 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-21T03:40:12+00:00",
         "remote": false
-    },
-    {
-        "id": "greenhouse-6476976002",
-        "title": "Senior Assigned Support Engineer (EMEA)",
-        "company": "GitLab",
-        "location": "Remote, United Kingdom",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8701290002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-20T13:51:05-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6480833002",
-        "title": "Senior Assigned Support Engineer (AMER)",
-        "company": "GitLab",
-        "location": "Remote, Canada; Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8709925002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-20T13:31:45-04:00",
-        "remote": true
     }
 ]

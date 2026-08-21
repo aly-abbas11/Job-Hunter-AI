@@ -1,5 +1,16 @@
 [
     {
+        "id": "greenhouse-6475727002",
+        "title": "Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK",
+        "company": "GitLab",
+        "location": "Remote, Canada; Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8698330002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-20T21:22:41-04:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-6475720002",
         "title": "Backend Engineer, AI Engineering: Duo Chat",
         "company": "GitLab",
@@ -8,6 +19,61 @@
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8698314002",
         "source": "Greenhouse",
         "published_at": "2026-08-20T17:35:39-04:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-9f586619-7190-4b91-9002-d3826eaed72f",
+        "title": "Partner Director, ANZ",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/9f586619-7190-4b91-9002-d3826eaed72f",
+        "source": "Ashby",
+        "published_at": "2026-08-21T06:39:30.831000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-machine-learning-scientist-berlin-103209",
+        "title": "Machine Learning Scientist",
+        "company": "Nucs AI",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-machine-learning-scientist-berlin-103209",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-21T05:30:15+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-caf08cbd-8da6-4904-b5f3-4709e42f6b15",
+        "title": "GTM Strategy & Operations Lead, Reseller & Ecosystem Programs (APAC)",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/caf08cbd-8da6-4904-b5f3-4709e42f6b15",
+        "source": "Ashby",
+        "published_at": "2026-08-21T04:22:14.422000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-52263a22-1621-4dbb-9a11-ae4490f2acc8",
+        "title": "Account Director, Digital Native",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/52263a22-1621-4dbb-9a11-ae4490f2acc8",
+        "source": "Ashby",
+        "published_at": "2026-08-21T03:28:32.876000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-ea647f38-5af4-4767-8268-608059af4095",
+        "title": "Partner Director, Korea",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/ea647f38-5af4-4767-8268-608059af4095",
+        "source": "Ashby",
+        "published_at": "2026-08-21T02:47:02.151000+00:00",
         "remote": true
     },
     {
@@ -118,6 +184,28 @@
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8729451002",
         "source": "Greenhouse",
         "published_at": "2026-08-20T11:45:55-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-crm-ai-solutions-engineer-ahrensburg-70645",
+        "title": "Senior CRM / AI Solutions Engineer (m/w/d)",
+        "company": "Hela Gewürzwerk Hermann Laue GmbH",
+        "location": "Homeoffice",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/hela-gewurzwerk-hermann-laue-gmbh/remote-senior-crm-ai-solutions-engineer-ahrensburg-70645",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-21T02:30:14+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-a1320bbf-bfae-49a8-a1b7-12eeccaf39ca",
+        "title": "Developer Relations Engineer (San Francisco, CA)",
+        "company": "Supabase",
+        "location": "Remote",
+        "job_type": "FullTime, Marketing",
+        "url": "https://jobs.ashbyhq.com/supabase/a1320bbf-bfae-49a8-a1b7-12eeccaf39ca",
+        "source": "Ashby",
+        "published_at": "2026-08-21T03:26:51.465000+00:00",
         "remote": true
     },
     {
@@ -286,14 +374,25 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-data-protection-officer-landau-an-der-isar-94343",
-        "title": "Data Protection Officer (m/w/d)",
-        "company": "actago GmbH",
-        "location": "Landau an der Isar",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/data-protection-officer-landau-an-der-isar-94343",
+        "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-170267",
+        "title": "Senior Java Backend Developer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-170267",
         "source": "Arbeitnow",
-        "published_at": "2026-08-20T15:00:32+00:00",
+        "published_at": "2026-08-21T02:30:18+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-it-architect-karlsruhe-223778",
+        "title": "Senior IT Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-223778",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-21T02:30:18+00:00",
         "remote": true
     },
     {
@@ -306,6 +405,17 @@
         "source": "Ashby",
         "published_at": "2026-08-20T19:00:07.710000+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-technical-support-specialist-uk-london-26096",
+        "title": "Senior Technical Support Specialist- UK",
+        "company": "Ema",
+        "location": "United Kingdom (Remote)",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ema/senior-technical-support-specialist-uk-london-26096",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-21T03:40:12+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-technical-support-engineer-89334",

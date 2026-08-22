@@ -11,17 +11,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-6475720002",
-        "title": "Backend Engineer, AI Engineering: Duo Chat",
-        "company": "GitLab",
-        "location": "Remote, Canada; Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8698314002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-20T17:35:39-04:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-backend-engineer-python-agent-developer-flow-components-296673",
         "title": "Senior Backend Engineer (Python), Agent Developer: Flow Components",
         "company": "gitlab",
@@ -30,6 +19,50 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-python-agent-developer-flow-components-296673",
         "source": "Arbeitnow",
         "published_at": "2026-08-21T09:55:15+00:00",
+        "remote": false
+    },
+    {
+        "id": "greenhouse-3525257",
+        "title": "Software Engineer, Payments",
+        "company": "Airbnb",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://careers.airbnb.com/positions/8146265?gh_jid=8146265",
+        "source": "Greenhouse",
+        "published_at": "2026-08-21T16:27:49-04:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-9c990e11-a5fb-4c6d-ab83-ede32839e78e",
+        "title": "Product Marketing Manager, Cybersecurity",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Marketing",
+        "url": "https://jobs.ashbyhq.com/openai/9c990e11-a5fb-4c6d-ab83-ede32839e78e",
+        "source": "Ashby",
+        "published_at": "2026-08-21T20:13:10.905000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-f69f75f5-439f-4044-8ae1-8fd810e0402d",
+        "title": "Data Center Physical Security Systems Engineer",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Security",
+        "url": "https://jobs.ashbyhq.com/openai/f69f75f5-439f-4044-8ae1-8fd810e0402d",
+        "source": "Ashby",
+        "published_at": "2026-08-21T19:59:39.736000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-professorship-w2-in-business-information-systems-business-analytics-and-applied-ai-100-122066",
+        "title": "Professorship (W2) in Business Information Systems, Business Analytics and Applied AI (100 %) (m/f/d)",
+        "company": "velpTEC edutainment",
+        "location": "Remote",
+        "job_type": "Experienced, Temporary, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/velptec-edutainment/remote-professorship-w2-in-business-information-systems-business-analytics-and-applied-ai-100-122066",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-21T18:10:24+00:00",
         "remote": false
     },
     {
@@ -110,69 +143,14 @@
         "remote": true
     },
     {
-        "id": "ashby-1b268692-70d8-46c2-a347-2f7705b5c174",
-        "title": "Machine Learning Engineer, Multimodal Perception and Authentication",
-        "company": "OpenAI",
+        "id": "arbeitnow-remote-veeam-data-cloud-vault-solution-specialist-215456",
+        "title": "Veeam Data Cloud Vault Solution Specialist",
+        "company": "Veeamsoftware",
         "location": "Remote",
-        "job_type": "FullTime, Consumer Devices",
-        "url": "https://jobs.ashbyhq.com/openai/1b268692-70d8-46c2-a347-2f7705b5c174",
-        "source": "Ashby",
-        "published_at": "2026-08-21T00:46:07.216000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-0f887fe6-39f4-44f6-8ee5-230c3002f0d7",
-        "title": "Software Engineer, Private Computing",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Consumer Devices",
-        "url": "https://jobs.ashbyhq.com/openai/0f887fe6-39f4-44f6-8ee5-230c3002f0d7",
-        "source": "Ashby",
-        "published_at": "2026-08-20T22:28:11.915000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3525144",
-        "title": "AI Solutions Lead, Marketing",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8146070",
-        "source": "Greenhouse",
-        "published_at": "2026-08-20T18:21:59-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3525144",
-        "title": "AI Solutions Lead, Marketing",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8145998",
-        "source": "Greenhouse",
-        "published_at": "2026-08-20T18:21:58-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6487008002",
-        "title": "Senior Manager, Product Security Engineering (Security Posture & Supply Chain)",
-        "company": "GitLab",
-        "location": "Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8722934002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-20T18:11:09-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-inhouse-net-backend-entwickler-full-remote-aus-bayern-dusseldorf-31441",
-        "title": "Inhouse .NET Backend Entwickler (m/w/d) - Full Remote aus Bayern",
-        "company": "DWWA Personalberatung GmbH",
-        "location": "Düsseldorf",
         "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/dwwa-personalberatung-gmbh/inhouse-net-backend-entwickler-full-remote-aus-bayern-dusseldorf-31441",
+        "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-veeam-data-cloud-vault-solution-specialist-215456",
         "source": "Arbeitnow",
-        "published_at": "2026-08-21T13:30:31+00:00",
+        "published_at": "2026-08-21T17:55:42+00:00",
         "remote": true
     },
     {
@@ -184,6 +162,50 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-go-tenant-scale-gitaly-169799",
         "source": "Arbeitnow",
         "published_at": "2026-08-21T09:55:15+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-115971",
+        "title": "AI Solution Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-115971",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-21T23:30:11+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3525158",
+        "title": "Senior Software Engineer (Platform - Access & Authorization)",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8146039?gh_jid=8146039",
+        "source": "Greenhouse",
+        "published_at": "2026-08-21T17:05:50-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3525919",
+        "title": "Senior Data Scientist",
+        "company": "Coinbase",
+        "location": "Remote - Singapore",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8147917?gh_jid=8147917",
+        "source": "Greenhouse",
+        "published_at": "2026-08-21T16:42:50-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-full-stack-software-engineer-journey-berlin-103466",
+        "title": "Full-Stack Software Engineer - Journey",
+        "company": "Ecosia",
+        "location": "Berlin / fully remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/ecosia/full-stack-software-engineer-journey-berlin-103466",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-21T17:40:14+00:00",
         "remote": false
     },
     {
@@ -242,28 +264,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-salesforce-developer-431201",
-        "title": "Senior Salesforce Developer (m/f/d)",
-        "company": "Auxmoney Gmbh",
-        "location": "Remote / Düsseldorf",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-salesforce-developer-431201",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-21T14:29:12+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-hr-it-governance-senior-hr-it-governance-service-management-compliance-consultant-freelance-remote-bonn-327168",
-        "title": "Senior HR IT Governance, Senior HR IT Governance, Service Management & Compliance Consultant (Freelance, Remote)",
-        "company": "Sidekick Network GmbH & Co. KG",
-        "location": "Bonn",
-        "job_type": "Freelance, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-hr-it-governance-senior-hr-it-governance-service-management-compliance-consultant-freelance-remote-bonn-327168",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-21T13:30:31+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-intermediate-software-engineer-security-factory-vulnerability-management-85833",
         "title": "Intermediate Software Engineer, Security Factory: Vulnerability Management",
         "company": "gitlab",
@@ -286,91 +286,14 @@
         "remote": true
     },
     {
-        "id": "ashby-26f7817d-ca92-4094-a2b5-f22e07a218c4",
-        "title": "Developer Relations Engineer",
-        "company": "Supabase",
-        "location": "Remote",
-        "job_type": "FullTime, Marketing",
-        "url": "https://jobs.ashbyhq.com/supabase/26f7817d-ca92-4094-a2b5-f22e07a218c4",
-        "source": "Ashby",
-        "published_at": "2026-08-21T00:46:35.584000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-1acade7a-0b80-4c6c-9253-7c27a165739d",
-        "title": "Developer Relations Engineer (London, UK)",
-        "company": "Supabase",
-        "location": "Remote",
-        "job_type": "FullTime, Marketing",
-        "url": "https://jobs.ashbyhq.com/supabase/1acade7a-0b80-4c6c-9253-7c27a165739d",
-        "source": "Ashby",
-        "published_at": "2026-08-21T00:33:52.738000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-98ae5c78-eab7-4879-b143-96b98e4d0dbb",
-        "title": "Developer Relations Engineer (New York, NY)",
-        "company": "Supabase",
-        "location": "Remote",
-        "job_type": "FullTime, Marketing",
-        "url": "https://jobs.ashbyhq.com/supabase/98ae5c78-eab7-4879-b143-96b98e4d0dbb",
-        "source": "Ashby",
-        "published_at": "2026-08-21T00:23:04.954000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6471096002",
-        "title": "Intermediate Software Engineer, Security Factory: Vulnerability Management",
-        "company": "GitLab",
-        "location": "Remote, Canada; Remote, Israel; Remote, United Kingdom",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8688078002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-20T19:22:50-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3524759",
-        "title": "Staff Data Engineer, Market Data",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
-        "source": "Greenhouse",
-        "published_at": "2026-08-20T17:05:21-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3524095",
-        "title": "Machine Learning Engineer II, Ads - Response Prediction",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8143263",
-        "source": "Greenhouse",
-        "published_at": "2026-08-20T15:14:19-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3524070",
-        "title": "Senior Machine Learning Engineer, Digital Twin Platform",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8143147",
-        "source": "Greenhouse",
-        "published_at": "2026-08-20T15:12:31-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3524070",
-        "title": "Senior Machine Learning Engineer, Digital Twin Platform",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8143145",
-        "source": "Greenhouse",
-        "published_at": "2026-08-20T15:12:30-04:00",
+        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-233097",
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-233097",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-21T23:30:11+00:00",
         "remote": true
     },
     {
@@ -396,25 +319,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-it-systems-engineer-fur-servicenow-nuremberg-328583",
-        "title": "(Senior) IT Systems Engineer für ServiceNow (m/w/d)",
-        "company": "noris network AG",
-        "location": "Nuremberg",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/noris-network-ag/senior-it-systems-engineer-fur-servicenow-nuremberg-328583",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-21T17:00:31+00:00",
+        "id": "greenhouse-3518205",
+        "title": "Product Designer II, Notifications",
+        "company": "Pinterest",
+        "location": "San Francisco, CA, US; Remote, US",
+        "job_type": "Full Time",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8123052",
+        "source": "Greenhouse",
+        "published_at": "2026-08-21T18:33:07-04:00",
         "remote": true
     },
     {
-        "id": "ashby-f520fee9-859b-41e4-9f0b-ae03da7fca88",
-        "title": "AI Support Engineer - Tokyo",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, User Operations",
-        "url": "https://jobs.ashbyhq.com/openai/f520fee9-859b-41e4-9f0b-ae03da7fca88",
-        "source": "Ashby",
-        "published_at": "2026-08-20T19:00:07.710000+00:00",
+        "id": "arbeitnow-senior-product-designer-wallets-100-remote-worldwide-united-kindom-71221",
+        "title": "Senior Product Designer (Wallets) - 100% Remote Worldwide",
+        "company": "Tether Operations Limited",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-product-designer-wallets-100-remote-worldwide-united-kindom-71221",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-21T21:30:16+00:00",
         "remote": true
     },
     {
@@ -437,17 +360,6 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-assigned-support-engineer-emea-362928",
         "source": "Arbeitnow",
         "published_at": "2026-08-21T09:55:15+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-technical-support-specialist-uk-london-26096",
-        "title": "Senior Technical Support Specialist- UK",
-        "company": "Ema",
-        "location": "United Kingdom (Remote)",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/ema/senior-technical-support-specialist-uk-london-26096",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-21T03:40:12+00:00",
         "remote": false
     }
 ]

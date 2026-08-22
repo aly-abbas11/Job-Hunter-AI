@@ -1,5 +1,27 @@
 [
     {
+        "id": "arbeitnow-remote-werkstudent-mobile-development-73791",
+        "title": "Werkstudent Mobile Development (m/w/d)",
+        "company": "Teveo Gmbh",
+        "location": "Remote",
+        "job_type": "Student, Intern, Part time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/teveo-gmbh/remote-werkstudent-mobile-development-73791",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-22T06:10:43+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-product-manager-saas-platform-with-ai-focus-13126",
+        "title": "Senior Product Manager – SaaS Platform with AI Focus (m/f/d)",
+        "company": "Sport Alliance GmbH",
+        "location": "Remote (Germany)",
+        "job_type": "Full-time",
+        "url": "https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-product-manager-saas-platform-with-ai-focus-13126",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-22T08:24:56+00:00",
+        "remote": false
+    },
+    {
         "id": "greenhouse-3525257",
         "title": "Software Engineer, Payments",
         "company": "Airbnb",
@@ -55,36 +77,36 @@
         "remote": true
     },
     {
-        "id": "ashby-ac0922d9-4731-40a1-b8a3-17b912e1a13b",
-        "title": "Account Director, Startups (Mandarin-Speaking)",
-        "company": "OpenAI",
+        "id": "arbeitnow-data-engineer-fully-remote-working-hours-5am-2pm-cest-387091",
+        "title": "Data Engineer - fully remote (working hours 5am-2pm CEST) (m/f/d)",
+        "company": "JobLeads Careers",
         "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/ac0922d9-4731-40a1-b8a3-17b912e1a13b",
-        "source": "Ashby",
-        "published_at": "2026-08-21T06:59:22.909000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-9f586619-7190-4b91-9002-d3826eaed72f",
-        "title": "Partner Director, ANZ",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/9f586619-7190-4b91-9002-d3826eaed72f",
-        "source": "Ashby",
-        "published_at": "2026-08-21T06:39:30.831000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-115971",
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-115971",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/jobleads-careers/data-engineer-fully-remote-working-hours-5am-2pm-cest-387091",
         "source": "Arbeitnow",
-        "published_at": "2026-08-21T23:30:11+00:00",
+        "published_at": "2026-08-22T09:09:43+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-team-lead-data-products-analytics-gn-9339",
+        "title": "Team Lead Data Products & Analytics (gn)",
+        "company": "Bikeleasing",
+        "location": "Remote Deutschland",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-team-lead-data-products-analytics-gn-9339",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-22T08:30:16+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-data-scientist-berlin-309145",
+        "title": "Senior Data Scientist (m/f/x)",
+        "company": "Makersite GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-309145",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-22T08:30:14+00:00",
         "remote": true
     },
     {
@@ -176,14 +198,36 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-233097",
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-233097",
+        "id": "arbeitnow-principal-iam-consultant-identity-governance-and-data-access-london-490046",
+        "title": "Principal IAM Consultant, Identity Governance and Data Access",
+        "company": "Intelance",
+        "location": "London",
+        "job_type": "Freelance, professional / experienced",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/principal-iam-consultant-identity-governance-and-data-access-london-490046",
         "source": "Arbeitnow",
-        "published_at": "2026-08-21T23:30:11+00:00",
+        "published_at": "2026-08-22T09:00:25+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-software-support-technician-london-173023",
+        "title": "Software Support Technician",
+        "company": "Everfield",
+        "location": "UK - Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/everfield/software-support-technician-london-173023",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-22T09:40:14+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-content-and-social-media-manager-342403",
+        "title": "Senior Content and Social Media Manager",
+        "company": "Nivoda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/nivoda/remote-senior-content-and-social-media-manager-342403",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-22T08:40:08+00:00",
         "remote": true
     },
     {

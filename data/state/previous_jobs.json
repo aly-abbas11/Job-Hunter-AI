@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-remote-junior-data-engineer-data-platform-104347",
+        "title": "(Junior) Data Engineer - Data Platform (m/f/d)",
+        "company": "1Komma5Grad",
+        "location": "Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-104347",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-22T12:30:01+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-werkstudent-mobile-development-73791",
         "title": "Werkstudent Mobile Development (m/w/d)",
         "company": "Teveo Gmbh",
@@ -8,6 +19,17 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/teveo-gmbh/remote-werkstudent-mobile-development-73791",
         "source": "Arbeitnow",
         "published_at": "2026-08-22T06:10:43+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-staff-engineer-heartbeat-ai-355893",
+        "title": "Staff Engineer - Heartbeat AI (m/f/d)",
+        "company": "1Komma5Grad",
+        "location": "Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-staff-engineer-heartbeat-ai-355893",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-22T12:30:01+00:00",
         "remote": false
     },
     {
@@ -55,26 +77,48 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-professorship-w2-in-business-information-systems-business-analytics-and-applied-ai-100-122066",
-        "title": "Professorship (W2) in Business Information Systems, Business Analytics and Applied AI (100 %) (m/f/d)",
-        "company": "velpTEC edutainment",
-        "location": "Remote",
-        "job_type": "Experienced, Temporary, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/velptec-edutainment/remote-professorship-w2-in-business-information-systems-business-analytics-and-applied-ai-100-122066",
+        "id": "arbeitnow-senior-sales-engineer-remote-europe-391692",
+        "title": "Senior Sales Engineer (remote, Europe)",
+        "company": "Checkly",
+        "location": "Remote (UTC+1 to UTC+2)",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkly/senior-sales-engineer-remote-europe-391692",
         "source": "Arbeitnow",
-        "published_at": "2026-08-21T18:10:24+00:00",
+        "published_at": "2026-08-22T12:40:08+00:00",
         "remote": false
     },
     {
-        "id": "ashby-990397de-c00c-4577-b093-d8c82b4e9145",
-        "title": "Software Engineer, API Safety",
-        "company": "OpenAI",
+        "id": "arbeitnow-remote-staff-engineer-virtual-assembly-line-247919",
+        "title": "Staff Engineer - Virtual Assembly Line (m/f/d)",
+        "company": "1Komma5Grad",
         "location": "Remote",
-        "job_type": "FullTime, Core Product & Platform",
-        "url": "https://jobs.ashbyhq.com/openai/990397de-c00c-4577-b093-d8c82b4e9145",
-        "source": "Ashby",
-        "published_at": "2026-08-21T17:12:26.509000+00:00",
-        "remote": true
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-staff-engineer-virtual-assembly-line-247919",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-22T12:30:01+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-category-manager-it-software-322667",
+        "title": "(Senior) Category Manager IT & Software",
+        "company": "1Komma5Grad",
+        "location": "Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-category-manager-it-software-322667",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-22T12:30:01+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-analytics-engineer-465811",
+        "title": "(Senior) Analytics Engineer (m/f/d)",
+        "company": "1Komma5Grad",
+        "location": "Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-analytics-engineer-465811",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-22T12:30:01+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-data-engineer-fully-remote-working-hours-5am-2pm-cest-387091",
@@ -143,61 +187,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3525689",
-        "title": "Senior Android Engineer II, Digital Twin Platform",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8147300",
-        "source": "Greenhouse",
-        "published_at": "2026-08-21T13:23:16-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3525689",
-        "title": "Senior Android Engineer II, Digital Twin Platform",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8147298",
-        "source": "Greenhouse",
-        "published_at": "2026-08-21T13:13:57-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3523781",
-        "title": "Senior Sales Engineer - NorthCentral",
-        "company": "Datadog",
-        "location": "Illinois, USA, Remote; Minnesota, USA, Remote",
-        "job_type": "Full Time",
-        "url": "https://careers.datadoghq.com/detail/8142217/?gh_jid=8142217",
-        "source": "Greenhouse",
-        "published_at": "2026-08-21T10:54:46-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3524644",
-        "title": "Enterprise Sales Engineer - FED",
-        "company": "Datadog",
-        "location": "District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote",
-        "job_type": "Full Time",
-        "url": "https://careers.datadoghq.com/detail/8144607/?gh_jid=8144607",
-        "source": "Greenhouse",
-        "published_at": "2026-08-21T10:47:11-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3524657",
-        "title": "Senior Sales Engineer - FED",
-        "company": "Datadog",
-        "location": "District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote",
-        "job_type": "Full Time",
-        "url": "https://careers.datadoghq.com/detail/8144628/?gh_jid=8144628",
-        "source": "Greenhouse",
-        "published_at": "2026-08-21T10:46:26-04:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-principal-iam-consultant-identity-governance-and-data-access-london-490046",
         "title": "Principal IAM Consultant, Identity Governance and Data Access",
         "company": "Intelance",
@@ -207,6 +196,17 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-22T09:00:25+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-product-designer-heartbeat-ai-258660",
+        "title": "Senior Product Designer - Heartbeat AI (m/f/d)",
+        "company": "1Komma5Grad",
+        "location": "Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-product-designer-heartbeat-ai-258660",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-22T12:30:01+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-software-support-technician-london-173023",
@@ -239,28 +239,6 @@
         "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8123052",
         "source": "Greenhouse",
         "published_at": "2026-08-21T18:33:07-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-product-designer-wallets-100-remote-worldwide-united-kindom-71221",
-        "title": "Senior Product Designer (Wallets) - 100% Remote Worldwide",
-        "company": "Tether Operations Limited",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-product-designer-wallets-100-remote-worldwide-united-kindom-71221",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-21T21:30:16+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6479644002",
-        "title": "Support Engineer, U.S. Government Support",
-        "company": "GitLab",
-        "location": "Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8707353002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-21T13:48:35-04:00",
         "remote": true
     }
 ]

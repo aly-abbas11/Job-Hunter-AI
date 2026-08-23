@@ -11,17 +11,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-werkstudent-mobile-development-73791",
-        "title": "Werkstudent Mobile Development (m/w/d)",
-        "company": "Teveo Gmbh",
-        "location": "Remote",
-        "job_type": "Student, Intern, Part time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/teveo-gmbh/remote-werkstudent-mobile-development-73791",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-22T06:10:43+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-staff-engineer-heartbeat-ai-355893",
         "title": "Staff Engineer - Heartbeat AI (m/f/d)",
         "company": "1Komma5Grad",
@@ -30,6 +19,28 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-staff-engineer-heartbeat-ai-355893",
         "source": "Arbeitnow",
         "published_at": "2026-08-22T12:30:01+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-associate-sales-engineer-manchester-449075",
+        "title": "Associate Sales Engineer",
+        "company": "Influxdata",
+        "location": "Remote UK",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/influxdata/associate-sales-engineer-manchester-449075",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-23T03:40:16+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-freelance-web-developer-486823",
+        "title": "(Senior) Freelance Web Developer",
+        "company": "Berlin Bytes",
+        "location": "Remote",
+        "job_type": "Experienced, Freelance, Full or part time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/berlin-bytes/remote-senior-freelance-web-developer-486823",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-23T00:29:09+00:00",
         "remote": false
     },
     {
@@ -75,28 +86,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-22T12:30:01+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-data-engineer-fully-remote-working-hours-5am-2pm-cest-387091",
-        "title": "Data Engineer - fully remote (working hours 5am-2pm CEST) (m/f/d)",
-        "company": "JobLeads Careers",
-        "location": "Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/jobleads-careers/data-engineer-fully-remote-working-hours-5am-2pm-cest-387091",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-22T09:09:43+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-principal-iam-consultant-identity-governance-and-data-access-london-490046",
-        "title": "Principal IAM Consultant, Identity Governance and Data Access",
-        "company": "Intelance",
-        "location": "London",
-        "job_type": "Freelance, professional / experienced",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/principal-iam-consultant-identity-governance-and-data-access-london-490046",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-22T09:00:25+00:00",
-        "remote": true
     },
     {
         "id": "arbeitnow-remote-senior-product-designer-heartbeat-ai-258660",

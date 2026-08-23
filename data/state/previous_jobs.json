@@ -33,50 +33,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-product-manager-saas-platform-with-ai-focus-13126",
-        "title": "Senior Product Manager – SaaS Platform with AI Focus (m/f/d)",
-        "company": "Sport Alliance GmbH",
-        "location": "Remote (Germany)",
-        "job_type": "Full-time",
-        "url": "https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-product-manager-saas-platform-with-ai-focus-13126",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-22T08:24:56+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-3525257",
-        "title": "Software Engineer, Payments",
-        "company": "Airbnb",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://careers.airbnb.com/positions/8146265?gh_jid=8146265",
-        "source": "Greenhouse",
-        "published_at": "2026-08-21T16:27:49-04:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-9c990e11-a5fb-4c6d-ab83-ede32839e78e",
-        "title": "Product Marketing Manager, Cybersecurity",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Marketing",
-        "url": "https://jobs.ashbyhq.com/openai/9c990e11-a5fb-4c6d-ab83-ede32839e78e",
-        "source": "Ashby",
-        "published_at": "2026-08-21T20:13:10.905000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-f69f75f5-439f-4044-8ae1-8fd810e0402d",
-        "title": "Data Center Physical Security Systems Engineer",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Security",
-        "url": "https://jobs.ashbyhq.com/openai/f69f75f5-439f-4044-8ae1-8fd810e0402d",
-        "source": "Ashby",
-        "published_at": "2026-08-21T19:59:39.736000+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-senior-sales-engineer-remote-europe-391692",
         "title": "Senior Sales Engineer (remote, Europe)",
         "company": "Checkly",
@@ -132,61 +88,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-team-lead-data-products-analytics-gn-9339",
-        "title": "Team Lead Data Products & Analytics (gn)",
-        "company": "Bikeleasing",
-        "location": "Remote Deutschland",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-team-lead-data-products-analytics-gn-9339",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-22T08:30:16+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-data-scientist-berlin-309145",
-        "title": "Senior Data Scientist (m/f/x)",
-        "company": "Makersite GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-309145",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-22T08:30:14+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-security-engineer-uk-remote-london-168812",
-        "title": "Security Engineer - UK - Remote",
-        "company": "Pencil",
-        "location": "United Kingdom - Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/pencil/security-engineer-uk-remote-london-168812",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-22T03:40:10+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-3525158",
-        "title": "Senior Software Engineer (Platform - Access & Authorization)",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8146039?gh_jid=8146039",
-        "source": "Greenhouse",
-        "published_at": "2026-08-21T17:05:50-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3525919",
-        "title": "Senior Data Scientist",
-        "company": "Coinbase",
-        "location": "Remote - Singapore",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8147917?gh_jid=8147917",
-        "source": "Greenhouse",
-        "published_at": "2026-08-21T16:42:50-04:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-principal-iam-consultant-identity-governance-and-data-access-london-490046",
         "title": "Principal IAM Consultant, Identity Governance and Data Access",
         "company": "Intelance",
@@ -218,27 +119,5 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-22T09:40:14+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-content-and-social-media-manager-342403",
-        "title": "Senior Content and Social Media Manager",
-        "company": "Nivoda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/nivoda/remote-senior-content-and-social-media-manager-342403",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-22T08:40:08+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3518205",
-        "title": "Product Designer II, Notifications",
-        "company": "Pinterest",
-        "location": "San Francisco, CA, US; Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8123052",
-        "source": "Greenhouse",
-        "published_at": "2026-08-21T18:33:07-04:00",
-        "remote": true
     }
 ]

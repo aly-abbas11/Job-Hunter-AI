@@ -1,24 +1,46 @@
 [
     {
-        "id": "arbeitnow-remote-junior-data-engineer-data-platform-104347",
-        "title": "(Junior) Data Engineer - Data Platform (m/f/d)",
-        "company": "1Komma5Grad",
+        "id": "arbeitnow-devops-cloud-engineer-konstanz-berlin-oder-remote-464804",
+        "title": "DevOps & Cloud Engineer (m/w/d) - Konstanz, Berlin oder remote",
+        "company": "Seitenbau Gmbh",
         "location": "Remote",
         "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-104347",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/devops-cloud-engineer-konstanz-berlin-oder-remote-464804",
         "source": "Arbeitnow",
-        "published_at": "2026-08-22T12:30:01+00:00",
+        "published_at": "2026-08-23T09:29:40+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-staff-engineer-heartbeat-ai-355893",
-        "title": "Staff Engineer - Heartbeat AI (m/f/d)",
-        "company": "1Komma5Grad",
+        "id": "arbeitnow-ai-data-expert-united-kingdom-london-410090",
+        "title": "AI & Data Expert (United Kingdom)",
+        "company": "Authority.inc",
+        "location": "London",
+        "job_type": "Contract, professional / experienced",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/ai-data-expert-united-kingdom-london-410090",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-23T10:30:32+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-site-reliability-engineer-konstanz-berlin-oder-remote-75299",
+        "title": "Site Reliability Engineer (m/w/d) – Konstanz, Berlin oder remote",
+        "company": "Seitenbau Gmbh",
         "location": "Remote",
         "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-staff-engineer-heartbeat-ai-355893",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/site-reliability-engineer-konstanz-berlin-oder-remote-75299",
         "source": "Arbeitnow",
-        "published_at": "2026-08-22T12:30:01+00:00",
+        "published_at": "2026-08-23T09:29:40+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-softwareentwickler-moodle-php-e-learning-257464",
+        "title": "Softwareentwickler (m/w/d) Moodle / PHP / E-Learning",
+        "company": "Velptec",
+        "location": "Remote (Deutschland)",
+        "job_type": "Entry, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/velptec/remote-softwareentwickler-moodle-php-e-learning-257464",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-23T05:10:25+00:00",
         "remote": false
     },
     {
@@ -55,58 +77,25 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-staff-engineer-virtual-assembly-line-247919",
-        "title": "Staff Engineer - Virtual Assembly Line (m/f/d)",
-        "company": "1Komma5Grad",
-        "location": "Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-staff-engineer-virtual-assembly-line-247919",
+        "id": "arbeitnow-cybersecurity-expert-united-kingdom-london-123844",
+        "title": "Cybersecurity Expert (United Kingdom)",
+        "company": "Authority.inc",
+        "location": "London",
+        "job_type": "Contract, professional / experienced",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/cybersecurity-expert-united-kingdom-london-123844",
         "source": "Arbeitnow",
-        "published_at": "2026-08-22T12:30:01+00:00",
-        "remote": false
+        "published_at": "2026-08-23T10:30:32+00:00",
+        "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-category-manager-it-software-322667",
-        "title": "(Senior) Category Manager IT & Software",
-        "company": "1Komma5Grad",
-        "location": "Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-category-manager-it-software-322667",
+        "id": "arbeitnow-technology-software-expert-united-kingdom-london-301451",
+        "title": "Technology & Software Expert (United Kingdom)",
+        "company": "Authority.inc",
+        "location": "London",
+        "job_type": "Contract, professional / experienced",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/technology-software-expert-united-kingdom-london-301451",
         "source": "Arbeitnow",
-        "published_at": "2026-08-22T12:30:01+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-analytics-engineer-465811",
-        "title": "(Senior) Analytics Engineer (m/f/d)",
-        "company": "1Komma5Grad",
-        "location": "Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-analytics-engineer-465811",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-22T12:30:01+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-product-designer-heartbeat-ai-258660",
-        "title": "Senior Product Designer - Heartbeat AI (m/f/d)",
-        "company": "1Komma5Grad",
-        "location": "Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-product-designer-heartbeat-ai-258660",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-22T12:30:01+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-software-support-technician-london-173023",
-        "title": "Software Support Technician",
-        "company": "Everfield",
-        "location": "UK - Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/everfield/software-support-technician-london-173023",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-22T09:40:14+00:00",
-        "remote": false
+        "published_at": "2026-08-23T10:30:31+00:00",
+        "remote": true
     }
 ]

@@ -11,6 +11,17 @@
         "remote": true
     },
     {
+        "id": "ashby-ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
+        "title": "Software Engineer, Model Runtime",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Scaling",
+        "url": "https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
+        "source": "Ashby",
+        "published_at": "2026-08-24T16:34:31.338000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-32905f5c-9405-4073-bc65-c57fcf55a83d",
         "title": "Account Director, Startups | Tokyo",
         "company": "OpenAI",
@@ -22,47 +33,69 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-ai-engineer-berlin-57173",
-        "title": "AI Engineer (m/f/d)",
-        "company": "Lucid Labs",
-        "location": "Berlin",
-        "job_type": "professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/lucid-labs/ai-engineer-berlin-57173",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-24T11:30:35+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-ai-content-design-creator-nauheim-22629",
-        "title": "AI Content & Design Creator (m/w/d)",
-        "company": "ZeinPharma Germany GmbH",
-        "location": "Nauheim",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/zeinpharma-germany-gmbh/ai-content-design-creator-nauheim-22629",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-24T10:30:32+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-consultant-it-compliance-informationssicherheit-berlin-461574",
-        "title": "Consultant IT-Compliance & Informationssicherheit (w/m/d)",
-        "company": "New Monday GmbH",
-        "location": "Berlin",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/consultant-it-compliance-informationssicherheit-berlin-461574",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-24T09:30:34+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-security-architect-london-496869",
-        "title": "Security Architect",
-        "company": "Intelance",
+        "id": "arbeitnow-ai-data-expert-united-kingdom-london-410090",
+        "title": "AI Infrastructure Expert (United Kingdom)",
+        "company": "Authority.inc",
         "location": "London",
-        "job_type": "Freelance, professional / experienced",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/security-architect-london-496869",
+        "job_type": "Contract, professional / experienced",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/ai-data-expert-united-kingdom-london-410090",
         "source": "Arbeitnow",
-        "published_at": "2026-08-23T15:00:45+00:00",
+        "published_at": "2026-08-24T16:17:26+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3526101",
+        "title": "Staff IT Technical Program Manager",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8148396?gh_jid=8148396",
+        "source": "Greenhouse",
+        "published_at": "2026-08-24T13:05:38-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3407925",
+        "title": "Senior Detection Engineer II",
+        "company": "Instacart",
+        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8154308",
+        "source": "Greenhouse",
+        "published_at": "2026-08-24T12:45:44-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3407925",
+        "title": "Senior Detection Engineer II",
+        "company": "Instacart",
+        "location": "United States - Remote",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8154300",
+        "source": "Greenhouse",
+        "published_at": "2026-08-24T12:44:18-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-technology-software-expert-united-kingdom-london-301451",
+        "title": "Enterprise Software Expert (United Kingdom)",
+        "company": "Authority.inc",
+        "location": "London",
+        "job_type": "Contract, professional / experienced",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/technology-software-expert-united-kingdom-london-301451",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-24T16:17:26+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-contract-platform-engineer-berlin-257326",
+        "title": "Contract Platform Engineer",
+        "company": "YLD.com",
+        "location": "Berlin",
+        "job_type": "Freelance",
+        "url": "https://www.arbeitnow.com/jobs/companies/yldcom/contract-platform-engineer-berlin-257326",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-24T15:00:42+00:00",
         "remote": true
     },
     {
@@ -74,17 +107,6 @@
         "url": "https://jobs.ashbyhq.com/openai/ad6b55f9-fa63-4860-b852-d90592e49d1c",
         "source": "Ashby",
         "published_at": "2026-08-23T21:53:27.920000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-influencer-social-media-marketing-manager-nauheim-385219",
-        "title": "Influencer & Social Media Marketing Manager (m/w/d)",
-        "company": "ZeinPharma Germany GmbH",
-        "location": "Nauheim",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/zeinpharma-germany-gmbh/influencer-social-media-marketing-manager-nauheim-385219",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-24T10:30:32+00:00",
         "remote": true
     }
 ]

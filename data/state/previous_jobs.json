@@ -1,5 +1,27 @@
 [
     {
+        "id": "arbeitnow-remote-ai-native-software-entwickler-108394",
+        "title": "AI-Native Software Entwickler (m/w/d)",
+        "company": "JUNE GmbH",
+        "location": "München + Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/june-gmbh/remote-ai-native-software-entwickler-108394",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-23T23:30:14+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-senior-python-developer-remote-110978",
+        "title": "Senior Python Developer (w/m/d) - Remote",
+        "company": "node.energy",
+        "location": "Frankfurt a. M., Freiburg oder remote",
+        "job_type": "Experienced, Permanent, Full or part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-110978",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-23T17:30:34+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-senior-backend-engineer-energy-management-platform-all-genders-113609",
         "title": "Senior Backend Engineer - Energy Management Platform (all genders)",
         "company": "gridX GmbH",
@@ -33,6 +55,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-working-student-crm-data-berlin-178515",
+        "title": "Working Student (m/w/d) CRM & Data",
+        "company": "Recare Deutschland GmbH",
+        "location": "Remote job",
+        "job_type": "Student college, parttime fixed term",
+        "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-working-student-crm-data-berlin-178515",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-23T20:30:11+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-site-reliability-engineer-konstanz-berlin-oder-remote-75299",
         "title": "Site Reliability Engineer (m/w/d) – Konstanz, Berlin oder remote",
         "company": "Seitenbau Gmbh",
@@ -52,17 +85,6 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/influxdata/associate-sales-engineer-manchester-449075",
         "source": "Arbeitnow",
         "published_at": "2026-08-23T03:40:16+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-freelance-web-developer-486823",
-        "title": "(Senior) Freelance Web Developer",
-        "company": "Berlin Bytes",
-        "location": "Remote",
-        "job_type": "Experienced, Freelance, Full or part time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/berlin-bytes/remote-senior-freelance-web-developer-486823",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-23T00:29:09+00:00",
         "remote": false
     },
     {
@@ -96,6 +118,17 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/technology-software-expert-united-kingdom-london-301451",
         "source": "Arbeitnow",
         "published_at": "2026-08-23T10:30:31+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-ad6b55f9-fa63-4860-b852-d90592e49d1c",
+        "title": "BIM Designer & Coordinator",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Scaling",
+        "url": "https://jobs.ashbyhq.com/openai/ad6b55f9-fa63-4860-b852-d90592e49d1c",
+        "source": "Ashby",
+        "published_at": "2026-08-23T21:53:27.920000+00:00",
         "remote": true
     }
 ]

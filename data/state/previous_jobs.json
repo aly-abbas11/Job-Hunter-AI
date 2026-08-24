@@ -1,5 +1,16 @@
 [
     {
+        "id": "ashby-32905f5c-9405-4073-bc65-c57fcf55a83d",
+        "title": "Account Director, Startups | Tokyo",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/32905f5c-9405-4073-bc65-c57fcf55a83d",
+        "source": "Ashby",
+        "published_at": "2026-08-24T06:22:18.564000+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-ai-native-software-entwickler-108394",
         "title": "AI-Native Software Entwickler (m/w/d)",
         "company": "JUNE GmbH",
@@ -8,28 +19,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/june-gmbh/remote-ai-native-software-entwickler-108394",
         "source": "Arbeitnow",
         "published_at": "2026-08-23T23:30:14+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-python-developer-remote-110978",
-        "title": "Senior Python Developer (w/m/d) - Remote",
-        "company": "node.energy",
-        "location": "Frankfurt a. M., Freiburg oder remote",
-        "job_type": "Experienced, Permanent, Full or part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-110978",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-23T17:30:34+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-backend-engineer-energy-management-platform-all-genders-113609",
-        "title": "Senior Backend Engineer - Energy Management Platform (all genders)",
-        "company": "gridX GmbH",
-        "location": "Remote DE; Aachen; Munich",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-senior-backend-engineer-energy-management-platform-all-genders-113609",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-23T14:31:01+00:00",
         "remote": false
     },
     {
@@ -55,14 +44,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-working-student-crm-data-berlin-178515",
-        "title": "Working Student (m/w/d) CRM & Data",
-        "company": "Recare Deutschland GmbH",
+        "id": "arbeitnow-remote-senior-leading-software-engineer-fintech-berlin-137042",
+        "title": "Senior/Leading Software Engineer (fintech)",
+        "company": "TechBiz Global GmbH",
         "location": "Remote job",
-        "job_type": "Student college, parttime fixed term",
-        "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-working-student-crm-data-berlin-178515",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/remote-senior-leading-software-engineer-fintech-berlin-137042",
         "source": "Arbeitnow",
-        "published_at": "2026-08-23T20:30:11+00:00",
+        "published_at": "2026-08-24T05:30:25+00:00",
         "remote": true
     },
     {
@@ -77,15 +66,26 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-associate-sales-engineer-manchester-449075",
-        "title": "Associate Sales Engineer",
-        "company": "Influxdata",
-        "location": "Remote UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/influxdata/associate-sales-engineer-manchester-449075",
+        "id": "arbeitnow-remote-systemadministrator-linux-freiburg-im-breisgau-131907",
+        "title": "Systemadministrator Linux (m/w/d)",
+        "company": "ANGEHEUERT GmbH",
+        "location": "Homeoffice",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-systemadministrator-linux-freiburg-im-breisgau-131907",
         "source": "Arbeitnow",
-        "published_at": "2026-08-23T03:40:16+00:00",
-        "remote": false
+        "published_at": "2026-08-24T05:30:13+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-linux-systemadministrator-freiburg-im-breisgau-345920",
+        "title": "Linux-Systemadministrator (m/w/d)",
+        "company": "ANGEHEUERT GmbH",
+        "location": "Homeoffice",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-linux-systemadministrator-freiburg-im-breisgau-345920",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-24T05:30:13+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-security-architect-london-496869",

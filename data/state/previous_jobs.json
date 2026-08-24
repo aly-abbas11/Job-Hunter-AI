@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-senior-python-developer-remote-frankfurt-am-main-273878",
+        "title": "Senior Python Developer (w/m/d) - Remote",
+        "company": "node.energy",
+        "location": "Frankfurt am Main",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-frankfurt-am-main-273878",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-24T12:00:53+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-32905f5c-9405-4073-bc65-c57fcf55a83d",
         "title": "Account Director, Startups | Tokyo",
         "company": "OpenAI",
@@ -11,80 +22,36 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-native-software-entwickler-108394",
-        "title": "AI-Native Software Entwickler (m/w/d)",
-        "company": "JUNE GmbH",
-        "location": "München + Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/june-gmbh/remote-ai-native-software-entwickler-108394",
+        "id": "arbeitnow-ai-engineer-berlin-57173",
+        "title": "AI Engineer (m/f/d)",
+        "company": "Lucid Labs",
+        "location": "Berlin",
+        "job_type": "professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/lucid-labs/ai-engineer-berlin-57173",
         "source": "Arbeitnow",
-        "published_at": "2026-08-23T23:30:14+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-devops-cloud-engineer-konstanz-berlin-oder-remote-464804",
-        "title": "DevOps & Cloud Engineer (m/w/d) - Konstanz, Berlin oder remote",
-        "company": "Seitenbau Gmbh",
-        "location": "Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/devops-cloud-engineer-konstanz-berlin-oder-remote-464804",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-23T09:29:40+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-ai-data-expert-united-kingdom-london-410090",
-        "title": "AI & Data Expert (United Kingdom)",
-        "company": "Authority.inc",
-        "location": "London",
-        "job_type": "Contract, professional / experienced",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/ai-data-expert-united-kingdom-london-410090",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-23T10:30:32+00:00",
+        "published_at": "2026-08-24T11:30:35+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-leading-software-engineer-fintech-berlin-137042",
-        "title": "Senior/Leading Software Engineer (fintech)",
-        "company": "TechBiz Global GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/remote-senior-leading-software-engineer-fintech-berlin-137042",
+        "id": "arbeitnow-ai-content-design-creator-nauheim-22629",
+        "title": "AI Content & Design Creator (m/w/d)",
+        "company": "ZeinPharma Germany GmbH",
+        "location": "Nauheim",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/zeinpharma-germany-gmbh/ai-content-design-creator-nauheim-22629",
         "source": "Arbeitnow",
-        "published_at": "2026-08-24T05:30:25+00:00",
+        "published_at": "2026-08-24T10:30:32+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-site-reliability-engineer-konstanz-berlin-oder-remote-75299",
-        "title": "Site Reliability Engineer (m/w/d) – Konstanz, Berlin oder remote",
-        "company": "Seitenbau Gmbh",
-        "location": "Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/site-reliability-engineer-konstanz-berlin-oder-remote-75299",
+        "id": "arbeitnow-consultant-it-compliance-informationssicherheit-berlin-461574",
+        "title": "Consultant IT-Compliance & Informationssicherheit (w/m/d)",
+        "company": "New Monday GmbH",
+        "location": "Berlin",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/consultant-it-compliance-informationssicherheit-berlin-461574",
         "source": "Arbeitnow",
-        "published_at": "2026-08-23T09:29:40+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-systemadministrator-linux-freiburg-im-breisgau-131907",
-        "title": "Systemadministrator Linux (m/w/d)",
-        "company": "ANGEHEUERT GmbH",
-        "location": "Homeoffice",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-systemadministrator-linux-freiburg-im-breisgau-131907",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-24T05:30:13+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-linux-systemadministrator-freiburg-im-breisgau-345920",
-        "title": "Linux-Systemadministrator (m/w/d)",
-        "company": "ANGEHEUERT GmbH",
-        "location": "Homeoffice",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-linux-systemadministrator-freiburg-im-breisgau-345920",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-24T05:30:13+00:00",
+        "published_at": "2026-08-24T09:30:34+00:00",
         "remote": true
     },
     {
@@ -99,28 +66,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-cybersecurity-expert-united-kingdom-london-123844",
-        "title": "Cybersecurity Expert (United Kingdom)",
-        "company": "Authority.inc",
-        "location": "London",
-        "job_type": "Contract, professional / experienced",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/cybersecurity-expert-united-kingdom-london-123844",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-23T10:30:32+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-technology-software-expert-united-kingdom-london-301451",
-        "title": "Technology & Software Expert (United Kingdom)",
-        "company": "Authority.inc",
-        "location": "London",
-        "job_type": "Contract, professional / experienced",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/technology-software-expert-united-kingdom-london-301451",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-23T10:30:31+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-ad6b55f9-fa63-4860-b852-d90592e49d1c",
         "title": "BIM Designer & Coordinator",
         "company": "OpenAI",
@@ -129,6 +74,17 @@
         "url": "https://jobs.ashbyhq.com/openai/ad6b55f9-fa63-4860-b852-d90592e49d1c",
         "source": "Ashby",
         "published_at": "2026-08-23T21:53:27.920000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-influencer-social-media-marketing-manager-nauheim-385219",
+        "title": "Influencer & Social Media Marketing Manager (m/w/d)",
+        "company": "ZeinPharma Germany GmbH",
+        "location": "Nauheim",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/zeinpharma-germany-gmbh/influencer-social-media-marketing-manager-nauheim-385219",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-24T10:30:32+00:00",
         "remote": true
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-devops-engineer-aws-kubernetes-junior-intermediate-berlin-387611",
+        "title": "DevOps Engineer AWS & Kubernetes, Junior/Intermediate (m/w/d)",
+        "company": "New Monday GmbH",
+        "location": "Berlin",
+        "job_type": "berufseinstieg",
+        "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/devops-engineer-aws-kubernetes-junior-intermediate-berlin-387611",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-25T16:00:46+00:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-3529046",
         "title": "Staff Software Engineer, Backend - Platform (Core AI Automation)",
         "company": "Coinbase",
@@ -11,15 +22,26 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-ai-engineer-all-genders-478086",
-        "title": "Senior AI Engineer (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-ai-engineer-all-genders-478086",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-25T11:09:57+00:00",
-        "remote": false
+        "id": "ashby-5953fed7-1466-4e90-94c9-43716a55e032",
+        "title": "Product Manager, Learning",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/5953fed7-1466-4e90-94c9-43716a55e032",
+        "source": "Ashby",
+        "published_at": "2026-08-25T16:58:59.532000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-c416bf18-d941-4a07-933d-2b1026702a70",
+        "title": "Head of Scaled, Ads Solutions",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/c416bf18-d941-4a07-933d-2b1026702a70",
+        "source": "Ashby",
+        "published_at": "2026-08-25T12:43:43.228000+00:00",
+        "remote": true
     },
     {
         "id": "ashby-86ef6da0-5d05-46a5-9059-f4f94beab013",
@@ -66,25 +88,58 @@
         "remote": true
     },
     {
-        "id": "ashby-ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
-        "title": "Software Engineer, Model Runtime",
-        "company": "OpenAI",
+        "id": "greenhouse-6491059002",
+        "title": "Senior FP&A Analyst, Cloud Hosting",
+        "company": "GitLab",
         "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
-        "source": "Ashby",
-        "published_at": "2026-08-24T16:34:31.338000+00:00",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8731564002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-25T11:00:31-04:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-cloud-consultant-architect-dusseldorf-96894",
-        "title": "Cloud Consultant-Architect",
-        "company": "ITQ",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/itq/remote-cloud-consultant-architect-dusseldorf-96894",
+        "id": "greenhouse-3529258",
+        "title": "Senior Software Engineer, Core Experience",
+        "company": "Instacart",
+        "location": "United States - Remote",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8155585",
+        "source": "Greenhouse",
+        "published_at": "2026-08-25T14:09:57-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-lead-devops-engineer-119495",
+        "title": "Lead DevOps Engineer",
+        "company": "Akersystems",
+        "location": "Remote/Home Based",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/akersystems/remote-lead-devops-engineer-119495",
         "source": "Arbeitnow",
-        "published_at": "2026-08-25T08:30:15+00:00",
+        "published_at": "2026-08-25T15:55:17+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-lead-data-platform-engineer-98007",
+        "title": "Lead Data Platform Engineer",
+        "company": "Akersystems",
+        "location": "Remote/Home Based",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/akersystems/remote-lead-data-platform-engineer-98007",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-25T15:55:17+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-lead-java-developer-solution-architect-6-month-contract-london-14772",
+        "title": "Lead Java Developer/Solution Architect (6-month contract)",
+        "company": "gravity9",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gravity9/remote-lead-java-developer-solution-architect-6-month-contract-london-14772",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-25T15:30:04+00:00",
         "remote": true
     },
     {
@@ -132,61 +187,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-analytics-engineer-all-genders-253435",
-        "title": "Senior Analytics Engineer (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-analytics-engineer-all-genders-253435",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-25T11:09:57+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-principal-cybersecurity-all-genders-303718",
-        "title": "Principal Cybersecurity (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-principal-cybersecurity-all-genders-303718",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-25T11:09:57+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-werkstudentin-data-science-deep-learning-im-kontext-sprachassistenzsysteme-karlsruhe-oder-remote-173151",
-        "title": "Werkstudent*in (w/m/d) - Data Science & Deep-Learning im Kontext Sprachassistenzsysteme - Karlsruhe oder remote",
-        "company": "KENBUN IT AG",
-        "location": "Karlsruhe",
-        "job_type": "Working student",
-        "url": "https://www.arbeitnow.com/jobs/companies/kenbun-it-ag/werkstudentin-data-science-deep-learning-im-kontext-sprachassistenzsysteme-karlsruhe-oder-remote-173151",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-25T11:01:20+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-it-infrastructure-and-systems-engineer-network-445338",
-        "title": "Senior IT Infrastructure and Systems Engineer - Network",
-        "company": "Flatrock",
-        "location": "Remote UK",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/flatrock/remote-senior-it-infrastructure-and-systems-engineer-network-445338",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-24T21:29:48+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-it-infrastructure-systems-engineer-136137",
-        "title": "Senior IT Infrastructure / Systems Engineer",
-        "company": "Flatrock",
-        "location": "Remote UK",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/flatrock/remote-senior-it-infrastructure-systems-engineer-136137",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-24T21:29:48+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3487937",
         "title": "Staff Software Engineer, Storage Services",
         "company": "Pinterest",
@@ -220,36 +220,25 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3526101",
-        "title": "Staff IT Technical Program Manager",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8148396?gh_jid=8148396",
-        "source": "Greenhouse",
-        "published_at": "2026-08-24T13:05:38-04:00",
+        "id": "arbeitnow-werkstudent-software-testing-munich-437385",
+        "title": "Werkstudent Software-Testing (m/w/d)",
+        "company": "functionHR GmbH",
+        "location": "Munich",
+        "job_type": "Working student, hilfstätigkeit / student",
+        "url": "https://www.arbeitnow.com/jobs/companies/functionhr-gmbh/werkstudent-software-testing-munich-437385",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-25T13:30:36+00:00",
         "remote": true
     },
     {
-        "id": "greenhouse-3407925",
-        "title": "Senior Detection Engineer II",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8154308",
-        "source": "Greenhouse",
-        "published_at": "2026-08-24T12:45:44-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3407925",
-        "title": "Senior Detection Engineer II",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8154300",
-        "source": "Greenhouse",
-        "published_at": "2026-08-24T12:44:18-04:00",
+        "id": "arbeitnow-automation-operations-lead-munich-342596",
+        "title": "Automation Operations Lead (m/w/d)",
+        "company": "Ecoturn GmbH",
+        "location": "Munich",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/ecoturn-gmbh/automation-operations-lead-munich-342596",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-25T13:00:28+00:00",
         "remote": true
     },
     {
@@ -262,27 +251,5 @@
         "source": "Greenhouse",
         "published_at": "2026-08-24T22:01:48-04:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-game-designer-systems-economy-fully-remote-berlin-429865",
-        "title": "Senior Game Designer - Systems & Economy - Fully Remote",
-        "company": "SOFTGAMES",
-        "location": "Remote job",
-        "job_type": "Mid, freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-game-designer-systems-economy-fully-remote-berlin-429865",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-25T08:30:19+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-freelance-performance-video-editor-pleidelsheim-344332",
-        "title": "Freelance Performance Video Editor (m/w/d)",
-        "company": "AYLASHES",
-        "location": "Pleidelsheim",
-        "job_type": "Freelance, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/aylashes/freelance-performance-video-editor-pleidelsheim-344332",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-25T08:30:45+00:00",
-        "remote": true
     }
 ]

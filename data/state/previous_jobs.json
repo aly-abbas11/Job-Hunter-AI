@@ -11,6 +11,28 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-ai-engineer-agentic-systems-voice-190415",
+        "title": "AI Engineer – Agentic Systems (Voice) (m/f/d)",
+        "company": "Acto",
+        "location": "Berlin (Remote)",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/acto/remote-ai-engineer-agentic-systems-voice-190415",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-25T05:10:23+00:00",
+        "remote": false
+    },
+    {
+        "id": "ashby-86ef6da0-5d05-46a5-9059-f4f94beab013",
+        "title": "GTM Strategy & Operations Lead, Reseller Programs (EMEA)",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/86ef6da0-5d05-46a5-9059-f4f94beab013",
+        "source": "Ashby",
+        "published_at": "2026-08-25T02:58:05.306000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-da5947ec-1048-45c6-9fc2-1290df804e16",
         "title": "Growth Programs Lead, Startups",
         "company": "OpenAI",
@@ -55,14 +77,14 @@
         "remote": true
     },
     {
-        "id": "ashby-32905f5c-9405-4073-bc65-c57fcf55a83d",
-        "title": "Account Director, Startups | Tokyo",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/32905f5c-9405-4073-bc65-c57fcf55a83d",
-        "source": "Ashby",
-        "published_at": "2026-08-24T06:22:18.564000+00:00",
+        "id": "arbeitnow-remote-senior-fullstack-entwickler-ratingen-157329",
+        "title": "Senior Fullstack Entwickler (m/w/d)",
+        "company": "HyPlus Technology GmbH",
+        "location": "Remote job",
+        "job_type": "Executive, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/remote-senior-fullstack-entwickler-ratingen-157329",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-25T02:30:12+00:00",
         "remote": true
     },
     {
@@ -74,6 +96,17 @@
         "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-manager-qa-engineering-194334",
         "source": "Arbeitnow",
         "published_at": "2026-08-24T23:40:16+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-devops-engineer-ratingen-325974",
+        "title": "(Senior) DevOps Engineer (m/w/d)",
+        "company": "HyPlus Technology GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/remote-senior-devops-engineer-ratingen-325974",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-25T02:30:12+00:00",
         "remote": true
     },
     {
@@ -143,17 +176,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-it-product-owner-data-platform-146430",
-        "title": "(Senior) IT Product Owner Data Platform (m/w/d)",
-        "company": "OXG Glasfaser GmbH",
-        "location": "Düsseldorf und Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-senior-it-product-owner-data-platform-146430",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-24T17:10:00+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3526101",
         "title": "Staff IT Technical Program Manager",
         "company": "Coinbase",
@@ -187,14 +209,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-werkstudent-projektmanager-social-media-berlin-449045",
-        "title": "Werkstudent Projektmanager Social Media (m/w/d)",
-        "company": "RealStudio GmbH",
-        "location": "Berlin",
-        "job_type": "Working student",
-        "url": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/werkstudent-projektmanager-social-media-berlin-449045",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-24T17:30:32+00:00",
-        "remote": true
+        "id": "greenhouse-3454625",
+        "title": "Principal Customer Engineer (based in Canberra)",
+        "company": "Cloudflare",
+        "location": "Distributed",
+        "job_type": "Full Time",
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/7956845?gh_jid=7956845",
+        "source": "Greenhouse",
+        "published_at": "2026-08-24T22:01:48-04:00",
+        "remote": false
     }
 ]

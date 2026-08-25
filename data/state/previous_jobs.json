@@ -11,14 +11,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-engineer-agentic-systems-voice-190415",
-        "title": "AI Engineer – Agentic Systems (Voice) (m/f/d)",
-        "company": "Acto",
-        "location": "Berlin (Remote)",
+        "id": "arbeitnow-remote-senior-ai-engineer-all-genders-478086",
+        "title": "Senior AI Engineer (all genders)",
+        "company": "Eraneos",
+        "location": "Hamburg, München, Düsseldorf, remote",
         "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/acto/remote-ai-engineer-agentic-systems-voice-190415",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-ai-engineer-all-genders-478086",
         "source": "Arbeitnow",
-        "published_at": "2026-08-25T05:10:23+00:00",
+        "published_at": "2026-08-25T11:09:57+00:00",
         "remote": false
     },
     {
@@ -77,36 +77,91 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-fullstack-entwickler-ratingen-157329",
-        "title": "Senior Fullstack Entwickler (m/w/d)",
-        "company": "HyPlus Technology GmbH",
+        "id": "arbeitnow-remote-cloud-consultant-architect-dusseldorf-96894",
+        "title": "Cloud Consultant-Architect",
+        "company": "ITQ",
         "location": "Remote job",
-        "job_type": "Executive, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/remote-senior-fullstack-entwickler-ratingen-157329",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/itq/remote-cloud-consultant-architect-dusseldorf-96894",
         "source": "Arbeitnow",
-        "published_at": "2026-08-25T02:30:12+00:00",
+        "published_at": "2026-08-25T08:30:15+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-manager-qa-engineering-194334",
-        "title": "Senior Manager, QA Engineering",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-manager-qa-engineering-194334",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-24T23:40:16+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-devops-engineer-ratingen-325974",
-        "title": "(Senior) DevOps Engineer (m/w/d)",
-        "company": "HyPlus Technology GmbH",
+        "id": "arbeitnow-remote-senior-data-migration-architect-berlin-395871",
+        "title": "(Senior) Data Migration Architect (m/w/d)",
+        "company": "Natuvion GmbH",
         "location": "Remote job",
         "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/remote-senior-devops-engineer-ratingen-325974",
+        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-data-migration-architect-berlin-395871",
         "source": "Arbeitnow",
-        "published_at": "2026-08-25T02:30:12+00:00",
+        "published_at": "2026-08-25T11:30:08+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-sap-consultant-erp-ewm-utilities-data-migration-berlin-424125",
+        "title": "(Senior) SAP Consultant ERP/EWM/Utilities – Data Migration (m/w/d)",
+        "company": "Natuvion GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-consultant-erp-ewm-utilities-data-migration-berlin-424125",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-25T11:30:08+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-go-developer-focus-on-grpc-enterprise-applications-berlin-362940",
+        "title": "Senior Go Developer (f/m/d) – Focus on gRPC & Enterprise Applications",
+        "company": "Natuvion GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-go-developer-focus-on-grpc-enterprise-applications-berlin-362940",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-25T11:30:08+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-full-stack-engineer-berlin-12301",
+        "title": "(Senior) Full Stack Engineer (m/f/d)",
+        "company": "Natuvion GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-full-stack-engineer-berlin-12301",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-25T11:30:08+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-analytics-engineer-all-genders-253435",
+        "title": "Senior Analytics Engineer (all genders)",
+        "company": "Eraneos",
+        "location": "Hamburg, München, Düsseldorf, remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-analytics-engineer-all-genders-253435",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-25T11:09:57+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-principal-cybersecurity-all-genders-303718",
+        "title": "Principal Cybersecurity (all genders)",
+        "company": "Eraneos",
+        "location": "Hamburg, München, Düsseldorf, remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-principal-cybersecurity-all-genders-303718",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-25T11:09:57+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-werkstudentin-data-science-deep-learning-im-kontext-sprachassistenzsysteme-karlsruhe-oder-remote-173151",
+        "title": "Werkstudent*in (w/m/d) - Data Science & Deep-Learning im Kontext Sprachassistenzsysteme - Karlsruhe oder remote",
+        "company": "KENBUN IT AG",
+        "location": "Karlsruhe",
+        "job_type": "Working student",
+        "url": "https://www.arbeitnow.com/jobs/companies/kenbun-it-ag/werkstudentin-data-science-deep-learning-im-kontext-sprachassistenzsysteme-karlsruhe-oder-remote-173151",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-25T11:01:20+00:00",
         "remote": true
     },
     {
@@ -152,17 +207,6 @@
         "source": "Greenhouse",
         "published_at": "2026-08-24T16:51:26-04:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-tools-automation-94433",
-        "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
-        "company": "Vmray Gmbh",
-        "location": "Germany, Bochum or Remote (Europe)",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-94433",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-24T20:10:43+00:00",
-        "remote": false
     },
     {
         "id": "greenhouse-6492489002",
@@ -218,5 +262,27 @@
         "source": "Greenhouse",
         "published_at": "2026-08-24T22:01:48-04:00",
         "remote": false
+    },
+    {
+        "id": "arbeitnow-senior-game-designer-systems-economy-fully-remote-berlin-429865",
+        "title": "Senior Game Designer - Systems & Economy - Fully Remote",
+        "company": "SOFTGAMES",
+        "location": "Remote job",
+        "job_type": "Mid, freelance",
+        "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-game-designer-systems-economy-fully-remote-berlin-429865",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-25T08:30:19+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-freelance-performance-video-editor-pleidelsheim-344332",
+        "title": "Freelance Performance Video Editor (m/w/d)",
+        "company": "AYLASHES",
+        "location": "Pleidelsheim",
+        "job_type": "Freelance, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/aylashes/freelance-performance-video-editor-pleidelsheim-344332",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-25T08:30:45+00:00",
+        "remote": true
     }
 ]

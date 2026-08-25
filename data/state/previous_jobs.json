@@ -1,13 +1,46 @@
 [
     {
-        "id": "arbeitnow-senior-python-developer-remote-frankfurt-am-main-273878",
-        "title": "Senior Python Developer (w/m/d) - Remote",
-        "company": "node.energy",
-        "location": "Frankfurt am Main",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-frankfurt-am-main-273878",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-24T12:00:53+00:00",
+        "id": "greenhouse-3529046",
+        "title": "Staff Software Engineer, Backend - Platform (Core AI Automation)",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8154983?gh_jid=8154983",
+        "source": "Greenhouse",
+        "published_at": "2026-08-24T15:58:52-04:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-da5947ec-1048-45c6-9fc2-1290df804e16",
+        "title": "Growth Programs Lead, Startups",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/da5947ec-1048-45c6-9fc2-1290df804e16",
+        "source": "Ashby",
+        "published_at": "2026-08-24T19:52:38.419000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-9248eab6-74e0-4940-98eb-ca09b17da532",
+        "title": "Software Engineer, AI accelerator Runtime",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Scaling",
+        "url": "https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532",
+        "source": "Ashby",
+        "published_at": "2026-08-24T18:51:59.391000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-d1121575-a1a7-47c9-97e6-56c70f441143",
+        "title": "Systems Software Engineer, Silicon Bringup",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Scaling",
+        "url": "https://jobs.ashbyhq.com/openai/d1121575-a1a7-47c9-97e6-56c70f441143",
+        "source": "Ashby",
+        "published_at": "2026-08-24T18:48:55.627000+00:00",
         "remote": true
     },
     {
@@ -33,15 +66,92 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-ai-data-expert-united-kingdom-london-410090",
-        "title": "AI Infrastructure Expert (United Kingdom)",
-        "company": "Authority.inc",
-        "location": "London",
-        "job_type": "Contract, professional / experienced",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/ai-data-expert-united-kingdom-london-410090",
+        "id": "arbeitnow-remote-senior-manager-qa-engineering-194334",
+        "title": "Senior Manager, QA Engineering",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-manager-qa-engineering-194334",
         "source": "Arbeitnow",
-        "published_at": "2026-08-24T16:17:26+00:00",
+        "published_at": "2026-08-24T23:40:16+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-it-infrastructure-and-systems-engineer-network-445338",
+        "title": "Senior IT Infrastructure and Systems Engineer - Network",
+        "company": "Flatrock",
+        "location": "Remote UK",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/flatrock/remote-senior-it-infrastructure-and-systems-engineer-network-445338",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-24T21:29:48+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-it-infrastructure-systems-engineer-136137",
+        "title": "Senior IT Infrastructure / Systems Engineer",
+        "company": "Flatrock",
+        "location": "Remote UK",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/flatrock/remote-senior-it-infrastructure-systems-engineer-136137",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-24T21:29:48+00:00",
+        "remote": false
+    },
+    {
+        "id": "greenhouse-3487937",
+        "title": "Staff Software Engineer, Storage Services",
+        "company": "Pinterest",
+        "location": "New York, NY, US; Remote, US",
+        "job_type": "Full Time",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8047425",
+        "source": "Greenhouse",
+        "published_at": "2026-08-24T16:51:34-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3498986",
+        "title": "Staff Software Engineer, Data Warehouse Foundation",
+        "company": "Pinterest",
+        "location": "Palo Alto, CA, US; Remote, US",
+        "job_type": "Full Time",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8076015",
+        "source": "Greenhouse",
+        "published_at": "2026-08-24T16:51:26-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-tools-automation-94433",
+        "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
+        "company": "Vmray Gmbh",
+        "location": "Germany, Bochum or Remote (Europe)",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-94433",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-24T20:10:43+00:00",
+        "remote": false
+    },
+    {
+        "id": "greenhouse-6492489002",
+        "title": "Staff Corporate Security Engineer",
+        "company": "GitLab",
+        "location": "Remote, Canada; Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8734888002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-24T15:52:44-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-it-product-owner-data-platform-146430",
+        "title": "(Senior) IT Product Owner Data Platform (m/w/d)",
+        "company": "OXG Glasfaser GmbH",
+        "location": "Düsseldorf und Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-senior-it-product-owner-data-platform-146430",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-24T17:10:00+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3526101",
@@ -77,36 +187,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-technology-software-expert-united-kingdom-london-301451",
-        "title": "Enterprise Software Expert (United Kingdom)",
-        "company": "Authority.inc",
-        "location": "London",
-        "job_type": "Contract, professional / experienced",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/technology-software-expert-united-kingdom-london-301451",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-24T16:17:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-contract-platform-engineer-berlin-257326",
-        "title": "Contract Platform Engineer",
-        "company": "YLD.com",
+        "id": "arbeitnow-werkstudent-projektmanager-social-media-berlin-449045",
+        "title": "Werkstudent Projektmanager Social Media (m/w/d)",
+        "company": "RealStudio GmbH",
         "location": "Berlin",
-        "job_type": "Freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/yldcom/contract-platform-engineer-berlin-257326",
+        "job_type": "Working student",
+        "url": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/werkstudent-projektmanager-social-media-berlin-449045",
         "source": "Arbeitnow",
-        "published_at": "2026-08-24T15:00:42+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-ad6b55f9-fa63-4860-b852-d90592e49d1c",
-        "title": "BIM Designer & Coordinator",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/ad6b55f9-fa63-4860-b852-d90592e49d1c",
-        "source": "Ashby",
-        "published_at": "2026-08-23T21:53:27.920000+00:00",
+        "published_at": "2026-08-24T17:30:32+00:00",
         "remote": true
     }
 ]

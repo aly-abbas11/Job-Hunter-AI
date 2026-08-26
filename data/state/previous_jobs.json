@@ -11,14 +11,14 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3529046",
-        "title": "Staff Software Engineer, Backend - Platform (Core AI Automation)",
-        "company": "Coinbase",
-        "location": "Remote - USA",
+        "id": "greenhouse-6495908002",
+        "title": "Senior Program Manager, Enterprise Technology & AI",
+        "company": "GitLab",
+        "location": "Remote, United States",
         "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8154983?gh_jid=8154983",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8742113002",
         "source": "Greenhouse",
-        "published_at": "2026-08-24T15:58:52-04:00",
+        "published_at": "2026-08-25T19:14:29-04:00",
         "remote": true
     },
     {
@@ -55,36 +55,14 @@
         "remote": true
     },
     {
-        "id": "ashby-da5947ec-1048-45c6-9fc2-1290df804e16",
-        "title": "Growth Programs Lead, Startups",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/da5947ec-1048-45c6-9fc2-1290df804e16",
-        "source": "Ashby",
-        "published_at": "2026-08-24T19:52:38.419000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-9248eab6-74e0-4940-98eb-ca09b17da532",
-        "title": "Software Engineer, AI accelerator Runtime",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532",
-        "source": "Ashby",
-        "published_at": "2026-08-24T18:51:59.391000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-d1121575-a1a7-47c9-97e6-56c70f441143",
-        "title": "Systems Software Engineer, Silicon Bringup",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/d1121575-a1a7-47c9-97e6-56c70f441143",
-        "source": "Ashby",
-        "published_at": "2026-08-24T18:48:55.627000+00:00",
+        "id": "greenhouse-3517090",
+        "title": "Senior Frontend Engineer, Media",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8120262",
+        "source": "Greenhouse",
+        "published_at": "2026-08-25T18:30:56-04:00",
         "remote": true
     },
     {
@@ -96,6 +74,50 @@
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8731564002",
         "source": "Greenhouse",
         "published_at": "2026-08-25T11:00:31-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3324799",
+        "title": "Sr. Staff Software Engineer, Big Data Platform",
+        "company": "Pinterest",
+        "location": "Palo Alto; Seattle, WA; New York, NY; San Francisco, CA, US; Remote, US",
+        "job_type": "Full Time",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494956",
+        "source": "Greenhouse",
+        "published_at": "2026-08-25T19:38:08-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3509040",
+        "title": "Senior Software Engineer, Media Creation",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8100220",
+        "source": "Greenhouse",
+        "published_at": "2026-08-25T15:25:49-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3488568",
+        "title": "Senior Software Engineer, Media Experience",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8048988",
+        "source": "Greenhouse",
+        "published_at": "2026-08-25T15:06:38-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3530544",
+        "title": "Senior Staff Machine Learning Systems Engineer, Ads ML Platform",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8157275",
+        "source": "Greenhouse",
+        "published_at": "2026-08-25T14:40:31-04:00",
         "remote": true
     },
     {
@@ -130,116 +152,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-25T15:55:17+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-lead-java-developer-solution-architect-6-month-contract-london-14772",
-        "title": "Lead Java Developer/Solution Architect (6-month contract)",
-        "company": "gravity9",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gravity9/remote-lead-java-developer-solution-architect-6-month-contract-london-14772",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-25T15:30:04+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-data-migration-architect-berlin-395871",
-        "title": "(Senior) Data Migration Architect (m/w/d)",
-        "company": "Natuvion GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-data-migration-architect-berlin-395871",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-25T11:30:08+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-sap-consultant-erp-ewm-utilities-data-migration-berlin-424125",
-        "title": "(Senior) SAP Consultant ERP/EWM/Utilities – Data Migration (m/w/d)",
-        "company": "Natuvion GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-consultant-erp-ewm-utilities-data-migration-berlin-424125",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-25T11:30:08+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-go-developer-focus-on-grpc-enterprise-applications-berlin-362940",
-        "title": "Senior Go Developer (f/m/d) – Focus on gRPC & Enterprise Applications",
-        "company": "Natuvion GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-go-developer-focus-on-grpc-enterprise-applications-berlin-362940",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-25T11:30:08+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-full-stack-engineer-berlin-12301",
-        "title": "(Senior) Full Stack Engineer (m/f/d)",
-        "company": "Natuvion GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-full-stack-engineer-berlin-12301",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-25T11:30:08+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3487937",
-        "title": "Staff Software Engineer, Storage Services",
-        "company": "Pinterest",
-        "location": "New York, NY, US; Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8047425",
-        "source": "Greenhouse",
-        "published_at": "2026-08-24T16:51:34-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3498986",
-        "title": "Staff Software Engineer, Data Warehouse Foundation",
-        "company": "Pinterest",
-        "location": "Palo Alto, CA, US; Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8076015",
-        "source": "Greenhouse",
-        "published_at": "2026-08-24T16:51:26-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6492489002",
-        "title": "Staff Corporate Security Engineer",
-        "company": "GitLab",
-        "location": "Remote, Canada; Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8734888002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-24T15:52:44-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-werkstudent-software-testing-munich-437385",
-        "title": "Werkstudent Software-Testing (m/w/d)",
-        "company": "functionHR GmbH",
-        "location": "Munich",
-        "job_type": "Working student, hilfstätigkeit / student",
-        "url": "https://www.arbeitnow.com/jobs/companies/functionhr-gmbh/werkstudent-software-testing-munich-437385",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-25T13:30:36+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-automation-operations-lead-munich-342596",
-        "title": "Automation Operations Lead (m/w/d)",
-        "company": "Ecoturn GmbH",
-        "location": "Munich",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/ecoturn-gmbh/automation-operations-lead-munich-342596",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-25T13:00:28+00:00",
-        "remote": true
     },
     {
         "id": "greenhouse-3454625",

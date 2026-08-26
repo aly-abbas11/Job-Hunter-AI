@@ -1,13 +1,13 @@
 [
     {
-        "id": "arbeitnow-devops-engineer-aws-kubernetes-junior-intermediate-berlin-387611",
-        "title": "DevOps Engineer AWS & Kubernetes, Junior/Intermediate (m/w/d)",
-        "company": "New Monday GmbH",
-        "location": "Berlin",
-        "job_type": "berufseinstieg",
-        "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/devops-engineer-aws-kubernetes-junior-intermediate-berlin-387611",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-25T16:00:46+00:00",
+        "id": "greenhouse-6497535002",
+        "title": "Senior Professional Services Engineer",
+        "company": "GitLab",
+        "location": "Remote, Italy; Remote, Netherlands; Remote, Spain",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8745623002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-26T02:03:45-04:00",
         "remote": true
     },
     {
@@ -44,14 +44,36 @@
         "remote": true
     },
     {
-        "id": "ashby-86ef6da0-5d05-46a5-9059-f4f94beab013",
-        "title": "GTM Strategy & Operations Lead, Reseller Programs (EMEA)",
-        "company": "OpenAI",
+        "id": "arbeitnow-remote-staff-backend-engineer-developer-experience-279537",
+        "title": "Staff Backend Engineer, Developer Experience",
+        "company": "gitlab",
         "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/86ef6da0-5d05-46a5-9059-f4f94beab013",
-        "source": "Ashby",
-        "published_at": "2026-08-25T02:58:05.306000+00:00",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-staff-backend-engineer-developer-experience-279537",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-26T03:55:09+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-manager-qa-engineering-476931",
+        "title": "Senior Manager, QA Engineering",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-manager-qa-engineering-476931",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-26T03:40:24+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-software-engineer-backend-data-layer-361726",
+        "title": "Software Engineer, Backend - Data Layer",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-backend-data-layer-361726",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-26T02:40:18+00:00",
         "remote": true
     },
     {
@@ -75,6 +97,17 @@
         "source": "Greenhouse",
         "published_at": "2026-08-25T11:00:31-04:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-platform-engineer-181815",
+        "title": "Senior Platform Engineer (d/f/m)",
+        "company": "Vivenu",
+        "location": "Remote Germany",
+        "job_type": "Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-senior-platform-engineer-181815",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-26T05:25:14+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3324799",
@@ -151,17 +184,6 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/akersystems/remote-lead-data-platform-engineer-98007",
         "source": "Arbeitnow",
         "published_at": "2026-08-25T15:55:17+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-3454625",
-        "title": "Principal Customer Engineer (based in Canberra)",
-        "company": "Cloudflare",
-        "location": "Distributed",
-        "job_type": "Full Time",
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/7956845?gh_jid=7956845",
-        "source": "Greenhouse",
-        "published_at": "2026-08-24T22:01:48-04:00",
         "remote": false
     }
 ]

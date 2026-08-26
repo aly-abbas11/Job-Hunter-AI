@@ -1,5 +1,27 @@
 [
     {
+        "id": "arbeitnow-remote-senior-business-automation-developer-all-genders-i-international-9993",
+        "title": "(Senior) Business Automation Developer (all genders) I International",
+        "company": "Real Digital",
+        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+        "job_type": "Experienced, Permanent, Full or part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-9993",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-26T11:29:53+00:00",
+        "remote": false
+    },
+    {
+        "id": "greenhouse-6473315002",
+        "title": "Senior Software Engineer (Typescript), AI Clients: Duo CLI",
+        "company": "GitLab",
+        "location": "Remote, Poland",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749952002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-26T07:12:11-04:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-6497535002",
         "title": "Senior Professional Services Engineer",
         "company": "GitLab",
@@ -33,14 +55,36 @@
         "remote": true
     },
     {
-        "id": "ashby-c416bf18-d941-4a07-933d-2b1026702a70",
-        "title": "Head of Scaled, Ads Solutions",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/c416bf18-d941-4a07-933d-2b1026702a70",
-        "source": "Ashby",
-        "published_at": "2026-08-25T12:43:43.228000+00:00",
+        "id": "greenhouse-6490088002",
+        "title": "Senior Backend Engineer (Go), Tenant Scale: Gitaly",
+        "company": "GitLab",
+        "location": "Remote, Poland",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749951002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-26T07:09:14-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6468814002",
+        "title": "Senior Backend Engineer (Ruby), Plan: Spec-Driven Development",
+        "company": "GitLab",
+        "location": "Remote, Poland",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749950002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-26T07:08:19-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6483846002",
+        "title": "Senior Backend Engineer",
+        "company": "GitLab",
+        "location": "Remote, Poland",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749946002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-26T07:06:42-04:00",
         "remote": true
     },
     {
@@ -55,6 +99,17 @@
         "remote": false
     },
     {
+        "id": "arbeitnow-remote-software-engineer-backend-data-layer-315999",
+        "title": "Software Engineer, Backend - Data Layer",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-backend-data-layer-315999",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-26T03:40:24+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-senior-manager-qa-engineering-476931",
         "title": "Senior Manager, QA Engineering",
         "company": "Camunda",
@@ -64,17 +119,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-26T03:40:24+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-software-engineer-backend-data-layer-361726",
-        "title": "Software Engineer, Backend - Data Layer",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-backend-data-layer-361726",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-26T02:40:18+00:00",
-        "remote": true
     },
     {
         "id": "greenhouse-3517090",
@@ -99,14 +143,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-platform-engineer-181815",
-        "title": "Senior Platform Engineer (d/f/m)",
-        "company": "Vivenu",
-        "location": "Remote Germany",
-        "job_type": "Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-senior-platform-engineer-181815",
+        "id": "arbeitnow-remote-senior-full-stack-engineer-realtime-voice-customer-experience-platform-228373",
+        "title": "Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform",
+        "company": "Hopper",
+        "location": "England - Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/hopper/remote-senior-full-stack-engineer-realtime-voice-customer-experience-platform-228373",
         "source": "Arbeitnow",
-        "published_at": "2026-08-26T05:25:14+00:00",
+        "published_at": "2026-08-26T09:40:31+00:00",
         "remote": false
     },
     {
@@ -165,25 +209,47 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-lead-devops-engineer-119495",
-        "title": "Lead DevOps Engineer",
-        "company": "Akersystems",
-        "location": "Remote/Home Based",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/akersystems/remote-lead-devops-engineer-119495",
+        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-182251",
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-182251",
         "source": "Arbeitnow",
-        "published_at": "2026-08-25T15:55:17+00:00",
+        "published_at": "2026-08-26T08:30:30+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-ux-researcher-all-genders-96842",
+        "title": "(Senior) UX Researcher (all genders)",
+        "company": "Real Digital",
+        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+        "job_type": "Experienced, Permanent, Full or part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-ux-researcher-all-genders-96842",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-26T11:29:53+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-lead-data-platform-engineer-98007",
-        "title": "Lead Data Platform Engineer",
-        "company": "Akersystems",
-        "location": "Remote/Home Based",
+        "id": "arbeitnow-social-media-manager-content-creation-markenaufbau-saarbrucken-65458",
+        "title": "Social Media Manager (m/w/d) Content Creation & Markenaufbau",
+        "company": "eXperts4Health GmbH",
+        "location": "Saarbrücken",
         "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/akersystems/remote-lead-data-platform-engineer-98007",
+        "url": "https://www.arbeitnow.com/jobs/companies/experts4health-gmbh/social-media-manager-content-creation-markenaufbau-saarbrucken-65458",
         "source": "Arbeitnow",
-        "published_at": "2026-08-25T15:55:17+00:00",
-        "remote": false
+        "published_at": "2026-08-26T11:31:28+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-customer-service-executive-london-187050",
+        "title": "Customer Service Executive",
+        "company": "The Bike Club",
+        "location": "London",
+        "job_type": "1",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/the-bike-club/customer-service-executive-london-187050",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-26T10:00:59+00:00",
+        "remote": true
     }
 ]

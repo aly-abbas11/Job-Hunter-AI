@@ -1,5 +1,38 @@
 [
     {
+        "id": "arbeitnow-nix-nixos-software-engineering-intern-luneburg-113136",
+        "title": "Nix / NixOS Software Engineering Intern",
+        "company": "atvari GmbH",
+        "location": "Lüneburg",
+        "job_type": "Internship, no experience required / student",
+        "url": "https://www.arbeitnow.com/jobs/companies/atvari-gmbh/nix-nixos-software-engineering-intern-luneburg-113136",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-26T21:00:27+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-python-backend-engineer-berlin-109807",
+        "title": "Python Backend Engineer (m/f/x)",
+        "company": "Makersite GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-109807",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-27T02:30:25+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-8efd3a0a-fc66-46e2-9415-bffba10e2919",
+        "title": "AI Solutions Engineer",
+        "company": "Ramp",
+        "location": "Remote",
+        "job_type": "FullTime, Sales",
+        "url": "https://jobs.ashbyhq.com/ramp/8efd3a0a-fc66-46e2-9415-bffba10e2919",
+        "source": "Ashby",
+        "published_at": "2026-08-27T03:05:26.969000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-c37587c4-39f3-40e0-b73c-c8bb55a7cd05",
         "title": "Program Manager - IT Operations",
         "company": "OpenAI",
@@ -55,17 +88,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-founding-gtm-sales-manager-dach-nordics-gn-at-ai-digital-defense-venture-germany-berlin-242780",
-        "title": "Founding GTM & Sales Manager - DACH & Nordics (gn) @ AI Digital Defense Venture, Germany",
-        "company": "atlantic.vc",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/remote-founding-gtm-sales-manager-dach-nordics-gn-at-ai-digital-defense-venture-germany-berlin-242780",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-26T17:30:23+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-f352f3e4-491c-4f6a-a7b6-68292283702d",
         "title": "Partner Marketing Manager, GCP & Oracle",
         "company": "OpenAI",
@@ -99,25 +121,14 @@
         "remote": true
     },
     {
-        "id": "greenhouse-6497535002",
-        "title": "Senior Professional Services Engineer",
-        "company": "GitLab",
-        "location": "Remote, Italy; Remote, Netherlands; Remote, Spain",
+        "id": "greenhouse-3526110",
+        "title": "Backend Software Engineer, PDP Experience",
+        "company": "Reddit",
+        "location": "Remote - United States",
         "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8745623002",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8148431",
         "source": "Greenhouse",
-        "published_at": "2026-08-26T02:03:45-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6495908002",
-        "title": "Senior Program Manager, Enterprise Technology & AI",
-        "company": "GitLab",
-        "location": "Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8742113002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-25T19:14:29-04:00",
+        "published_at": "2026-08-26T13:56:44-04:00",
         "remote": true
     },
     {
@@ -154,25 +165,47 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3517090",
-        "title": "Senior Frontend Engineer, Media",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8120262",
-        "source": "Greenhouse",
-        "published_at": "2026-08-25T18:30:56-04:00",
+        "id": "arbeitnow-remote-senior-servicenow-engineer-244229",
+        "title": "Senior ServiceNow Engineer",
+        "company": "Baringa",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/remote-senior-servicenow-engineer-244229",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-27T03:55:25+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-data-scientist-berlin-194751",
+        "title": "Senior Data Scientist (m/f/x)",
+        "company": "Makersite GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-194751",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-27T02:30:25+00:00",
         "remote": true
     },
     {
-        "id": "greenhouse-3526110",
-        "title": "Software Engineer, PDP Experience",
-        "company": "Reddit",
-        "location": "Remote - United States",
+        "id": "greenhouse-3531855",
+        "title": "Staff Software Engineer, Compute Platform (Routing)",
+        "company": "Coinbase",
+        "location": "Remote - USA",
         "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8148431",
+        "url": "https://www.coinbase.com/careers/positions/8160557?gh_jid=8160557",
         "source": "Greenhouse",
-        "published_at": "2026-08-26T13:56:44-04:00",
+        "published_at": "2026-08-26T20:36:40-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3524492",
+        "title": "Specialist Solutions Architect, Data",
+        "company": "Stripe",
+        "location": "SF, NY, Remote",
+        "job_type": "Full Time",
+        "url": "https://stripe.com/jobs/search?gh_jid=8144262",
+        "source": "Greenhouse",
+        "published_at": "2026-08-26T20:33:39-04:00",
         "remote": true
     },
     {
@@ -198,25 +231,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-core-developer-platform-363080",
-        "title": "Core Developer - Platform",
-        "company": "Parity",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/parity/remote-core-developer-platform-363080",
+        "id": "arbeitnow-remote-principal-developer-a-koln-33796",
+        "title": "Principal Developer (a)",
+        "company": "Eticor GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/eticor-gmbh/remote-principal-developer-a-koln-33796",
         "source": "Arbeitnow",
-        "published_at": "2026-08-26T15:40:38+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-3324799",
-        "title": "Sr. Staff Software Engineer, Big Data Platform",
-        "company": "Pinterest",
-        "location": "Palo Alto; Seattle, WA; New York, NY; San Francisco, CA, US; Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494956",
-        "source": "Greenhouse",
-        "published_at": "2026-08-25T19:38:08-04:00",
+        "published_at": "2026-08-27T05:30:35+00:00",
         "remote": true
     },
     {
@@ -231,6 +253,28 @@
         "remote": true
     },
     {
+        "id": "greenhouse-3531663",
+        "title": "Senior Product Designer II - Order Quality",
+        "company": "Instacart",
+        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8160010",
+        "source": "Greenhouse",
+        "published_at": "2026-08-26T17:15:20-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3531663",
+        "title": "Senior Product Designer II - Order Quality",
+        "company": "Instacart",
+        "location": "United States - Remote",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8160008",
+        "source": "Greenhouse",
+        "published_at": "2026-08-26T17:15:18-04:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-3437551",
         "title": "Content Designer II, Personalization",
         "company": "Pinterest",
@@ -239,28 +283,6 @@
         "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7908767",
         "source": "Greenhouse",
         "published_at": "2026-08-26T11:51:41-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-uk-nominee-director-remote-compliance-support-role-chalkhouse-green-313307",
-        "title": "UK Nominee Director (Remote, Compliance Support Role)",
-        "company": "Emplyfy",
-        "location": "Remote job",
-        "job_type": "Entry, freelance",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/uk-nominee-director-remote-compliance-support-role-chalkhouse-green-313307",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-26T15:30:49+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-customer-service-executive-london-187050",
-        "title": "Customer Service Executive",
-        "company": "The Bike Club",
-        "location": "London",
-        "job_type": "1",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/the-bike-club/customer-service-executive-london-187050",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-26T10:00:59+00:00",
         "remote": true
     }
 ]

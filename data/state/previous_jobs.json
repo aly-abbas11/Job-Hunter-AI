@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-remote-ai-native-software-entwickler-424302",
+        "title": "AI-Native Software Entwickler (m/w/d)",
+        "company": "JUNE GmbH",
+        "location": "München + Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/june-gmbh/remote-ai-native-software-entwickler-424302",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-29T08:10:39+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-2afc5695-a2f8-4832-bf66-a2ca5f0615dc",
         "title": "Senior Counsel, AI & Product Compliance",
         "company": "OpenAI",
@@ -77,25 +88,14 @@
         "remote": true
     },
     {
-        "id": "ashby-de19228c-1120-4f70-9bbf-e66ec59cb666",
-        "title": "Account Director, Enterprise - Tokyo",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/de19228c-1120-4f70-9bbf-e66ec59cb666",
-        "source": "Ashby",
-        "published_at": "2026-08-28T05:43:49.368000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-fullstack-fur-ki-produkte-424242",
-        "title": "Senior Software Engineer (m/w/d) | Fullstack für KI-Produkte",
-        "company": "Avenit Ag",
-        "location": "Remote in Deutschland",
+        "id": "arbeitnow-remote-senior-backend-engineer-energy-management-platform-all-genders-221794",
+        "title": "Senior Backend Engineer - Energy Management Platform (all genders)",
+        "company": "gridX GmbH",
+        "location": "Remote DE; Aachen; Munich",
         "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-424242",
+        "url": "https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-senior-backend-engineer-energy-management-platform-all-genders-221794",
         "source": "Arbeitnow",
-        "published_at": "2026-08-28T23:30:36+00:00",
+        "published_at": "2026-08-29T08:29:14+00:00",
         "remote": false
     },
     {
@@ -107,6 +107,17 @@
         "url": "https://www.coinbase.com/careers/positions/8165015?gh_jid=8165015",
         "source": "Greenhouse",
         "published_at": "2026-08-28T15:54:28-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-full-stack-developer-b2b-platform-laravel-nuxt-vue-berlin-109213",
+        "title": "Senior Full Stack Developer - B2B platform (Laravel + Nuxt/Vue)",
+        "company": "ScholarshipOwl",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-senior-full-stack-developer-b2b-platform-laravel-nuxt-vue-berlin-109213",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-29T08:30:16+00:00",
         "remote": true
     },
     {
@@ -165,14 +176,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-software-developer-ms-dynamics-365-bc-full-remote-offenbach-am-main-56770",
-        "title": "Software Developer (w/m/d) MS Dynamics 365 BC - Full Remote",
-        "company": "Holzland Becker",
+        "id": "arbeitnow-remote-systemadministrator-automation-tools-deutschlandweit-27360",
+        "title": "Systemadministrator (m/w/d) – Automation & Tools",
+        "company": "netzbest GmbH",
         "location": "Homeoffice",
         "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/holzland-becker/software-developer-ms-dynamics-365-bc-full-remote-offenbach-am-main-56770",
+        "url": "https://www.arbeitnow.com/jobs/companies/netzbest-gmbh/remote-systemadministrator-automation-tools-deutschlandweit-27360",
         "source": "Arbeitnow",
-        "published_at": "2026-08-28T17:30:15+00:00",
+        "published_at": "2026-08-29T08:30:14+00:00",
         "remote": true
     },
     {
@@ -185,17 +196,6 @@
         "source": "Ashby",
         "published_at": "2026-08-28T17:53:44.431000+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-technical-support-specialist-hospitality-german-speaking-all-genders-263832",
-        "title": "Technical Support Specialist (Hospitality), German speaking- all genders",
-        "company": "Lightspeedhq",
-        "location": "Remote in Germany",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/lightspeedhq/remote-technical-support-specialist-hospitality-german-speaking-all-genders-263832",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-28T20:40:17+00:00",
-        "remote": false
     },
     {
         "id": "arbeitnow-remote-sr-product-designer-data-management-20132",

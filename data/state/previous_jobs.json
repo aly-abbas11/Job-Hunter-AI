@@ -1,57 +1,35 @@
 [
     {
-        "id": "ashby-2afc5695-a2f8-4832-bf66-a2ca5f0615dc",
-        "title": "Senior Counsel, AI & Product Compliance",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Legal",
-        "url": "https://jobs.ashbyhq.com/openai/2afc5695-a2f8-4832-bf66-a2ca5f0615dc",
-        "source": "Ashby",
-        "published_at": "2026-08-28T22:35:54.974000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-c12ea9bc-8590-4913-a213-1977296fb3db",
-        "title": "Business Communications Lead, Cybersecurity",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Marketing",
-        "url": "https://jobs.ashbyhq.com/openai/c12ea9bc-8590-4913-a213-1977296fb3db",
-        "source": "Ashby",
-        "published_at": "2026-08-28T22:11:06.732000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-devops-84240",
-        "title": "Senior Software Engineer, DevOps",
-        "company": "Muckrack",
-        "location": "Remote (Bulgaria, Ireland",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-devops-84240",
+        "id": "arbeitnow-remote-senior-software-engineer-tools-automation-251844",
+        "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
+        "company": "Vmray Gmbh",
+        "location": "Germany, Bochum or Remote (Europe)",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-251844",
         "source": "Arbeitnow",
-        "published_at": "2026-08-29T03:55:25+00:00",
+        "published_at": "2026-08-30T02:10:32+00:00",
         "remote": false
     },
     {
-        "id": "greenhouse-3533715",
-        "title": "Product Security Engineer",
-        "company": "Coinbase",
-        "location": "Remote - Canada",
+        "id": "arbeitnow-devops-engineer-manchester-263712",
+        "title": "DevOps Engineer",
+        "company": "Influxdata",
+        "location": "Remote UK",
         "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8165389?gh_jid=8165389",
-        "source": "Greenhouse",
-        "published_at": "2026-08-28T19:32:47-04:00",
-        "remote": true
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/influxdata/devops-engineer-manchester-263712",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-30T00:40:21+00:00",
+        "remote": false
     },
     {
-        "id": "greenhouse-3533734",
-        "title": "Software Engineer, Security Platform",
-        "company": "Coinbase",
-        "location": "Remote - India",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441",
-        "source": "Greenhouse",
-        "published_at": "2026-08-28T19:26:26-04:00",
-        "remote": true
+        "id": "arbeitnow-remote-senior-it-product-owner-data-platform-92446",
+        "title": "(Senior) IT Product Owner Data Platform (m/w/d)",
+        "company": "OXG Glasfaser GmbH",
+        "location": "Düsseldorf und Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-senior-it-product-owner-data-platform-92446",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-29T23:10:29+00:00",
+        "remote": false
     }
 ]

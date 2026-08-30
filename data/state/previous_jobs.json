@@ -1,5 +1,27 @@
 [
     {
+        "id": "arbeitnow-praktikum-online-marketing-marketing-ki-ai-bielefeld-291921",
+        "title": "Praktikum Online-Marketing / Marketing / KI / AI",
+        "company": "SEOMATIK GmbH",
+        "location": "Bielefeld",
+        "job_type": "Internship",
+        "url": "https://www.arbeitnow.com/jobs/companies/seomatik-gmbh/praktikum-online-marketing-marketing-ki-ai-bielefeld-291921",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-30T06:00:47+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-c-kotlin-software-developer-rustrover-debugger-176052",
+        "title": "C++/Kotlin Software Developer (RustRover Debugger)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-c-kotlin-software-developer-rustrover-debugger-176052",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-30T05:55:12+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-senior-software-engineer-tools-automation-251844",
         "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
         "company": "Vmray Gmbh",
@@ -31,5 +53,16 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-29T23:10:29+00:00",
         "remote": false
+    },
+    {
+        "id": "arbeitnow-freelance-performance-creative-designer-pleidelsheim-71061",
+        "title": "Freelance Performance Creative Designer (m/w/d)",
+        "company": "AYLASHES",
+        "location": "Pleidelsheim",
+        "job_type": "Freelance",
+        "url": "https://www.arbeitnow.com/jobs/companies/aylashes/freelance-performance-creative-designer-pleidelsheim-71061",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-30T08:30:28+00:00",
+        "remote": true
     }
 ]

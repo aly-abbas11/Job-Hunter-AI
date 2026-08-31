@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-remote-senior-backend-engineer-ruby-ai-catalog-external-agents-492546",
+        "title": "Senior Backend Engineer (Ruby), AI Catalog: External Agents",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-ruby-ai-catalog-external-agents-492546",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-31T18:55:07+00:00",
+        "remote": false
+    },
+    {
         "id": "greenhouse-6503956002",
         "title": "Senior Backend Engineer (Ruby), AI Catalog: External Agents",
         "company": "GitLab",
@@ -8,6 +19,105 @@
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8759577002",
         "source": "Greenhouse",
         "published_at": "2026-08-31T04:35:31-04:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-0b428c6d-7c06-4feb-82b6-5bbe5cda2a18",
+        "title": "Account Director, Startups",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/0b428c6d-7c06-4feb-82b6-5bbe5cda2a18",
+        "source": "Ashby",
+        "published_at": "2026-08-31T21:22:23.258000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-9371f837-70ef-4387-a4b7-70f252b04aa5",
+        "title": "Software Engineer, Safety Engineering",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Safety Systems",
+        "url": "https://jobs.ashbyhq.com/openai/9371f837-70ef-4387-a4b7-70f252b04aa5",
+        "source": "Ashby",
+        "published_at": "2026-08-31T19:44:52.442000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-83ac3381-99c0-46a0-897c-abcd8699b466",
+        "title": "VC Partnerships Manager",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/83ac3381-99c0-46a0-897c-abcd8699b466",
+        "source": "Ashby",
+        "published_at": "2026-08-31T19:29:56.140000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-dceee17e-1e37-448b-acd3-2f97e41a6af7",
+        "title": "Account Director, Higher Education",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/dceee17e-1e37-448b-acd3-2f97e41a6af7",
+        "source": "Ashby",
+        "published_at": "2026-08-31T19:27:35.792000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-cadb7c24-2aea-4b98-a793-65ae9388b5d6",
+        "title": "People Research Data Scientist, AI Fairness & Bias",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, People",
+        "url": "https://jobs.ashbyhq.com/openai/cadb7c24-2aea-4b98-a793-65ae9388b5d6",
+        "source": "Ashby",
+        "published_at": "2026-08-31T16:39:50.950000+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3513023",
+        "title": "Senior Partner Marketing Manager, AI & ISV Ecosystem",
+        "company": "Dropbox",
+        "location": "Remote - Canada: Select locations",
+        "job_type": "Full Time",
+        "url": "https://jobs.dropbox.com/listing/8109600?gh_jid=8109600",
+        "source": "Greenhouse",
+        "published_at": "2026-08-31T10:03:57-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3513023",
+        "title": "Senior Partner Marketing Manager, AI & ISV Ecosystem",
+        "company": "Dropbox",
+        "location": "Remote - US: Select locations",
+        "job_type": "Full Time",
+        "url": "https://jobs.dropbox.com/listing/8109599?gh_jid=8109599",
+        "source": "Greenhouse",
+        "published_at": "2026-08-31T10:03:55-04:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-0a24703f-6108-4422-807e-78831dd98ed1",
+        "title": "Manager, Applied AI Engineering  (Enterprise)",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/0a24703f-6108-4422-807e-78831dd98ed1",
+        "source": "Ashby",
+        "published_at": "2026-08-31T13:59:22.188000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-7bdb15f0-1e3b-4352-b948-47fb35f25d71",
+        "title": "Manager, Applied AI Engineering (Startups)",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/7bdb15f0-1e3b-4352-b948-47fb35f25d71",
+        "source": "Ashby",
+        "published_at": "2026-08-31T13:54:24.840000+00:00",
         "remote": true
     },
     {
@@ -22,6 +132,138 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-software-development-engineers-in-test-python-130060",
+        "title": "Software Development Engineers in Test (Python)",
+        "company": "Xm",
+        "location": "Remote",
+        "job_type": "Full-time",
+        "url": "https://www.arbeitnow.com/jobs/companies/xm/remote-software-development-engineers-in-test-python-130060",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-31T20:04:06+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-qa-software-test-automation-engineers-java-204520",
+        "title": "QA Software Test Automation Engineers (Java)",
+        "company": "Xm",
+        "location": "Remote",
+        "job_type": "Full-time",
+        "url": "https://www.arbeitnow.com/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-204520",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-31T20:04:06+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-7c027757-24d8-49f4-90c1-ca3696d244a5",
+        "title": "Economist, Ramp Economics Lab",
+        "company": "Ramp",
+        "location": "Remote",
+        "job_type": "FullTime, Data",
+        "url": "https://jobs.ashbyhq.com/ramp/7c027757-24d8-49f4-90c1-ca3696d244a5",
+        "source": "Ashby",
+        "published_at": "2026-08-31T21:30:57.036000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-core-developer-platform-407467",
+        "title": "Core Developer - Platform",
+        "company": "Parity",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/parity/remote-core-developer-platform-407467",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-31T20:40:18+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-core-developer-node-248414",
+        "title": "Core Developer - Node",
+        "company": "Parity",
+        "location": "Remote",
+        "job_type": "Contract",
+        "url": "https://www.arbeitnow.com/jobs/companies/parity/remote-core-developer-node-248414",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-31T20:40:18+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-experience-engineer-442761",
+        "title": "Senior Experience Engineer",
+        "company": "Parity",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/parity/remote-senior-experience-engineer-442761",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-31T20:40:18+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-security-engineer-remote-359025",
+        "title": "Senior Security Engineer - Remote",
+        "company": "Parity",
+        "location": "Remote",
+        "job_type": "Contract",
+        "url": "https://www.arbeitnow.com/jobs/companies/parity/senior-security-engineer-remote-359025",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-31T20:40:18+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3511600",
+        "title": "Data Excellence Manager",
+        "company": "Stripe",
+        "location": "US Remote, Chicago, SF, Seattle, NYC",
+        "job_type": "Full Time",
+        "url": "https://stripe.com/jobs/search?gh_jid=8106026",
+        "source": "Greenhouse",
+        "published_at": "2026-08-31T16:17:50-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3379468",
+        "title": "Security GRC Analyst",
+        "company": "Pinterest",
+        "location": "San Francisco, CA, US; Remote, US",
+        "job_type": "Full Time",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684583",
+        "source": "Greenhouse",
+        "published_at": "2026-08-31T15:19:52-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3534595",
+        "title": "Analytics Engineer II",
+        "company": "Instacart",
+        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8167458",
+        "source": "Greenhouse",
+        "published_at": "2026-08-31T14:20:26-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3534643",
+        "title": "Staff Software Engineer, Security Platform",
+        "company": "Coinbase",
+        "location": "Remote - India",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8167571?gh_jid=8167571",
+        "source": "Greenhouse",
+        "published_at": "2026-08-31T13:27:12-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6504704002",
+        "title": "Staff Security Engineer, IAM",
+        "company": "GitLab",
+        "location": "Remote, Canada; Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8761409002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-31T09:32:09-04:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-3534020",
         "title": "Staff Software Engineer, Enterprise Apps",
         "company": "Coinbase",
@@ -33,25 +275,47 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-it-systems-engineer-munich-7878",
-        "title": "IT Systems Engineer (m/w/d)",
-        "company": "Raya Diagnostics GmbH",
-        "location": "Munich",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/raya-diagnostics-gmbh/it-systems-engineer-munich-7878",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-31T08:30:44+00:00",
+        "id": "ashby-6d1d835d-5882-4191-b78e-fd04a4c05f11",
+        "title": "AI Support Engineer, Government - Washington, D.C.",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, User Operations",
+        "url": "https://jobs.ashbyhq.com/openai/6d1d835d-5882-4191-b78e-fd04a4c05f11",
+        "source": "Ashby",
+        "published_at": "2026-08-31T21:38:56.669000+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-content-writer-b2b-saas-remote-eu-uk-london-377195",
-        "title": "Content Writer (B2B SaaS, Remote - EU/UK)",
-        "company": "SaaStorm",
-        "location": "London",
-        "job_type": "Contract, professional / experienced",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/saastorm/content-writer-b2b-saas-remote-eu-uk-london-377195",
+        "id": "ashby-48993416-b5f5-4c3f-b7c8-b8ca7c2395e0",
+        "title": "AI Support Engineer, Government - San Francisco, CA",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, User Operations",
+        "url": "https://jobs.ashbyhq.com/openai/48993416-b5f5-4c3f-b7c8-b8ca7c2395e0",
+        "source": "Ashby",
+        "published_at": "2026-08-31T21:38:54.505000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-social-media-creator-in-der-caravaningbranche-remote-berlin-465529",
+        "title": "Social Media Creator in der Caravaningbranche REMOTE (m/w/d)",
+        "company": "caravanmarkt24",
+        "location": "Berlin",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/caravanmarkt24/social-media-creator-in-der-caravaningbranche-remote-berlin-465529",
         "source": "Arbeitnow",
-        "published_at": "2026-08-30T17:30:31+00:00",
+        "published_at": "2026-08-31T15:30:34+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-24f29060-8af5-400e-ba4c-14d656e42339",
+        "title": "Executive Assistant | Multiple Openings",
+        "company": "Ramp",
+        "location": "Remote",
+        "job_type": "FullTime, People & Talent",
+        "url": "https://jobs.ashbyhq.com/ramp/24f29060-8af5-400e-ba4c-14d656e42339",
+        "source": "Ashby",
+        "published_at": "2026-08-31T13:17:01.721000+00:00",
         "remote": true
     }
 ]

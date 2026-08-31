@@ -1,13 +1,13 @@
 [
     {
-        "id": "arbeitnow-praktikum-online-marketing-marketing-ki-ai-bielefeld-291921",
-        "title": "Praktikum Online-Marketing / Marketing / KI / AI",
-        "company": "SEOMATIK GmbH",
-        "location": "Bielefeld",
-        "job_type": "Internship",
-        "url": "https://www.arbeitnow.com/jobs/companies/seomatik-gmbh/praktikum-online-marketing-marketing-ki-ai-bielefeld-291921",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-30T06:00:47+00:00",
+        "id": "greenhouse-6503956002",
+        "title": "Senior Backend Engineer (Ruby), AI Catalog: External Agents",
+        "company": "GitLab",
+        "location": "Remote, United Kingdom",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8759577002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-31T04:35:31-04:00",
         "remote": true
     },
     {
@@ -22,28 +22,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-ai-engineer-all-genders-447613",
-        "title": "Senior AI Engineer (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-ai-engineer-all-genders-447613",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-30T20:09:47+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-280706",
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-280706",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-30T20:30:07+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3534020",
         "title": "Staff Software Engineer, Enterprise Apps",
         "company": "Coinbase",
@@ -55,58 +33,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-analytics-engineer-all-genders-341906",
-        "title": "Senior Analytics Engineer (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-analytics-engineer-all-genders-341906",
+        "id": "arbeitnow-it-systems-engineer-munich-7878",
+        "title": "IT Systems Engineer (m/w/d)",
+        "company": "Raya Diagnostics GmbH",
+        "location": "Munich",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/raya-diagnostics-gmbh/it-systems-engineer-munich-7878",
         "source": "Arbeitnow",
-        "published_at": "2026-08-30T20:09:47+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-principal-cybersecurity-all-genders-186416",
-        "title": "Principal Cybersecurity (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-principal-cybersecurity-all-genders-186416",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-30T20:09:47+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-9315",
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-9315",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-30T20:30:07+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-314599",
-        "title": "Senior Java Backend Developer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-314599",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-30T20:30:07+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-it-architect-karlsruhe-320449",
-        "title": "Senior IT Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-320449",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-30T20:30:07+00:00",
+        "published_at": "2026-08-31T08:30:44+00:00",
         "remote": true
     },
     {
@@ -118,17 +52,6 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/saastorm/content-writer-b2b-saas-remote-eu-uk-london-377195",
         "source": "Arbeitnow",
         "published_at": "2026-08-30T17:30:31+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-freelance-performance-creative-designer-pleidelsheim-71061",
-        "title": "Freelance Performance Creative Designer (m/w/d)",
-        "company": "AYLASHES",
-        "location": "Pleidelsheim",
-        "job_type": "Freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/aylashes/freelance-performance-creative-designer-pleidelsheim-71061",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-30T08:30:28+00:00",
         "remote": true
     }
 ]

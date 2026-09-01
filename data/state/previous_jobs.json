@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-remote-senior-business-automation-developer-all-genders-i-international-336366",
+        "title": "(Senior) Business Automation Developer (all genders) I International",
+        "company": "Real Digital",
+        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+        "job_type": "Experienced, Permanent, Full or part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-336366",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-01T14:09:11+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-senior-backend-engineer-ruby-ai-catalog-external-agents-492546",
         "title": "Senior Backend Engineer (Ruby), AI Catalog: External Agents",
         "company": "gitlab",
@@ -42,17 +53,6 @@
         "source": "Ashby",
         "published_at": "2026-09-01T08:08:01.526000+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-talent-acquisition-partner-technology-data-ml-ai-berlin-231555",
-        "title": "Senior Talent Acquisition Partner – Technology (Data, ML & AI)",
-        "company": "The Rec Hub",
-        "location": "Germany - Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/the-rec-hub/senior-talent-acquisition-partner-technology-data-ml-ai-berlin-231555",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-01T05:40:04+00:00",
-        "remote": false
     },
     {
         "id": "ashby-6882c919-600e-43c8-92f9-803d4eb3bcd2",
@@ -121,61 +121,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3513023",
-        "title": "Senior Partner Marketing Manager, AI & ISV Ecosystem",
-        "company": "Dropbox",
-        "location": "Remote - Canada: Select locations",
-        "job_type": "Full Time",
-        "url": "https://jobs.dropbox.com/listing/8109600?gh_jid=8109600",
-        "source": "Greenhouse",
-        "published_at": "2026-08-31T10:03:57-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3513023",
-        "title": "Senior Partner Marketing Manager, AI & ISV Ecosystem",
-        "company": "Dropbox",
-        "location": "Remote - US: Select locations",
-        "job_type": "Full Time",
-        "url": "https://jobs.dropbox.com/listing/8109599?gh_jid=8109599",
-        "source": "Greenhouse",
-        "published_at": "2026-08-31T10:03:55-04:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-0a24703f-6108-4422-807e-78831dd98ed1",
-        "title": "Manager, Applied AI Engineering  (Enterprise)",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/0a24703f-6108-4422-807e-78831dd98ed1",
-        "source": "Ashby",
-        "published_at": "2026-08-31T13:59:22.188000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-7bdb15f0-1e3b-4352-b948-47fb35f25d71",
-        "title": "Manager, Applied AI Engineering (Startups)",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/7bdb15f0-1e3b-4352-b948-47fb35f25d71",
-        "source": "Ashby",
-        "published_at": "2026-08-31T13:54:24.840000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-backend-full-stack-developer-krailling-424909",
-        "title": "Backend / Full Stack Developer (m/w/d)",
-        "company": "SOFI AI GmbH",
-        "location": "Krailling",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/sofi-ai-gmbh/backend-full-stack-developer-krailling-424909",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-01T07:30:24+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-6494577002",
         "title": "Staff Fullstack Engineer (Ruby/Vue.js) Monetization Engineering: Purchase",
         "company": "GitLab",
@@ -187,26 +132,48 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-product-design-engineer-215196",
-        "title": "Senior Product Design Engineer",
-        "company": "Duck Duck Go",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-product-design-engineer-215196",
+        "id": "arbeitnow-remote-senior-vulnerability-container-security-engineer-bonn-304599",
+        "title": "Senior Vulnerability & Container Security Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-vulnerability-container-security-engineer-bonn-304599",
         "source": "Arbeitnow",
-        "published_at": "2026-08-31T23:40:13+00:00",
+        "published_at": "2026-09-01T14:30:22+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-staff-data-scientist-33041",
-        "title": "Staff Data Scientist",
-        "company": "Duck Duck Go",
-        "location": "Remote",
+        "id": "greenhouse-3532515",
+        "title": "Senior Staff Software Engineer, Finhub",
+        "company": "Coinbase",
+        "location": "Remote - Canada",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-staff-data-scientist-33041",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-31T23:40:13+00:00",
+        "url": "https://www.coinbase.com/careers/positions/8162240?gh_jid=8162240",
+        "source": "Greenhouse",
+        "published_at": "2026-09-01T11:05:28-04:00",
         "remote": true
+    },
+    {
+        "id": "greenhouse-3532515",
+        "title": "Senior Staff Software Engineer, Finhub",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8162237?gh_jid=8162237",
+        "source": "Greenhouse",
+        "published_at": "2026-09-01T11:03:02-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-devops-engineer-all-genders-data-platform-263620",
+        "title": "Senior DevOps Engineer (all genders) | Data Platform",
+        "company": "Real Digital",
+        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+        "job_type": "Experienced, Permanent, Full or part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-263620",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-01T14:09:11+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3534942",
@@ -297,14 +264,58 @@
         "remote": true
     },
     {
-        "id": "greenhouse-6504704002",
-        "title": "Staff Security Engineer, IAM",
-        "company": "GitLab",
-        "location": "Remote, Canada; Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8761409002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-31T09:32:09-04:00",
+        "id": "arbeitnow-remote-java-softwareentwickler-backend-microservices-munster-41598",
+        "title": "Java Softwareentwickler - Backend & Microservices (w/m/d)",
+        "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-java-softwareentwickler-backend-microservices-munster-41598",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-01T14:30:32+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-java-softwareentwicklerin-backend-microservices-munster-318659",
+        "title": "Senior Java Softwareentwickler:in (w/m/d) – Backend & Microservices",
+        "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-java-softwareentwicklerin-backend-microservices-munster-318659",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-01T14:30:32+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-lead-entwickler-java-backend-nurnberg-492640",
+        "title": "Lead-Entwickler Java Backend (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-lead-entwickler-java-backend-nurnberg-492640",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-01T14:30:22+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-it-consultant-business-analyst-munster-375993",
+        "title": "Senior IT-Consultant & Business Analyst (w/m/d)",
+        "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-it-consultant-business-analyst-munster-375993",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-01T14:30:32+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-it-ot-security-architekt-berlin-363919",
+        "title": "IT | OT Security Architekt (m/w/d)",
+        "company": "APT-ONE GmbH",
+        "location": "Berlin",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/apt-one-gmbh/it-ot-security-architekt-berlin-363919",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-01T12:30:50+00:00",
         "remote": true
     },
     {
@@ -330,14 +341,36 @@
         "remote": true
     },
     {
-        "id": "ashby-24f29060-8af5-400e-ba4c-14d656e42339",
-        "title": "Executive Assistant | Multiple Openings",
-        "company": "Ramp",
+        "id": "arbeitnow-remote-senior-ux-researcher-all-genders-401190",
+        "title": "(Senior) UX Researcher (all genders)",
+        "company": "Real Digital",
+        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+        "job_type": "Experienced, Permanent, Full or part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-ux-researcher-all-genders-401190",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-01T14:09:11+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-on-holiday-support-agent-278304",
+        "title": "On Holiday Support Agent",
+        "company": "loveholidays",
         "location": "Remote",
-        "job_type": "FullTime, People & Talent",
-        "url": "https://jobs.ashbyhq.com/ramp/24f29060-8af5-400e-ba4c-14d656e42339",
-        "source": "Ashby",
-        "published_at": "2026-08-31T13:17:01.721000+00:00",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/loveholidays/remote-on-holiday-support-agent-278304",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-01T12:40:03+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-senior-direct-response-copywriter-hamburg-480509",
+        "title": "Senior Direct Response Copywriter (m/w/d)",
+        "company": "Start To Finish Consulting GmbH",
+        "location": "Hamburg",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/start-to-finish-consulting-gmbh/senior-direct-response-copywriter-hamburg-480509",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-01T14:30:42+00:00",
         "remote": true
     }
 ]

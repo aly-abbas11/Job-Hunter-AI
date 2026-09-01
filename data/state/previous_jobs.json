@@ -22,6 +22,39 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-python-backend-engineer-berlin-341113",
+        "title": "Python Backend Engineer (m/f/x)",
+        "company": "Makersite GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-341113",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-31T23:30:08+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-6882c919-600e-43c8-92f9-803d4eb3bcd2",
+        "title": "Applied AI Architect, Government",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, OpenAI for Gov",
+        "url": "https://jobs.ashbyhq.com/openai/6882c919-600e-43c8-92f9-803d4eb3bcd2",
+        "source": "Ashby",
+        "published_at": "2026-09-01T02:47:02.971000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-ai-automation-engineer-fitme-395989",
+        "title": "AI Automation Engineer (FitMe)",
+        "company": "Gismart",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-ai-automation-engineer-fitme-395989",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-31T23:40:03+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-0b428c6d-7c06-4feb-82b6-5bbe5cda2a18",
         "title": "Account Director, Startups",
         "company": "OpenAI",
@@ -121,14 +154,14 @@
         "remote": true
     },
     {
-        "id": "ashby-b8fbe6d1-6363-4366-8484-de32cf4d1410",
-        "title": "Applied AI Architect",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/b8fbe6d1-6363-4366-8484-de32cf4d1410",
-        "source": "Ashby",
-        "published_at": "2026-08-31T03:06:34.255000+00:00",
+        "id": "greenhouse-6494577002",
+        "title": "Staff Fullstack Engineer (Ruby/Vue.js) Monetization Engineering: Purchase",
+        "company": "GitLab",
+        "location": "Remote, Canada; Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8739391002",
+        "source": "Greenhouse",
+        "published_at": "2026-08-31T20:09:38-04:00",
         "remote": true
     },
     {
@@ -152,6 +185,83 @@
         "source": "Arbeitnow",
         "published_at": "2026-08-31T20:04:06+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-product-design-engineer-215196",
+        "title": "Senior Product Design Engineer",
+        "company": "Duck Duck Go",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-product-design-engineer-215196",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-31T23:40:13+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-staff-data-scientist-33041",
+        "title": "Staff Data Scientist",
+        "company": "Duck Duck Go",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-staff-data-scientist-33041",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-31T23:40:13+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-privacy-engineer-456199",
+        "title": "Senior Privacy Engineer",
+        "company": "Duck Duck Go",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-456199",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-31T23:40:13+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-data-scientist-berlin-106805",
+        "title": "Senior Data Scientist (m/f/x)",
+        "company": "Makersite GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-106805",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-31T23:30:08+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3534942",
+        "title": "Senior Data Analyst",
+        "company": "Instacart",
+        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8168338",
+        "source": "Greenhouse",
+        "published_at": "2026-08-31T19:08:09-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3534942",
+        "title": "Senior Data Analyst",
+        "company": "Instacart",
+        "location": "United States - Remote (except California, Connecticut, New Jersey, New York, and Washington)",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8168301",
+        "source": "Greenhouse",
+        "published_at": "2026-08-31T19:08:07-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-forward-deployed-engineer-116806",
+        "title": "Forward Deployed Engineer",
+        "company": "Hexa",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/hexa/remote-forward-deployed-engineer-116806",
+        "source": "Arbeitnow",
+        "published_at": "2026-08-31T21:40:05+00:00",
+        "remote": false
     },
     {
         "id": "ashby-7c027757-24d8-49f4-90c1-ca3696d244a5",
@@ -264,17 +374,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3534020",
-        "title": "Staff Software Engineer, Enterprise Apps",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8166218?gh_jid=8166218",
-        "source": "Greenhouse",
-        "published_at": "2026-08-30T23:25:14-04:00",
-        "remote": true
-    },
-    {
         "id": "ashby-6d1d835d-5882-4191-b78e-fd04a4c05f11",
         "title": "AI Support Engineer, Government - Washington, D.C.",
         "company": "OpenAI",
@@ -297,14 +396,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-social-media-creator-in-der-caravaningbranche-remote-berlin-465529",
-        "title": "Social Media Creator in der Caravaningbranche REMOTE (m/w/d)",
-        "company": "caravanmarkt24",
-        "location": "Berlin",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/caravanmarkt24/social-media-creator-in-der-caravaningbranche-remote-berlin-465529",
+        "id": "arbeitnow-remote-werkstudent-social-media-all-genders-berlin-317432",
+        "title": "Werkstudent Social Media (all genders)",
+        "company": "Maniko Nails GmbH",
+        "location": "Homeoffice",
+        "job_type": "Student college, parttime fixed term",
+        "url": "https://www.arbeitnow.com/jobs/companies/maniko-nails-gmbh/remote-werkstudent-social-media-all-genders-berlin-317432",
         "source": "Arbeitnow",
-        "published_at": "2026-08-31T15:30:34+00:00",
+        "published_at": "2026-08-31T23:30:31+00:00",
         "remote": true
     },
     {

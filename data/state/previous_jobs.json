@@ -11,26 +11,48 @@
         "remote": false
     },
     {
-        "id": "greenhouse-6503956002",
-        "title": "Senior Backend Engineer (Ruby), AI Catalog: External Agents",
-        "company": "GitLab",
-        "location": "Remote, United Kingdom",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8759577002",
-        "source": "Greenhouse",
-        "published_at": "2026-08-31T04:35:31-04:00",
+        "id": "ashby-1eb6ef0f-0e51-46d3-b888-c1a4c22c190a",
+        "title": "Account Associate- EMEA (French Speaking)",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/1eb6ef0f-0e51-46d3-b888-c1a4c22c190a",
+        "source": "Ashby",
+        "published_at": "2026-09-01T08:29:09.553000+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-python-backend-engineer-berlin-341113",
-        "title": "Python Backend Engineer (m/f/x)",
-        "company": "Makersite GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-341113",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-31T23:30:08+00:00",
+        "id": "ashby-6c88bfaa-7f1b-4175-82f1-6d484a516ca8",
+        "title": "Account Associate - EMEA (German Speaking)",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8",
+        "source": "Ashby",
+        "published_at": "2026-09-01T08:26:06.584000+00:00",
         "remote": true
+    },
+    {
+        "id": "ashby-e45913b7-b84d-49d3-a0b6-c19b55185272",
+        "title": "Manager, Applied AI Architects",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/e45913b7-b84d-49d3-a0b6-c19b55185272",
+        "source": "Ashby",
+        "published_at": "2026-09-01T08:08:01.526000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-talent-acquisition-partner-technology-data-ml-ai-berlin-231555",
+        "title": "Senior Talent Acquisition Partner – Technology (Data, ML & AI)",
+        "company": "The Rec Hub",
+        "location": "Germany - Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/the-rec-hub/senior-talent-acquisition-partner-technology-data-ml-ai-berlin-231555",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-01T05:40:04+00:00",
+        "remote": false
     },
     {
         "id": "ashby-6882c919-600e-43c8-92f9-803d4eb3bcd2",
@@ -41,17 +63,6 @@
         "url": "https://jobs.ashbyhq.com/openai/6882c919-600e-43c8-92f9-803d4eb3bcd2",
         "source": "Ashby",
         "published_at": "2026-09-01T02:47:02.971000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-ai-automation-engineer-fitme-395989",
-        "title": "AI Automation Engineer (FitMe)",
-        "company": "Gismart",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-ai-automation-engineer-fitme-395989",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-31T23:40:03+00:00",
         "remote": true
     },
     {
@@ -154,6 +165,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-backend-full-stack-developer-krailling-424909",
+        "title": "Backend / Full Stack Developer (m/w/d)",
+        "company": "SOFI AI GmbH",
+        "location": "Krailling",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/sofi-ai-gmbh/backend-full-stack-developer-krailling-424909",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-01T07:30:24+00:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-6494577002",
         "title": "Staff Fullstack Engineer (Ruby/Vue.js) Monetization Engineering: Purchase",
         "company": "GitLab",
@@ -162,28 +184,6 @@
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8739391002",
         "source": "Greenhouse",
         "published_at": "2026-08-31T20:09:38-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-software-development-engineers-in-test-python-130060",
-        "title": "Software Development Engineers in Test (Python)",
-        "company": "Xm",
-        "location": "Remote",
-        "job_type": "Full-time",
-        "url": "https://www.arbeitnow.com/jobs/companies/xm/remote-software-development-engineers-in-test-python-130060",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-31T20:04:06+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-qa-software-test-automation-engineers-java-204520",
-        "title": "QA Software Test Automation Engineers (Java)",
-        "company": "Xm",
-        "location": "Remote",
-        "job_type": "Full-time",
-        "url": "https://www.arbeitnow.com/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-204520",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-31T20:04:06+00:00",
         "remote": true
     },
     {
@@ -206,28 +206,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-staff-data-scientist-33041",
         "source": "Arbeitnow",
         "published_at": "2026-08-31T23:40:13+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-privacy-engineer-456199",
-        "title": "Senior Privacy Engineer",
-        "company": "Duck Duck Go",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-456199",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-31T23:40:13+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-data-scientist-berlin-106805",
-        "title": "Senior Data Scientist (m/f/x)",
-        "company": "Makersite GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-106805",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-31T23:30:08+00:00",
         "remote": true
     },
     {
@@ -272,50 +250,6 @@
         "url": "https://jobs.ashbyhq.com/ramp/7c027757-24d8-49f4-90c1-ca3696d244a5",
         "source": "Ashby",
         "published_at": "2026-08-31T21:30:57.036000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-core-developer-platform-407467",
-        "title": "Core Developer - Platform",
-        "company": "Parity",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/parity/remote-core-developer-platform-407467",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-31T20:40:18+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-core-developer-node-248414",
-        "title": "Core Developer - Node",
-        "company": "Parity",
-        "location": "Remote",
-        "job_type": "Contract",
-        "url": "https://www.arbeitnow.com/jobs/companies/parity/remote-core-developer-node-248414",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-31T20:40:18+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-experience-engineer-442761",
-        "title": "Senior Experience Engineer",
-        "company": "Parity",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/parity/remote-senior-experience-engineer-442761",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-31T20:40:18+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-security-engineer-remote-359025",
-        "title": "Senior Security Engineer - Remote",
-        "company": "Parity",
-        "location": "Remote",
-        "job_type": "Contract",
-        "url": "https://www.arbeitnow.com/jobs/companies/parity/senior-security-engineer-remote-359025",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-31T20:40:18+00:00",
         "remote": true
     },
     {
@@ -393,17 +327,6 @@
         "url": "https://jobs.ashbyhq.com/openai/48993416-b5f5-4c3f-b7c8-b8ca7c2395e0",
         "source": "Ashby",
         "published_at": "2026-08-31T21:38:54.505000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-werkstudent-social-media-all-genders-berlin-317432",
-        "title": "Werkstudent Social Media (all genders)",
-        "company": "Maniko Nails GmbH",
-        "location": "Homeoffice",
-        "job_type": "Student college, parttime fixed term",
-        "url": "https://www.arbeitnow.com/jobs/companies/maniko-nails-gmbh/remote-werkstudent-social-media-all-genders-berlin-317432",
-        "source": "Arbeitnow",
-        "published_at": "2026-08-31T23:30:31+00:00",
         "remote": true
     },
     {

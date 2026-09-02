@@ -1,5 +1,38 @@
 [
     {
+        "id": "arbeitnow-remote-fullstack-software-engineer-core-184220",
+        "title": "Fullstack Software Engineer - Core",
+        "company": "dataiku",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-184220",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-02T15:55:30+00:00",
+        "remote": false
+    },
+    {
+        "id": "ashby-78a49da9-b768-427e-ad01-3e61d80cfea8",
+        "title": "Enablement Lead - Knowledge Work",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/78a49da9-b768-427e-ad01-3e61d80cfea8",
+        "source": "Ashby",
+        "published_at": "2026-09-02T19:39:28.421000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-cbdf2857-1675-4b68-8cb5-2f92a20faa75",
+        "title": "AI Solutions Strategist",
+        "company": "Ramp",
+        "location": "Remote",
+        "job_type": "FullTime, Business Development",
+        "url": "https://jobs.ashbyhq.com/ramp/cbdf2857-1675-4b68-8cb5-2f92a20faa75",
+        "source": "Ashby",
+        "published_at": "2026-09-02T19:29:11.289000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-6c88bfaa-7f1b-4175-82f1-6d484a516ca8",
         "title": "Account Associate - EMEA (German Speaking)",
         "company": "OpenAI",
@@ -77,25 +110,168 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-forward-deployed-engineer-fde-united-kingdom-441564",
-        "title": "Forward Deployed Engineer (FDE): United Kingdom",
-        "company": "Forgd Ai",
-        "location": "Remote - UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/forgd-ai/remote-forward-deployed-engineer-fde-united-kingdom-441564",
+        "id": "arbeitnow-remote-staff-backend-engineer-emea-156239",
+        "title": "Staff Backend Engineer, EMEA",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-staff-backend-engineer-emea-156239",
         "source": "Arbeitnow",
-        "published_at": "2026-09-01T18:40:03+00:00",
+        "published_at": "2026-09-02T18:55:06+00:00",
         "remote": false
     },
     {
-        "id": "ashby-cf1e5c80-f42e-45ab-a937-2a4024b961e1",
-        "title": "GRC Program Manager, Product Lifecycle Assurance",
-        "company": "OpenAI",
+        "id": "arbeitnow-remote-intermediate-backend-engineer-emea-147388",
+        "title": "Intermediate Backend Engineer, EMEA",
+        "company": "gitlab",
         "location": "Remote",
-        "job_type": "FullTime, Security",
-        "url": "https://jobs.ashbyhq.com/openai/cf1e5c80-f42e-45ab-a937-2a4024b961e1",
-        "source": "Ashby",
-        "published_at": "2026-09-01T16:45:27.293000+00:00",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-intermediate-backend-engineer-emea-147388",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-02T18:55:05+00:00",
+        "remote": false
+    },
+    {
+        "id": "greenhouse-6510727002",
+        "title": "Intermediate Backend Engineer, India",
+        "company": "GitLab",
+        "location": "Remote, India",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8775507002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-02T14:50:52-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6510686002",
+        "title": "Staff Backend Engineer, India",
+        "company": "GitLab",
+        "location": "Remote, India",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8775136002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-02T14:50:19-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6510717002",
+        "title": "Intermediate Backend Engineer, EMEA",
+        "company": "GitLab",
+        "location": "Remote, United Kingdom",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8778279002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-02T14:49:54-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6510717002",
+        "title": "Intermediate Backend Engineer, EMEA",
+        "company": "GitLab",
+        "location": "Remote, Poland",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8775415002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-02T14:49:33-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6510673002",
+        "title": "Staff Backend Engineer, EMEA",
+        "company": "GitLab",
+        "location": "Remote, Poland",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8777342002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-02T14:48:44-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6510673002",
+        "title": "Staff Backend Engineer, EMEA",
+        "company": "GitLab",
+        "location": "Remote, United Kingdom",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8775039002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-02T14:48:43-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6510415002",
+        "title": "Staff Backend Engineer, AMER",
+        "company": "GitLab",
+        "location": "Remote, Canada; Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8773381002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-02T14:48:02-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6510230002",
+        "title": "Intermediate Backend Engineer, AMER",
+        "company": "GitLab",
+        "location": "Remote, Canada; Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8773006002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-02T14:45:41-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-atlassian-senior-consultant-cloud-practice-307740",
+        "title": "Atlassian Senior Consultant - Cloud Practice",
+        "company": "Valiantys",
+        "location": "Remote, United Kingdom",
+        "job_type": "Full Time Permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/valiantys/remote-atlassian-senior-consultant-cloud-practice-307740",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-02T15:05:00+00:00",
+        "remote": false
+    },
+    {
+        "id": "greenhouse-6509084002",
+        "title": "Principal Security Awareness & Human Risk Engineer",
+        "company": "GitLab",
+        "location": "Remote, United Kingdom; Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8770689002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-02T16:02:27-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6497900002",
+        "title": "Senior Professional Services Engineer- PubSec - DC Metro",
+        "company": "GitLab",
+        "location": "Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8746461002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-02T14:53:10-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6508403002",
+        "title": "Staff Infrastructure Security Engineer (USA)",
+        "company": "GitLab",
+        "location": "Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8769103002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-02T14:15:11-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3379323",
+        "title": "Principal Engineer, Big Data Platform",
+        "company": "Pinterest",
+        "location": "San Francisco, CA, US; Remote, US",
+        "job_type": "Full Time",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7683981",
+        "source": "Greenhouse",
+        "published_at": "2026-09-02T12:50:22-04:00",
         "remote": true
     },
     {
@@ -143,39 +319,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3504446",
-        "title": "Product Manager, Developer Ecosystem",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8088720",
-        "source": "Greenhouse",
-        "published_at": "2026-09-01T13:36:01-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3507621",
-        "title": "Sr. Security Software Engineer, Security Operations",
-        "company": "Pinterest",
-        "location": "San Francisco, CA, US; Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8096738",
-        "source": "Greenhouse",
-        "published_at": "2026-09-01T13:14:16-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3519480",
-        "title": "Software Engineer, Platform Infrastructure",
-        "company": "Stripe",
-        "location": "San Francisco, New York City, Seattle, Chicago, US-Remote",
-        "job_type": "Full Time",
-        "url": "https://stripe.com/jobs/search?gh_jid=8127182",
-        "source": "Greenhouse",
-        "published_at": "2026-09-01T12:36:00-04:00",
-        "remote": true
-    },
-    {
         "id": "ashby-c8270289-d73d-4ad6-8cae-2b537f8d9062",
         "title": "AI Support Engineer - Singapore (Korean Speaking)",
         "company": "OpenAI",
@@ -187,14 +330,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-content-writerin-pflege-telzeit-werkstudentin-remote-munich-313739",
-        "title": "Content Writer:in Pflege m/f/x - Telzeit / Werkstudent:in (Remote)",
-        "company": "simpleclub",
-        "location": "Munich",
-        "job_type": "berufseinstieg",
-        "url": "https://www.arbeitnow.com/jobs/companies/simpleclub/content-writerin-pflege-telzeit-werkstudentin-remote-munich-313739",
+        "id": "arbeitnow-senior-graphic-and-ui-designer-london-69553",
+        "title": "Senior Graphic and UI Designer",
+        "company": "BeInCrypto",
+        "location": "London",
+        "job_type": "Contract, professional / experienced",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/beincrypto/senior-graphic-and-ui-designer-london-69553",
         "source": "Arbeitnow",
-        "published_at": "2026-09-02T11:00:24+00:00",
+        "published_at": "2026-09-02T17:00:27+00:00",
         "remote": true
     }
 ]

@@ -1,16 +1,5 @@
 [
     {
-        "id": "arbeitnow-remote-fullstack-software-engineer-core-437469",
-        "title": "Fullstack Software Engineer - Core",
-        "company": "dataiku",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-fullstack-software-engineer-core-437469",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-02T05:55:10+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-6c88bfaa-7f1b-4175-82f1-6d484a516ca8",
         "title": "Account Associate - EMEA (German Speaking)",
         "company": "OpenAI",
@@ -132,15 +121,15 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-sap-data-management-consultant-ilm-s-4hana-transformation-berlin-404059",
-        "title": "Senior SAP Data Management Consultant (m/w/d) – ILM & S/4HANA Transformation",
-        "company": "Natuvion GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-data-management-consultant-ilm-s-4hana-transformation-berlin-404059",
+        "id": "arbeitnow-remote-director-of-information-security-319629",
+        "title": "Director of Information Security",
+        "company": "Constructor",
+        "location": "Remote - EMEA",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-director-of-information-security-319629",
         "source": "Arbeitnow",
-        "published_at": "2026-09-02T05:30:19+00:00",
-        "remote": true
+        "published_at": "2026-09-02T09:40:12+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3536326",
@@ -151,17 +140,6 @@
         "url": "https://www.coinbase.com/careers/positions/8170956?gh_jid=8170956",
         "source": "Greenhouse",
         "published_at": "2026-09-01T18:41:45-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3480651",
-        "title": "Software Engineer, Data Layer",
-        "company": "Coinbase",
-        "location": "Remote - Singapore",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8029037?gh_jid=8029037",
-        "source": "Greenhouse",
-        "published_at": "2026-09-01T18:41:28-04:00",
         "remote": true
     },
     {
@@ -198,28 +176,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3532515",
-        "title": "Senior Staff Software Engineer, Finhub",
-        "company": "Coinbase",
-        "location": "Remote - Canada",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8162240?gh_jid=8162240",
-        "source": "Greenhouse",
-        "published_at": "2026-09-01T11:05:28-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3532515",
-        "title": "Senior Staff Software Engineer, Finhub",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8162237?gh_jid=8162237",
-        "source": "Greenhouse",
-        "published_at": "2026-09-01T11:03:02-04:00",
-        "remote": true
-    },
-    {
         "id": "ashby-c8270289-d73d-4ad6-8cae-2b537f8d9062",
         "title": "AI Support Engineer - Singapore (Korean Speaking)",
         "company": "OpenAI",
@@ -231,25 +187,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-on-holiday-support-agent-210367",
-        "title": "On Holiday Support Agent",
-        "company": "loveholidays",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/loveholidays/remote-on-holiday-support-agent-210367",
+        "id": "arbeitnow-content-writerin-pflege-telzeit-werkstudentin-remote-munich-313739",
+        "title": "Content Writer:in Pflege m/f/x - Telzeit / Werkstudent:in (Remote)",
+        "company": "simpleclub",
+        "location": "Munich",
+        "job_type": "berufseinstieg",
+        "url": "https://www.arbeitnow.com/jobs/companies/simpleclub/content-writerin-pflege-telzeit-werkstudentin-remote-munich-313739",
         "source": "Arbeitnow",
-        "published_at": "2026-09-02T05:40:06+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-sap-s4-hana-customer-service-crm-consultant-berlin-478877",
-        "title": "(Senior) SAP S4/HANA Customer Service & CRM Consultant (m/w/d)",
-        "company": "Natuvion GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-s4-hana-customer-service-crm-consultant-berlin-478877",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-02T05:30:19+00:00",
+        "published_at": "2026-09-02T11:00:24+00:00",
         "remote": true
     }
 ]

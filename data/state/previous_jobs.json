@@ -1,13 +1,35 @@
 [
     {
-        "id": "arbeitnow-remote-fullstack-software-engineer-core-184220",
-        "title": "Fullstack Software Engineer - Core",
-        "company": "dataiku",
+        "id": "arbeitnow-remote-principal-ai-agent-systems-engineer-gn-at-fusion-energy-venture-munich-munchen-9743",
+        "title": "Principal AI & Agent Systems Engineer (gn) @ Fusion Energy Venture, Munich",
+        "company": "atlantic.vc",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/remote-principal-ai-agent-systems-engineer-gn-at-fusion-energy-venture-munich-munchen-9743",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-03T08:30:09+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-ai-research-engineer-236229",
+        "title": "AI Research Engineer",
+        "company": "prolific",
         "location": "Remote",
         "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-184220",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-ai-research-engineer-236229",
         "source": "Arbeitnow",
-        "published_at": "2026-09-02T15:55:30+00:00",
+        "published_at": "2026-09-03T06:55:08+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-product-manager-devtools-ai-reliability-remote-berlin-99554",
+        "title": "Product Manager (DevTools & AI Reliability, remote)",
+        "company": "Checkly",
+        "location": "Remote (UTC-3 to UTC+3)",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/checkly/product-manager-devtools-ai-reliability-remote-berlin-99554",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-03T05:40:10+00:00",
         "remote": false
     },
     {
@@ -85,39 +107,6 @@
         "url": "https://jobs.ashbyhq.com/ramp/cbdf2857-1675-4b68-8cb5-2f92a20faa75",
         "source": "Ashby",
         "published_at": "2026-09-02T19:29:11.289000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-6c88bfaa-7f1b-4175-82f1-6d484a516ca8",
-        "title": "Account Associate - EMEA (German Speaking)",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8",
-        "source": "Ashby",
-        "published_at": "2026-09-02T09:48:08.120000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-1eb6ef0f-0e51-46d3-b888-c1a4c22c190a",
-        "title": "Account Associate- EMEA (French Speaking)",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/1eb6ef0f-0e51-46d3-b888-c1a4c22c190a",
-        "source": "Ashby",
-        "published_at": "2026-09-02T09:46:39.930000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-98bffd0e-05cf-4748-93f1-b115c84e37b4",
-        "title": "Applied AI Architect, Education",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/98bffd0e-05cf-4748-93f1-b115c84e37b4",
-        "source": "Ashby",
-        "published_at": "2026-09-02T07:51:54.044000+00:00",
         "remote": true
     },
     {
@@ -242,15 +231,37 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-atlassian-senior-consultant-cloud-practice-307740",
-        "title": "Atlassian Senior Consultant - Cloud Practice",
-        "company": "Valiantys",
-        "location": "Remote, United Kingdom",
-        "job_type": "Full Time Permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/valiantys/remote-atlassian-senior-consultant-cloud-practice-307740",
+        "id": "arbeitnow-remote-senior-salesforce-developer-2840",
+        "title": "Senior Salesforce Developer (m/f/d)",
+        "company": "Auxmoney Gmbh",
+        "location": "Remote / Düsseldorf",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-salesforce-developer-2840",
         "source": "Arbeitnow",
-        "published_at": "2026-09-02T15:05:00+00:00",
+        "published_at": "2026-09-03T08:09:39+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-it-product-owner-data-platform-473093",
+        "title": "(Senior) IT Product Owner Data Platform (m/w/d)",
+        "company": "OXG Glasfaser GmbH",
+        "location": "Düsseldorf und Remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-senior-it-product-owner-data-platform-473093",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-03T05:09:32+00:00",
         "remote": false
+    },
+    {
+        "id": "arbeitnow-devops-engineer-100-remote-united-kindom-290590",
+        "title": "DevOps Engineer (100% remote)",
+        "company": "Tether Operations Limited",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/devops-engineer-100-remote-united-kindom-290590",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-03T03:30:16+00:00",
+        "remote": true
     },
     {
         "id": "greenhouse-6494023002",
@@ -283,17 +294,6 @@
         "url": "https://jobs.ashbyhq.com/supabase/8fa1c7a0-a85c-4562-a1f5-4dd22cadae27",
         "source": "Ashby",
         "published_at": "2026-09-02T20:44:27.045000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-fullstack-entwickler-nestjs-angular-stuttgart-498575",
-        "title": "Fullstack Entwickler NestJS / Angular (m/w/d)",
-        "company": "Rockstardevelopers GmbH",
-        "location": "Stuttgart",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/fullstack-entwickler-nestjs-angular-stuttgart-498575",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-02T20:30:37+00:00",
         "remote": true
     },
     {
@@ -341,25 +341,25 @@
         "remote": true
     },
     {
-        "id": "ashby-06752423-eebb-472c-95b5-c7ff2559fd60",
-        "title": "Software Engineer - Branching",
-        "company": "Supabase",
-        "location": "Remote, Global",
-        "job_type": "FullTime, Engineering",
-        "url": "https://jobs.ashbyhq.com/supabase/06752423-eebb-472c-95b5-c7ff2559fd60",
-        "source": "Ashby",
-        "published_at": "2026-09-02T10:25:03.190000+00:00",
-        "remote": false
+        "id": "arbeitnow-remote-senior-cloud-test-devops-engineer-berlin-312220",
+        "title": "Senior Cloud Test & DevOps Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, freelance",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-cloud-test-devops-engineer-berlin-312220",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-03T05:30:13+00:00",
+        "remote": true
     },
     {
-        "id": "ashby-4eb14408-51e6-4c58-812a-3782d5c0b045",
-        "title": "Platform Engineer - Compute Capacity",
-        "company": "Supabase",
-        "location": "Remote",
-        "job_type": "FullTime, Engineering",
-        "url": "https://jobs.ashbyhq.com/supabase/4eb14408-51e6-4c58-812a-3782d5c0b045",
-        "source": "Ashby",
-        "published_at": "2026-09-02T10:03:09.472000+00:00",
+        "id": "arbeitnow-full-stack-product-engineer-bling-schule-berlin-393109",
+        "title": "Full Stack Product Engineer (m/w/d) – Bling Schule",
+        "company": "Bling",
+        "location": "Berlin",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/bling/full-stack-product-engineer-bling-schule-berlin-393109",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-03T07:30:43+00:00",
         "remote": true
     },
     {
@@ -374,17 +374,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-sales-development-representative-sdr-virtual-data-rooms-europe-germany-141407",
-        "title": "Sales Development Representative (SDR) - Virtual Data Rooms: Europe",
-        "company": "Valutico 2",
-        "location": "Germany",
-        "job_type": "Full time, associate",
-        "url": "https://www.arbeitnow.com/jobs/companies/valutico-2/remote-sales-development-representative-sdr-virtual-data-rooms-europe-germany-141407",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-02T23:20:10+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-b4d679e8-f41b-4c59-b091-dc5581345fcb",
         "title": "Product Designer",
         "company": "Resend",
@@ -396,14 +385,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-graphic-and-ui-designer-london-69553",
-        "title": "Senior Graphic and UI Designer",
-        "company": "BeInCrypto",
-        "location": "London",
-        "job_type": "Contract, professional / experienced",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/beincrypto/senior-graphic-and-ui-designer-london-69553",
+        "id": "arbeitnow-copywriter-im-e-commerce-munster-277645",
+        "title": "Copywriter im E-Commerce (m/w/d)",
+        "company": "paselo GmbH",
+        "location": "Münster",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/paselo-gmbh/copywriter-im-e-commerce-munster-277645",
         "source": "Arbeitnow",
-        "published_at": "2026-09-02T17:00:27+00:00",
+        "published_at": "2026-09-03T06:30:32+00:00",
         "remote": true
     }
 ]

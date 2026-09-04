@@ -1,16 +1,5 @@
 [
     {
-        "id": "arbeitnow-remote-junior-sap-consultant-data-management-s-4hana-transformation-berlin-132228",
-        "title": "(Junior) SAP Consultant Data Management & S/4HANA Transformation (m/w/d)",
-        "company": "Natuvion GmbH",
-        "location": "Remote job",
-        "job_type": "Entry, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-junior-sap-consultant-data-management-s-4hana-transformation-berlin-132228",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-03T20:30:08+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3538332",
         "title": "Senior Software Engineer, Caper AI",
         "company": "Instacart",
@@ -110,28 +99,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-sap-abap-developer-architect-technical-migration-berlin-207465",
-        "title": "(Senior) SAP ABAP Developer/ Architect – Technical Migration (m/w/d)",
-        "company": "Natuvion GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-abap-developer-architect-technical-migration-berlin-207465",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-03T20:30:08+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-sap-abap-developer-architect-product-development-berlin-428749",
-        "title": "(Senior) SAP ABAP Developer/Architect – Product Development (m/w/d)",
-        "company": "Natuvion GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-abap-developer-architect-product-development-berlin-428749",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-03T20:30:08+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3537983",
         "title": "Senior Software Engineer, Agent Verification",
         "company": "Coinbase",
@@ -165,14 +132,47 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-394381",
-        "title": "Werkstudent Softwareentwicklung Schwerpunkt Security (m/w/d)",
-        "company": "Meierhofer",
-        "location": "Leipzig",
-        "job_type": "Student, Working student, Part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-394381",
+        "id": "arbeitnow-senior-typescript-developer-cologne-100134",
+        "title": "Senior Typescript Developer (f/m/d)",
+        "company": "Sidestream",
+        "location": "Cologne",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/sidestream/senior-typescript-developer-cologne-100134",
         "source": "Arbeitnow",
-        "published_at": "2026-09-03T20:09:13+00:00",
+        "published_at": "2026-09-04T06:30:29+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-machine-learning-engineer-mlops-engineer-stuttgart-493718",
+        "title": "Machine Learning Engineer / MLOps Engineer (m/w/d)",
+        "company": "Rockstardevelopers GmbH",
+        "location": "Stuttgart",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/machine-learning-engineer-mlops-engineer-stuttgart-493718",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-04T06:00:32+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-systemadministrator-linux-freiburg-im-breisgau-105893",
+        "title": "Systemadministrator Linux (m/w/d)",
+        "company": "ANGEHEUERT GmbH",
+        "location": "Homeoffice",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-systemadministrator-linux-freiburg-im-breisgau-105893",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-04T02:30:03+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-linux-systemadministrator-freiburg-im-breisgau-38559",
+        "title": "Linux-Systemadministrator (m/w/d)",
+        "company": "ANGEHEUERT GmbH",
+        "location": "Homeoffice",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-linux-systemadministrator-freiburg-im-breisgau-38559",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-04T02:30:03+00:00",
         "remote": true
     },
     {

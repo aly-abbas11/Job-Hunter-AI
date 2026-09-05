@@ -1,5 +1,27 @@
 [
     {
+        "id": "ashby-2d54a2c3-3fc5-4492-bfe3-724357977379",
+        "title": "Senior Special Programs Security Manager (CSSO/CPSO)",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Corporate Security",
+        "url": "https://jobs.ashbyhq.com/openai/2d54a2c3-3fc5-4492-bfe3-724357977379",
+        "source": "Ashby",
+        "published_at": "2026-09-04T23:10:39.416000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-2ee660bf-1911-4619-9282-751cd9fc5c61",
+        "title": "Personnel Security Specialist",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Corporate Security",
+        "url": "https://jobs.ashbyhq.com/openai/2ee660bf-1911-4619-9282-751cd9fc5c61",
+        "source": "Ashby",
+        "published_at": "2026-09-04T23:10:29.865000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-55f36629-8351-41d9-b2f5-3d63c5e26bf7",
         "title": "Account Associate - SF",
         "company": "OpenAI",
@@ -22,83 +44,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-gtm-systems-ai-and-automation-engineer-447360",
-        "title": "Senior GTM Systems AI and Automation Engineer",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-447360",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-04T12:40:12+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-3538332",
-        "title": "Senior Software Engineer, Caper AI",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8175843",
-        "source": "Greenhouse",
-        "published_at": "2026-09-03T19:15:42-04:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-7e62a05e-2e43-4b95-bde7-34efa8d82c5f",
-        "title": "Account Director, Tech",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/7e62a05e-2e43-4b95-bde7-34efa8d82c5f",
-        "source": "Ashby",
-        "published_at": "2026-09-03T21:24:39.255000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-4d1ede8c-3d4c-4503-8408-81e4b68c5c91",
-        "title": "Full Stack Software Engineer, Product Explorations",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/4d1ede8c-3d4c-4503-8408-81e4b68c5c91",
-        "source": "Ashby",
-        "published_at": "2026-09-03T20:29:00.146000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-2e209adc-a378-4fcb-8077-d14bb115aea4",
-        "title": "EMEA Vendor Lead, Ad Sales",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/2e209adc-a378-4fcb-8077-d14bb115aea4",
-        "source": "Ashby",
-        "published_at": "2026-09-03T20:18:27.440000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-cloud-native-senior-architect-portworx-206761",
-        "title": "Cloud Native Senior Architect (Portworx)",
-        "company": "purestorage",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/purestorage/remote-cloud-native-senior-architect-portworx-206761",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-04T15:55:55+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-software-engineer-backend-core-api-process-automation-134204",
-        "title": "Software Engineer, Backend - Core/API & Process Automation",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-backend-core-api-process-automation-134204",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-04T12:40:12+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-423450",
         "title": "AI Solution Architect (m/w/d)",
         "company": "virtual7 GmbH",
@@ -107,6 +52,50 @@
         "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-423450",
         "source": "Arbeitnow",
         "published_at": "2026-09-04T17:30:34+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3539520",
+        "title": "Senior Staff Software Engineer, Institutional Exchange",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8179210?gh_jid=8179210",
+        "source": "Greenhouse",
+        "published_at": "2026-09-04T18:28:44-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3540099",
+        "title": "Senior Market Data Engineer",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
+        "source": "Greenhouse",
+        "published_at": "2026-09-04T17:31:02-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3539558",
+        "title": "Senior Network Engineer",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8179311?gh_jid=8179311",
+        "source": "Greenhouse",
+        "published_at": "2026-09-04T17:24:42-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6509112002",
+        "title": "Senior Security Compliance Engineer, Public Sector",
+        "company": "GitLab",
+        "location": "Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8770747002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-04T16:24:07-04:00",
         "remote": true
     },
     {
@@ -173,39 +162,6 @@
         "url": "https://careers.datadoghq.com/detail/8177798/?gh_jid=8177798",
         "source": "Greenhouse",
         "published_at": "2026-09-04T11:26:22-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3539235",
-        "title": "Senior Software Engineer, Fulfillment",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8178502",
-        "source": "Greenhouse",
-        "published_at": "2026-09-03T19:15:51-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3539268",
-        "title": "Senior Software Engineer, Growth",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8178568",
-        "source": "Greenhouse",
-        "published_at": "2026-09-03T19:15:13-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3538302",
-        "title": "Senior Mobile Engineer",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8175782",
-        "source": "Greenhouse",
-        "published_at": "2026-09-03T19:14:53-04:00",
         "remote": true
     },
     {

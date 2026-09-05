@@ -1,5 +1,16 @@
 [
     {
+        "id": "ashby-0b9e565a-ae5f-40fc-8350-b59f71f76df1",
+        "title": "Software Engineer, Host Assurance",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Security",
+        "url": "https://jobs.ashbyhq.com/openai/0b9e565a-ae5f-40fc-8350-b59f71f76df1",
+        "source": "Ashby",
+        "published_at": "2026-09-05T14:19:37.047000+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-senior-gtm-systems-ai-and-automation-engineer-43415",
         "title": "Senior GTM Systems AI and Automation Engineer",
         "company": "Camunda",
@@ -195,28 +206,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/24-log-gmbh/remote-senior-sap-logistics-developer-vollzeit-passau-417649",
         "source": "Arbeitnow",
         "published_at": "2026-09-05T05:30:01+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-software-engineer-developer-experience-tooling-golang-php-schoppingen-64061",
-        "title": "Software Engineer – Developer Experience / Tooling (Golang/PHP) (m/w/d)",
-        "company": "shopware AG",
-        "location": "Homeoffice",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-software-engineer-developer-experience-tooling-golang-php-schoppingen-64061",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-05T02:30:18+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-data-analyst-schoppingen-429247",
-        "title": "Senior Data Analyst (m/w/d)",
-        "company": "shopware AG",
-        "location": "Homeoffice",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-senior-data-analyst-schoppingen-429247",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-05T02:30:18+00:00",
         "remote": true
     },
     {

@@ -1,5 +1,38 @@
 [
     {
+        "id": "arbeitnow-remote-senior-gtm-systems-ai-and-automation-engineer-43415",
+        "title": "Senior GTM Systems AI and Automation Engineer",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-43415",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-05T08:40:11+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-berlin-462841",
+        "title": "Senior Software Engineer",
+        "company": "Nucs AI",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-senior-software-engineer-berlin-462841",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-05T08:30:28+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-1db8dc12-c4b8-4fb7-8451-0d48df402bda",
+        "title": "Product Manager, Statsig",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/1db8dc12-c4b8-4fb7-8451-0d48df402bda",
+        "source": "Ashby",
+        "published_at": "2026-09-05T04:19:12.741000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-2d54a2c3-3fc5-4492-bfe3-724357977379",
         "title": "Senior Special Programs Security Manager (CSSO/CPSO)",
         "company": "OpenAI",
@@ -44,14 +77,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-423450",
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-423450",
+        "id": "arbeitnow-remote-cloud-security-engineer-220555",
+        "title": "Cloud Security Engineer",
+        "company": "Ygo",
+        "location": "Remote EU",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/ygo/remote-cloud-security-engineer-220555",
         "source": "Arbeitnow",
-        "published_at": "2026-09-04T17:30:34+00:00",
+        "published_at": "2026-09-05T02:40:08+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-sap-abap-developer-architect-data-management-ilm-berlin-78818",
+        "title": "(Senior) SAP ABAP Developer / Architect – Data Management & ILM (m/w/d)",
+        "company": "Natuvion GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-abap-developer-architect-data-management-ilm-berlin-78818",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-05T08:30:26+00:00",
         "remote": true
     },
     {
@@ -121,39 +165,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-software-engineer-ruby-security-platform-authorization-340291",
-        "title": "Senior Software Engineer (Ruby), Security Platform: Authorization",
-        "company": "gitlab",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-software-engineer-ruby-security-platform-authorization-340291",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-04T18:55:23+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-principal-security-awareness-human-risk-engineer-447717",
-        "title": "Principal Security Awareness & Human Risk Engineer",
-        "company": "gitlab",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-principal-security-awareness-human-risk-engineer-447717",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-04T18:55:23+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-security-engineer-appsec-404043",
-        "title": "Senior Security Engineer - AppSec (d/f/m)",
-        "company": "Vivenu",
-        "location": "Remote Germany",
-        "job_type": "Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-senior-security-engineer-appsec-404043",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-04T17:05:03+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3539044",
         "title": "Staff Developer Advocate - Leadership",
         "company": "Datadog",
@@ -165,58 +176,47 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-73157",
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
+        "id": "arbeitnow-remote-sap-abap-entwickler-fokus-cloud-api-integration-rest-odata-btp-vollzeit-passau-250921",
+        "title": "SAP ABAP Entwickler – Fokus Cloud & API Integration (REST, OData, BTP) – Vollzeit (m/w/d)",
+        "company": "24-LOG GmbH",
         "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-73157",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/24-log-gmbh/remote-sap-abap-entwickler-fokus-cloud-api-integration-rest-odata-btp-vollzeit-passau-250921",
         "source": "Arbeitnow",
-        "published_at": "2026-09-04T17:30:34+00:00",
+        "published_at": "2026-09-05T05:30:01+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-276611",
-        "title": "Senior Java Backend Developer (m/w/d)",
-        "company": "virtual7 GmbH",
+        "id": "arbeitnow-remote-senior-sap-logistics-developer-vollzeit-passau-417649",
+        "title": "Senior SAP Logistics Developer - Vollzeit (m/w/d)",
+        "company": "24-LOG GmbH",
         "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-276611",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/24-log-gmbh/remote-senior-sap-logistics-developer-vollzeit-passau-417649",
         "source": "Arbeitnow",
-        "published_at": "2026-09-04T17:30:34+00:00",
+        "published_at": "2026-09-05T05:30:01+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-cloud-developer-bonn-375513",
-        "title": "Senior Cloud Developer (m/w/d)",
-        "company": "virtual7 GmbH",
+        "id": "arbeitnow-remote-software-engineer-developer-experience-tooling-golang-php-schoppingen-64061",
+        "title": "Software Engineer – Developer Experience / Tooling (Golang/PHP) (m/w/d)",
+        "company": "shopware AG",
         "location": "Homeoffice",
-        "job_type": "Experienced, freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-cloud-developer-bonn-375513",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-software-engineer-developer-experience-tooling-golang-php-schoppingen-64061",
         "source": "Arbeitnow",
-        "published_at": "2026-09-04T17:30:34+00:00",
+        "published_at": "2026-09-05T02:30:18+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-it-architect-karlsruhe-350746",
-        "title": "Senior IT Architect (m/w/d)",
-        "company": "virtual7 GmbH",
+        "id": "arbeitnow-remote-senior-data-analyst-schoppingen-429247",
+        "title": "Senior Data Analyst (m/w/d)",
+        "company": "shopware AG",
         "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-350746",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-senior-data-analyst-schoppingen-429247",
         "source": "Arbeitnow",
-        "published_at": "2026-09-04T17:30:34+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-428296",
-        "title": "Senior Oracle Data Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-428296",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-04T17:30:34+00:00",
+        "published_at": "2026-09-05T02:30:18+00:00",
         "remote": true
     },
     {
@@ -229,5 +229,16 @@
         "source": "Ashby",
         "published_at": "2026-09-04T18:10:27.081000+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-fullstack-engineer-prospect-ui-solutions-munich-415043",
+        "title": "FullStack Engineer - Prospect UI Solutions",
+        "company": "Constructor",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-ui-solutions-munich-415043",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-05T05:40:08+00:00",
+        "remote": false
     }
 ]

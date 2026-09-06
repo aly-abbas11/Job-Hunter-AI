@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-remote-junior-software-engineer-platforms-all-genders-57344",
+        "title": "Junior Software Engineer - Platforms (all genders)",
+        "company": "gridX GmbH",
+        "location": "Remote DE; Aachen; Munich",
+        "job_type": "Entry, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-junior-software-engineer-platforms-all-genders-57344",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-06T17:09:42+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-staff-software-developer-iam-383896",
         "title": "Staff Software Developer (IAM)",
         "company": "jetbrains",
@@ -22,15 +33,37 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-software-engineer-fullstack-fur-ki-produkte-294858",
-        "title": "Senior Software Engineer (m/w/d) | Fullstack für KI-Produkte",
-        "company": "Avenit Ag",
-        "location": "Remote in Deutschland",
+        "id": "arbeitnow-remote-senior-backend-engineer-energy-management-platform-all-genders-297211",
+        "title": "Senior Backend Engineer - Energy Management Platform (all genders)",
+        "company": "gridX GmbH",
+        "location": "Remote DE; Aachen; Munich",
         "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-294858",
+        "url": "https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-senior-backend-engineer-energy-management-platform-all-genders-297211",
         "source": "Arbeitnow",
-        "published_at": "2026-09-06T02:09:52+00:00",
+        "published_at": "2026-09-06T17:09:42+00:00",
         "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-principal-security-researcher-92261",
+        "title": "Principal Security Researcher",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-principal-security-researcher-92261",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-06T18:55:20+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-461414",
+        "title": "Développeur fullstack confirmé H/F (C#, .Net, Angular)",
+        "company": "N2JSoft",
+        "location": "Poste à distance",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-461414",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-06T16:30:03+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-core-developer-platform-60113",
@@ -77,58 +110,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-product-design-engineer-145790",
-        "title": "Senior Product Design Engineer",
-        "company": "Duck Duck Go",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-product-design-engineer-145790",
+        "id": "arbeitnow-remote-seo-copywriter-french-market-france-129523",
+        "title": "SEO Copywriter - French Market",
+        "company": "Workana Premium",
+        "location": "France",
+        "job_type": "",
+        "url": "https://www.arbeitnow.fr/jobs/companies/workana-premium/remote-seo-copywriter-french-market-france-129523",
         "source": "Arbeitnow",
-        "published_at": "2026-09-06T07:40:03+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-staff-data-scientist-28394",
-        "title": "Staff Data Scientist",
-        "company": "Duck Duck Go",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-staff-data-scientist-28394",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-06T07:40:03+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-privacy-engineer-65238",
-        "title": "Senior Privacy Engineer",
-        "company": "Duck Duck Go",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-65238",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-06T07:40:03+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-6513338002",
-        "title": "Staff Security Researcher",
-        "company": "GitLab",
-        "location": "Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8782153002",
-        "source": "Greenhouse",
-        "published_at": "2026-09-05T13:56:27-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6491138002",
-        "title": "Principal Security Researcher",
-        "company": "GitLab",
-        "location": "Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8731718002",
-        "source": "Greenhouse",
-        "published_at": "2026-09-05T13:47:29-04:00",
+        "published_at": "2026-09-06T16:20:17+00:00",
         "remote": true
     }
 ]

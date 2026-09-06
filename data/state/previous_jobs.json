@@ -22,17 +22,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-data-operations-specialist-321084",
-        "title": "Data & Operations Specialist",
-        "company": "Anyone Ai",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/remote-data-operations-specialist-321084",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-05T16:40:09+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-0b9e565a-ae5f-40fc-8350-b59f71f76df1",
         "title": "Software Engineer, Host Assurance",
         "company": "OpenAI",
@@ -44,28 +33,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-gtm-systems-ai-and-automation-engineer-43415",
-        "title": "Senior GTM Systems AI and Automation Engineer",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-43415",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-05T08:40:11+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-berlin-462841",
-        "title": "Senior Software Engineer",
-        "company": "Nucs AI",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-senior-software-engineer-berlin-462841",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-05T08:30:28+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-1db8dc12-c4b8-4fb7-8451-0d48df402bda",
         "title": "Product Manager, Statsig",
         "company": "OpenAI",
@@ -74,28 +41,6 @@
         "url": "https://jobs.ashbyhq.com/openai/1db8dc12-c4b8-4fb7-8451-0d48df402bda",
         "source": "Ashby",
         "published_at": "2026-09-05T04:19:12.741000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-2d54a2c3-3fc5-4492-bfe3-724357977379",
-        "title": "Senior Special Programs Security Manager (CSSO/CPSO)",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Corporate Security",
-        "url": "https://jobs.ashbyhq.com/openai/2d54a2c3-3fc5-4492-bfe3-724357977379",
-        "source": "Ashby",
-        "published_at": "2026-09-04T23:10:39.416000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-2ee660bf-1911-4619-9282-751cd9fc5c61",
-        "title": "Personnel Security Specialist",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Corporate Security",
-        "url": "https://jobs.ashbyhq.com/openai/2ee660bf-1911-4619-9282-751cd9fc5c61",
-        "source": "Ashby",
-        "published_at": "2026-09-04T23:10:29.865000+00:00",
         "remote": true
     },
     {
@@ -132,17 +77,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-security-management-specialist-95-remote-anywhere-in-the-eu-strasbourg-392969",
-        "title": "Senior Security Management Specialist - 95% Remote Anywhere in the EU",
-        "company": "KEYES",
-        "location": "Remote job",
-        "job_type": "Mid, freelance",
-        "url": "https://www.arbeitnow.fr/jobs/companies/keyes/senior-security-management-specialist-95-remote-anywhere-in-the-eu-strasbourg-392969",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-05T16:30:05+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-data-scientist-berlin-143991",
         "title": "Senior Data Scientist (m/f/x)",
         "company": "Makersite GmbH",
@@ -152,82 +86,5 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-05T14:30:32+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-sap-abap-developer-architect-data-management-ilm-berlin-78818",
-        "title": "(Senior) SAP ABAP Developer / Architect – Data Management & ILM (m/w/d)",
-        "company": "Natuvion GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-abap-developer-architect-data-management-ilm-berlin-78818",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-05T08:30:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3539520",
-        "title": "Senior Staff Software Engineer, Institutional Exchange",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8179210?gh_jid=8179210",
-        "source": "Greenhouse",
-        "published_at": "2026-09-04T18:28:44-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3540099",
-        "title": "Senior Market Data Engineer",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
-        "source": "Greenhouse",
-        "published_at": "2026-09-04T17:31:02-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3539558",
-        "title": "Senior Network Engineer",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8179311?gh_jid=8179311",
-        "source": "Greenhouse",
-        "published_at": "2026-09-04T17:24:42-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6509112002",
-        "title": "Senior Security Compliance Engineer, Public Sector",
-        "company": "GitLab",
-        "location": "Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8770747002",
-        "source": "Greenhouse",
-        "published_at": "2026-09-04T16:24:07-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3539521",
-        "title": "Engineering Manager, Market Data & Analytics",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8179214?gh_jid=8179214",
-        "source": "Greenhouse",
-        "published_at": "2026-09-04T15:58:40-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-fullstack-engineer-prospect-ui-solutions-munich-415043",
-        "title": "FullStack Engineer - Prospect UI Solutions",
-        "company": "Constructor",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-ui-solutions-munich-415043",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-05T05:40:08+00:00",
-        "remote": false
     }
 ]

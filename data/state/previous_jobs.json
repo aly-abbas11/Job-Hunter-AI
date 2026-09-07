@@ -33,17 +33,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-backend-engineer-paris-324081",
-        "title": "Senior Backend Engineer",
-        "company": "Payflows",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.fr/jobs/companies/payflows/remote-senior-backend-engineer-paris-324081",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-06T19:30:08+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-full-stack-engineer-backend-frontend-france-245440",
         "title": "Senior Full-Stack Engineer (Backend + Frontend)",
         "company": "Soda Data Nv",
@@ -55,15 +44,26 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-principal-security-researcher-92261",
-        "title": "Principal Security Researcher",
-        "company": "gitlab",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-principal-security-researcher-92261",
+        "id": "arbeitnow-remote-senior-application-security-engineer-all-genders-berlin-401064",
+        "title": "Senior Application Security Engineer (all genders)",
+        "company": "Distribusion Technologies",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-application-security-engineer-all-genders-berlin-401064",
         "source": "Arbeitnow",
-        "published_at": "2026-09-06T18:55:20+00:00",
-        "remote": false
+        "published_at": "2026-09-07T17:30:04+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-cloud-test-devops-engineer-berlin-54148",
+        "title": "Senior Cloud Test & DevOps Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, freelance",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-cloud-test-devops-engineer-berlin-54148",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-07T17:30:16+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-senior-frontend-engineer-full-stack-france-447542",

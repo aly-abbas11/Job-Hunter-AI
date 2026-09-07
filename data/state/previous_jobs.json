@@ -1,16 +1,5 @@
 [
     {
-        "id": "arbeitnow-remote-junior-software-engineer-platforms-all-genders-57344",
-        "title": "Junior Software Engineer - Platforms (all genders)",
-        "company": "gridX GmbH",
-        "location": "Remote DE; Aachen; Munich",
-        "job_type": "Entry, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-junior-software-engineer-platforms-all-genders-57344",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-06T17:09:42+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-senior-backend-engineer-paris-324081",
         "title": "Senior Backend Engineer",
         "company": "Payflows",
@@ -20,17 +9,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-06T19:30:08+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-backend-engineer-energy-management-platform-all-genders-297211",
-        "title": "Senior Backend Engineer - Energy Management Platform (all genders)",
-        "company": "gridX GmbH",
-        "location": "Remote DE; Aachen; Munich",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-senior-backend-engineer-energy-management-platform-all-genders-297211",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-06T17:09:42+00:00",
-        "remote": false
     },
     {
         "id": "arbeitnow-remote-principal-security-researcher-92261",
@@ -97,6 +75,28 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-06T13:40:05+00:00",
         "remote": false
+    },
+    {
+        "id": "arbeitnow-ex-steuerfachangestellter-stfa-im-customer-support-kundenbetreuung-mit-buchhaltung-100-remote-berlin-254350",
+        "title": "Ex Steuerfachangestellter StFa im Customer Support / Kundenbetreuung mit Buchhaltung (m/w/d) - 100% remote",
+        "company": "BuchhaltungsButler",
+        "location": "Berlin",
+        "job_type": "teamleitung",
+        "url": "https://www.arbeitnow.com/jobs/companies/buchhaltungsbutler/ex-steuerfachangestellter-stfa-im-customer-support-kundenbetreuung-mit-buchhaltung-100-remote-berlin-254350",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-07T07:30:49+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-freelancer-first-level-support-deutsch-danisch-french-leipzig-140384",
+        "title": "Freelancer First-Level Support (m/w/d) - Deutsch & Dänisch & French",
+        "company": "colpari GmbH",
+        "location": "Leipzig",
+        "job_type": "Freelance",
+        "url": "https://www.arbeitnow.com/jobs/companies/colpari-gmbh/freelancer-first-level-support-deutsch-danisch-french-leipzig-140384",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-07T05:30:30+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-seo-copywriter-french-market-france-129523",

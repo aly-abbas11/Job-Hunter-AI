@@ -1,5 +1,60 @@
 [
     {
+        "id": "arbeitnow-praktikantin-als-llm-rag-machine-learning-engineer-mulheim-96338",
+        "title": "Praktikant:in als LLM /RAG & Machine Learning Engineer (m/w/d)",
+        "company": "U-Glow GmbH",
+        "location": "Mülheim",
+        "job_type": "Internship",
+        "url": "https://www.arbeitnow.com/jobs/companies/u-glow-gmbh/praktikantin-als-llm-rag-machine-learning-engineer-mulheim-96338",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-08T16:30:42+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-5df9e349-f8e1-4cfd-ba20-ec9e4115d564",
+        "title": "Engineering Manager, Client Platform Engineering",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Security",
+        "url": "https://jobs.ashbyhq.com/openai/5df9e349-f8e1-4cfd-ba20-ec9e4115d564",
+        "source": "Ashby",
+        "published_at": "2026-09-08T17:21:58.874000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-485cda77-5d8f-4aaa-bca5-916b011477e6",
+        "title": "Applied AI Engineer, Government",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, OpenAI for Gov",
+        "url": "https://jobs.ashbyhq.com/openai/485cda77-5d8f-4aaa-bca5-916b011477e6",
+        "source": "Ashby",
+        "published_at": "2026-09-08T16:59:01.596000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-ai-benchmark-engineer-native-language-specialist-french-france-remote-paris-387805",
+        "title": "AI Benchmark Engineer | Native Language Specialist - French (France) - Remote",
+        "company": "LILT (Production)",
+        "location": "France (Remote)",
+        "job_type": "Contract",
+        "url": "https://www.arbeitnow.fr/jobs/companies/lilt-production/ai-benchmark-engineer-native-language-specialist-french-france-remote-paris-387805",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-08T16:40:17+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-ki-consultant-ai-enthusiast-in-der-baubranche-remote-munich-285950",
+        "title": "KI-Consultant / AI Enthusiast in der Baubranche (m/w/d) Remote",
+        "company": "Teamsware GmbH",
+        "location": "Munich",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/teamsware-gmbh/ki-consultant-ai-enthusiast-in-der-baubranche-remote-munich-285950",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-08T16:00:33+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-fa312d19-bb9e-4569-b5ed-aed8aa45cd3b",
         "title": "Account Director, Mid-Market",
         "company": "OpenAI",
@@ -33,6 +88,28 @@
         "remote": false
     },
     {
+        "id": "greenhouse-6504216002",
+        "title": "Senior Backend Engineer, Trusted Agentic Development",
+        "company": "GitLab",
+        "location": "Remote, Poland",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8760233002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-08T15:16:51-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-av-field-engineer-stuttgart-germany-85753",
+        "title": "Senior AV Field Engineer  (M/W/D)  - Stuttgart, Germany",
+        "company": "Mobileye",
+        "location": "Remote - Germany",
+        "job_type": "Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/mobileye/remote-senior-av-field-engineer-stuttgart-germany-85753",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-08T17:05:00+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-android-engineer-remote-full-time-berlin-474516",
         "title": "Android Engineer (remote, full-time)",
         "company": "Lumiform",
@@ -55,17 +132,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-fullstack-web-entwickler-hamburg-478554",
-        "title": "Fullstack Web-Entwickler (m/w/d)",
-        "company": "SHAPE DACH GmbH",
-        "location": "Hamburg",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/shape-dach-gmbh/fullstack-web-entwickler-hamburg-478554",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-08T13:00:36+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3539063",
         "title": "Director, IT Operations",
         "company": "Instacart",
@@ -84,18 +150,29 @@
         "job_type": "berufserfahren",
         "url": "https://www.arbeitnow.com/jobs/companies/progressive-digital-kock-rietz-gbr/senior-drupal-php-entwicklerin-cologne-163272",
         "source": "Arbeitnow",
-        "published_at": "2026-09-08T15:00:32+00:00",
+        "published_at": "2026-09-08T19:17:26+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-social-media-content-manager-vollzeit-oder-teilzeit-ab-20h-100-remote-kevelaer-196893",
-        "title": "Social Media & Content Manager (m/w/d), Vollzeit oder Teilzeit ab 20h, 100% Remote",
-        "company": "Sivara GmbH",
-        "location": "Kevelaer",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/sivara-gmbh/social-media-content-manager-vollzeit-oder-teilzeit-ab-20h-100-remote-kevelaer-196893",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-08T12:00:30+00:00",
+        "id": "ashby-758ed843-0fa2-4891-8925-c8d690c6eb0f",
+        "title": "Social Media Lead",
+        "company": "Ramp",
+        "location": "Remote",
+        "job_type": "FullTime, Marketing",
+        "url": "https://jobs.ashbyhq.com/ramp/758ed843-0fa2-4891-8925-c8d690c6eb0f",
+        "source": "Ashby",
+        "published_at": "2026-09-08T19:30:50.335000+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-on-holiday-support-agent-145515",
+        "title": "On Holiday Support Agent",
+        "company": "loveholidays",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/loveholidays/remote-on-holiday-support-agent-145515",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-08T16:40:11+00:00",
+        "remote": false
     }
 ]

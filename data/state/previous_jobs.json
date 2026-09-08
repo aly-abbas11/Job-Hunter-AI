@@ -11,6 +11,28 @@
         "remote": true
     },
     {
+        "id": "ashby-fa312d19-bb9e-4569-b5ed-aed8aa45cd3b",
+        "title": "Account Director, Mid-Market",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/fa312d19-bb9e-4569-b5ed-aed8aa45cd3b",
+        "source": "Ashby",
+        "published_at": "2026-09-08T09:24:13.116000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-7be58f3a-6005-42ed-86fa-77773ebfb294",
+        "title": "Applied AI Engineer, Digital Natives",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294",
+        "source": "Ashby",
+        "published_at": "2026-09-08T08:10:32.624000+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-ai-enablement-lead-gn-data-intelligence-183432",
         "title": "AI Enablement Lead [gn] Data Intelligence",
         "company": "Actian",
@@ -33,28 +55,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-qa-engineer-all-genders-26349",
-        "title": "Senior QA Engineer (all genders)",
-        "company": "Contabo",
-        "location": "Remote (Germany)",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-qa-engineer-all-genders-26349",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-08T02:09:30+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-ai-product-engineer-berlin-155259",
-        "title": "(Senior) AI Product Engineer (m/w/d)",
-        "company": "Legalhero",
-        "location": "Berlin",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-155259",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-08T02:09:14+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-full-stack-engineer-backend-frontend-france-245440",
         "title": "Senior Full-Stack Engineer (Backend + Frontend)",
         "company": "Soda Data Nv",
@@ -63,72 +63,6 @@
         "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/remote-senior-full-stack-engineer-backend-frontend-france-245440",
         "source": "Arbeitnow",
         "published_at": "2026-09-07T13:20:10+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-tools-automation-231855",
-        "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
-        "company": "Vmray Gmbh",
-        "location": "Germany, Bochum or Remote (Europe)",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-231855",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-07T23:09:56+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-salesforce-developer-445190",
-        "title": "Senior Salesforce Developer (m/f/d)",
-        "company": "Auxmoney Gmbh",
-        "location": "Remote / Düsseldorf",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-salesforce-developer-445190",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-07T23:09:06+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-devops-engineer-352144",
-        "title": "Senior DevOps Engineer (m/f/d)",
-        "company": "Auxmoney Gmbh",
-        "location": "Remote / Düsseldorf",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-devops-engineer-352144",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-07T23:09:06+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-machine-learning-engineer-pricing-476900",
-        "title": "(Senior) Machine Learning Engineer – Pricing (m/f/d)",
-        "company": "Auxmoney Gmbh",
-        "location": "Remote / Düsseldorf",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-machine-learning-engineer-pricing-476900",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-07T23:09:06+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-application-security-engineer-all-genders-berlin-401064",
-        "title": "Senior Application Security Engineer (all genders)",
-        "company": "Distribusion Technologies",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-application-security-engineer-all-genders-berlin-401064",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-07T17:30:04+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-cloud-test-devops-engineer-berlin-54148",
-        "title": "Senior Cloud Test & DevOps Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-cloud-test-devops-engineer-berlin-54148",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-07T17:30:16+00:00",
         "remote": true
     },
     {
@@ -151,6 +85,28 @@
         "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/remote-senior-backend-infrastructure-engineer-platform-france-122771",
         "source": "Arbeitnow",
         "published_at": "2026-09-07T13:20:10+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-349507",
+        "title": "Werkstudent Softwareentwicklung Schwerpunkt Security (m/w/d)",
+        "company": "Meierhofer",
+        "location": "Leipzig",
+        "job_type": "Student, Working student, Part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-349507",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-08T08:09:41+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-werkstudent-data-science-business-intelligence-leipzig-415779",
+        "title": "Werkstudent Data Science / Business Intelligence (m/w/d)",
+        "company": "Meierhofer",
+        "location": "Leipzig",
+        "job_type": "Student, Working student, Part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-data-science-business-intelligence-leipzig-415779",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-08T08:09:41+00:00",
         "remote": true
     }
 ]

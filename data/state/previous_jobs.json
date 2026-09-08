@@ -11,6 +11,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-ai-enablement-lead-gn-data-intelligence-183432",
+        "title": "AI Enablement Lead [gn] Data Intelligence",
+        "company": "Actian",
+        "location": "Europe - Remote",
+        "job_type": "Full-Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/actian/remote-ai-enablement-lead-gn-data-intelligence-183432",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-07T22:04:05+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-4e51e1ac-3fe0-46b5-b036-6143826ecfa5",
         "title": "Account Director, Digital Natives - Nordics",
         "company": "OpenAI",
@@ -22,15 +33,26 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-first-data-engineer-7282",
-        "title": "AI-First Data Engineer (m/f/d)",
-        "company": "Sport Alliance GmbH",
+        "id": "arbeitnow-remote-senior-qa-engineer-all-genders-26349",
+        "title": "Senior QA Engineer (all genders)",
+        "company": "Contabo",
         "location": "Remote (Germany)",
-        "job_type": "Full-time",
-        "url": "https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-ai-first-data-engineer-7282",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-qa-engineer-all-genders-26349",
         "source": "Arbeitnow",
-        "published_at": "2026-09-07T14:24:36+00:00",
-        "remote": false
+        "published_at": "2026-09-08T02:09:30+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-ai-product-engineer-berlin-155259",
+        "title": "(Senior) AI Product Engineer (m/w/d)",
+        "company": "Legalhero",
+        "location": "Berlin",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-155259",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-08T02:09:14+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-senior-full-stack-engineer-backend-frontend-france-245440",
@@ -42,6 +64,50 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-07T13:20:10+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-tools-automation-231855",
+        "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
+        "company": "Vmray Gmbh",
+        "location": "Germany, Bochum or Remote (Europe)",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-231855",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-07T23:09:56+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-salesforce-developer-445190",
+        "title": "Senior Salesforce Developer (m/f/d)",
+        "company": "Auxmoney Gmbh",
+        "location": "Remote / Düsseldorf",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-salesforce-developer-445190",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-07T23:09:06+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-devops-engineer-352144",
+        "title": "Senior DevOps Engineer (m/f/d)",
+        "company": "Auxmoney Gmbh",
+        "location": "Remote / Düsseldorf",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-devops-engineer-352144",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-07T23:09:06+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-machine-learning-engineer-pricing-476900",
+        "title": "(Senior) Machine Learning Engineer – Pricing (m/f/d)",
+        "company": "Auxmoney Gmbh",
+        "location": "Remote / Düsseldorf",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-machine-learning-engineer-pricing-476900",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-07T23:09:06+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-senior-application-security-engineer-all-genders-berlin-401064",
@@ -85,17 +151,6 @@
         "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/remote-senior-backend-infrastructure-engineer-platform-france-122771",
         "source": "Arbeitnow",
         "published_at": "2026-09-07T13:20:10+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-social-media-manager-hamburg-464509",
-        "title": "Social Media Manager",
-        "company": "Yunicorn",
-        "location": "Hamburg",
-        "job_type": "Freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/yunicorn/social-media-manager-hamburg-464509",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-07T13:30:52+00:00",
         "remote": true
     }
 ]

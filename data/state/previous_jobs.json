@@ -99,15 +99,26 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-senior-python-developer-remote-154806",
-        "title": "Senior Python Developer (w/m/d) - Remote",
-        "company": "node.energy",
-        "location": "Frankfurt a. M., Freiburg oder remote",
-        "job_type": "Experienced, Permanent, Full or part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-154806",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T02:09:33+00:00",
-        "remote": false
+        "id": "greenhouse-6510240002",
+        "title": "Intermediate Backend Engineer, Pipeline Authoring",
+        "company": "GitLab",
+        "location": "Remote, United Kingdom",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8773028002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-09T10:16:04-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6511851002",
+        "title": "Senior Backend Engineer, Database Excellence (Ruby)",
+        "company": "GitLab",
+        "location": "Remote, United Kingdom",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8778943002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-09T10:02:26-04:00",
+        "remote": true
     },
     {
         "id": "greenhouse-6504216002",
@@ -121,14 +132,69 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-175737",
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-175737",
+        "id": "arbeitnow-working-student-ai-process-business-excellence-berlin-366265",
+        "title": "Working Student – AI Process & Business Excellence (m/f/d)",
+        "company": "1KOMMA5˚",
+        "location": "Berlin",
+        "job_type": "Working student, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/1komma50/working-student-ai-process-business-excellence-berlin-366265",
         "source": "Arbeitnow",
-        "published_at": "2026-09-09T02:30:32+00:00",
+        "published_at": "2026-09-09T11:30:38+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3540022",
+        "title": "Senior Sales Engineer - Key Accounts (AMER - East)",
+        "company": "Datadog",
+        "location": "Florida, USA, Remote; Georgia, USA, Remote; Maryland, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; North Carolina, USA, Remote; Pennsylvania, USA, Remote; Virginia, USA, Remote",
+        "job_type": "Full Time",
+        "url": "https://careers.datadoghq.com/detail/8180585/?gh_jid=8180585",
+        "source": "Greenhouse",
+        "published_at": "2026-09-09T11:08:30-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3537060",
+        "title": "Abuse Research Engineer",
+        "company": "Stripe",
+        "location": "Remote from the US",
+        "job_type": "Full Time",
+        "url": "https://stripe.com/jobs/search?gh_jid=8172503",
+        "source": "Greenhouse",
+        "published_at": "2026-09-09T10:52:09-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-java-developer-e-commerce-accounting-marketplaces-remote-in-eu-hamburg-267555",
+        "title": "Senior Java Developer - E-Commerce + Accounting & Marketplaces - remote in EU",
+        "company": "pathway solutions gmbh",
+        "location": "Hamburg",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/pathway-solutions-gmbh/senior-java-developer-e-commerce-accounting-marketplaces-remote-in-eu-hamburg-267555",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-09T14:31:24+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-customer-success-engineer-390555",
+        "title": "Senior Customer Success Engineer",
+        "company": "veeamsoftware",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.fr/jobs/companies/veeamsoftware/remote-senior-customer-success-engineer-390555",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-09T13:55:34+00:00",
+        "remote": false
+    },
+    {
+        "id": "greenhouse-6513394002",
+        "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
+        "company": "GitLab",
+        "location": "Remote, Australia",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8782306002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-09T09:10:36-04:00",
         "remote": true
     },
     {
@@ -187,69 +253,25 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3539063",
-        "title": "Director, IT Operations",
-        "company": "Instacart",
-        "location": "San Francisco- Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8177874",
-        "source": "Greenhouse",
-        "published_at": "2026-09-08T07:27:34-04:00",
+        "id": "arbeitnow-senior-backend-developer-java-paderborn-154798",
+        "title": "(Senior) Backend Developer Java (m/w/d)",
+        "company": "WPS Management GmbH",
+        "location": "Paderborn",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/wps-management-gmbh/senior-backend-developer-java-paderborn-154798",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-09T13:00:26+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-54264",
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-54264",
+        "id": "arbeitnow-senior-gtm-engineer-berlin-215857",
+        "title": "(Senior) GTM-Engineer (m/w/d)",
+        "company": "Boardwise GmbH",
+        "location": "Berlin",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-gtm-engineer-berlin-215857",
         "source": "Arbeitnow",
-        "published_at": "2026-09-09T02:30:32+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-203910",
-        "title": "Senior Java Backend Developer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-203910",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T02:30:32+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-it-architect-karlsruhe-441596",
-        "title": "Senior IT Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-441596",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T02:30:32+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-123577",
-        "title": "Senior Oracle Data Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-123577",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T02:30:32+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-digitale-vertriebsassistenz-remote-sales-support-beeskow-471960",
-        "title": "Digitale Vertriebsassistenz/ Remote Sales Support (m/w/d)",
-        "company": "Julia Schüler",
-        "location": "Beeskow",
-        "job_type": "Freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/julia-schuler/digitale-vertriebsassistenz-remote-sales-support-beeskow-471960",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T08:30:45+00:00",
+        "published_at": "2026-09-09T11:30:38+00:00",
         "remote": true
     },
     {
@@ -273,5 +295,16 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-08T16:40:11+00:00",
         "remote": false
+    },
+    {
+        "id": "arbeitnow-creator-coach-social-media-langweid-am-lech-239809",
+        "title": "Creator Coach (m/w/d) - Social Media",
+        "company": "Picmondoo GmbH",
+        "location": "Langweid am Lech",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/picmondoo-gmbh/creator-coach-social-media-langweid-am-lech-239809",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-09T13:30:25+00:00",
+        "remote": true
     }
 ]

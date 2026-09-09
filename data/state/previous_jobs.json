@@ -1,5 +1,60 @@
 [
     {
+        "id": "greenhouse-3506451",
+        "title": "Senior Software Engineer- Blockchain Network",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8094196?gh_jid=8094196",
+        "source": "Greenhouse",
+        "published_at": "2026-09-09T15:45:26-04:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-0ca205c9-42ec-4c19-8d43-00700b8c7fd2",
+        "title": "Account Director, Manufacturing",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/0ca205c9-42ec-4c19-8d43-00700b8c7fd2",
+        "source": "Ashby",
+        "published_at": "2026-09-09T18:46:23.753000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-23239cae-2a91-4985-94d1-a2acbb3ffa25",
+        "title": "Field CTO",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/23239cae-2a91-4985-94d1-a2acbb3ffa25",
+        "source": "Ashby",
+        "published_at": "2026-09-09T16:49:15.057000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-1dc6d2b7-e89f-4d76-8b26-c085b6f4d827",
+        "title": "Strategic Pursuits Lead",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/1dc6d2b7-e89f-4d76-8b26-c085b6f4d827",
+        "source": "Ashby",
+        "published_at": "2026-09-09T16:48:58.185000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-data-engineer-real-time-analytics-62324",
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "location": "France Remote",
+        "job_type": "Permanent Full Time Employee",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-62324",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-09T16:04:35+00:00",
+        "remote": false
+    },
+    {
         "id": "greenhouse-3200637",
         "title": "Senior AI Engineer – Notebooks",
         "company": "Datadog",
@@ -66,47 +121,14 @@
         "remote": true
     },
     {
-        "id": "ashby-5df9e349-f8e1-4cfd-ba20-ec9e4115d564",
-        "title": "Engineering Manager, Client Platform Engineering",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Security",
-        "url": "https://jobs.ashbyhq.com/openai/5df9e349-f8e1-4cfd-ba20-ec9e4115d564",
-        "source": "Ashby",
-        "published_at": "2026-09-08T17:21:58.874000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-485cda77-5d8f-4aaa-bca5-916b011477e6",
-        "title": "Applied AI Engineer, Government",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, OpenAI for Gov",
-        "url": "https://jobs.ashbyhq.com/openai/485cda77-5d8f-4aaa-bca5-916b011477e6",
-        "source": "Ashby",
-        "published_at": "2026-09-08T16:59:01.596000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-ai-benchmark-engineer-native-language-specialist-french-france-remote-paris-387805",
-        "title": "AI Benchmark Engineer | Native Language Specialist - French (France) - Remote",
-        "company": "LILT (Production)",
-        "location": "France (Remote)",
-        "job_type": "Contract",
-        "url": "https://www.arbeitnow.fr/jobs/companies/lilt-production/ai-benchmark-engineer-native-language-specialist-french-france-remote-paris-387805",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-08T16:40:17+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-6510240002",
-        "title": "Intermediate Backend Engineer, Pipeline Authoring",
+        "id": "greenhouse-6509092002",
+        "title": "Staff Backend Engineer, Database Automation (Go)",
         "company": "GitLab",
-        "location": "Remote, United Kingdom",
+        "location": "Remote, Canada; Remote, United States",
         "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8773028002",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8770702002",
         "source": "Greenhouse",
-        "published_at": "2026-09-09T10:16:04-04:00",
+        "published_at": "2026-09-09T14:06:57-04:00",
         "remote": true
     },
     {
@@ -121,25 +143,47 @@
         "remote": true
     },
     {
-        "id": "greenhouse-6504216002",
-        "title": "Senior Backend Engineer, Trusted Agentic Development",
-        "company": "GitLab",
-        "location": "Remote, Poland",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8760233002",
-        "source": "Greenhouse",
-        "published_at": "2026-09-08T15:16:51-04:00",
+        "id": "arbeitnow-remote-senior-sales-engineer-berlin-348663",
+        "title": "Senior Sales Engineer (m/w/d)",
+        "company": "Natuvion GmbH",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sales-engineer-berlin-348663",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-09T17:30:16+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-working-student-ai-process-business-excellence-berlin-366265",
-        "title": "Working Student – AI Process & Business Excellence (m/f/d)",
-        "company": "1KOMMA5˚",
-        "location": "Berlin",
-        "job_type": "Working student, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/1komma50/working-student-ai-process-business-excellence-berlin-366265",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T11:30:38+00:00",
+        "id": "greenhouse-3523052",
+        "title": "Product Manager, Mobile",
+        "company": "Stripe",
+        "location": "New York City, Toronto, Chicago, or Remote",
+        "job_type": "Full Time",
+        "url": "https://stripe.com/jobs/search?gh_jid=8140438",
+        "source": "Greenhouse",
+        "published_at": "2026-09-09T13:11:56-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-2873394",
+        "title": "Software Engineer II, - Ads",
+        "company": "Instacart",
+        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8188987",
+        "source": "Greenhouse",
+        "published_at": "2026-09-09T12:56:03-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3530768",
+        "title": "Staff Software Engineer, Workflow Platform",
+        "company": "Pinterest",
+        "location": "Palo Alto, CA, US; Remote, US",
+        "job_type": "Full Time",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8157900",
+        "source": "Greenhouse",
+        "published_at": "2026-09-09T12:14:51-04:00",
         "remote": true
     },
     {
@@ -209,28 +253,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-product-engineer-ii-435263",
-        "title": "Senior Product Engineer II",
-        "company": "prolific",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-product-engineer-ii-435263",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T06:55:12+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-lead-business-analyst-process-automation-london-remote-495940",
-        "title": "Lead Business Analyst, Process & automation (London | remote)",
-        "company": "Lightspeedhq",
-        "location": "Remote in the UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/lead-business-analyst-process-automation-london-remote-495940",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T06:40:09+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3539104",
         "title": "Software Engineer- Money Movement",
         "company": "Coinbase",
@@ -250,61 +272,6 @@
         "url": "https://jobs.ashbyhq.com/ramp/9916e9da-7491-4c99-afd1-e4b8158fa58b",
         "source": "Ashby",
         "published_at": "2026-09-08T21:55:39.097000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-backend-developer-java-paderborn-154798",
-        "title": "(Senior) Backend Developer Java (m/w/d)",
-        "company": "WPS Management GmbH",
-        "location": "Paderborn",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/wps-management-gmbh/senior-backend-developer-java-paderborn-154798",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T13:00:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-gtm-engineer-berlin-215857",
-        "title": "(Senior) GTM-Engineer (m/w/d)",
-        "company": "Boardwise GmbH",
-        "location": "Berlin",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-gtm-engineer-berlin-215857",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T11:30:38+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-758ed843-0fa2-4891-8925-c8d690c6eb0f",
-        "title": "Social Media Lead",
-        "company": "Ramp",
-        "location": "Remote",
-        "job_type": "FullTime, Marketing",
-        "url": "https://jobs.ashbyhq.com/ramp/758ed843-0fa2-4891-8925-c8d690c6eb0f",
-        "source": "Ashby",
-        "published_at": "2026-09-08T19:30:50.335000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-on-holiday-support-agent-145515",
-        "title": "On Holiday Support Agent",
-        "company": "loveholidays",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/loveholidays/remote-on-holiday-support-agent-145515",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-08T16:40:11+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-creator-coach-social-media-langweid-am-lech-239809",
-        "title": "Creator Coach (m/w/d) - Social Media",
-        "company": "Picmondoo GmbH",
-        "location": "Langweid am Lech",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/picmondoo-gmbh/creator-coach-social-media-langweid-am-lech-239809",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T13:30:25+00:00",
         "remote": true
     }
 ]

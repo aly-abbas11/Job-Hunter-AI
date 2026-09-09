@@ -1,13 +1,24 @@
 [
     {
-        "id": "arbeitnow-praktikantin-als-llm-rag-machine-learning-engineer-mulheim-96338",
-        "title": "Praktikant:in als LLM /RAG & Machine Learning Engineer (m/w/d)",
-        "company": "U-Glow GmbH",
-        "location": "Mülheim",
-        "job_type": "Internship",
-        "url": "https://www.arbeitnow.com/jobs/companies/u-glow-gmbh/praktikantin-als-llm-rag-machine-learning-engineer-mulheim-96338",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-08T16:30:42+00:00",
+        "id": "greenhouse-3200637",
+        "title": "Senior AI Engineer – Notebooks",
+        "company": "Datadog",
+        "location": "France, Remote; Germany, Remote; Spain, Remote",
+        "job_type": "Full Time",
+        "url": "https://careers.datadoghq.com/detail/8188028/?gh_jid=8188028",
+        "source": "Greenhouse",
+        "published_at": "2026-09-09T04:20:09-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3200637",
+        "title": "Senior AI Engineer – Notebooks",
+        "company": "Datadog",
+        "location": "Portugal, Remote",
+        "job_type": "Full Time",
+        "url": "https://careers.datadoghq.com/detail/8188027/?gh_jid=8188027",
+        "source": "Greenhouse",
+        "published_at": "2026-09-09T04:18:17-04:00",
         "remote": true
     },
     {
@@ -31,17 +42,6 @@
         "source": "Ashby",
         "published_at": "2026-09-08T23:43:33.720000+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-genai-solution-engineer-all-genders-76676",
-        "title": "Senior GenAI Solution Engineer (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-genai-solution-engineer-all-genders-76676",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-08T23:09:28+00:00",
-        "remote": false
     },
     {
         "id": "ashby-ad0b2114-d2be-4c64-9226-d60de56271a4",
@@ -99,37 +99,15 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-ki-consultant-ai-enthusiast-in-der-baubranche-remote-munich-285950",
-        "title": "KI-Consultant / AI Enthusiast in der Baubranche (m/w/d) Remote",
-        "company": "Teamsware GmbH",
-        "location": "Munich",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/teamsware-gmbh/ki-consultant-ai-enthusiast-in-der-baubranche-remote-munich-285950",
+        "id": "arbeitnow-senior-python-developer-remote-154806",
+        "title": "Senior Python Developer (w/m/d) - Remote",
+        "company": "node.energy",
+        "location": "Frankfurt a. M., Freiburg oder remote",
+        "job_type": "Experienced, Permanent, Full or part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-154806",
         "source": "Arbeitnow",
-        "published_at": "2026-09-08T16:00:33+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-fa312d19-bb9e-4569-b5ed-aed8aa45cd3b",
-        "title": "Account Director, Mid-Market",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/fa312d19-bb9e-4569-b5ed-aed8aa45cd3b",
-        "source": "Ashby",
-        "published_at": "2026-09-08T09:24:13.116000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-7be58f3a-6005-42ed-86fa-77773ebfb294",
-        "title": "Applied AI Engineer, Digital Natives",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294",
-        "source": "Ashby",
-        "published_at": "2026-09-08T08:10:32.624000+00:00",
-        "remote": true
+        "published_at": "2026-09-09T02:09:33+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-6504216002",
@@ -143,36 +121,47 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-principal-cybersecurity-all-genders-159491",
-        "title": "Principal Cybersecurity (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-principal-cybersecurity-all-genders-159491",
+        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-175737",
+        "title": "AI Solution Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-175737",
         "source": "Arbeitnow",
-        "published_at": "2026-09-08T23:09:28+00:00",
+        "published_at": "2026-09-09T02:30:32+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-machine-learning-engineer-ml-engineer-roleplay-sessions-london-137554",
+        "title": "Machine Learning Engineer / ML Engineer - Roleplay Sessions",
+        "company": "Synthesia",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/machine-learning-engineer-ml-engineer-roleplay-sessions-london-137554",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-09T09:40:06+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-forward-deployed-engineer-all-genders-261351",
-        "title": "Forward Deployed Engineer (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-forward-deployed-engineer-all-genders-261351",
+        "id": "arbeitnow-remote-senior-product-engineer-ii-435263",
+        "title": "Senior Product Engineer II",
+        "company": "prolific",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-product-engineer-ii-435263",
         "source": "Arbeitnow",
-        "published_at": "2026-09-08T23:09:28+00:00",
+        "published_at": "2026-09-09T06:55:12+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-data-engineer-all-genders-338828",
-        "title": "Data Engineer (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-338828",
+        "id": "arbeitnow-lead-business-analyst-process-automation-london-remote-495940",
+        "title": "Lead Business Analyst, Process & automation (London | remote)",
+        "company": "Lightspeedhq",
+        "location": "Remote in the UK",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/lead-business-analyst-process-automation-london-remote-495940",
         "source": "Arbeitnow",
-        "published_at": "2026-09-08T23:09:28+00:00",
+        "published_at": "2026-09-09T06:40:09+00:00",
         "remote": false
     },
     {
@@ -198,17 +187,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-av-field-engineer-stuttgart-germany-85753",
-        "title": "Senior AV Field Engineer  (M/W/D)  - Stuttgart, Germany",
-        "company": "Mobileye",
-        "location": "Remote - Germany",
-        "job_type": "Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/mobileye/remote-senior-av-field-engineer-stuttgart-germany-85753",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-08T17:05:00+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3539063",
         "title": "Director, IT Operations",
         "company": "Instacart",
@@ -220,25 +198,58 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-full-stack-developer-typescript-nextjs-berlin-101785",
-        "title": "Senior Full-Stack Developer (m/w/d) - TypeScript / Next.js",
-        "company": "yannick.digital GmbH",
-        "location": "Berlin",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/yannickdigital-gmbh/senior-full-stack-developer-typescript-nextjs-berlin-101785",
+        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-54264",
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-54264",
         "source": "Arbeitnow",
-        "published_at": "2026-09-08T22:00:39+00:00",
+        "published_at": "2026-09-09T02:30:32+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-drupal-php-entwicklerin-cologne-163272",
-        "title": "Senior Drupal/PHP-Entwickler:in (m/w/d)",
-        "company": "PROGRESSIVE digital - Kock, Rietz GbR",
-        "location": "Cologne",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/progressive-digital-kock-rietz-gbr/senior-drupal-php-entwicklerin-cologne-163272",
+        "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-203910",
+        "title": "Senior Java Backend Developer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-203910",
         "source": "Arbeitnow",
-        "published_at": "2026-09-08T19:17:26+00:00",
+        "published_at": "2026-09-09T02:30:32+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-it-architect-karlsruhe-441596",
+        "title": "Senior IT Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-441596",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-09T02:30:32+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-123577",
+        "title": "Senior Oracle Data Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-123577",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-09T02:30:32+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-digitale-vertriebsassistenz-remote-sales-support-beeskow-471960",
+        "title": "Digitale Vertriebsassistenz/ Remote Sales Support (m/w/d)",
+        "company": "Julia Schüler",
+        "location": "Beeskow",
+        "job_type": "Freelance",
+        "url": "https://www.arbeitnow.com/jobs/companies/julia-schuler/digitale-vertriebsassistenz-remote-sales-support-beeskow-471960",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-09T08:30:45+00:00",
         "remote": true
     },
     {

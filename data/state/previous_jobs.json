@@ -11,6 +11,61 @@
         "remote": true
     },
     {
+        "id": "ashby-41df4950-f6b1-4f97-8b29-cd0a11f19e25",
+        "title": "Manager, AI Deployment Engineering (Southeast Asia)",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/41df4950-f6b1-4f97-8b29-cd0a11f19e25",
+        "source": "Ashby",
+        "published_at": "2026-09-09T02:59:28.733000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-56d541d3-02b5-44d8-b40b-4df72cdd0405",
+        "title": "Software Engineer, AI for Chip Design",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Research",
+        "url": "https://jobs.ashbyhq.com/openai/56d541d3-02b5-44d8-b40b-4df72cdd0405",
+        "source": "Ashby",
+        "published_at": "2026-09-08T23:43:33.720000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-genai-solution-engineer-all-genders-76676",
+        "title": "Senior GenAI Solution Engineer (all genders)",
+        "company": "Eraneos",
+        "location": "Hamburg, München, Düsseldorf, remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-genai-solution-engineer-all-genders-76676",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-08T23:09:28+00:00",
+        "remote": false
+    },
+    {
+        "id": "ashby-ad0b2114-d2be-4c64-9226-d60de56271a4",
+        "title": "Greenfield Sales Manager, Startups",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/ad0b2114-d2be-4c64-9226-d60de56271a4",
+        "source": "Ashby",
+        "published_at": "2026-09-08T22:33:25.140000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-14c5d693-7e85-4c26-8ca7-0b6f68fe6ace",
+        "title": "Forward Deployed Engineer - Madrid (Spanish-speaking)",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Forward Deployed Engineering",
+        "url": "https://jobs.ashbyhq.com/openai/14c5d693-7e85-4c26-8ca7-0b6f68fe6ace",
+        "source": "Ashby",
+        "published_at": "2026-09-08T21:18:19.165000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-5df9e349-f8e1-4cfd-ba20-ec9e4115d564",
         "title": "Engineering Manager, Client Platform Engineering",
         "company": "OpenAI",
@@ -77,17 +132,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-enablement-lead-gn-data-intelligence-183432",
-        "title": "AI Enablement Lead [gn] Data Intelligence",
-        "company": "Actian",
-        "location": "Europe - Remote",
-        "job_type": "Full-Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/actian/remote-ai-enablement-lead-gn-data-intelligence-183432",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-07T22:04:05+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-6504216002",
         "title": "Senior Backend Engineer, Trusted Agentic Development",
         "company": "GitLab",
@@ -96,6 +140,61 @@
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8760233002",
         "source": "Greenhouse",
         "published_at": "2026-09-08T15:16:51-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-principal-cybersecurity-all-genders-159491",
+        "title": "Principal Cybersecurity (all genders)",
+        "company": "Eraneos",
+        "location": "Hamburg, München, Düsseldorf, remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-principal-cybersecurity-all-genders-159491",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-08T23:09:28+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-forward-deployed-engineer-all-genders-261351",
+        "title": "Forward Deployed Engineer (all genders)",
+        "company": "Eraneos",
+        "location": "Hamburg, München, Düsseldorf, remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-forward-deployed-engineer-all-genders-261351",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-08T23:09:28+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-data-engineer-all-genders-338828",
+        "title": "Data Engineer (all genders)",
+        "company": "Eraneos",
+        "location": "Hamburg, München, Düsseldorf, remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-338828",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-08T23:09:28+00:00",
+        "remote": false
+    },
+    {
+        "id": "greenhouse-3539104",
+        "title": "Software Engineer- Money Movement",
+        "company": "Coinbase",
+        "location": "Remote - Canada",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8177946?gh_jid=8177946",
+        "source": "Greenhouse",
+        "published_at": "2026-09-08T18:17:36-04:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-9916e9da-7491-4c99-afd1-e4b8158fa58b",
+        "title": "Software Engineer, Forward Deployed",
+        "company": "Ramp",
+        "location": "Remote",
+        "job_type": "FullTime, Engineering",
+        "url": "https://jobs.ashbyhq.com/ramp/9916e9da-7491-4c99-afd1-e4b8158fa58b",
+        "source": "Ashby",
+        "published_at": "2026-09-08T21:55:39.097000+00:00",
         "remote": true
     },
     {
@@ -110,28 +209,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-android-engineer-remote-full-time-berlin-474516",
-        "title": "Android Engineer (remote, full-time)",
-        "company": "Lumiform",
-        "location": "Berlin",
-        "job_type": "professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/lumiform/android-engineer-remote-full-time-berlin-474516",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-08T14:00:32+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-contract-golang-software-engineer-remote-europe-berlin-12662",
-        "title": "Contract Golang Software Engineer (Remote Europe)",
-        "company": "YLD.com",
-        "location": "Berlin",
-        "job_type": "Freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/yldcom/contract-golang-software-engineer-remote-europe-berlin-12662",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-08T14:00:32+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3539063",
         "title": "Director, IT Operations",
         "company": "Instacart",
@@ -140,6 +217,17 @@
         "url": "https://instacart.careers/job/?gh_jid=8177874",
         "source": "Greenhouse",
         "published_at": "2026-09-08T07:27:34-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-full-stack-developer-typescript-nextjs-berlin-101785",
+        "title": "Senior Full-Stack Developer (m/w/d) - TypeScript / Next.js",
+        "company": "yannick.digital GmbH",
+        "location": "Berlin",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/yannickdigital-gmbh/senior-full-stack-developer-typescript-nextjs-berlin-101785",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-08T22:00:39+00:00",
         "remote": true
     },
     {

@@ -11,6 +11,39 @@
         "remote": false
     },
     {
+        "id": "ashby-552396f4-dc83-43de-9230-6301e5f461bd",
+        "title": "Partner Applied AI Engineer",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/552396f4-dc83-43de-9230-6301e5f461bd",
+        "source": "Ashby",
+        "published_at": "2026-09-10T19:44:56.038000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-2b87bb06-ba33-4cab-b950-0df12ca85dcf",
+        "title": "Mechanical Engineer, Dynamometer and Actuator Testing Infrastructure",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Research",
+        "url": "https://jobs.ashbyhq.com/openai/2b87bb06-ba33-4cab-b950-0df12ca85dcf",
+        "source": "Ashby",
+        "published_at": "2026-09-10T18:35:21.715000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-9a8a0925-fc54-459f-b28f-12c14e9ef31e",
+        "title": "Growth Martech Operations Lead",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/9a8a0925-fc54-459f-b28f-12c14e9ef31e",
+        "source": "Ashby",
+        "published_at": "2026-09-10T17:00:39.866000+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-senior-ai-engineer-notebooks-115121",
         "title": "Senior AI Engineer – Notebooks",
         "company": "Datadog",
@@ -33,50 +66,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-staff-lead-software-developer-ai-agents-integrations-435211",
-        "title": "Staff/Lead Software Developer (AI Agents & Integrations)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-staff-lead-software-developer-ai-agents-integrations-435211",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T11:55:08+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-staff-ai-engineer-developer-tools-237775",
-        "title": "Staff  AI Engineer- Developer Tools",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-staff-ai-engineer-developer-tools-237775",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T11:55:08+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-software-developer-for-thinkrail-innovation-hub-463531",
-        "title": "Software Developer for ThinkRail (Innovation Hub)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-software-developer-for-thinkrail-innovation-hub-463531",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T11:55:08+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-test-automation-engineer-teamcity-138995",
-        "title": "Senior Test Automation Engineer (TeamCity)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-test-automation-engineer-teamcity-138995",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T11:55:08+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-d085d2ec-0256-4ecf-b493-81ea34942e51",
         "title": "Account Director, Digital Natives",
         "company": "OpenAI",
@@ -88,58 +77,25 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3506451",
-        "title": "Senior Software Engineer- Blockchain Network",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8094196?gh_jid=8094196",
-        "source": "Greenhouse",
-        "published_at": "2026-09-09T15:45:26-04:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-0ca205c9-42ec-4c19-8d43-00700b8c7fd2",
-        "title": "Account Director, Manufacturing",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/0ca205c9-42ec-4c19-8d43-00700b8c7fd2",
-        "source": "Ashby",
-        "published_at": "2026-09-09T18:46:23.753000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-23239cae-2a91-4985-94d1-a2acbb3ffa25",
-        "title": "Field CTO",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/23239cae-2a91-4985-94d1-a2acbb3ffa25",
-        "source": "Ashby",
-        "published_at": "2026-09-09T16:49:15.057000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-1dc6d2b7-e89f-4d76-8b26-c085b6f4d827",
-        "title": "Strategic Pursuits Lead",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/1dc6d2b7-e89f-4d76-8b26-c085b6f4d827",
-        "source": "Ashby",
-        "published_at": "2026-09-09T16:48:58.185000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-data-engineer-real-time-analytics-62324",
-        "title": "Senior Data Engineer - Real time analytics",
-        "company": "Aircall",
-        "location": "France Remote",
-        "job_type": "Permanent Full Time Employee",
-        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-62324",
+        "id": "arbeitnow-remote-senior-software-engineer-fullstack-fur-ki-produkte-137665",
+        "title": "Senior Software Engineer (m/w/d) | Fullstack für KI-Produkte",
+        "company": "Avenit Ag",
+        "location": "Remote in Deutschland",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-137665",
         "source": "Arbeitnow",
-        "published_at": "2026-09-09T16:04:35+00:00",
+        "published_at": "2026-09-10T17:09:16+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-backend-engineer-database-excellence-ruby-194431",
+        "title": "Senior Backend Engineer, Database Excellence (Ruby)",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-database-excellence-ruby-194431",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-10T16:15:14+00:00",
         "remote": false
     },
     {
@@ -165,14 +121,25 @@
         "remote": false
     },
     {
-        "id": "greenhouse-6509092002",
-        "title": "Staff Backend Engineer, Database Automation (Go)",
-        "company": "GitLab",
-        "location": "Remote, Canada; Remote, United States",
+        "id": "greenhouse-3457801",
+        "title": "Senior Software Engineer, Developer Infrastructure",
+        "company": "Coinbase",
+        "location": "Remote - USA",
         "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8770702002",
+        "url": "https://www.coinbase.com/careers/positions/7964398?gh_jid=7964398",
         "source": "Greenhouse",
-        "published_at": "2026-09-09T14:06:57-04:00",
+        "published_at": "2026-09-10T16:07:04-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3544391",
+        "title": "Technical Developer Specialist, USA (Part-Time Contract) Contract",
+        "company": "Roblox",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://careers.roblox.com/jobs/8190596?gh_jid=8190596",
+        "source": "Greenhouse",
+        "published_at": "2026-09-10T12:22:43-04:00",
         "remote": true
     },
     {
@@ -209,17 +176,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-customer-success-engineer-94290",
-        "title": "Senior Customer Success Engineer",
-        "company": "Mitti",
-        "location": "Remote: UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/mitti/remote-senior-customer-success-engineer-94290",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T03:40:12+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3537990",
         "title": "Security Engineer",
         "company": "Stripe",
@@ -228,17 +184,6 @@
         "url": "https://stripe.com/jobs/search?gh_jid=8174965",
         "source": "Greenhouse",
         "published_at": "2026-09-09T20:41:43-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-software-engineer-p2p-search-team-100-remote-worldwide-london-405442",
-        "title": "Software Engineer P2P - Search Team (100% Remote, Worldwide)",
-        "company": "Tether Operations Limited",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/software-engineer-p2p-search-team-100-remote-worldwide-london-405442",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T00:30:39+00:00",
         "remote": true
     },
     {
@@ -286,39 +231,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3523052",
-        "title": "Product Manager, Mobile",
-        "company": "Stripe",
-        "location": "New York City, Toronto, Chicago, or Remote",
-        "job_type": "Full Time",
-        "url": "https://stripe.com/jobs/search?gh_jid=8140438",
-        "source": "Greenhouse",
-        "published_at": "2026-09-09T13:11:56-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-2873394",
-        "title": "Software Engineer II, - Ads",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8188987",
-        "source": "Greenhouse",
-        "published_at": "2026-09-09T12:56:03-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3530768",
-        "title": "Staff Software Engineer, Workflow Platform",
-        "company": "Pinterest",
-        "location": "Palo Alto, CA, US; Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8157900",
-        "source": "Greenhouse",
-        "published_at": "2026-09-09T12:14:51-04:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-system-engineer-bonn-454101",
         "title": "Senior System Engineer (m/w/d)",
         "company": "virtual7 GmbH",
@@ -341,14 +253,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-pflichtpraktikum-social-media-fur-eine-rap-kunstlerin-magdeburg-368316",
-        "title": "Pflichtpraktikum Social Media für eine Rap-Künstlerin",
-        "company": "[Mady Host] | Frau Host - Independent Artist & Creative Business",
-        "location": "Magdeburg",
-        "job_type": "Internship",
-        "url": "https://www.arbeitnow.com/jobs/companies/mady-host-frau-host-independent-artist-creative-business/pflichtpraktikum-social-media-fur-eine-rap-kunstlerin-magdeburg-368316",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T12:30:35+00:00",
+        "id": "ashby-4342be72-0ec4-42b2-962a-6e7ca06b7070",
+        "title": "Product Designer, Codex",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Product Design",
+        "url": "https://jobs.ashbyhq.com/openai/4342be72-0ec4-42b2-962a-6e7ca06b7070",
+        "source": "Ashby",
+        "published_at": "2026-09-10T17:00:50.925000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-2ace6bbe-a7ac-4930-bcdc-14c618179b1f",
+        "title": "Product Designer, Accessibility",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Product Design",
+        "url": "https://jobs.ashbyhq.com/openai/2ace6bbe-a7ac-4930-bcdc-14c618179b1f",
+        "source": "Ashby",
+        "published_at": "2026-09-10T16:56:35.669000+00:00",
         "remote": true
     },
     {
@@ -360,6 +283,28 @@
         "url": "https://jobs.ashbyhq.com/openai/43ba8b53-4643-4544-bb21-f13efe99e0a0",
         "source": "Ashby",
         "published_at": "2026-09-10T03:58:53.061000+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3531663",
+        "title": "Senior Product Designer II - Lifecycle & Growth",
+        "company": "Instacart",
+        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8191765",
+        "source": "Greenhouse",
+        "published_at": "2026-09-10T13:29:33-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3531663",
+        "title": "Senior Product Designer II - Lifecycle & Growth",
+        "company": "Instacart",
+        "location": "United States - Remote",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8191763",
+        "source": "Greenhouse",
+        "published_at": "2026-09-10T13:28:47-04:00",
         "remote": true
     },
     {

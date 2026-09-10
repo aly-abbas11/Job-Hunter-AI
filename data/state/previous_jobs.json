@@ -1,13 +1,35 @@
 [
     {
-        "id": "arbeitnow-remote-python-backend-engineer-berlin-248550",
-        "title": "Python Backend Engineer (m/f/x)",
-        "company": "Makersite GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-248550",
+        "id": "arbeitnow-remote-senior-data-scientist-german-speaking-224551",
+        "title": "Senior Data Scientist (German-speaking)",
+        "company": "dataiku",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-senior-data-scientist-german-speaking-224551",
         "source": "Arbeitnow",
-        "published_at": "2026-09-09T23:30:23+00:00",
+        "published_at": "2026-09-10T08:55:04+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-digital-creative-gn-ai-focus-226612",
+        "title": "Senior Digital Creative (gn) AI Focus",
+        "company": "Bikeleasing",
+        "location": "Remote Deutschland",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-senior-digital-creative-gn-ai-focus-226612",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-10T08:09:20+00:00",
+        "remote": false
+    },
+    {
+        "id": "ashby-d085d2ec-0256-4ecf-b493-81ea34942e51",
+        "title": "Account Director, Digital Natives",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/d085d2ec-0256-4ecf-b493-81ea34942e51",
+        "source": "Ashby",
+        "published_at": "2026-09-10T06:21:47.936000+00:00",
         "remote": true
     },
     {
@@ -77,25 +99,25 @@
         "remote": false
     },
     {
-        "id": "greenhouse-3200637",
-        "title": "Senior AI Engineer – Notebooks",
-        "company": "Datadog",
-        "location": "France, Remote; Germany, Remote; Spain, Remote",
+        "id": "arbeitnow-remote-senior-software-engineer-backend-data-streaming-333804",
+        "title": "Senior Software Engineer, Backend - Data Streaming",
+        "company": "Camunda",
+        "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://careers.datadoghq.com/detail/8188028/?gh_jid=8188028",
-        "source": "Greenhouse",
-        "published_at": "2026-09-09T04:20:09-04:00",
+        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-333804",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-10T08:40:04+00:00",
         "remote": true
     },
     {
-        "id": "greenhouse-3200637",
-        "title": "Senior AI Engineer – Notebooks",
-        "company": "Datadog",
-        "location": "Portugal, Remote",
+        "id": "arbeitnow-remote-senior-software-engineer-backend-data-layer-479869",
+        "title": "Senior Software Engineer, Backend - Data Layer",
+        "company": "Camunda",
+        "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://careers.datadoghq.com/detail/8188027/?gh_jid=8188027",
-        "source": "Greenhouse",
-        "published_at": "2026-09-09T04:18:17-04:00",
+        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-479869",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-10T08:40:04+00:00",
         "remote": true
     },
     {
@@ -121,15 +143,26 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-web-grafikdesignerin-fur-e-mail-marketing-klaviyo-hamburg-248156",
-        "title": "Web- & Grafikdesigner:in für E-Mail-Marketing / Klaviyo (m/w/d)",
-        "company": "Heimer Marketing GmbH",
-        "location": "Hamburg",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/heimer-marketing-gmbh/web-grafikdesignerin-fur-e-mail-marketing-klaviyo-hamburg-248156",
+        "id": "arbeitnow-remote-senior-software-engineer-engineering-operations-29349",
+        "title": "Senior Software Engineer, Engineering Operations",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-29349",
         "source": "Arbeitnow",
-        "published_at": "2026-09-10T02:00:30+00:00",
-        "remote": true
+        "published_at": "2026-09-10T04:40:04+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-customer-success-engineer-94290",
+        "title": "Senior Customer Success Engineer",
+        "company": "Mitti",
+        "location": "Remote: UK",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/mitti/remote-senior-customer-success-engineer-94290",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-10T03:40:12+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3537990",
@@ -165,72 +198,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-lead-business-analyst-process-automation-berlin-remote-342685",
-        "title": "Lead Business Analyst, Process & Automation (Berlin | remote)",
-        "company": "Lightspeedhq",
-        "location": "Remote in Germany",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/lightspeedhq/lead-business-analyst-process-automation-berlin-remote-342685",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T23:40:06+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-customer-engineer-stuttgart-76594",
-        "title": "Senior Customer Engineer (m/w/d)",
-        "company": "Flip GmbH",
-        "location": "Stuttgart & Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/senior-customer-engineer-stuttgart-76594",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T23:40:04+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-customer-engineer-stuttgart-243530",
-        "title": "Senior Customer Engineer (m/f/d)",
-        "company": "Flip GmbH",
-        "location": "Stuttgart & Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/senior-customer-engineer-stuttgart-243530",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T23:40:04+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-forward-deployed-engineer-stuttgart-373240",
-        "title": "Senior Forward Deployed Engineer (m/w/d)",
-        "company": "Flip GmbH",
-        "location": "Stuttgart & Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/senior-forward-deployed-engineer-stuttgart-373240",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T23:40:04+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-forward-deployed-engineer-stuttgart-258011",
-        "title": "Senior Forward Deployed Engineer (m/f/d)",
-        "company": "Flip GmbH",
-        "location": "Stuttgart & Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/senior-forward-deployed-engineer-stuttgart-258011",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T23:40:04+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-data-scientist-berlin-242013",
-        "title": "Senior Data Scientist (m/f/x)",
-        "company": "Makersite GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-242013",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T23:30:23+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3466899",
         "title": "Software Engineer, Developer Infrastructure",
         "company": "Coinbase",
@@ -261,17 +228,6 @@
         "url": "https://www.coinbase.com/careers/positions/8172100?gh_jid=8172100",
         "source": "Greenhouse",
         "published_at": "2026-09-09T16:45:59-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-sales-engineer-berlin-348663",
-        "title": "Senior Sales Engineer (m/w/d)",
-        "company": "Natuvion GmbH",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sales-engineer-berlin-348663",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T17:30:16+00:00",
         "remote": true
     },
     {
@@ -352,6 +308,28 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-senior-it-systems-engineer-windows-nuremberg-233950",
+        "title": "Senior IT Systems Engineer Windows (m/w/d)",
+        "company": "noris network AG",
+        "location": "Nuremberg",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/noris-network-ag/senior-it-systems-engineer-windows-nuremberg-233950",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-10T10:00:30+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-43ba8b53-4643-4544-bb21-f13efe99e0a0",
+        "title": "Product Designer, Youth",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Product Design",
+        "url": "https://jobs.ashbyhq.com/openai/43ba8b53-4643-4544-bb21-f13efe99e0a0",
+        "source": "Ashby",
+        "published_at": "2026-09-10T03:58:53.061000+00:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-6517542002",
         "title": "Director, Social Media",
         "company": "GitLab",
@@ -360,17 +338,6 @@
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8792475002",
         "source": "Greenhouse",
         "published_at": "2026-09-09T19:09:52-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-1st-2nd-level-support-bad-homburg-215115",
-        "title": "1st & 2nd Level Support (m/w/d)",
-        "company": "Nexgate IT GmbH",
-        "location": "Bad Homburg",
-        "job_type": "Freelance, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/1st-2nd-level-support-bad-homburg-215115",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T01:00:27+00:00",
         "remote": true
     }
 ]

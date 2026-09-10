@@ -1,24 +1,79 @@
 [
     {
-        "id": "arbeitnow-remote-senior-data-scientist-german-speaking-224551",
-        "title": "Senior Data Scientist (German-speaking)",
-        "company": "dataiku",
+        "id": "arbeitnow-remote-senior-business-automation-developer-all-genders-i-international-64495",
+        "title": "(Senior) Business Automation Developer (all genders) I International",
+        "company": "Real Digital",
+        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+        "job_type": "Experienced, Permanent, Full or part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-64495",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-10T14:10:05+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-ai-engineer-notebooks-115121",
+        "title": "Senior AI Engineer – Notebooks",
+        "company": "Datadog",
         "location": "Remote",
         "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-senior-data-scientist-german-speaking-224551",
+        "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-senior-ai-engineer-notebooks-115121",
         "source": "Arbeitnow",
-        "published_at": "2026-09-10T08:55:04+00:00",
+        "published_at": "2026-09-10T14:55:30+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-digital-creative-gn-ai-focus-226612",
-        "title": "Senior Digital Creative (gn) AI Focus",
-        "company": "Bikeleasing",
-        "location": "Remote Deutschland",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-senior-digital-creative-gn-ai-focus-226612",
+        "id": "arbeitnow-remote-senior-full-stack-engineer-all-genders-backend-or-frontend-focus-382606",
+        "title": "Senior Full-Stack Engineer (all genders) | Backend or Frontend Focus",
+        "company": "Real Digital",
+        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+        "job_type": "Experienced, Permanent, Full or part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-full-stack-engineer-all-genders-backend-or-frontend-focus-382606",
         "source": "Arbeitnow",
-        "published_at": "2026-09-10T08:09:20+00:00",
+        "published_at": "2026-09-10T14:10:05+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-staff-lead-software-developer-ai-agents-integrations-435211",
+        "title": "Staff/Lead Software Developer (AI Agents & Integrations)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-staff-lead-software-developer-ai-agents-integrations-435211",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-10T11:55:08+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-staff-ai-engineer-developer-tools-237775",
+        "title": "Staff  AI Engineer- Developer Tools",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-staff-ai-engineer-developer-tools-237775",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-10T11:55:08+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-software-developer-for-thinkrail-innovation-hub-463531",
+        "title": "Software Developer for ThinkRail (Innovation Hub)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-software-developer-for-thinkrail-innovation-hub-463531",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-10T11:55:08+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-test-automation-engineer-teamcity-138995",
+        "title": "Senior Test Automation Engineer (TeamCity)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-test-automation-engineer-teamcity-138995",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-10T11:55:08+00:00",
         "remote": false
     },
     {
@@ -31,17 +86,6 @@
         "source": "Ashby",
         "published_at": "2026-09-10T06:21:47.936000+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-ai-engineer-notebooks-116524",
-        "title": "Senior AI Engineer – Notebooks",
-        "company": "Datadog",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.fr/jobs/companies/datadog/remote-senior-ai-engineer-notebooks-116524",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-09T22:56:01+00:00",
-        "remote": false
     },
     {
         "id": "greenhouse-3506451",
@@ -99,26 +143,26 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-software-engineer-backend-data-streaming-333804",
+        "id": "arbeitnow-remote-senior-software-engineer-backend-data-streaming-362952",
         "title": "Senior Software Engineer, Backend - Data Streaming",
         "company": "Camunda",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-333804",
+        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-362952",
         "source": "Arbeitnow",
-        "published_at": "2026-09-10T08:40:04+00:00",
-        "remote": true
+        "published_at": "2026-09-10T04:40:04+00:00",
+        "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-software-engineer-backend-data-layer-479869",
+        "id": "arbeitnow-remote-senior-software-engineer-backend-data-layer-395284",
         "title": "Senior Software Engineer, Backend - Data Layer",
         "company": "Camunda",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-479869",
+        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-395284",
         "source": "Arbeitnow",
-        "published_at": "2026-09-10T08:40:04+00:00",
-        "remote": true
+        "published_at": "2026-09-10T04:40:04+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-6509092002",
@@ -132,15 +176,26 @@
         "remote": true
     },
     {
-        "id": "greenhouse-6511851002",
-        "title": "Senior Backend Engineer, Database Excellence (Ruby)",
-        "company": "GitLab",
-        "location": "Remote, United Kingdom",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8778943002",
-        "source": "Greenhouse",
-        "published_at": "2026-09-09T10:02:26-04:00",
+        "id": "arbeitnow-remote-senior-software-engineer-redapl-graph-engine-264102",
+        "title": "Senior Software Engineer - REDAPL Graph Engine",
+        "company": "Datadog",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-senior-software-engineer-redapl-graph-engine-264102",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-10T14:55:30+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-devops-engineer-all-genders-data-platform-180543",
+        "title": "Senior DevOps Engineer (all genders) | Data Platform",
+        "company": "Real Digital",
+        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+        "job_type": "Experienced, Permanent, Full or part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-180543",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-10T14:10:05+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-senior-software-engineer-engineering-operations-29349",
@@ -264,58 +319,36 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3540022",
-        "title": "Senior Sales Engineer - Key Accounts (AMER - East)",
-        "company": "Datadog",
-        "location": "Florida, USA, Remote; Georgia, USA, Remote; Maryland, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; North Carolina, USA, Remote; Pennsylvania, USA, Remote; Virginia, USA, Remote",
-        "job_type": "Full Time",
-        "url": "https://careers.datadoghq.com/detail/8180585/?gh_jid=8180585",
-        "source": "Greenhouse",
-        "published_at": "2026-09-09T11:08:30-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3537060",
-        "title": "Abuse Research Engineer",
-        "company": "Stripe",
-        "location": "Remote from the US",
-        "job_type": "Full Time",
-        "url": "https://stripe.com/jobs/search?gh_jid=8172503",
-        "source": "Greenhouse",
-        "published_at": "2026-09-09T10:52:09-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-customer-success-engineer-390555",
-        "title": "Senior Customer Success Engineer",
-        "company": "veeamsoftware",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.fr/jobs/companies/veeamsoftware/remote-senior-customer-success-engineer-390555",
+        "id": "arbeitnow-remote-senior-system-engineer-bonn-454101",
+        "title": "Senior System Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, freelance",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-system-engineer-bonn-454101",
         "source": "Arbeitnow",
-        "published_at": "2026-09-09T13:55:34+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-6513394002",
-        "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
-        "company": "GitLab",
-        "location": "Remote, Australia",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8782306002",
-        "source": "Greenhouse",
-        "published_at": "2026-09-09T09:10:36-04:00",
+        "published_at": "2026-09-10T14:30:18+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-it-systems-engineer-windows-nuremberg-233950",
-        "title": "Senior IT Systems Engineer Windows (m/w/d)",
-        "company": "noris network AG",
-        "location": "Nuremberg",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/noris-network-ag/senior-it-systems-engineer-windows-nuremberg-233950",
+        "id": "arbeitnow-online-data-analyst-english-speaker-in-uk-london-472016",
+        "title": "Online Data Analyst - English speaker in UK",
+        "company": "TELUS Digital",
+        "location": "London",
+        "job_type": "Freelance, entry",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/telus-digital/online-data-analyst-english-speaker-in-uk-london-472016",
         "source": "Arbeitnow",
-        "published_at": "2026-09-10T10:00:30+00:00",
+        "published_at": "2026-09-10T12:08:26+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-pflichtpraktikum-social-media-fur-eine-rap-kunstlerin-magdeburg-368316",
+        "title": "Pflichtpraktikum Social Media für eine Rap-Künstlerin",
+        "company": "[Mady Host] | Frau Host - Independent Artist & Creative Business",
+        "location": "Magdeburg",
+        "job_type": "Internship",
+        "url": "https://www.arbeitnow.com/jobs/companies/mady-host-frau-host-independent-artist-creative-business/pflichtpraktikum-social-media-fur-eine-rap-kunstlerin-magdeburg-368316",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-10T12:30:35+00:00",
         "remote": true
     },
     {
@@ -328,6 +361,28 @@
         "source": "Ashby",
         "published_at": "2026-09-10T03:58:53.061000+00:00",
         "remote": true
+    },
+    {
+        "id": "ashby-820d0d5a-0930-475c-b494-23e18ad2aa68",
+        "title": "Product Support Specialist, Europe",
+        "company": "Linear",
+        "location": "Remote",
+        "job_type": "FullTime, GTM",
+        "url": "https://jobs.ashbyhq.com/linear/820d0d5a-0930-475c-b494-23e18ad2aa68",
+        "source": "Ashby",
+        "published_at": "2026-09-10T15:44:21.164000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-ux-researcher-all-genders-105505",
+        "title": "(Senior) UX Researcher (all genders)",
+        "company": "Real Digital",
+        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+        "job_type": "Experienced, Permanent, Full or part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-ux-researcher-all-genders-105505",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-10T14:10:05+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-6517542002",

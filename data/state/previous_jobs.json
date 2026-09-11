@@ -1,5 +1,27 @@
 [
     {
+        "id": "arbeitnow-senior-ai-product-engineer-berlin-51652",
+        "title": "Senior AI Product Engineer",
+        "company": "Cosuno",
+        "location": "Berlin/Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-ai-product-engineer-berlin-51652",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-11T08:40:02+00:00",
+        "remote": false
+    },
+    {
+        "id": "ashby-32425ea6-a64b-408d-ae54-38342b83c875",
+        "title": "Applied AI Engineer, Codex",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875",
+        "source": "Ashby",
+        "published_at": "2026-09-11T07:44:32.667000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-b6a86e39-8059-4ccf-8d33-1bf5bd92fa86",
         "title": "Software Engineer, API Frontiers",
         "company": "OpenAI",
@@ -44,37 +66,15 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-ai-engineer-notebooks-115121",
-        "title": "Senior AI Engineer – Notebooks",
-        "company": "Datadog",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-senior-ai-engineer-notebooks-115121",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T14:55:30+00:00",
+        "id": "greenhouse-3545775",
+        "title": "Frontend Engineer, Ads",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
+        "source": "Greenhouse",
+        "published_at": "2026-09-11T00:36:55-04:00",
         "remote": true
-    },
-    {
-        "id": "ashby-d085d2ec-0256-4ecf-b493-81ea34942e51",
-        "title": "Account Director, Digital Natives",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/d085d2ec-0256-4ecf-b493-81ea34942e51",
-        "source": "Ashby",
-        "published_at": "2026-09-10T06:21:47.936000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-fullstack-fur-ki-produkte-137665",
-        "title": "Senior Software Engineer (m/w/d) | Fullstack für KI-Produkte",
-        "company": "Avenit Ag",
-        "location": "Remote in Deutschland",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-137665",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T17:09:16+00:00",
-        "remote": false
     },
     {
         "id": "arbeitnow-backend-engineer-wallets-100-remote-london-355455",
@@ -132,17 +132,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-backend-engineer-database-excellence-ruby-194431",
-        "title": "Senior Backend Engineer, Database Excellence (Ruby)",
-        "company": "gitlab",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-database-excellence-ruby-194431",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T16:15:14+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-senior-software-engineer-engineering-operations-22311",
         "title": "Senior Software Engineer, Engineering Operations",
         "company": "Camunda",
@@ -166,24 +155,13 @@
     },
     {
         "id": "greenhouse-3544391",
-        "title": "Technical Developer Specialist, USA (Part-Time Contract) Contract",
+        "title": "Technical Developer Specialist, USA (Part-Time Contract)",
         "company": "Roblox",
         "location": "Remote",
         "job_type": "Full Time",
         "url": "https://careers.roblox.com/jobs/8190596?gh_jid=8190596",
         "source": "Greenhouse",
         "published_at": "2026-09-10T12:22:43-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-redapl-graph-engine-264102",
-        "title": "Senior Software Engineer - REDAPL Graph Engine",
-        "company": "Datadog",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-senior-software-engineer-redapl-graph-engine-264102",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T14:55:30+00:00",
         "remote": true
     },
     {
@@ -206,17 +184,6 @@
         "url": "https://jobs.ashbyhq.com/openai/2ace6bbe-a7ac-4930-bcdc-14c618179b1f",
         "source": "Ashby",
         "published_at": "2026-09-10T16:56:35.669000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-43ba8b53-4643-4544-bb21-f13efe99e0a0",
-        "title": "Product Designer, Youth",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Product Design",
-        "url": "https://jobs.ashbyhq.com/openai/43ba8b53-4643-4544-bb21-f13efe99e0a0",
-        "source": "Ashby",
-        "published_at": "2026-09-10T03:58:53.061000+00:00",
         "remote": true
     },
     {
@@ -250,6 +217,17 @@
         "url": "https://jobs.ashbyhq.com/linear/820d0d5a-0930-475c-b494-23e18ad2aa68",
         "source": "Ashby",
         "published_at": "2026-09-10T15:44:21.164000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-customer-support-agent-norwegian-speaking-london-248332",
+        "title": "Customer Support Agent (Norwegian speaking)",
+        "company": "Ventures Lab",
+        "location": "London",
+        "job_type": "entry",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ventures-lab/customer-support-agent-norwegian-speaking-london-248332",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-11T08:00:31+00:00",
         "remote": true
     }
 ]

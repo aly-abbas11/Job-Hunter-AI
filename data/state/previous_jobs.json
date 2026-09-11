@@ -1,13 +1,24 @@
 [
     {
-        "id": "arbeitnow-senior-ai-product-engineer-berlin-51652",
-        "title": "Senior AI Product Engineer",
-        "company": "Cosuno",
-        "location": "Berlin/Remote",
+        "id": "ashby-cc203d0d-96cd-4615-b5f1-3f25d6b08a95",
+        "title": "Manager, Applied AI Engineering (Codex)",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/cc203d0d-96cd-4615-b5f1-3f25d6b08a95",
+        "source": "Ashby",
+        "published_at": "2026-09-11T14:36:19.087000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-product-engineer-devtools-ai-reliability-remote-berlin-432404",
+        "title": "Senior Product Engineer (DevTools & AI reliability, remote)",
+        "company": "Checkly",
+        "location": "Remote (UTC-3 to UTC+3)",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-ai-product-engineer-berlin-51652",
+        "url": "https://www.arbeitnow.com/jobs/companies/checkly/senior-product-engineer-devtools-ai-reliability-remote-berlin-432404",
         "source": "Arbeitnow",
-        "published_at": "2026-09-11T08:40:02+00:00",
+        "published_at": "2026-09-11T11:40:08+00:00",
         "remote": false
     },
     {
@@ -66,6 +77,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-qa-engineer-325150",
+        "title": "QA Engineer",
+        "company": "Miaplaza",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-qa-engineer-325150",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-11T11:30:12+00:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-3545775",
         "title": "Frontend Engineer, Ads",
         "company": "Reddit",
@@ -74,17 +96,6 @@
         "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
         "source": "Greenhouse",
         "published_at": "2026-09-11T00:36:55-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-backend-engineer-wallets-100-remote-london-355455",
-        "title": "Backend Engineer - Wallets (100% Remote)",
-        "company": "Tether Operations Limited",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/backend-engineer-wallets-100-remote-london-355455",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-11T00:30:14+00:00",
         "remote": true
     },
     {
@@ -99,28 +110,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-software-engineer-backend-data-streaming-281046",
-        "title": "Senior Software Engineer, Backend - Data Streaming",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-281046",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T21:40:11+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-backend-data-layer-223436",
-        "title": "Senior Software Engineer, Backend - Data Layer",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-223436",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T21:40:11+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3543749",
         "title": "Backend Engineer, IAM",
         "company": "Reddit",
@@ -132,15 +121,15 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-software-engineer-engineering-operations-22311",
-        "title": "Senior Software Engineer, Engineering Operations",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-22311",
+        "id": "arbeitnow-remote-project-manager-software-implementation-berlin-60317",
+        "title": "Project Manager - Software Implementation (m/f/x)",
+        "company": "Makersite GmbH",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-60317",
         "source": "Arbeitnow",
-        "published_at": "2026-09-10T21:40:11+00:00",
-        "remote": false
+        "published_at": "2026-09-11T11:30:26+00:00",
+        "remote": true
     },
     {
         "id": "greenhouse-3457801",
@@ -162,6 +151,28 @@
         "url": "https://careers.roblox.com/jobs/8190596?gh_jid=8190596",
         "source": "Greenhouse",
         "published_at": "2026-09-10T12:22:43-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-it-systems-engineer-linux-nuremberg-423883",
+        "title": "Senior IT Systems Engineer (Linux) (w/m/d)",
+        "company": "noris network AG",
+        "location": "Nuremberg",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/noris-network-ag/senior-it-systems-engineer-linux-nuremberg-423883",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-11T12:30:33+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-pflichtpraktikum-social-media-marketing-mwd-berlin-203296",
+        "title": "Pflichtpraktikum Social Media Marketing (m,w,d)",
+        "company": "Unseen Media GmbH",
+        "location": "Berlin",
+        "job_type": "Internship, hilfstätigkeit / student",
+        "url": "https://www.arbeitnow.com/jobs/companies/unseen-media-gmbh/pflichtpraktikum-social-media-marketing-mwd-berlin-203296",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-11T12:30:32+00:00",
         "remote": true
     },
     {
@@ -209,14 +220,14 @@
         "remote": true
     },
     {
-        "id": "ashby-820d0d5a-0930-475c-b494-23e18ad2aa68",
-        "title": "Product Support Specialist, Europe",
-        "company": "Linear",
-        "location": "Remote",
-        "job_type": "FullTime, GTM",
-        "url": "https://jobs.ashbyhq.com/linear/820d0d5a-0930-475c-b494-23e18ad2aa68",
-        "source": "Ashby",
-        "published_at": "2026-09-10T15:44:21.164000+00:00",
+        "id": "arbeitnow-freelance-video-editor-fur-d2c-ecom-brands-mwd-berlin-426183",
+        "title": "Freelance Video Editor für D2C Ecom Brands (m,w,d)",
+        "company": "Unseen Media GmbH",
+        "location": "Berlin",
+        "job_type": "Freelance",
+        "url": "https://www.arbeitnow.com/jobs/companies/unseen-media-gmbh/freelance-video-editor-fur-d2c-ecom-brands-mwd-berlin-426183",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-11T12:00:28+00:00",
         "remote": true
     },
     {

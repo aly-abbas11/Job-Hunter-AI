@@ -1,14 +1,14 @@
 [
     {
-        "id": "arbeitnow-remote-senior-business-automation-developer-all-genders-i-international-64495",
-        "title": "(Senior) Business Automation Developer (all genders) I International",
-        "company": "Real Digital",
-        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
-        "job_type": "Experienced, Permanent, Full or part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-64495",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T14:10:05+00:00",
-        "remote": false
+        "id": "ashby-b6a86e39-8059-4ccf-8d33-1bf5bd92fa86",
+        "title": "Software Engineer, API Frontiers",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Core Product & Platform",
+        "url": "https://jobs.ashbyhq.com/openai/b6a86e39-8059-4ccf-8d33-1bf5bd92fa86",
+        "source": "Ashby",
+        "published_at": "2026-09-11T01:36:02.480000+00:00",
+        "remote": true
     },
     {
         "id": "ashby-552396f4-dc83-43de-9230-6301e5f461bd",
@@ -55,17 +55,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-full-stack-engineer-all-genders-backend-or-frontend-focus-382606",
-        "title": "Senior Full-Stack Engineer (all genders) | Backend or Frontend Focus",
-        "company": "Real Digital",
-        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
-        "job_type": "Experienced, Permanent, Full or part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-full-stack-engineer-all-genders-backend-or-frontend-focus-382606",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T14:10:05+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-d085d2ec-0256-4ecf-b493-81ea34942e51",
         "title": "Account Director, Digital Natives",
         "company": "OpenAI",
@@ -88,6 +77,61 @@
         "remote": false
     },
     {
+        "id": "arbeitnow-backend-engineer-wallets-100-remote-london-355455",
+        "title": "Backend Engineer - Wallets (100% Remote)",
+        "company": "Tether Operations Limited",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/backend-engineer-wallets-100-remote-london-355455",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-11T00:30:14+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3545438",
+        "title": "Senior Software Engineer, Backend (Institutional -",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8193862?gh_jid=8193862",
+        "source": "Greenhouse",
+        "published_at": "2026-09-10T20:20:55-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-backend-data-streaming-281046",
+        "title": "Senior Software Engineer, Backend - Data Streaming",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-281046",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-10T21:40:11+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-backend-data-layer-223436",
+        "title": "Senior Software Engineer, Backend - Data Layer",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-223436",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-10T21:40:11+00:00",
+        "remote": false
+    },
+    {
+        "id": "greenhouse-3543749",
+        "title": "Backend Engineer, IAM",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8189317",
+        "source": "Greenhouse",
+        "published_at": "2026-09-10T17:18:44-04:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-senior-backend-engineer-database-excellence-ruby-194431",
         "title": "Senior Backend Engineer, Database Excellence (Ruby)",
         "company": "gitlab",
@@ -99,25 +143,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-software-engineer-backend-data-streaming-362952",
-        "title": "Senior Software Engineer, Backend - Data Streaming",
+        "id": "arbeitnow-remote-senior-software-engineer-engineering-operations-22311",
+        "title": "Senior Software Engineer, Engineering Operations",
         "company": "Camunda",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-362952",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-22311",
         "source": "Arbeitnow",
-        "published_at": "2026-09-10T04:40:04+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-backend-data-layer-395284",
-        "title": "Senior Software Engineer, Backend - Data Layer",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-395284",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T04:40:04+00:00",
+        "published_at": "2026-09-10T21:40:11+00:00",
         "remote": false
     },
     {
@@ -151,105 +184,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-senior-software-engineer-redapl-graph-engine-264102",
         "source": "Arbeitnow",
         "published_at": "2026-09-10T14:55:30+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-devops-engineer-all-genders-data-platform-180543",
-        "title": "Senior DevOps Engineer (all genders) | Data Platform",
-        "company": "Real Digital",
-        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
-        "job_type": "Experienced, Permanent, Full or part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-180543",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T14:10:05+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-engineering-operations-29349",
-        "title": "Senior Software Engineer, Engineering Operations",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-29349",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T04:40:04+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-3537990",
-        "title": "Security Engineer",
-        "company": "Stripe",
-        "location": "US Remote",
-        "job_type": "Full Time",
-        "url": "https://stripe.com/jobs/search?gh_jid=8174965",
-        "source": "Greenhouse",
-        "published_at": "2026-09-09T20:41:43-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3529179",
-        "title": "Senior Staff Software Engineer, Platform - IAM",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8155366?gh_jid=8155366",
-        "source": "Greenhouse",
-        "published_at": "2026-09-09T20:23:49-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3466899",
-        "title": "Software Engineer, Developer Infrastructure",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/7991839?gh_jid=7991839",
-        "source": "Greenhouse",
-        "published_at": "2026-09-09T18:51:43-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3537057",
-        "title": "Security Incident Response Manager, Abuse Operations",
-        "company": "Stripe",
-        "location": "Seattle, SF, NYC, Chicago, Atlanta, Remote in the US",
-        "job_type": "Full Time",
-        "url": "https://stripe.com/jobs/search?gh_jid=8172497",
-        "source": "Greenhouse",
-        "published_at": "2026-09-09T17:58:38-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3536842",
-        "title": "Senior Software Engineer, Core Infra Systems",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8172100?gh_jid=8172100",
-        "source": "Greenhouse",
-        "published_at": "2026-09-09T16:45:59-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-system-engineer-bonn-454101",
-        "title": "Senior System Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-system-engineer-bonn-454101",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T14:30:18+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-online-data-analyst-english-speaker-in-uk-london-472016",
-        "title": "Online Data Analyst - English speaker in UK",
-        "company": "TELUS Digital",
-        "location": "London",
-        "job_type": "Freelance, entry",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/telus-digital/online-data-analyst-english-speaker-in-uk-london-472016",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T12:08:26+00:00",
         "remote": true
     },
     {
@@ -316,28 +250,6 @@
         "url": "https://jobs.ashbyhq.com/linear/820d0d5a-0930-475c-b494-23e18ad2aa68",
         "source": "Ashby",
         "published_at": "2026-09-10T15:44:21.164000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-ux-researcher-all-genders-105505",
-        "title": "(Senior) UX Researcher (all genders)",
-        "company": "Real Digital",
-        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
-        "job_type": "Experienced, Permanent, Full or part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-ux-researcher-all-genders-105505",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-10T14:10:05+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-6517542002",
-        "title": "Director, Social Media",
-        "company": "GitLab",
-        "location": "Remote, Canada; Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8792475002",
-        "source": "Greenhouse",
-        "published_at": "2026-09-09T19:09:52-04:00",
         "remote": true
     }
 ]

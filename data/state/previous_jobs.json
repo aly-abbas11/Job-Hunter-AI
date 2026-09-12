@@ -1,13 +1,13 @@
 [
     {
-        "id": "ashby-e7a4ee23-138a-4004-916e-72a452e7d115",
-        "title": "Backend Software Engineer, ChatGPT ImageGen",
+        "id": "ashby-c2aeb70d-3eca-4c4f-a414-6394b30fea80",
+        "title": "Softare Engineer, Consumer Health (Health AI)",
         "company": "OpenAI",
         "location": "Remote",
         "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/e7a4ee23-138a-4004-916e-72a452e7d115",
+        "url": "https://jobs.ashbyhq.com/openai/c2aeb70d-3eca-4c4f-a414-6394b30fea80",
         "source": "Ashby",
-        "published_at": "2026-09-11T17:11:59.523000+00:00",
+        "published_at": "2026-09-12T16:54:37.776000+00:00",
         "remote": true
     },
     {
@@ -66,15 +66,26 @@
         "remote": true
     },
     {
-        "id": "ashby-b15442c5-8e3c-4370-9abf-4b9c63f56de0",
-        "title": "Android Engineer, ChatGPT ImageGen",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/b15442c5-8e3c-4370-9abf-4b9c63f56de0",
-        "source": "Ashby",
-        "published_at": "2026-09-11T17:11:15.362000+00:00",
+        "id": "arbeitnow-remote-senior-frontend-developer-all-genders-287472",
+        "title": "Senior Frontend Developer (all genders)",
+        "company": "Contabo",
+        "location": "Remote (Germany)",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-frontend-developer-all-genders-287472",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-12T14:09:52+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-cloud-product-manager-all-genders-80166",
+        "title": "Senior Cloud Product Manager (all genders)",
+        "company": "Contabo",
+        "location": "Remote (Germany)",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-cloud-product-manager-all-genders-80166",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-12T14:09:52+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3525810",
@@ -95,7 +106,40 @@
         "job_type": "Freelance, berufserfahren",
         "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-software-data-ai-engineer-development-data-ai-bad-homburg-260868",
         "source": "Arbeitnow",
-        "published_at": "2026-09-12T12:00:24+00:00",
+        "published_at": "2026-09-12T16:17:25+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-ai-product-engineer-berlin-151379",
+        "title": "(Senior) AI Product Engineer (m/w/d)",
+        "company": "Legalhero",
+        "location": "Berlin",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-151379",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-12T14:09:35+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-software-engineer-data-integration-focus-remote-255285",
+        "title": "(Senior) Software Engineer - Data Integration Focus - Remote (m/f/d)",
+        "company": "praxipal",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/praxipal/senior-software-engineer-data-integration-focus-remote-255285",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-12T18:40:13+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-398089",
+        "title": "Senior Software Developer – Platform & Infrastructure Engineering (all genders)",
+        "company": "Contabo",
+        "location": "Remote (Germany)",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-software-developer-platform-infrastructure-engineering-all-genders-398089",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-12T14:09:52+00:00",
         "remote": true
     },
     {
@@ -110,28 +154,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-salesforce-developer-288295",
-        "title": "Senior Salesforce Developer (m/f/d)",
-        "company": "Auxmoney Gmbh",
-        "location": "Remote / Düsseldorf",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-salesforce-developer-288295",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-12T11:09:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-devops-engineer-340622",
-        "title": "Senior DevOps Engineer (m/f/d)",
-        "company": "Auxmoney Gmbh",
-        "location": "Remote / Düsseldorf",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-devops-engineer-340622",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-12T11:09:26+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-senior-sales-engineer-mena-307260",
         "title": "Senior Sales Engineer - MENA",
         "company": "Sardine",
@@ -140,17 +162,6 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/sardine/remote-senior-sales-engineer-mena-307260",
         "source": "Arbeitnow",
         "published_at": "2026-09-12T06:40:12+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-software-engineer-data-integration-focus-remote-345260",
-        "title": "(Senior) Software Engineer - Data Integration Focus - Remote (m/f/d)",
-        "company": "praxipal",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/praxipal/senior-software-engineer-data-integration-focus-remote-345260",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-12T01:40:02+00:00",
         "remote": false
     },
     {
@@ -187,17 +198,6 @@
         "remote": true
     },
     {
-        "id": "ashby-b3b0875d-cbf2-41ed-bda3-2714c82c4b57",
-        "title": "Systems Engineer, Corporate Security",
-        "company": "Ramp",
-        "location": "Remote",
-        "job_type": "FullTime, Security",
-        "url": "https://jobs.ashbyhq.com/ramp/b3b0875d-cbf2-41ed-bda3-2714c82c4b57",
-        "source": "Ashby",
-        "published_at": "2026-09-11T19:18:21.372000+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-freelance-cloud-infrastructure-engineer-devops-platform-security-bad-homburg-447986",
         "title": "Freelance Cloud / Infrastructure Engineer (m/w/d) - DevOps | Platform | Security",
         "company": "Nexgate IT GmbH",
@@ -206,6 +206,17 @@
         "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-cloud-infrastructure-engineer-devops-platform-security-bad-homburg-447986",
         "source": "Arbeitnow",
         "published_at": "2026-09-12T12:00:22+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-ml-engineer-germany-3-month-project-282468",
+        "title": "Senior ML Engineer | Germany (3 Month project)",
+        "company": "Intetics 2",
+        "location": "Germany",
+        "job_type": "Temporary",
+        "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-senior-ml-engineer-germany-3-month-project-282468",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-12T14:20:05+00:00",
         "remote": true
     },
     {
@@ -220,17 +231,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3537621",
-        "title": "Principal Partner Engineer",
-        "company": "Cloudflare",
-        "location": "Distributed",
-        "job_type": "Full Time",
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/8173956?gh_jid=8173956",
-        "source": "Greenhouse",
-        "published_at": "2026-09-11T15:23:51-04:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-ux-ui-designer-intch-188753",
         "title": "UX/UI Designer | Intch",
         "company": "Hirehire",
@@ -240,5 +240,16 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-12T03:40:10+00:00",
         "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-product-designer-1-year-ftc-germany-253732",
+        "title": "Product Designer (1-year FTC)",
+        "company": "Fe Fundinfo",
+        "location": "Germany",
+        "job_type": "Contract, mid-senior",
+        "url": "https://www.arbeitnow.com/jobs/companies/fe-fundinfo/remote-product-designer-1-year-ftc-germany-253732",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-12T14:20:02+00:00",
+        "remote": true
     }
 ]

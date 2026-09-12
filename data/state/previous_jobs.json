@@ -77,17 +77,6 @@
         "remote": true
     },
     {
-        "id": "ashby-32425ea6-a64b-408d-ae54-38342b83c875",
-        "title": "Applied AI Engineer, Codex",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875",
-        "source": "Ashby",
-        "published_at": "2026-09-11T07:44:32.667000+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3525810",
         "title": "Senior Frontend Engineer, Home Experience",
         "company": "Reddit",
@@ -99,37 +88,26 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3545775",
-        "title": "Frontend Engineer, Ads",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
-        "source": "Greenhouse",
-        "published_at": "2026-09-11T00:36:55-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-software-engineer-data-integration-focus-remote-416977",
-        "title": "(Senior) Software Engineer - Data Integration Focus - Remote (m/f/d)",
-        "company": "praxipal",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/praxipal/senior-software-engineer-data-integration-focus-remote-416977",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-11T23:40:10+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-sales-engineer-mena-179937",
+        "id": "arbeitnow-remote-senior-sales-engineer-mena-307260",
         "title": "Senior Sales Engineer - MENA",
         "company": "Sardine",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/sardine/remote-senior-sales-engineer-mena-179937",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sardine/remote-senior-sales-engineer-mena-307260",
         "source": "Arbeitnow",
-        "published_at": "2026-09-11T23:40:05+00:00",
-        "remote": true
+        "published_at": "2026-09-12T06:40:12+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-senior-software-engineer-data-integration-focus-remote-345260",
+        "title": "(Senior) Software Engineer - Data Integration Focus - Remote (m/f/d)",
+        "company": "praxipal",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/praxipal/senior-software-engineer-data-integration-focus-remote-345260",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-12T01:40:02+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-6519120002",
@@ -187,17 +165,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-backend-engineer-core-engine-decision-intelligence-deutschlandweit-13391",
-        "title": "Senior Backend Engineer - Core Engine / Decision Intelligence (m/w/d)",
-        "company": "Taledo GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/taledo-gmbh/remote-senior-backend-engineer-core-engine-decision-intelligence-deutschlandweit-13391",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-11T17:30:29+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3537621",
         "title": "Principal Partner Engineer",
         "company": "Cloudflare",
@@ -209,14 +176,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-ux-ui-designer-intch-383599",
+        "id": "arbeitnow-remote-ux-ui-designer-intch-188753",
         "title": "UX/UI Designer | Intch",
         "company": "Hirehire",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-ux-ui-designer-intch-383599",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/hirehire/remote-ux-ui-designer-intch-188753",
         "source": "Arbeitnow",
-        "published_at": "2026-09-11T20:40:03+00:00",
-        "remote": true
+        "published_at": "2026-09-12T03:40:10+00:00",
+        "remote": false
     }
 ]

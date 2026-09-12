@@ -11,6 +11,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-senior-software-developer-jcp-core-foundation-licensing-and-quotation-326822",
+        "title": "Senior Software Developer (JCP Core Foundation Licensing and Quotation)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-software-developer-jcp-core-foundation-licensing-and-quotation-326822",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-12T11:55:09+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-bd2b8228-bb0f-42e0-94bd-c853cdd56140",
         "title": "Research Engineer, AI for Chip Design",
         "company": "OpenAI",
@@ -66,17 +77,6 @@
         "remote": true
     },
     {
-        "id": "ashby-cc203d0d-96cd-4615-b5f1-3f25d6b08a95",
-        "title": "Manager, Applied AI Engineering (Codex)",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/cc203d0d-96cd-4615-b5f1-3f25d6b08a95",
-        "source": "Ashby",
-        "published_at": "2026-09-11T14:36:19.087000+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3525810",
         "title": "Senior Frontend Engineer, Home Experience",
         "company": "Reddit",
@@ -86,6 +86,50 @@
         "source": "Greenhouse",
         "published_at": "2026-09-11T18:46:20-04:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-freelance-software-data-ai-engineer-development-data-ai-bad-homburg-260868",
+        "title": "Freelance Software  / Data / AI Engineer (m/w/d) - Development | Data | AI",
+        "company": "Nexgate IT GmbH",
+        "location": "Bad Homburg",
+        "job_type": "Freelance, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-software-data-ai-engineer-development-data-ai-bad-homburg-260868",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-12T12:00:24+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-customer-success-engineer-254529",
+        "title": "Senior Customer Success Engineer",
+        "company": "veeamsoftware",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/veeamsoftware/remote-senior-customer-success-engineer-254529",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-12T12:55:20+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-salesforce-developer-288295",
+        "title": "Senior Salesforce Developer (m/f/d)",
+        "company": "Auxmoney Gmbh",
+        "location": "Remote / Düsseldorf",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-salesforce-developer-288295",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-12T11:09:26+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-devops-engineer-340622",
+        "title": "Senior DevOps Engineer (m/f/d)",
+        "company": "Auxmoney Gmbh",
+        "location": "Remote / Düsseldorf",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-devops-engineer-340622",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-12T11:09:26+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-senior-sales-engineer-mena-307260",
@@ -154,15 +198,26 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-security-engineer-ii-320388",
-        "title": "Security Engineer II",
-        "company": "Kraken",
-        "location": "Remote, UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/remote-security-engineer-ii-320388",
+        "id": "arbeitnow-freelance-cloud-infrastructure-engineer-devops-platform-security-bad-homburg-447986",
+        "title": "Freelance Cloud / Infrastructure Engineer (m/w/d) - DevOps | Platform | Security",
+        "company": "Nexgate IT GmbH",
+        "location": "Bad Homburg",
+        "job_type": "Freelance, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-cloud-infrastructure-engineer-devops-platform-security-bad-homburg-447986",
         "source": "Arbeitnow",
-        "published_at": "2026-09-11T15:40:13+00:00",
-        "remote": false
+        "published_at": "2026-09-12T12:00:22+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-mitarbeiter-vertrieb-landwirtschaftliche-software-fur-mehrere-regionen-in-deutschland-munchen-464120",
+        "title": "Mitarbeiter Vertrieb (m/w/d) landwirtschaftliche Software für mehrere Regionen in Deutschland",
+        "company": "Wimex-Gruppe",
+        "location": "Homeoffice",
+        "job_type": "Entry, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/wimex-gruppe/remote-mitarbeiter-vertrieb-landwirtschaftliche-software-fur-mehrere-regionen-in-deutschland-munchen-464120",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-12T11:30:18+00:00",
+        "remote": true
     },
     {
         "id": "greenhouse-3537621",

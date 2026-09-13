@@ -11,14 +11,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-data-scientist-fraud-95114",
-        "title": "Data Scientist (Fraud)",
-        "company": "Job Application for Head of Engineering, Supply Chain at Moniepoint",
-        "location": "Remote, London",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/job-application-for-head-of-engineering-supply-chain-at-moniepoint/remote-data-scientist-fraud-95114",
+        "id": "arbeitnow-remote-senior-data-engineer-real-time-analytics-151340",
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "location": "France Remote",
+        "job_type": "Permanent Full Time Employee",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-151340",
         "source": "Arbeitnow",
-        "published_at": "2026-09-13T12:55:08+00:00",
+        "published_at": "2026-09-13T19:24:53+00:00",
         "remote": false
     },
     {
@@ -55,17 +55,6 @@
         "remote": false
     },
     {
-        "id": "ashby-c2aeb70d-3eca-4c4f-a414-6394b30fea80",
-        "title": "Softare Engineer, Consumer Health (Health AI)",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/c2aeb70d-3eca-4c4f-a414-6394b30fea80",
-        "source": "Ashby",
-        "published_at": "2026-09-12T16:54:37.776000+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-236690",
         "title": "AI Solution Architect (m/w/d)",
         "company": "virtual7 GmbH",
@@ -86,6 +75,17 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-13T05:09:13+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-software-engineer-396352",
+        "title": "Software Engineer",
+        "company": "Scarlet",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/scarlet/remote-software-engineer-396352",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-13T15:40:03+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-forward-deployed-engineer-all-genders-99442",
@@ -163,27 +163,5 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-13T14:30:22+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-illustrator-303137",
-        "title": "Senior Illustrator",
-        "company": "Job Application for Head of Engineering, Supply Chain at Moniepoint",
-        "location": "Remote, London",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/job-application-for-head-of-engineering-supply-chain-at-moniepoint/remote-senior-illustrator-303137",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-13T12:55:09+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-content-designer-339118",
-        "title": "Senior Content Designer",
-        "company": "Job Application for Head of Engineering, Supply Chain at Moniepoint",
-        "location": "Remote, London",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/job-application-for-head-of-engineering-supply-chain-at-moniepoint/remote-senior-content-designer-339118",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-13T12:55:09+00:00",
-        "remote": false
     }
 ]

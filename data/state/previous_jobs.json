@@ -1,5 +1,38 @@
 [
     {
+        "id": "arbeitnow-senior-backend-engineer-python-remote-munich-2605",
+        "title": "Senior Backend Engineer (Python) - Remote",
+        "company": "Breathment",
+        "location": "Munich",
+        "job_type": "Contract, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/breathment/senior-backend-engineer-python-remote-munich-2605",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-13T14:00:23+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-data-scientist-fraud-95114",
+        "title": "Data Scientist (Fraud)",
+        "company": "Job Application for Head of Engineering, Supply Chain at Moniepoint",
+        "location": "Remote, London",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/job-application-for-head-of-engineering-supply-chain-at-moniepoint/remote-data-scientist-fraud-95114",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-13T12:55:08+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-genai-solution-engineer-all-genders-440579",
+        "title": "Senior GenAI Solution Engineer (all genders)",
+        "company": "Eraneos",
+        "location": "Hamburg, München, Düsseldorf, remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-genai-solution-engineer-all-genders-440579",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-13T11:09:49+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-senior-machine-learning-engineer-embedded-ai-paris-309751",
         "title": "Senior Machine Learning Engineer - Embedded AI",
         "company": "Pennylane SAS",
@@ -8,17 +41,6 @@
         "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/senior-machine-learning-engineer-embedded-ai-paris-309751",
         "source": "Arbeitnow",
         "published_at": "2026-09-13T08:45:05+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-product-engineer-agent-training-and-evals-407615",
-        "title": "Senior Product Engineer (Agent Training and Evals)",
-        "company": "prolific",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-product-engineer-agent-training-and-evals-407615",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-13T06:55:05+00:00",
         "remote": false
     },
     {
@@ -44,6 +66,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-236690",
+        "title": "AI Solution Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-236690",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-13T14:30:22+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-product-manager-ai-search-hamburg-292991",
         "title": "Product Manager AI Search (m/w/d)",
         "company": "Moebel De",
@@ -53,6 +86,28 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-13T05:09:13+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-forward-deployed-engineer-all-genders-99442",
+        "title": "Forward Deployed Engineer (all genders)",
+        "company": "Eraneos",
+        "location": "Hamburg, München, Düsseldorf, remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-forward-deployed-engineer-all-genders-99442",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-13T11:09:49+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-data-engineer-all-genders-12735",
+        "title": "Data Engineer (all genders)",
+        "company": "Eraneos",
+        "location": "Hamburg, München, Düsseldorf, remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-12735",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-13T11:09:49+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-freiberufliche-lehrkraft-fur-data-analytics-138889",
@@ -66,14 +121,69 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-fullstack-engineer-node-react-all-genders-germany-250238",
-        "title": "(Senior) Fullstack Engineer - Node / React (all genders)",
-        "company": "Gamigo",
-        "location": "Germany",
-        "job_type": "Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/gamigo/remote-senior-fullstack-engineer-node-react-all-genders-germany-250238",
+        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-90810",
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-90810",
         "source": "Arbeitnow",
-        "published_at": "2026-09-12T20:20:22+00:00",
+        "published_at": "2026-09-13T14:30:22+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-453189",
+        "title": "Senior Java Backend Developer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-453189",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-13T14:30:22+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-it-architect-karlsruhe-252149",
+        "title": "Senior IT Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-252149",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-13T14:30:22+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-193489",
+        "title": "Senior Oracle Data Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-193489",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-13T14:30:22+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-illustrator-303137",
+        "title": "Senior Illustrator",
+        "company": "Job Application for Head of Engineering, Supply Chain at Moniepoint",
+        "location": "Remote, London",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/job-application-for-head-of-engineering-supply-chain-at-moniepoint/remote-senior-illustrator-303137",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-13T12:55:09+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-content-designer-339118",
+        "title": "Senior Content Designer",
+        "company": "Job Application for Head of Engineering, Supply Chain at Moniepoint",
+        "location": "Remote, London",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/job-application-for-head-of-engineering-supply-chain-at-moniepoint/remote-senior-content-designer-339118",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-13T12:55:09+00:00",
+        "remote": false
     }
 ]

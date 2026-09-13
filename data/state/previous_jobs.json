@@ -1,5 +1,27 @@
 [
     {
+        "id": "arbeitnow-senior-machine-learning-engineer-embedded-ai-paris-309751",
+        "title": "Senior Machine Learning Engineer - Embedded AI",
+        "company": "Pennylane SAS",
+        "location": "All France (remote)",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/senior-machine-learning-engineer-embedded-ai-paris-309751",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-13T08:45:05+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-product-engineer-agent-training-and-evals-407615",
+        "title": "Senior Product Engineer (Agent Training and Evals)",
+        "company": "prolific",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-product-engineer-agent-training-and-evals-407615",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-13T06:55:05+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-team-lead-weiterbildungen-ai-data-science-100-remote-156651",
         "title": "Team Lead Weiterbildungen AI & Data Science 100% remote (m/w/d)",
         "company": "Karrieretutor De",
@@ -19,6 +41,17 @@
         "url": "https://jobs.ashbyhq.com/openai/c2aeb70d-3eca-4c4f-a414-6394b30fea80",
         "source": "Ashby",
         "published_at": "2026-09-12T16:54:37.776000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-product-manager-ai-search-hamburg-292991",
+        "title": "Product Manager AI Search (m/w/d)",
+        "company": "Moebel De",
+        "location": "Hamburg",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-product-manager-ai-search-hamburg-292991",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-13T05:09:13+00:00",
         "remote": true
     },
     {
@@ -42,49 +75,5 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-12T20:20:22+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-software-engineer-data-integration-focus-remote-255285",
-        "title": "(Senior) Software Engineer - Data Integration Focus - Remote (m/f/d)",
-        "company": "praxipal",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/praxipal/senior-software-engineer-data-integration-focus-remote-255285",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-12T18:40:13+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-customer-success-engineer-254529",
-        "title": "Senior Customer Success Engineer",
-        "company": "veeamsoftware",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/veeamsoftware/remote-senior-customer-success-engineer-254529",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-12T12:55:20+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-sales-engineer-mena-307260",
-        "title": "Senior Sales Engineer - MENA",
-        "company": "Sardine",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sardine/remote-senior-sales-engineer-mena-307260",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-12T06:40:12+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-ux-ui-designer-intch-450285",
-        "title": "UX/UI Designer | Intch",
-        "company": "Hirehire",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/hirehire/remote-ux-ui-designer-intch-450285",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-12T16:07:15+00:00",
-        "remote": false
     }
 ]

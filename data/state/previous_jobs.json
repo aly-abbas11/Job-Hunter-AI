@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-team-lead-weiterbildungen-ai-data-science-100-remote-156651",
+        "title": "Team Lead Weiterbildungen AI & Data Science 100% remote (m/w/d)",
+        "company": "Karrieretutor De",
+        "location": "100% Remote in Deutschland",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/karrieretutor-de/team-lead-weiterbildungen-ai-data-science-100-remote-156651",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-13T02:09:41+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-c2aeb70d-3eca-4c4f-a414-6394b30fea80",
         "title": "Softare Engineer, Consumer Health (Health AI)",
         "company": "OpenAI",
@@ -11,113 +22,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-software-developer-jcp-core-foundation-licensing-and-quotation-326822",
-        "title": "Senior Software Developer (JCP Core Foundation Licensing and Quotation)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-software-developer-jcp-core-foundation-licensing-and-quotation-326822",
+        "id": "arbeitnow-remote-freiberufliche-lehrkraft-fur-data-analytics-138889",
+        "title": "Freiberufliche Lehrkraft (w/m/d) für Data Analytics",
+        "company": "Karrieretutor De",
+        "location": "100% Remote in Deutschland",
+        "job_type": "Experienced, Freelance, Part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/karrieretutor-de/remote-freiberufliche-lehrkraft-fur-data-analytics-138889",
         "source": "Arbeitnow",
-        "published_at": "2026-09-12T11:55:09+00:00",
+        "published_at": "2026-09-13T02:09:41+00:00",
         "remote": false
     },
     {
-        "id": "ashby-bd2b8228-bb0f-42e0-94bd-c853cdd56140",
-        "title": "Research Engineer, AI for Chip Design",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Research",
-        "url": "https://jobs.ashbyhq.com/openai/bd2b8228-bb0f-42e0-94bd-c853cdd56140",
-        "source": "Ashby",
-        "published_at": "2026-09-11T23:38:19.412000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-9471b38b-f65c-4a01-9626-bd33fca90f1d",
-        "title": "Forward Deployed Engineer (FDE) - NYC",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Forward Deployed Engineering",
-        "url": "https://jobs.ashbyhq.com/openai/9471b38b-f65c-4a01-9626-bd33fca90f1d",
-        "source": "Ashby",
-        "published_at": "2026-09-11T22:49:03.226000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-7f4c5eef-37f9-4454-a1fb-ef1e66b075d9",
-        "title": "Forward Deployed Engineer (FDE) - Seattle",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Forward Deployed Engineering",
-        "url": "https://jobs.ashbyhq.com/openai/7f4c5eef-37f9-4454-a1fb-ef1e66b075d9",
-        "source": "Ashby",
-        "published_at": "2026-09-11T20:56:13.406000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-967f94aa-1706-4dba-ac89-bfbc2c38b688",
-        "title": "Forward Deployed Engineer (FDE) - SF",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Forward Deployed Engineering",
-        "url": "https://jobs.ashbyhq.com/openai/967f94aa-1706-4dba-ac89-bfbc2c38b688",
-        "source": "Ashby",
-        "published_at": "2026-09-11T20:56:10.864000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-frontend-developer-all-genders-287472",
-        "title": "Senior Frontend Developer (all genders)",
-        "company": "Contabo",
-        "location": "Remote (Germany)",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-frontend-developer-all-genders-287472",
+        "id": "arbeitnow-remote-senior-fullstack-engineer-node-react-all-genders-germany-250238",
+        "title": "(Senior) Fullstack Engineer - Node / React (all genders)",
+        "company": "Gamigo",
+        "location": "Germany",
+        "job_type": "Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/gamigo/remote-senior-fullstack-engineer-node-react-all-genders-germany-250238",
         "source": "Arbeitnow",
-        "published_at": "2026-09-12T14:09:52+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-cloud-product-manager-all-genders-80166",
-        "title": "Senior Cloud Product Manager (all genders)",
-        "company": "Contabo",
-        "location": "Remote (Germany)",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-cloud-product-manager-all-genders-80166",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-12T14:09:52+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-3525810",
-        "title": "Senior Frontend Engineer, Home Experience",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8198130",
-        "source": "Greenhouse",
-        "published_at": "2026-09-11T18:46:20-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-freelance-software-data-ai-engineer-development-data-ai-bad-homburg-260868",
-        "title": "Freelance Software  / Data / AI Engineer (m/w/d) - Development | Data | AI",
-        "company": "Nexgate IT GmbH",
-        "location": "Bad Homburg",
-        "job_type": "Freelance, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-software-data-ai-engineer-development-data-ai-bad-homburg-260868",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-12T16:17:25+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-ai-product-engineer-berlin-151379",
-        "title": "(Senior) AI Product Engineer (m/w/d)",
-        "company": "Legalhero",
-        "location": "Berlin",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-151379",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-12T14:09:35+00:00",
+        "published_at": "2026-09-12T20:20:22+00:00",
         "remote": true
     },
     {
@@ -130,17 +53,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-12T18:40:13+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-398089",
-        "title": "Senior Software Developer – Platform & Infrastructure Engineering (all genders)",
-        "company": "Contabo",
-        "location": "Remote (Germany)",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-software-developer-platform-infrastructure-engineering-all-genders-398089",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-12T14:09:52+00:00",
-        "remote": true
     },
     {
         "id": "arbeitnow-remote-senior-customer-success-engineer-254529",
@@ -165,91 +77,14 @@
         "remote": false
     },
     {
-        "id": "greenhouse-6519120002",
-        "title": "Senior Professional Services Technical Architect - Security",
-        "company": "GitLab",
-        "location": "Remote, Canada; Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8795736002",
-        "source": "Greenhouse",
-        "published_at": "2026-09-11T19:38:04-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3525810",
-        "title": "Senior Software Engineer, Community Builders",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8192057",
-        "source": "Greenhouse",
-        "published_at": "2026-09-11T18:42:55-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3525788",
-        "title": "Front End Software Engineer, Media Player",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8198102",
-        "source": "Greenhouse",
-        "published_at": "2026-09-11T18:27:39-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-freelance-cloud-infrastructure-engineer-devops-platform-security-bad-homburg-447986",
-        "title": "Freelance Cloud / Infrastructure Engineer (m/w/d) - DevOps | Platform | Security",
-        "company": "Nexgate IT GmbH",
-        "location": "Bad Homburg",
-        "job_type": "Freelance, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-cloud-infrastructure-engineer-devops-platform-security-bad-homburg-447986",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-12T12:00:22+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-ml-engineer-germany-3-month-project-282468",
-        "title": "Senior ML Engineer | Germany (3 Month project)",
-        "company": "Intetics 2",
-        "location": "Germany",
-        "job_type": "Temporary",
-        "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-senior-ml-engineer-germany-3-month-project-282468",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-12T14:20:05+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-mitarbeiter-vertrieb-landwirtschaftliche-software-fur-mehrere-regionen-in-deutschland-munchen-464120",
-        "title": "Mitarbeiter Vertrieb (m/w/d) landwirtschaftliche Software für mehrere Regionen in Deutschland",
-        "company": "Wimex-Gruppe",
-        "location": "Homeoffice",
-        "job_type": "Entry, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/wimex-gruppe/remote-mitarbeiter-vertrieb-landwirtschaftliche-software-fur-mehrere-regionen-in-deutschland-munchen-464120",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-12T11:30:18+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-ux-ui-designer-intch-188753",
+        "id": "arbeitnow-remote-ux-ui-designer-intch-450285",
         "title": "UX/UI Designer | Intch",
         "company": "Hirehire",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/hirehire/remote-ux-ui-designer-intch-188753",
+        "url": "https://www.arbeitnow.fr/jobs/companies/hirehire/remote-ux-ui-designer-intch-450285",
         "source": "Arbeitnow",
-        "published_at": "2026-09-12T03:40:10+00:00",
+        "published_at": "2026-09-12T16:07:15+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-product-designer-1-year-ftc-germany-253732",
-        "title": "Product Designer (1-year FTC)",
-        "company": "Fe Fundinfo",
-        "location": "Germany",
-        "job_type": "Contract, mid-senior",
-        "url": "https://www.arbeitnow.com/jobs/companies/fe-fundinfo/remote-product-designer-1-year-ftc-germany-253732",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-12T14:20:02+00:00",
-        "remote": true
     }
 ]

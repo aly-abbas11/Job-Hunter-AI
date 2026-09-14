@@ -44,15 +44,15 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-team-lead-weiterbildungen-ai-data-science-100-remote-156651",
-        "title": "Team Lead Weiterbildungen AI & Data Science 100% remote (m/w/d)",
-        "company": "Karrieretutor De",
-        "location": "100% Remote in Deutschland",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/karrieretutor-de/team-lead-weiterbildungen-ai-data-science-100-remote-156651",
+        "id": "arbeitnow-remote-senior-backend-engineer-go-berlin-391760",
+        "title": "Senior Backend Engineer (Go) (m/w/d)",
+        "company": "Recare Deutschland GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-backend-engineer-go-berlin-391760",
         "source": "Arbeitnow",
-        "published_at": "2026-09-13T02:09:41+00:00",
-        "remote": false
+        "published_at": "2026-09-13T23:30:39+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-236690",
@@ -63,17 +63,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-236690",
         "source": "Arbeitnow",
         "published_at": "2026-09-13T14:30:22+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-product-manager-ai-search-hamburg-292991",
-        "title": "Product Manager AI Search (m/w/d)",
-        "company": "Moebel De",
-        "location": "Hamburg",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-product-manager-ai-search-hamburg-292991",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-13T05:09:13+00:00",
         "remote": true
     },
     {
@@ -107,17 +96,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-12735",
         "source": "Arbeitnow",
         "published_at": "2026-09-13T11:09:49+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-freiberufliche-lehrkraft-fur-data-analytics-138889",
-        "title": "Freiberufliche Lehrkraft (w/m/d) für Data Analytics",
-        "company": "Karrieretutor De",
-        "location": "100% Remote in Deutschland",
-        "job_type": "Experienced, Freelance, Part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/karrieretutor-de/remote-freiberufliche-lehrkraft-fur-data-analytics-138889",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-13T02:09:41+00:00",
         "remote": false
     },
     {

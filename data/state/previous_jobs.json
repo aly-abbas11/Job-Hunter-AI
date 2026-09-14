@@ -1,16 +1,5 @@
 [
     {
-        "id": "arbeitnow-senior-backend-engineer-python-remote-munich-2605",
-        "title": "Senior Backend Engineer (Python) - Remote",
-        "company": "Breathment",
-        "location": "Munich",
-        "job_type": "Contract, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/breathment/senior-backend-engineer-python-remote-munich-2605",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-13T14:00:23+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-data-engineer-real-time-analytics-151340",
         "title": "Senior Data Engineer - Real time analytics",
         "company": "Aircall",
@@ -22,47 +11,25 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-genai-solution-engineer-all-genders-440579",
-        "title": "Senior GenAI Solution Engineer (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-genai-solution-engineer-all-genders-440579",
+        "id": "arbeitnow-senior-fullstack-entwickler-php-laravel-remote-4-tage-woche-leipzig-121442",
+        "title": "Senior Fullstack Entwickler PHP/Laravel (m/w/d) - Remote, 4-Tage-Woche",
+        "company": "Händlerbund Management AG",
+        "location": "Leipzig",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/handlerbund-management-ag/senior-fullstack-entwickler-php-laravel-remote-4-tage-woche-leipzig-121442",
         "source": "Arbeitnow",
-        "published_at": "2026-09-13T11:09:49+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-machine-learning-engineer-embedded-ai-paris-309751",
-        "title": "Senior Machine Learning Engineer - Embedded AI",
-        "company": "Pennylane SAS",
-        "location": "All France (remote)",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/senior-machine-learning-engineer-embedded-ai-paris-309751",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-13T08:45:05+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-backend-engineer-go-berlin-391760",
-        "title": "Senior Backend Engineer (Go) (m/w/d)",
-        "company": "Recare Deutschland GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-backend-engineer-go-berlin-391760",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-13T23:30:39+00:00",
+        "published_at": "2026-09-14T09:30:30+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-236690",
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-236690",
+        "id": "arbeitnow-remote-devops-engineer-cimar-london-437460",
+        "title": "DevOps Engineer - CIMAR",
+        "company": "DeepHealth",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deephealth/remote-devops-engineer-cimar-london-437460",
         "source": "Arbeitnow",
-        "published_at": "2026-09-13T14:30:22+00:00",
+        "published_at": "2026-09-14T03:30:03+00:00",
         "remote": true
     },
     {
@@ -77,69 +44,36 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-forward-deployed-engineer-all-genders-99442",
-        "title": "Forward Deployed Engineer (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-forward-deployed-engineer-all-genders-99442",
+        "id": "arbeitnow-senior-it-ot-network-security-administrator-ref-1380-cologne-472826",
+        "title": "Senior IT-/OT Network & Security Administrator (m/w/d), Ref. 1380",
+        "company": "IP Systems GmbH",
+        "location": "Cologne",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/ip-systems-gmbh/senior-it-ot-network-security-administrator-ref-1380-cologne-472826",
         "source": "Arbeitnow",
-        "published_at": "2026-09-13T11:09:49+00:00",
+        "published_at": "2026-09-14T10:00:31+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-staff-product-designer-jetbrains-430614",
+        "title": "Senior/Staff Product Designer | JetBrains",
+        "company": "Hirehire",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/hirehire/remote-senior-staff-product-designer-jetbrains-430614",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-14T10:40:04+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-data-engineer-all-genders-12735",
-        "title": "Data Engineer (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-12735",
+        "id": "arbeitnow-senior-social-media-manager-windeck-399091",
+        "title": "Senior Social Media Manager",
+        "company": "PAJ UG (haftungsbeschränkt)",
+        "location": "Windeck",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/paj-ug-haftungsbeschrankt/senior-social-media-manager-windeck-399091",
         "source": "Arbeitnow",
-        "published_at": "2026-09-13T11:09:49+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-90810",
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-90810",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-13T14:30:22+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-453189",
-        "title": "Senior Java Backend Developer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-453189",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-13T14:30:22+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-it-architect-karlsruhe-252149",
-        "title": "Senior IT Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-252149",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-13T14:30:22+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-193489",
-        "title": "Senior Oracle Data Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-193489",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-13T14:30:22+00:00",
+        "published_at": "2026-09-14T09:30:31+00:00",
         "remote": true
     }
 ]

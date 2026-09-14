@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-senior-ki-ai-c-net-aspnet-entwickler-remote-cologne-491283",
+        "title": "Senior KI (AI) / C# / .NET / ASP.NET - Entwickler (m/w/d) - remote",
+        "company": "WAITS Software- und Prozessberatungsgesellschaft mbH",
+        "location": "Cologne",
+        "job_type": "Vollzeit (unbefristet), contract, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/waits-software-und-prozessberatungsgesellschaft-mbh/senior-ki-ai-c-net-aspnet-entwickler-remote-cologne-491283",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-14T16:58:06+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-senior-data-engineer-real-time-analytics-151340",
         "title": "Senior Data Engineer - Real time analytics",
         "company": "Aircall",
@@ -11,47 +22,58 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-senior-fullstack-entwickler-php-laravel-remote-4-tage-woche-leipzig-121442",
-        "title": "Senior Fullstack Entwickler PHP/Laravel (m/w/d) - Remote, 4-Tage-Woche",
-        "company": "Händlerbund Management AG",
-        "location": "Leipzig",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/handlerbund-management-ag/senior-fullstack-entwickler-php-laravel-remote-4-tage-woche-leipzig-121442",
+        "id": "arbeitnow-senior-backend-engineer-java-spring-boot-remote-berlin-349112",
+        "title": "Senior Backend Engineer Java / Spring Boot - remote",
+        "company": "wealthAPI GmbH",
+        "location": "Berlin",
+        "job_type": "Full-time (permanent), professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/wealthapi-gmbh/senior-backend-engineer-java-spring-boot-remote-berlin-349112",
         "source": "Arbeitnow",
-        "published_at": "2026-09-14T09:30:30+00:00",
+        "published_at": "2026-09-14T16:59:05+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-devops-engineer-cimar-london-437460",
-        "title": "DevOps Engineer - CIMAR",
-        "company": "DeepHealth",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/deephealth/remote-devops-engineer-cimar-london-437460",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-14T03:30:03+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-software-engineer-396352",
-        "title": "Software Engineer",
-        "company": "Scarlet",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/scarlet/remote-software-engineer-396352",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-13T15:40:03+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-it-ot-network-security-administrator-ref-1380-cologne-472826",
-        "title": "Senior IT-/OT Network & Security Administrator (m/w/d), Ref. 1380",
-        "company": "IP Systems GmbH",
-        "location": "Cologne",
+        "id": "arbeitnow-it-pmo-it-projektmanagement-50-100-remote-deutschsprachig-wiesbaden-472134",
+        "title": "IT PMO / IT Projektmanagement m/w/d (50-100% remote) - Deutschsprachig",
+        "company": "JPL Consulting GmbH",
+        "location": "Wiesbaden",
         "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/ip-systems-gmbh/senior-it-ot-network-security-administrator-ref-1380-cologne-472826",
+        "url": "https://www.arbeitnow.com/jobs/companies/jpl-consulting-gmbh/it-pmo-it-projektmanagement-50-100-remote-deutschsprachig-wiesbaden-472134",
         "source": "Arbeitnow",
-        "published_at": "2026-09-14T10:00:31+00:00",
+        "published_at": "2026-09-14T16:59:30+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6523942002",
+        "title": "Director of Product Management, Agentic Software Delivery",
+        "company": "GitLab",
+        "location": "Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8806017002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-14T12:37:57-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3547842",
+        "title": "Staff Software Engineer- Wallets, Liquidity & Bridging",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8197831?gh_jid=8197831",
+        "source": "Greenhouse",
+        "published_at": "2026-09-14T12:12:46-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3531285",
+        "title": "Developer Advocate - Service Management EMEA",
+        "company": "Datadog",
+        "location": "France, Remote",
+        "job_type": "Full Time",
+        "url": "https://careers.datadoghq.com/detail/8161455/?gh_jid=8161455",
+        "source": "Greenhouse",
+        "published_at": "2026-09-14T10:43:47-04:00",
         "remote": true
     },
     {
@@ -66,14 +88,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-senior-social-media-manager-windeck-399091",
-        "title": "Senior Social Media Manager",
-        "company": "PAJ UG (haftungsbeschränkt)",
-        "location": "Windeck",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/paj-ug-haftungsbeschrankt/senior-social-media-manager-windeck-399091",
+        "id": "arbeitnow-customer-service-executive-london-257839",
+        "title": "Customer Service Executive",
+        "company": "Bike Club",
+        "location": "London",
+        "job_type": "executive",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/bike-club/customer-service-executive-london-257839",
         "source": "Arbeitnow",
-        "published_at": "2026-09-14T09:30:31+00:00",
+        "published_at": "2026-09-14T15:30:37+00:00",
         "remote": true
     }
 ]

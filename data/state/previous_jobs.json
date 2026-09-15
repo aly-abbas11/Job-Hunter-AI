@@ -11,6 +11,17 @@
         "remote": true
     },
     {
+        "id": "greenhouse-3545099",
+        "title": "Senior Performance Marketing Manager, Global Paid Social & Mobile UA",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8192485?gh_jid=8192485",
+        "source": "Greenhouse",
+        "published_at": "2026-09-15T11:27:26-04:00",
+        "remote": true
+    },
+    {
         "id": "ashby-f5c3b504-3982-4d67-99ba-315b9e14f196",
         "title": "Account Director, Digital Natives - France",
         "company": "OpenAI",
@@ -31,17 +42,6 @@
         "source": "Greenhouse",
         "published_at": "2026-09-15T02:07:12-04:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-full-stack-engineer-all-genders-backend-or-frontend-focus-38682",
-        "title": "Senior Full-Stack Engineer (all genders) | Backend or Frontend Focus",
-        "company": "Real Digital",
-        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
-        "job_type": "Experienced, Permanent, Full or part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-full-stack-engineer-all-genders-backend-or-frontend-focus-38682",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-15T05:09:28+00:00",
-        "remote": false
     },
     {
         "id": "ashby-4923fd3e-acf2-4551-91ad-5a92ca81455b",
@@ -121,15 +121,15 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-software-engineer-fullstack-fur-ki-produkte-38098",
-        "title": "Senior Software Engineer (m/w/d) | Fullstack für KI-Produkte",
-        "company": "Avenit Ag",
-        "location": "Remote in Deutschland",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-38098",
+        "id": "arbeitnow-senior-qa-manager-fully-remote-berlin-435767",
+        "title": "Senior QA Manager - Fully Remote",
+        "company": "SOFTGAMES",
+        "location": "Remote job",
+        "job_type": "Entry, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-qa-manager-fully-remote-berlin-435767",
         "source": "Arbeitnow",
-        "published_at": "2026-09-15T05:09:47+00:00",
-        "remote": false
+        "published_at": "2026-09-15T14:30:15+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-senior-cloud-platform-engineer-431744",
@@ -143,26 +143,59 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-data-scientist-remote-freelance-sydney-sydney-team-44993",
-        "title": "Data Scientist - Remote Freelance Sydney (m/f/d) - Sydney Team",
-        "company": "7Learnings",
-        "location": "Remote",
-        "job_type": "Experienced, Freelance, Part time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/7learnings/data-scientist-remote-freelance-sydney-sydney-team-44993",
+        "id": "arbeitnow-senior-devops-platform-engineer-ai-infrastructure-leipzig-223621",
+        "title": "Senior DevOps / Platform Engineer, AI Infrastructure (m/f/x)",
+        "company": "MAIA",
+        "location": "Leipzig",
+        "job_type": "professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-ai-infrastructure-leipzig-223621",
         "source": "Arbeitnow",
-        "published_at": "2026-09-15T09:09:22+00:00",
-        "remote": false
+        "published_at": "2026-09-15T13:00:29+00:00",
+        "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-devops-engineer-all-genders-data-platform-245703",
-        "title": "Senior DevOps Engineer (all genders) | Data Platform",
-        "company": "Real Digital",
-        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
-        "job_type": "Experienced, Permanent, Full or part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-245703",
+        "id": "arbeitnow-ce-marking-consultant-industry-expert-and-ai-pioneer-freelance-part-time-germany-heidelberg-499568",
+        "title": "CE Marking Consultant, Industry Expert and AI Pioneer (Freelance/Part-time, Germany)",
+        "company": "CE=SCAN",
+        "location": "Heidelberg",
+        "job_type": "Contract, geschäftsleitung",
+        "url": "https://www.arbeitnow.com/jobs/companies/cescan/ce-marking-consultant-industry-expert-and-ai-pioneer-freelance-part-time-germany-heidelberg-499568",
         "source": "Arbeitnow",
-        "published_at": "2026-09-15T05:09:28+00:00",
-        "remote": false
+        "published_at": "2026-09-15T12:30:31+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-sales-engineer-north-america-286129",
+        "title": "Senior Sales Engineer- North America",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-north-america-286129",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-15T14:40:04+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3490577",
+        "title": "Senior Software Engineer II, Developer Experience",
+        "company": "Instacart",
+        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8204016",
+        "source": "Greenhouse",
+        "published_at": "2026-09-15T09:32:53-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3457579",
+        "title": "Senior Machine Learning Engineer, Ads Response Prediction",
+        "company": "Instacart",
+        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=7963840",
+        "source": "Greenhouse",
+        "published_at": "2026-09-15T08:52:18-04:00",
+        "remote": true
     },
     {
         "id": "greenhouse-3500685",
@@ -198,58 +231,25 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3547842",
-        "title": "Staff Software Engineer- Wallets, Liquidity & Bridging",
-        "company": "Coinbase",
-        "location": "Remote - USA",
+        "id": "arbeitnow-remote-on-holiday-support-agent-31245",
+        "title": "On Holiday Support Agent",
+        "company": "loveholidays",
+        "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8197831?gh_jid=8197831",
-        "source": "Greenhouse",
-        "published_at": "2026-09-14T12:12:46-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3531285",
-        "title": "Developer Advocate - Service Management EMEA",
-        "company": "Datadog",
-        "location": "France, Remote",
-        "job_type": "Full Time",
-        "url": "https://careers.datadoghq.com/detail/8161455/?gh_jid=8161455",
-        "source": "Greenhouse",
-        "published_at": "2026-09-14T10:43:47-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-system-engineer-bonn-6739",
-        "title": "Senior System Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-system-engineer-bonn-6739",
+        "url": "https://www.arbeitnow.com/jobs/companies/loveholidays/remote-on-holiday-support-agent-31245",
         "source": "Arbeitnow",
-        "published_at": "2026-09-15T02:30:06+00:00",
+        "published_at": "2026-09-15T14:40:07+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-ux-researcher-all-genders-220192",
-        "title": "(Senior) UX Researcher (all genders)",
-        "company": "Real Digital",
-        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
-        "job_type": "Experienced, Permanent, Full or part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-ux-researcher-all-genders-220192",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-15T05:09:28+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-social-media-manager-im-kreativbereich-langweid-am-lech-323732",
-        "title": "Social Media Manager im Kreativbereich (m/w/d)",
-        "company": "Picmondoo GmbH",
-        "location": "Langweid am Lech",
+        "id": "arbeitnow-social-media-ki-automation-manager-100-remote-vollzeit-start-ab-sofort-chemnitz-238743",
+        "title": "Social Media & KI-Automation Manager (m/w/d) - 100% Remote, Vollzeit | Start: ab sofort",
+        "company": "Endo Health GmbH",
+        "location": "Chemnitz",
         "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/picmondoo-gmbh/social-media-manager-im-kreativbereich-langweid-am-lech-323732",
+        "url": "https://www.arbeitnow.com/jobs/companies/endo-health-gmbh/social-media-ki-automation-manager-100-remote-vollzeit-start-ab-sofort-chemnitz-238743",
         "source": "Arbeitnow",
-        "published_at": "2026-09-15T06:30:50+00:00",
+        "published_at": "2026-09-15T14:00:41+00:00",
         "remote": true
     }
 ]

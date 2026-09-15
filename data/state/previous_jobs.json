@@ -1,13 +1,24 @@
 [
     {
-        "id": "ashby-6c01266f-6ddb-42d1-a529-84736ae8587a",
-        "title": "Applied AI Engineer, Government, International",
+        "id": "ashby-8acfba11-707e-4d8e-a860-88643fae24ba",
+        "title": "Applied AI Engineer",
         "company": "OpenAI",
         "location": "Remote",
-        "job_type": "FullTime, OpenAI for Gov",
-        "url": "https://jobs.ashbyhq.com/openai/6c01266f-6ddb-42d1-a529-84736ae8587a",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/8acfba11-707e-4d8e-a860-88643fae24ba",
         "source": "Ashby",
-        "published_at": "2026-09-14T18:24:20.408000+00:00",
+        "published_at": "2026-09-15T18:40:04.742000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-65b255da-4fd9-414e-98d4-0bec4eecf8ff",
+        "title": "Product Manufacturing & Quality Engineer",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Scaling",
+        "url": "https://jobs.ashbyhq.com/openai/65b255da-4fd9-414e-98d4-0bec4eecf8ff",
+        "source": "Ashby",
+        "published_at": "2026-09-15T17:25:45.762000+00:00",
         "remote": true
     },
     {
@@ -88,36 +99,14 @@
         "remote": true
     },
     {
-        "id": "ashby-b2250643-bfd0-4ce6-abbf-cb7e8c8123ba",
-        "title": "AI Infrastructure Engineer, pAGI",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Research",
-        "url": "https://jobs.ashbyhq.com/openai/b2250643-bfd0-4ce6-abbf-cb7e8c8123ba",
-        "source": "Ashby",
-        "published_at": "2026-09-14T18:47:19.139000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-596e543a-0ab9-471e-a1ff-40fd55c74fce",
-        "title": "Software Engineer, Ads Integrity",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/596e543a-0ab9-471e-a1ff-40fd55c74fce",
-        "source": "Ashby",
-        "published_at": "2026-09-14T18:34:43.801000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-9fac9e21-ee83-487a-a537-297a0666a85d",
-        "title": "Growth Marketing Manager - Web & Organic, SMB Ads",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Marketing",
-        "url": "https://jobs.ashbyhq.com/openai/9fac9e21-ee83-487a-a537-297a0666a85d",
-        "source": "Ashby",
-        "published_at": "2026-09-14T18:10:34.378000+00:00",
+        "id": "greenhouse-3550429",
+        "title": "Senior Software Engineer, Backend (Institutional - Exchange)",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8203429?gh_jid=8203429",
+        "source": "Greenhouse",
+        "published_at": "2026-09-15T15:55:25-04:00",
         "remote": true
     },
     {
@@ -132,36 +121,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-cloud-platform-engineer-431744",
-        "title": "Senior Cloud Platform Engineer",
-        "company": "prolific",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-cloud-platform-engineer-431744",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-15T09:55:08+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-devops-platform-engineer-ai-infrastructure-leipzig-223621",
-        "title": "Senior DevOps / Platform Engineer, AI Infrastructure (m/f/x)",
-        "company": "MAIA",
-        "location": "Leipzig",
-        "job_type": "professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-ai-infrastructure-leipzig-223621",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-15T13:00:29+00:00",
+        "id": "greenhouse-3549532",
+        "title": "Senior Staff Machine Learning Engineer, Ads Ranking",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8201359",
+        "source": "Greenhouse",
+        "published_at": "2026-09-15T14:58:04-04:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-ce-marking-consultant-industry-expert-and-ai-pioneer-freelance-part-time-germany-heidelberg-499568",
-        "title": "CE Marking Consultant, Industry Expert and AI Pioneer (Freelance/Part-time, Germany)",
-        "company": "CE=SCAN",
-        "location": "Heidelberg",
-        "job_type": "Contract, geschäftsleitung",
-        "url": "https://www.arbeitnow.com/jobs/companies/cescan/ce-marking-consultant-industry-expert-and-ai-pioneer-freelance-part-time-germany-heidelberg-499568",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-15T12:30:31+00:00",
+        "id": "ashby-f04f398b-6320-499d-8a60-290239d62da8",
+        "title": "Design Engineer (Web & Brand)",
+        "company": "Linear",
+        "location": "Remote",
+        "job_type": "FullTime, GTM",
+        "url": "https://jobs.ashbyhq.com/linear/f04f398b-6320-499d-8a60-290239d62da8",
+        "source": "Ashby",
+        "published_at": "2026-09-15T18:05:31.687000+00:00",
         "remote": true
     },
     {
@@ -198,36 +176,14 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3500685",
-        "title": "Staff Software Engineer, Developer Experience",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+        "id": "greenhouse-3379465",
+        "title": "Staff Qualitative UX Researcher, Monetization",
+        "company": "Pinterest",
+        "location": "San Francisco, CA, US; Remote, US",
         "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8202247",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684577",
         "source": "Greenhouse",
-        "published_at": "2026-09-14T16:23:22-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-375022",
-        "title": "Sales Account Executive - Cybersecurity",
-        "company": "Crowdsec",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-375022",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-14T19:30:25+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6523942002",
-        "title": "Director of Product Management, Agentic Software Delivery",
-        "company": "GitLab",
-        "location": "Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8806017002",
-        "source": "Greenhouse",
-        "published_at": "2026-09-14T12:37:57-04:00",
+        "published_at": "2026-09-15T15:34:31-04:00",
         "remote": true
     },
     {
@@ -250,6 +206,17 @@
         "url": "https://www.arbeitnow.com/jobs/companies/endo-health-gmbh/social-media-ki-automation-manager-100-remote-vollzeit-start-ab-sofort-chemnitz-238743",
         "source": "Arbeitnow",
         "published_at": "2026-09-15T14:00:41+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-product-designer-germany-344392",
+        "title": "Product Designer",
+        "company": "Samacoaching",
+        "location": "Germany",
+        "job_type": "Contract, director",
+        "url": "https://www.arbeitnow.com/jobs/companies/samacoaching/remote-product-designer-germany-344392",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-15T17:20:13+00:00",
         "remote": true
     }
 ]

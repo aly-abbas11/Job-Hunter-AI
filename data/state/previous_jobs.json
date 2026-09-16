@@ -1,14 +1,25 @@
 [
     {
-        "id": "arbeitnow-remote-junior-data-scientist-14119",
-        "title": "(Junior) Data Scientist",
-        "company": "Quantilope Gmbh",
-        "location": "Hybrid (Hamburg) or Remote (Germany)",
-        "job_type": "Entry, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/quantilope-gmbh/remote-junior-data-scientist-14119",
+        "id": "arbeitnow-software-development-intern-q4-2026-dusseldorf-439719",
+        "title": "Software Development Intern (Q4 2026)",
+        "company": "Lestat Real Group GmbH",
+        "location": "Düsseldorf",
+        "job_type": "Internship",
+        "url": "https://www.arbeitnow.com/jobs/companies/lestat-real-group-gmbh/software-development-intern-q4-2026-dusseldorf-439719",
         "source": "Arbeitnow",
-        "published_at": "2026-09-15T23:09:26+00:00",
-        "remote": false
+        "published_at": "2026-09-16T07:30:28+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-0916f210-e851-493c-b8ec-51cf00152be1",
+        "title": "Applied AI Architect, Partner",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/0916f210-e851-493c-b8ec-51cf00152be1",
+        "source": "Ashby",
+        "published_at": "2026-09-16T09:03:45.547000+00:00",
+        "remote": true
     },
     {
         "id": "ashby-3b08148d-085e-4835-9934-1b7f60e0fdce",
@@ -55,17 +66,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-data-management-ai-analyst-im-gesundheitswesen-data-management-100-remote-digital-weiterbildung-berlin-308562",
-        "title": "Data Management & AI Analyst im Gesundheitswesen (m/w/d) Data Management, 100% Remote & Digital (Weiterbildung)",
-        "company": "DataSmart Point GmbH",
-        "location": "Berlin",
-        "job_type": "Apprenticeship, teamleitung",
-        "url": "https://www.arbeitnow.com/jobs/companies/datasmart-point-gmbh/data-management-ai-analyst-im-gesundheitswesen-data-management-100-remote-digital-weiterbildung-berlin-308562",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-15T23:00:28+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-8acfba11-707e-4d8e-a860-88643fae24ba",
         "title": "Applied AI Engineer",
         "company": "OpenAI",
@@ -99,48 +99,59 @@
         "remote": true
     },
     {
-        "id": "ashby-f5c3b504-3982-4d67-99ba-315b9e14f196",
-        "title": "Account Director, Digital Natives - France",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/f5c3b504-3982-4d67-99ba-315b9e14f196",
-        "source": "Ashby",
-        "published_at": "2026-09-15T09:15:38.529000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3430688",
-        "title": "Staff Machine Learning Engineer, AI Security",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8203478",
-        "source": "Greenhouse",
-        "published_at": "2026-09-15T02:07:12-04:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-4923fd3e-acf2-4551-91ad-5a92ca81455b",
-        "title": "Software Engineer, Healthcare",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/4923fd3e-acf2-4551-91ad-5a92ca81455b",
-        "source": "Ashby",
-        "published_at": "2026-09-15T04:42:58.212000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3550429",
-        "title": "Senior Software Engineer, Backend (Institutional - Exchange)",
+        "id": "greenhouse-3552222",
+        "title": "Software Engineer",
         "company": "Coinbase",
-        "location": "Remote - USA",
+        "location": "Remote - Canada",
         "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8203429?gh_jid=8203429",
+        "url": "https://www.coinbase.com/careers/positions/8207374?gh_jid=8207374",
         "source": "Greenhouse",
-        "published_at": "2026-09-15T15:55:25-04:00",
+        "published_at": "2026-09-16T05:53:17-04:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-sales-engineer-north-america-165496",
+        "title": "Senior Sales Engineer - North America",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-sales-engineer-north-america-165496",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-16T09:40:04+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-sales-engineer-life-science-north-america-396381",
+        "title": "Senior Sales Engineer - Life Science - North America",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-sales-engineer-life-science-north-america-396381",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-16T09:40:04+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-sales-engineer-dach-2836",
+        "title": "Senior Sales Engineer - DACH",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-sales-engineer-dach-2836",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-16T09:40:04+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-sales-engineer-bfsi-north-america-208121",
+        "title": "Senior Sales Engineer - BFSI - North America",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-sales-engineer-bfsi-north-america-208121",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-16T09:40:04+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3551397",
@@ -151,17 +162,6 @@
         "url": "https://job-boards.greenhouse.io/reddit/jobs/8205702",
         "source": "Greenhouse",
         "published_at": "2026-09-15T19:41:34-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-weiterbildung-data-science-business-analytics-ihk-remote-berlin-35085",
-        "title": "Weiterbildung: Data Science & Business Analytics (IHK) (m/w/d) - Remote",
-        "company": "DataSmart Point GmbH",
-        "location": "Berlin",
-        "job_type": "Apprenticeship",
-        "url": "https://www.arbeitnow.com/jobs/companies/datasmart-point-gmbh/weiterbildung-data-science-business-analytics-ihk-remote-berlin-35085",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-15T23:00:28+00:00",
         "remote": true
     },
     {
@@ -220,25 +220,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-sales-engineer-north-america-158329",
-        "title": "Senior Sales Engineer- North America",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-sales-engineer-north-america-158329",
+        "id": "arbeitnow-remote-laravel-senior-backend-developer-skaliere-mit-uns-auf-millionen-traffic-berlin-246897",
+        "title": "Laravel Senior Backend Developer (m/w/d) - Skaliere mit uns auf Millionen-Traffic",
+        "company": "Kettner Edelmetalle",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/kettner-edelmetalle/remote-laravel-senior-backend-developer-skaliere-mit-uns-auf-millionen-traffic-berlin-246897",
         "source": "Arbeitnow",
-        "published_at": "2026-09-15T10:40:03+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-endear-product-designer-432321",
-        "title": "Endear - Product Designer",
-        "company": "Eleve Talent",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-endear-product-designer-432321",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-16T02:40:12+00:00",
+        "published_at": "2026-09-16T05:30:20+00:00",
         "remote": true
     },
     {
@@ -250,6 +239,17 @@
         "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684577",
         "source": "Greenhouse",
         "published_at": "2026-09-15T15:34:31-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-social-media-manager-content-creator-pizzora-passau-290540",
+        "title": "Social Media Manager / Content Creator - Pizzora",
+        "company": "Pizzora",
+        "location": "Passau",
+        "job_type": "Side",
+        "url": "https://www.arbeitnow.com/jobs/companies/pizzora/social-media-manager-content-creator-pizzora-passau-290540",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-16T10:00:48+00:00",
         "remote": true
     }
 ]

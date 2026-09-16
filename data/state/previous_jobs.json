@@ -1,5 +1,60 @@
 [
     {
+        "id": "ashby-009dc18b-26a3-4fac-a773-c60d742cf840",
+        "title": "Software Engineer, International",
+        "company": "Ramp",
+        "location": "Remote",
+        "job_type": "FullTime, Engineering",
+        "url": "https://jobs.ashbyhq.com/ramp/009dc18b-26a3-4fac-a773-c60d742cf840",
+        "source": "Ashby",
+        "published_at": "2026-09-16T20:44:49.227000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-solutions-engineer-pre-sales-france-paris-365211",
+        "title": "Solutions Engineer (Pre-Sales) France",
+        "company": "Aikido Security",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aikido-security/remote-solutions-engineer-pre-sales-france-paris-365211",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-16T19:30:32+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-19d112c5-e8f1-4326-80dd-0c0433e116ed",
+        "title": "Deal Operations, APAC",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/19d112c5-e8f1-4326-80dd-0c0433e116ed",
+        "source": "Ashby",
+        "published_at": "2026-09-16T19:21:00.381000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-sr-forward-deployed-ai-engineer-remote-eligible-in-the-uk-158584",
+        "title": "Sr. Forward Deployed AI Engineer (Remote Eligible in the UK)",
+        "company": "smartsheet",
+        "location": "-REMOTE",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/smartsheet/sr-forward-deployed-ai-engineer-remote-eligible-in-the-uk-158584",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-16T18:55:05+00:00",
+        "remote": false
+    },
+    {
+        "id": "ashby-1baad891-43b8-4e2a-9e6c-f68741e718a4",
+        "title": "Applied AI Architect, Healthcare & Life Sciences",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/1baad891-43b8-4e2a-9e6c-f68741e718a4",
+        "source": "Ashby",
+        "published_at": "2026-09-16T18:05:34.957000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-744c66d4-4499-4a87-8020-7c90750181c8",
         "title": "Customer Success Manager, Ads Solutions (Mumbai)",
         "company": "OpenAI",
@@ -66,28 +121,6 @@
         "remote": true
     },
     {
-        "id": "ashby-8acfba11-707e-4d8e-a860-88643fae24ba",
-        "title": "Applied AI Engineer",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/8acfba11-707e-4d8e-a860-88643fae24ba",
-        "source": "Ashby",
-        "published_at": "2026-09-15T18:40:04.742000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-65b255da-4fd9-414e-98d4-0bec4eecf8ff",
-        "title": "Product Manufacturing & Quality Engineer",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/65b255da-4fd9-414e-98d4-0bec4eecf8ff",
-        "source": "Ashby",
-        "published_at": "2026-09-15T17:25:45.762000+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-solution-architect-langgraph-agentic-ai-francescas-478020",
         "title": "Solution Architect - LangGraph & Agentic AI",
         "company": "Belmont Lavan Ltd",
@@ -110,14 +143,58 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-join-our-trusted-contractor-network-skelmersdale-220766",
-        "title": "Join our trusted contractor network",
-        "company": "The Config Team",
-        "location": "Remote job",
-        "job_type": "Experienced, contract",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-join-our-trusted-contractor-network-skelmersdale-220766",
+        "id": "arbeitnow-senior-product-manager-ii-developer-ecosystem-mcp-remote-from-uk-297630",
+        "title": "Senior Product Manager II, Developer ecosystem MCP (Remote from UK)",
+        "company": "smartsheet",
+        "location": "-REMOTE",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/smartsheet/senior-product-manager-ii-developer-ecosystem-mcp-remote-from-uk-297630",
         "source": "Arbeitnow",
-        "published_at": "2026-09-16T12:30:02+00:00",
+        "published_at": "2026-09-16T18:55:05+00:00",
+        "remote": false
+    },
+    {
+        "id": "ashby-fab1525f-3d89-4d1c-9094-84d21647415e",
+        "title": "FinOps Engineer",
+        "company": "Supabase",
+        "location": "Remote",
+        "job_type": "FullTime, Engineering",
+        "url": "https://jobs.ashbyhq.com/supabase/fab1525f-3d89-4d1c-9094-84d21647415e",
+        "source": "Ashby",
+        "published_at": "2026-09-16T18:40:09.760000+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6516412002",
+        "title": "Engineering Manager, DevOps",
+        "company": "GitLab",
+        "location": "Remote, Canada; Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8789547002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-16T13:30:20-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3543626",
+        "title": "Manager of Managers, Marketing Data Science",
+        "company": "Stripe",
+        "location": "Seattle, WA OR New York, NY OR Remote North America",
+        "job_type": "Full Time",
+        "url": "https://stripe.com/jobs/search?gh_jid=8189012",
+        "source": "Greenhouse",
+        "published_at": "2026-09-16T12:23:33-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3542836",
+        "title": "Senior Software Engineer, Consumer Engineering",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8187247",
+        "source": "Greenhouse",
+        "published_at": "2026-09-16T12:12:02-04:00",
         "remote": true
     },
     {
@@ -130,50 +207,6 @@
         "source": "Greenhouse",
         "published_at": "2026-09-16T05:53:17-04:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-sales-engineer-north-america-165496",
-        "title": "Senior Sales Engineer - North America",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-sales-engineer-north-america-165496",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-16T09:40:04+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-sales-engineer-life-science-north-america-396381",
-        "title": "Senior Sales Engineer - Life Science - North America",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-sales-engineer-life-science-north-america-396381",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-16T09:40:04+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-sales-engineer-dach-2836",
-        "title": "Senior Sales Engineer - DACH",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-sales-engineer-dach-2836",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-16T09:40:04+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-sales-engineer-bfsi-north-america-208121",
-        "title": "Senior Sales Engineer - BFSI - North America",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-sales-engineer-bfsi-north-america-208121",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-16T09:40:04+00:00",
-        "remote": false
     },
     {
         "id": "greenhouse-3551397",
@@ -198,59 +231,26 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3549532",
-        "title": "Senior Staff Machine Learning Engineer, Ads Ranking",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8201359",
-        "source": "Greenhouse",
-        "published_at": "2026-09-15T14:58:04-04:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-f04f398b-6320-499d-8a60-290239d62da8",
-        "title": "Design Engineer (Web & Brand)",
-        "company": "Linear",
+        "id": "ashby-9acdfc63-6cce-4e2b-a862-a0fdc6da7743",
+        "title": "Editor",
+        "company": "OpenAI",
         "location": "Remote",
-        "job_type": "FullTime, GTM",
-        "url": "https://jobs.ashbyhq.com/linear/f04f398b-6320-499d-8a60-290239d62da8",
+        "job_type": "FullTime, Marketing",
+        "url": "https://jobs.ashbyhq.com/openai/9acdfc63-6cce-4e2b-a862-a0fdc6da7743",
         "source": "Ashby",
-        "published_at": "2026-09-15T18:05:31.687000+00:00",
+        "published_at": "2026-09-16T18:17:30.332000+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-android-developer-dusseldorf-455241",
-        "title": "Android Developer (m/w/d)",
-        "company": "buesken strategy & consulting",
-        "location": "Düsseldorf",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/buesken-strategy-consulting/android-developer-dusseldorf-455241",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-16T12:30:33+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-social-media-praktikantin-hamburg-404557",
-        "title": "Social Media Praktikant:in (m/w/d)",
-        "company": "Küchenkompane",
-        "location": "Hamburg",
-        "job_type": "Internship",
-        "url": "https://www.arbeitnow.com/jobs/companies/kuchenkompane/social-media-praktikantin-hamburg-404557",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-16T14:00:55+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3379465",
-        "title": "Staff Qualitative UX Researcher, Monetization",
-        "company": "Pinterest",
-        "location": "San Francisco, CA, US; Remote, US",
+        "id": "arbeitnow-remote-endear-product-designer-96787",
+        "title": "Endear - Product Designer",
+        "company": "Eleve Talent",
+        "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684577",
-        "source": "Greenhouse",
-        "published_at": "2026-09-15T15:34:31-04:00",
-        "remote": true
+        "url": "https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-endear-product-designer-96787",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-16T19:40:09+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-executive-assistant-fur-den-ceo-tubingen-264509",

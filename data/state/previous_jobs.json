@@ -1,16 +1,5 @@
 [
     {
-        "id": "arbeitnow-praktikum-online-marketing-marketing-ki-ai-bielefeld-406022",
-        "title": "Praktikum Online-Marketing / Marketing / KI / AI",
-        "company": "SEOMATIK GmbH",
-        "location": "Bielefeld",
-        "job_type": "Internship",
-        "url": "https://www.arbeitnow.com/jobs/companies/seomatik-gmbh/praktikum-online-marketing-marketing-ki-ai-bielefeld-406022",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T07:30:39+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-009dc18b-26a3-4fac-a773-c60d742cf840",
         "title": "Software Engineer, International",
         "company": "Ramp",
@@ -22,26 +11,15 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-backend-engineer-ruby-ai-engineering-ai-coding-261174",
-        "title": "Senior Backend Engineer (Ruby), AI Engineering: AI Coding",
-        "company": "gitlab",
+        "id": "ashby-4167047e-33c2-4be4-b693-71c6c039bc56",
+        "title": "Applied AI Architect, Retail",
+        "company": "OpenAI",
         "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-ruby-ai-engineering-ai-coding-261174",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T00:55:09+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-backend-engineer-ai-engineering-chat-8338",
-        "title": "Senior Backend Engineer, AI Engineering: Chat",
-        "company": "gitlab",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-ai-engineering-chat-8338",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T00:55:09+00:00",
-        "remote": false
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/4167047e-33c2-4be4-b693-71c6c039bc56",
+        "source": "Ashby",
+        "published_at": "2026-09-17T15:32:18.866000+00:00",
+        "remote": true
     },
     {
         "id": "ashby-b2e53ff7-629b-4f7f-a13e-3910e4fe4656",
@@ -110,102 +88,113 @@
         "remote": true
     },
     {
-        "id": "ashby-744c66d4-4499-4a87-8020-7c90750181c8",
-        "title": "Customer Success Manager, Ads Solutions (Mumbai)",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/744c66d4-4499-4a87-8020-7c90750181c8",
-        "source": "Ashby",
-        "published_at": "2026-09-16T15:23:11.436000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-100-remote-75k-senior-fullstack-entwicklerin-munster-181082",
-        "title": "100% Remote - 75k - Senior Fullstack-Entwickler*in  (m/w/d)",
-        "company": "Applysia GmbH",
-        "location": "Münster",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/applysia-gmbh/100-remote-75k-senior-fullstack-entwicklerin-munster-181082",
+        "id": "arbeitnow-qa-tester-brookhaven-london-449280",
+        "title": "QA Tester - Brookhaven",
+        "company": "Voldex",
+        "location": "Remote - UK",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/voldex/qa-tester-brookhaven-london-449280",
         "source": "Arbeitnow",
-        "published_at": "2026-09-17T09:30:39+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-backend-engineer-deployment-environments-336853",
-        "title": "Senior Backend Engineer, Deployment Environments",
-        "company": "gitlab",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-deployment-environments-336853",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T00:55:09+00:00",
+        "published_at": "2026-09-17T15:40:10+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-sales-engineer-north-america-44790",
+        "id": "arbeitnow-remote-senior-staff-product-engineer-frontend-koln-341906",
+        "title": "Senior/Staff Product Engineer (Frontend) (m/f/d)",
+        "company": "epilot GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime",
+        "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-frontend-koln-341906",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T14:30:02+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-behavior-planning-74582",
+        "title": "Senior Software Engineer, Behavior Planning",
+        "company": "Aerovect",
+        "location": "United Kingdom (Remote)",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/aerovect/remote-senior-software-engineer-behavior-planning-74582",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T15:40:11+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-data-strategy-operations-specialist-london-165077",
+        "title": "Data & Strategy Operations Specialist",
+        "company": "Better Collective A/S",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/better-collective-as/remote-data-strategy-operations-specialist-london-165077",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T15:30:06+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-staff-product-engineer-full-stack-koln-435694",
+        "title": "Senior/Staff Product Engineer (Full Stack) (m/f/d)",
+        "company": "epilot GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime",
+        "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-full-stack-koln-435694",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T14:30:02+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6527946002",
+        "title": "Senior Security Engineer, Incident Response Team (Australia)",
+        "company": "GitLab",
+        "location": "Remote, Australia",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8815229002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-17T10:19:29-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6501776002",
+        "title": "Staff Software Engineer",
+        "company": "GitLab",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8754823002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-17T09:10:39-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-sales-engineer-north-america-458617",
         "title": "Senior Sales Engineer - North America",
         "company": "Camunda",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-north-america-44790",
+        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-sales-engineer-north-america-458617",
         "source": "Arbeitnow",
-        "published_at": "2026-09-17T08:40:09+00:00",
-        "remote": true
+        "published_at": "2026-09-17T07:40:10+00:00",
+        "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-sales-engineer-life-science-north-america-273744",
+        "id": "arbeitnow-remote-senior-sales-engineer-life-science-north-america-139440",
         "title": "Senior Sales Engineer - Life Science - North America",
         "company": "Camunda",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-life-science-north-america-273744",
+        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-sales-engineer-life-science-north-america-139440",
         "source": "Arbeitnow",
-        "published_at": "2026-09-17T08:40:09+00:00",
-        "remote": true
+        "published_at": "2026-09-17T07:40:10+00:00",
+        "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-sales-engineer-dach-492983",
+        "id": "arbeitnow-remote-senior-sales-engineer-dach-241855",
         "title": "Senior Sales Engineer - DACH",
         "company": "Camunda",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-dach-492983",
+        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-sales-engineer-dach-241855",
         "source": "Arbeitnow",
-        "published_at": "2026-09-17T08:40:09+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-staff-infrastructure-security-engineer-emea-apj-334575",
-        "title": "Staff Infrastructure Security Engineer (EMEA/APJ)",
-        "company": "gitlab",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-staff-infrastructure-security-engineer-emea-apj-334575",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T00:55:09+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-security-engineer-328981",
-        "title": "Senior Software Security Engineer",
-        "company": "gitlab",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-software-security-engineer-328981",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T00:55:09+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-security-engineer-security-incident-response-team-sirt-emea-53937",
-        "title": "Senior Security Engineer, Security Incident Response Team (SIRT) - EMEA",
-        "company": "gitlab",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-security-engineer-security-incident-response-team-sirt-emea-53937",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T00:55:09+00:00",
+        "published_at": "2026-09-17T07:40:10+00:00",
         "remote": false
     },
     {
@@ -275,17 +264,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3542836",
-        "title": "Senior Software Engineer, Consumer Engineering",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8187247",
-        "source": "Greenhouse",
-        "published_at": "2026-09-16T12:12:02-04:00",
-        "remote": true
-    },
-    {
         "id": "ashby-9acdfc63-6cce-4e2b-a862-a0fdc6da7743",
         "title": "Editor",
         "company": "OpenAI",
@@ -294,17 +272,6 @@
         "url": "https://jobs.ashbyhq.com/openai/9acdfc63-6cce-4e2b-a862-a0fdc6da7743",
         "source": "Ashby",
         "published_at": "2026-09-16T18:17:30.332000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-freelancer-im-inbound-customer-service-innerhalb-der-eu-100-remote-deutsch-c1-c2-hamburg-6532",
-        "title": "Freelancer im Inbound Customer Service - innerhalb der EU - 100% Remote - Deutsch C1/C2",
-        "company": "hey contact heroes GmbH",
-        "location": "Hamburg",
-        "job_type": "Freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/freelancer-im-inbound-customer-service-innerhalb-der-eu-100-remote-deutsch-c1-c2-hamburg-6532",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T06:00:30+00:00",
         "remote": true
     },
     {
@@ -319,14 +286,36 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-eu-freelancer-inbound-customer-service-100-homeoffice-hamburg-215409",
-        "title": "EU Freelancer (m/w/d) - Inbound Customer Service - 100% Homeoffice",
-        "company": "hey contact heroes GmbH",
-        "location": "Hamburg",
-        "job_type": "Freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/eu-freelancer-inbound-customer-service-100-homeoffice-hamburg-215409",
+        "id": "arbeitnow-creative-designer-berlin-164745",
+        "title": "Creative Designer (m/w/d)",
+        "company": "Neolymp",
+        "location": "Berlin",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/neolymp/creative-designer-berlin-164745",
         "source": "Arbeitnow",
-        "published_at": "2026-09-17T06:00:27+00:00",
+        "published_at": "2026-09-17T15:30:38+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-ugc-copywriter-creative-concepter-berlin-277754",
+        "title": "UGC Copywriter & Creative Concepter (m/w/d)",
+        "company": "Social Heaven Studios UG (haftungsbeschränkt)",
+        "location": "Berlin",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/social-heaven-studios-ug-haftungsbeschrankt/ugc-copywriter-creative-concepter-berlin-277754",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T13:00:50+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-social-media-manager-konstanz-119409",
+        "title": "(Senior) Social Media Manager (m/w/d)",
+        "company": "Next Lotto GmbH",
+        "location": "Konstanz",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/next-lotto-gmbh/senior-social-media-manager-konstanz-119409",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T13:00:50+00:00",
         "remote": true
     }
 ]

@@ -11,6 +11,39 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-senior-backend-engineer-ruby-ai-engineering-ai-coding-261174",
+        "title": "Senior Backend Engineer (Ruby), AI Engineering: AI Coding",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-ruby-ai-engineering-ai-coding-261174",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T00:55:09+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-backend-engineer-ai-engineering-chat-8338",
+        "title": "Senior Backend Engineer, AI Engineering: Chat",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-ai-engineering-chat-8338",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T00:55:09+00:00",
+        "remote": false
+    },
+    {
+        "id": "ashby-b2e53ff7-629b-4f7f-a13e-3910e4fe4656",
+        "title": "Field Enablement Lead, Technical Success",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/b2e53ff7-629b-4f7f-a13e-3910e4fe4656",
+        "source": "Ashby",
+        "published_at": "2026-09-16T23:20:31.939000+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-solutions-engineer-pre-sales-france-paris-365211",
         "title": "Solutions Engineer (Pre-Sales) France",
         "company": "Aikido Security",
@@ -33,17 +66,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-sr-forward-deployed-ai-engineer-remote-eligible-in-the-uk-158584",
-        "title": "Sr. Forward Deployed AI Engineer (Remote Eligible in the UK)",
-        "company": "smartsheet",
-        "location": "-REMOTE",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/smartsheet/sr-forward-deployed-ai-engineer-remote-eligible-in-the-uk-158584",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-16T18:55:05+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-1baad891-43b8-4e2a-9e6c-f68741e718a4",
         "title": "Applied AI Architect, Healthcare & Life Sciences",
         "company": "OpenAI",
@@ -52,6 +74,28 @@
         "url": "https://jobs.ashbyhq.com/openai/1baad891-43b8-4e2a-9e6c-f68741e718a4",
         "source": "Ashby",
         "published_at": "2026-09-16T18:05:34.957000+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3547969",
+        "title": "Senior Product Manager, AI Control Studio",
+        "company": "Instacart",
+        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8198161",
+        "source": "Greenhouse",
+        "published_at": "2026-09-16T12:35:44-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3547969",
+        "title": "Senior Product Manager, AI Control Studio",
+        "company": "Instacart",
+        "location": "United States - Remote",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8198159",
+        "source": "Greenhouse",
+        "published_at": "2026-09-16T12:35:42-04:00",
         "remote": true
     },
     {
@@ -77,48 +121,15 @@
         "remote": true
     },
     {
-        "id": "ashby-3b08148d-085e-4835-9934-1b7f60e0fdce",
-        "title": "Software Engineer, Manufacturing Infrastructure",
-        "company": "OpenAI",
+        "id": "arbeitnow-remote-senior-backend-engineer-deployment-environments-336853",
+        "title": "Senior Backend Engineer, Deployment Environments",
+        "company": "gitlab",
         "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/3b08148d-085e-4835-9934-1b7f60e0fdce",
-        "source": "Ashby",
-        "published_at": "2026-09-16T00:30:26.055000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-08e8d03a-df94-46af-8664-cd9aab1af445",
-        "title": "GTM Strategy & Operations, Professional Services",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/08e8d03a-df94-46af-8664-cd9aab1af445",
-        "source": "Ashby",
-        "published_at": "2026-09-15T23:35:25.732000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-4948533f-1df6-49f7-af9e-a2da0e02ebca",
-        "title": "Data Scientist, Inference Capacity Optimization",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/4948533f-1df6-49f7-af9e-a2da0e02ebca",
-        "source": "Ashby",
-        "published_at": "2026-09-15T23:28:04.361000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-5a647e2b-5d6c-4c71-aeea-b16e3fda4b3f",
-        "title": "Data Center Shell Planning Lead, Industrial Compute",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/5a647e2b-5d6c-4c71-aeea-b16e3fda4b3f",
-        "source": "Ashby",
-        "published_at": "2026-09-15T23:04:01.451000+00:00",
-        "remote": true
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-deployment-environments-336853",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T00:55:09+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-solution-architect-langgraph-agentic-ai-francescas-478020",
@@ -143,15 +154,103 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-product-manager-ii-developer-ecosystem-mcp-remote-from-uk-297630",
-        "title": "Senior Product Manager II, Developer ecosystem MCP (Remote from UK)",
-        "company": "smartsheet",
-        "location": "-REMOTE",
+        "id": "arbeitnow-remote-staff-infrastructure-security-engineer-emea-apj-334575",
+        "title": "Staff Infrastructure Security Engineer (EMEA/APJ)",
+        "company": "gitlab",
+        "location": "Remote",
         "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/smartsheet/senior-product-manager-ii-developer-ecosystem-mcp-remote-from-uk-297630",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-staff-infrastructure-security-engineer-emea-apj-334575",
         "source": "Arbeitnow",
-        "published_at": "2026-09-16T18:55:05+00:00",
+        "published_at": "2026-09-17T00:55:09+00:00",
         "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-security-engineer-328981",
+        "title": "Senior Software Security Engineer",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-software-security-engineer-328981",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T00:55:09+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-security-engineer-security-incident-response-team-sirt-emea-53937",
+        "title": "Senior Security Engineer, Security Incident Response Team (SIRT) - EMEA",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-security-engineer-security-incident-response-team-sirt-emea-53937",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T00:55:09+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-director-of-engineering-security-factory-237750",
+        "title": "Director of Engineering, Security Factory",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-director-of-engineering-security-factory-237750",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T00:55:08+00:00",
+        "remote": false
+    },
+    {
+        "id": "greenhouse-3551864",
+        "title": "Senior Data Scientist, Product",
+        "company": "Coinbase",
+        "location": "Remote - UK",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8206668?gh_jid=8206668",
+        "source": "Greenhouse",
+        "published_at": "2026-09-16T19:45:14-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-salesforce-developer-379255",
+        "title": "Senior Salesforce Developer (m/f/d)",
+        "company": "Auxmoney Gmbh",
+        "location": "Remote / Düsseldorf",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-salesforce-developer-379255",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-16T23:09:57+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-devops-engineer-289648",
+        "title": "Senior DevOps Engineer (m/f/d)",
+        "company": "Auxmoney Gmbh",
+        "location": "Remote / Düsseldorf",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-devops-engineer-289648",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-16T23:09:57+00:00",
+        "remote": false
+    },
+    {
+        "id": "greenhouse-3539149",
+        "title": "Staff Machine Learning Engineer, Retrieval",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8178085",
+        "source": "Greenhouse",
+        "published_at": "2026-09-16T18:20:41-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3553024",
+        "title": "Senior Threat Intelligence Engineer",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8209803?gh_jid=8209803",
+        "source": "Greenhouse",
+        "published_at": "2026-09-16T18:10:07-04:00",
+        "remote": true
     },
     {
         "id": "ashby-fab1525f-3d89-4d1c-9094-84d21647415e",
@@ -209,28 +308,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3551397",
-        "title": "Staff Software Engineer, Consumer Engineering",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8205702",
-        "source": "Greenhouse",
-        "published_at": "2026-09-15T19:41:34-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3551296",
-        "title": "Staff Software Engineer - Ingestion Platform",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8205402",
-        "source": "Greenhouse",
-        "published_at": "2026-09-15T17:38:14-04:00",
-        "remote": true
-    },
-    {
         "id": "ashby-9acdfc63-6cce-4e2b-a862-a0fdc6da7743",
         "title": "Editor",
         "company": "OpenAI",
@@ -242,6 +319,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-senior-assigned-support-engineer-emea-56185",
+        "title": "Senior Assigned Support Engineer (EMEA)",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-assigned-support-engineer-emea-56185",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T00:55:09+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-endear-product-designer-96787",
         "title": "Endear - Product Designer",
         "company": "Eleve Talent",
@@ -251,27 +339,5 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-16T19:40:09+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-executive-assistant-fur-den-ceo-tubingen-264509",
-        "title": "Executive Assistant (m/w/d) für den CEO",
-        "company": "Rochus Mummert digital GmbH",
-        "location": "Tübingen",
-        "job_type": "geschäftsleitung",
-        "url": "https://www.arbeitnow.com/jobs/companies/rochus-mummert-digital-gmbh/executive-assistant-fur-den-ceo-tubingen-264509",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-16T15:00:29+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-freelance-marketing-support-all-genders-kassel-48192",
-        "title": "Freelance Marketing Support (all genders)",
-        "company": "fino data services GmbH",
-        "location": "Kassel",
-        "job_type": "Freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/fino-data-services-gmbh/freelance-marketing-support-all-genders-kassel-48192",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-16T14:30:30+00:00",
-        "remote": true
     }
 ]

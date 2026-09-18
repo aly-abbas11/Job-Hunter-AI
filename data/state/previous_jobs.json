@@ -1,25 +1,47 @@
 [
     {
-        "id": "arbeitnow-mandatory-internshipunpaid-software-testqa-automation-engineer-berlin-121906",
-        "title": "Mandatory Internship(Unpaid), Software Test(QA) Automation Engineer",
-        "company": "IndieKidz GmbH",
-        "location": "Berlin",
-        "job_type": "Internship, entry",
-        "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/mandatory-internshipunpaid-software-testqa-automation-engineer-berlin-121906",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-18T09:30:53+00:00",
+        "id": "ashby-0b80474f-6438-4b41-94e4-0e653c7e3457",
+        "title": "Customer Success Manager - Ads Solutions",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/0b80474f-6438-4b41-94e4-0e653c7e3457",
+        "source": "Ashby",
+        "published_at": "2026-09-18T14:48:47.776000+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-data-engineer-real-time-analytics-12909",
-        "title": "Senior Data Engineer - Real time analytics",
-        "company": "Aircall",
-        "location": "France Remote",
-        "job_type": "Permanent Full Time Employee",
-        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-12909",
+        "id": "arbeitnow-remote-head-of-gtm-systems-ai-294580",
+        "title": "Head of GTM Systems & AI (m/f/d)",
+        "company": "360Learning",
+        "location": "Berlin, Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-head-of-gtm-systems-ai-294580",
         "source": "Arbeitnow",
-        "published_at": "2026-09-18T01:24:57+00:00",
+        "published_at": "2026-09-18T14:04:19+00:00",
         "remote": false
+    },
+    {
+        "id": "ashby-6d8facff-ce1d-4069-884b-dc1177cc1a06",
+        "title": "Applied AI Engineer, Quants",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/6d8facff-ce1d-4069-884b-dc1177cc1a06",
+        "source": "Ashby",
+        "published_at": "2026-09-18T11:40:06.085000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-b2fb6fa4-07a9-4d8d-adf5-bff18a5e6033",
+        "title": "Engineering Manager, Library",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/b2fb6fa4-07a9-4d8d-adf5-bff18a5e6033",
+        "source": "Ashby",
+        "published_at": "2026-09-18T11:26:44.651000+00:00",
+        "remote": true
     },
     {
         "id": "ashby-4705a853-46e6-4f91-884c-61e54de91b0e",
@@ -33,17 +55,6 @@
         "remote": true
     },
     {
-        "id": "ashby-4167047e-33c2-4be4-b693-71c6c039bc56",
-        "title": "Applied AI Architect, Retail",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/4167047e-33c2-4be4-b693-71c6c039bc56",
-        "source": "Ashby",
-        "published_at": "2026-09-17T15:32:18.866000+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-software-development-engineers-in-test-python-2361",
         "title": "Software Development Engineers in Test (Python)",
         "company": "Xm",
@@ -53,6 +64,28 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-18T03:24:32+00:00",
         "remote": false
+    },
+    {
+        "id": "ashby-df2fe05d-87ca-4e87-a66d-50bb2c9c4859",
+        "title": "Software Engineer, Backend",
+        "company": "Resend",
+        "location": "Remote",
+        "job_type": "FullTime, Engineering",
+        "url": "https://jobs.ashbyhq.com/resend/df2fe05d-87ca-4e87-a66d-50bb2c9c4859",
+        "source": "Ashby",
+        "published_at": "2026-09-18T15:02:14.912000+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6471657002",
+        "title": "Staff Backend Engineer, Core DevOps",
+        "company": "GitLab",
+        "location": "Remote, Canada; Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8689236002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-18T09:19:22-04:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-qa-software-test-automation-engineers-java-241975",
@@ -77,14 +110,47 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-forward-deployed-platform-engineer-berlin-211795",
-        "title": "Senior Forward Deployed Platform Engineer (m/w/d)",
-        "company": "Recare Deutschland GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-forward-deployed-platform-engineer-berlin-211795",
+        "id": "arbeitnow-remote-senior-sales-engineer-332667",
+        "title": "Senior Sales Engineer",
+        "company": "Artemis",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/artemis/remote-senior-sales-engineer-332667",
         "source": "Arbeitnow",
-        "published_at": "2026-09-18T08:30:39+00:00",
+        "published_at": "2026-09-18T13:40:12+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-detection-engineer-19722",
+        "title": "Detection Engineer",
+        "company": "Artemis",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/artemis/remote-detection-engineer-19722",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-18T13:40:12+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-technical-customer-success-engineer-169650",
+        "title": "Technical Customer Success Engineer",
+        "company": "Artemis",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/artemis/remote-technical-customer-success-engineer-169650",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-18T13:40:12+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-senior-fullstack-engineer-all-identities-berlin-177404",
+        "title": "Senior Fullstack Engineer (all identities)",
+        "company": "Caspar Health",
+        "location": "Berlin",
+        "job_type": "professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/caspar-health/senior-fullstack-engineer-all-identities-berlin-177404",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-18T13:30:31+00:00",
         "remote": true
     },
     {
@@ -132,25 +198,14 @@
         "remote": true
     },
     {
-        "id": "greenhouse-6527946002",
-        "title": "Senior Security Engineer, Incident Response Team (Australia)",
-        "company": "GitLab",
-        "location": "Remote, Australia",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8815229002",
-        "source": "Greenhouse",
-        "published_at": "2026-09-17T10:19:29-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-full-stack-engineer-lead-engineer-stuttgart-108450",
-        "title": "Senior Full Stack Engineer / Lead Engineer (m/w/d)",
-        "company": "CBAM Estimator GmbH",
-        "location": "Stuttgart",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/cbam-estimator-gmbh/senior-full-stack-engineer-lead-engineer-stuttgart-108450",
+        "id": "arbeitnow-edi-developer-technical-lead-eschborn-271767",
+        "title": "EDI  Developer/ Technical Lead",
+        "company": "Kryptos Technologies limited",
+        "location": "Eschborn",
+        "job_type": "Contract, manager",
+        "url": "https://www.arbeitnow.com/jobs/companies/kryptos-technologies-limited/edi-developer-technical-lead-eschborn-271767",
         "source": "Arbeitnow",
-        "published_at": "2026-09-18T09:30:53+00:00",
+        "published_at": "2026-09-18T15:01:47+00:00",
         "remote": true
     },
     {

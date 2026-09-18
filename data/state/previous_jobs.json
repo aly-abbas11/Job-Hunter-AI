@@ -1,13 +1,24 @@
 [
     {
-        "id": "greenhouse-3553780",
-        "title": "Senior Software Engineer, Backend - Platform (Core AI Automation)",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8211452?gh_jid=8211452",
-        "source": "Greenhouse",
-        "published_at": "2026-09-17T16:09:48-04:00",
+        "id": "arbeitnow-remote-senior-data-engineer-real-time-analytics-12909",
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "location": "France Remote",
+        "job_type": "Permanent Full Time Employee",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-12909",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-18T01:24:57+00:00",
+        "remote": false
+    },
+    {
+        "id": "ashby-4705a853-46e6-4f91-884c-61e54de91b0e",
+        "title": "Subject Matter Expert, Investment Banking",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/4705a853-46e6-4f91-884c-61e54de91b0e",
+        "source": "Ashby",
+        "published_at": "2026-09-17T22:37:34.525000+00:00",
         "remote": true
     },
     {
@@ -33,17 +44,6 @@
         "remote": true
     },
     {
-        "id": "ashby-b2e53ff7-629b-4f7f-a13e-3910e4fe4656",
-        "title": "Field Enablement Lead, Technical Success",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/b2e53ff7-629b-4f7f-a13e-3910e4fe4656",
-        "source": "Ashby",
-        "published_at": "2026-09-16T23:20:31.939000+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3525810",
         "title": "Senior Frontend Software Engineer, Consumer Engineering",
         "company": "Reddit",
@@ -66,14 +66,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-staff-product-engineer-frontend-koln-341906",
-        "title": "Senior/Staff Product Engineer (Frontend) (m/f/d)",
-        "company": "epilot GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime",
-        "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-frontend-koln-341906",
+        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-469789",
+        "title": "AI Solution Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-469789",
         "source": "Arbeitnow",
-        "published_at": "2026-09-17T14:30:02+00:00",
+        "published_at": "2026-09-17T23:30:14+00:00",
         "remote": true
     },
     {
@@ -86,6 +86,28 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-17T17:09:45+00:00",
         "remote": true
+    },
+    {
+        "id": "greenhouse-3553044",
+        "title": "Sr. IT Project & Program Manager, Asset Management",
+        "company": "Pinterest",
+        "location": "San Francisco, CA, US; Remote, US",
+        "job_type": "Full Time",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209845",
+        "source": "Greenhouse",
+        "published_at": "2026-09-17T17:39:03-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-full-stack-software-engineer-329869",
+        "title": "Senior Full Stack Software Engineer",
+        "company": "Octopus Energy Group",
+        "location": "Remote (UK)",
+        "job_type": "Full-time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/remote-senior-full-stack-software-engineer-329869",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T21:04:11+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3553797",
@@ -154,17 +176,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-staff-product-engineer-full-stack-koln-435694",
-        "title": "Senior/Staff Product Engineer (Full Stack) (m/f/d)",
-        "company": "epilot GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime",
-        "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-full-stack-koln-435694",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T14:30:02+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-6527946002",
         "title": "Senior Security Engineer, Incident Response Team (Australia)",
         "company": "GitLab",
@@ -176,14 +187,14 @@
         "remote": true
     },
     {
-        "id": "greenhouse-6502016002",
+        "id": "greenhouse-6501776002",
         "title": "Staff Software Engineer",
         "company": "GitLab",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8755304002",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8754823002",
         "source": "Greenhouse",
-        "published_at": "2026-09-17T09:11:17-04:00",
+        "published_at": "2026-09-17T09:10:39-04:00",
         "remote": true
     },
     {
@@ -220,36 +231,47 @@
         "remote": false
     },
     {
-        "id": "greenhouse-3551864",
-        "title": "Senior Data Scientist, Product",
-        "company": "Coinbase",
-        "location": "Remote - UK",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8206668?gh_jid=8206668",
-        "source": "Greenhouse",
-        "published_at": "2026-09-16T19:45:14-04:00",
+        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-36018",
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-36018",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T23:30:14+00:00",
         "remote": true
     },
     {
-        "id": "greenhouse-3539149",
-        "title": "Staff Machine Learning Engineer, Retrieval",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8178085",
-        "source": "Greenhouse",
-        "published_at": "2026-09-16T18:20:41-04:00",
+        "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-241557",
+        "title": "Senior Java Backend Developer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-241557",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T23:30:14+00:00",
         "remote": true
     },
     {
-        "id": "greenhouse-3553024",
-        "title": "Senior Threat Intelligence Engineer",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8209803?gh_jid=8209803",
-        "source": "Greenhouse",
-        "published_at": "2026-09-16T18:10:07-04:00",
+        "id": "arbeitnow-remote-senior-it-architect-karlsruhe-244126",
+        "title": "Senior IT Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-244126",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T23:30:14+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-51203",
+        "title": "Senior Oracle Data Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-51203",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-17T23:30:14+00:00",
         "remote": true
     },
     {

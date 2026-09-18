@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-mandatory-internshipunpaid-software-testqa-automation-engineer-berlin-121906",
+        "title": "Mandatory Internship(Unpaid), Software Test(QA) Automation Engineer",
+        "company": "IndieKidz GmbH",
+        "location": "Berlin",
+        "job_type": "Internship, entry",
+        "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/mandatory-internshipunpaid-software-testqa-automation-engineer-berlin-121906",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-18T09:30:53+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-senior-data-engineer-real-time-analytics-12909",
         "title": "Senior Data Engineer - Real time analytics",
         "company": "Aircall",
@@ -22,17 +33,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-team-lead-weiterbildungen-ai-data-science-100-remote-65546",
-        "title": "Team Lead Weiterbildungen AI & Data Science 100% remote (m/w/d)",
-        "company": "Karrieretutor De",
-        "location": "100% Remote in Deutschland",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/karrieretutor-de/team-lead-weiterbildungen-ai-data-science-100-remote-65546",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T17:09:14+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-4167047e-33c2-4be4-b693-71c6c039bc56",
         "title": "Applied AI Architect, Retail",
         "company": "OpenAI",
@@ -42,6 +42,28 @@
         "source": "Ashby",
         "published_at": "2026-09-17T15:32:18.866000+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-software-development-engineers-in-test-python-2361",
+        "title": "Software Development Engineers in Test (Python)",
+        "company": "Xm",
+        "location": "Remote",
+        "job_type": "Full-time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/xm/remote-software-development-engineers-in-test-python-2361",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-18T03:24:32+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-qa-software-test-automation-engineers-java-241975",
+        "title": "QA Software Test Automation Engineers (Java)",
+        "company": "Xm",
+        "location": "Remote",
+        "job_type": "Full-time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-241975",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-18T03:24:32+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3525810",
@@ -55,36 +77,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-qa-tester-brookhaven-london-449280",
-        "title": "QA Tester - Brookhaven",
-        "company": "Voldex",
-        "location": "Remote - UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/voldex/qa-tester-brookhaven-london-449280",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T15:40:10+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-469789",
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
+        "id": "arbeitnow-remote-senior-forward-deployed-platform-engineer-berlin-211795",
+        "title": "Senior Forward Deployed Platform Engineer (m/w/d)",
+        "company": "Recare Deutschland GmbH",
+        "location": "Remote job",
         "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-469789",
+        "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-forward-deployed-platform-engineer-berlin-211795",
         "source": "Arbeitnow",
-        "published_at": "2026-09-17T23:30:14+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-product-manager-ai-search-hamburg-167397",
-        "title": "Product Manager AI Search (m/w/d)",
-        "company": "Moebel De",
-        "location": "Hamburg",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-product-manager-ai-search-hamburg-167397",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T17:09:45+00:00",
+        "published_at": "2026-09-18T08:30:39+00:00",
         "remote": true
     },
     {
@@ -97,17 +97,6 @@
         "source": "Greenhouse",
         "published_at": "2026-09-17T17:39:03-04:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-full-stack-software-engineer-329869",
-        "title": "Senior Full Stack Software Engineer",
-        "company": "Octopus Energy Group",
-        "location": "Remote (UK)",
-        "job_type": "Full-time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/remote-senior-full-stack-software-engineer-329869",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T21:04:11+00:00",
-        "remote": false
     },
     {
         "id": "greenhouse-3553797",
@@ -132,17 +121,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-freiberufliche-lehrkraft-fur-data-analytics-335517",
-        "title": "Freiberufliche Lehrkraft (w/m/d) für Data Analytics",
-        "company": "Karrieretutor De",
-        "location": "100% Remote in Deutschland",
-        "job_type": "Experienced, Freelance, Part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/karrieretutor-de/remote-freiberufliche-lehrkraft-fur-data-analytics-335517",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T17:09:14+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3525788",
         "title": "Front End Software Engineer, Consumer Engineering",
         "company": "Reddit",
@@ -151,28 +129,6 @@
         "url": "https://job-boards.greenhouse.io/reddit/jobs/8147559",
         "source": "Greenhouse",
         "published_at": "2026-09-17T13:07:34-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-behavior-planning-74582",
-        "title": "Senior Software Engineer, Behavior Planning",
-        "company": "Aerovect",
-        "location": "United Kingdom (Remote)",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/aerovect/remote-senior-software-engineer-behavior-planning-74582",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T15:40:11+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-data-strategy-operations-specialist-london-165077",
-        "title": "Data & Strategy Operations Specialist",
-        "company": "Better Collective A/S",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/better-collective-as/remote-data-strategy-operations-specialist-london-165077",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T15:30:06+00:00",
         "remote": true
     },
     {
@@ -187,113 +143,36 @@
         "remote": true
     },
     {
-        "id": "greenhouse-6501776002",
-        "title": "Staff Software Engineer",
-        "company": "GitLab",
+        "id": "arbeitnow-senior-full-stack-engineer-lead-engineer-stuttgart-108450",
+        "title": "Senior Full Stack Engineer / Lead Engineer (m/w/d)",
+        "company": "CBAM Estimator GmbH",
+        "location": "Stuttgart",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/cbam-estimator-gmbh/senior-full-stack-engineer-lead-engineer-stuttgart-108450",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-18T09:30:53+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-deacd43e-9c1b-467c-96e2-11f4f6bdb139",
+        "title": "Dedicated Support Engineering Lead",
+        "company": "OpenAI",
         "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8754823002",
-        "source": "Greenhouse",
-        "published_at": "2026-09-17T09:10:39-04:00",
+        "job_type": "FullTime, User Operations",
+        "url": "https://jobs.ashbyhq.com/openai/deacd43e-9c1b-467c-96e2-11f4f6bdb139",
+        "source": "Ashby",
+        "published_at": "2026-09-18T03:51:38.928000+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-sales-engineer-north-america-458617",
-        "title": "Senior Sales Engineer - North America",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-sales-engineer-north-america-458617",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T07:40:10+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-sales-engineer-life-science-north-america-139440",
-        "title": "Senior Sales Engineer - Life Science - North America",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-sales-engineer-life-science-north-america-139440",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T07:40:10+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-sales-engineer-dach-241855",
-        "title": "Senior Sales Engineer - DACH",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-sales-engineer-dach-241855",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T07:40:10+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-36018",
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-36018",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T23:30:14+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-241557",
-        "title": "Senior Java Backend Developer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-241557",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T23:30:14+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-it-architect-karlsruhe-244126",
-        "title": "Senior IT Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-244126",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T23:30:14+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-51203",
-        "title": "Senior Oracle Data Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-51203",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T23:30:14+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-support-coordinators-5281",
+        "id": "arbeitnow-remote-support-coordinators-275725",
         "title": "Support Coordinators",
         "company": "LILT (Production)",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/lilt-production/remote-support-coordinators-5281",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/lilt-production/remote-support-coordinators-275725",
         "source": "Arbeitnow",
-        "published_at": "2026-09-17T16:40:13+00:00",
+        "published_at": "2026-09-18T09:40:11+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-creative-designer-berlin-164745",
-        "title": "Creative Designer (m/w/d)",
-        "company": "Neolymp",
-        "location": "Berlin",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/neolymp/creative-designer-berlin-164745",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-17T15:30:38+00:00",
-        "remote": true
     }
 ]

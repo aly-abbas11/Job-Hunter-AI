@@ -1,46 +1,24 @@
 [
     {
-        "id": "arbeitnow-blockchain-expansion-manager-100-remote-london-233994",
-        "title": "Blockchain Expansion  Manager (100% remote)",
-        "company": "Tether Operations Limited",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/blockchain-expansion-manager-100-remote-london-233994",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T00:30:29+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-head-of-regulatory-affairs-ai-and-p2p-100-remote-london-123640",
-        "title": "Head of Regulatory Affairs - AI and P2P (100% remote)",
-        "company": "Tether Operations Limited",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/head-of-regulatory-affairs-ai-and-p2p-100-remote-london-123640",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T00:30:29+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-engagement-manager-ai-implementations-london-472691",
-        "title": "Engagement Manager, AI Implementations",
-        "company": "Tether Operations Limited",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-engagement-manager-ai-implementations-london-472691",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T00:30:29+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-head-of-gtm-systems-ai-240013",
-        "title": "Head of GTM Systems & AI",
-        "company": "360Learning",
-        "location": "Paris, Remote",
+        "id": "arbeitnow-remote-senior-backend-software-engineer-ruby-on-rails-413204",
+        "title": "Senior Backend Software Engineer (Ruby on Rails)",
+        "company": "Pennylane SAS",
+        "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-head-of-gtm-systems-ai-240013",
+        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-backend-software-engineer-ruby-on-rails-413204",
         "source": "Arbeitnow",
-        "published_at": "2026-09-18T22:24:12+00:00",
+        "published_at": "2026-09-19T07:40:07+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-ai-transformation-owner-product-design-16935",
+        "title": "AI Transformation Owner, Product & Design",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-ai-transformation-owner-product-design-16935",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-19T03:55:05+00:00",
         "remote": false
     },
     {
@@ -110,6 +88,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-senior-fullstack-software-engineer-ruby-react-ts-283957",
+        "title": "Senior Fullstack Software Engineer (Ruby/React & TS)",
+        "company": "Pennylane SAS",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-fullstack-software-engineer-ruby-react-ts-283957",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-19T07:40:07+00:00",
+        "remote": false
+    },
+    {
         "id": "greenhouse-6499949002",
         "title": "Senior Backend Engineer, Platform Enablement",
         "company": "GitLab",
@@ -143,14 +132,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-area-pre-sales-engineer-france-strasbourg-8630",
-        "title": "Area Pre-Sales Engineer France",
-        "company": "Ajax Systems",
-        "location": "Strasbourg",
-        "job_type": "Full-time, Remote",
-        "url": "https://www.arbeitnow.fr/jobs/companies/ajax-systems/area-pre-sales-engineer-france-strasbourg-8630",
+        "id": "arbeitnow-remote-principal-infrastructure-engineer-376229",
+        "title": "Principal Infrastructure Engineer",
+        "company": "Sezzle",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.fr/jobs/companies/sezzle/remote-principal-infrastructure-engineer-376229",
         "source": "Arbeitnow",
-        "published_at": "2026-09-19T01:04:09+00:00",
+        "published_at": "2026-09-19T07:55:07+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-analytics-engineer-455638",
+        "title": "Senior Analytics Engineer",
+        "company": "remotewoman",
+        "location": "Remote • France, Germany",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/remotewoman/remote-senior-analytics-engineer-455638",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-19T03:55:04+00:00",
         "remote": false
     },
     {
@@ -176,17 +176,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-data-scientist-berlin-416549",
-        "title": "Senior Data Scientist (m/f/x)",
-        "company": "Makersite GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-416549",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-18T20:30:28+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3554575",
         "title": "Developer Engagement Team  (Contract)",
         "company": "Roblox",
@@ -195,39 +184,6 @@
         "url": "https://careers.roblox.com/jobs/8213384?gh_jid=8213384",
         "source": "Greenhouse",
         "published_at": "2026-09-18T13:06:01-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-security-architect-london-312228",
-        "title": "Security Architect",
-        "company": "Intelance",
-        "location": "London",
-        "job_type": "Freelance, professional / experienced",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/security-architect-london-312228",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-18T22:00:45+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-deacd43e-9c1b-467c-96e2-11f4f6bdb139",
-        "title": "Dedicated Support Engineering Lead",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, User Operations",
-        "url": "https://jobs.ashbyhq.com/openai/deacd43e-9c1b-467c-96e2-11f4f6bdb139",
-        "source": "Ashby",
-        "published_at": "2026-09-18T03:51:38.928000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-retail-graphic-designer-all-genders-berlin-426966",
-        "title": "Retail Graphic Designer (all genders)",
-        "company": "Maniko Nails GmbH",
-        "location": "Homeoffice",
-        "job_type": "Entry, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/maniko-nails-gmbh/remote-retail-graphic-designer-all-genders-berlin-426966",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-18T23:30:15+00:00",
         "remote": true
     }
 ]

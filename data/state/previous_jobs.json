@@ -1,5 +1,38 @@
 [
     {
+        "id": "arbeitnow-finance-ai-automation-intern-remote-part-time-france-258419",
+        "title": "Finance & AI Automation Intern (Remote Part-time)",
+        "company": "Soda Data Nv",
+        "location": "France",
+        "job_type": "Part time, internship",
+        "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-part-time-france-258419",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-19T13:20:10+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-finance-ai-automation-intern-remote-full-time-france-214116",
+        "title": "Finance & AI Automation Intern (Remote Full-time)",
+        "company": "Soda Data Nv",
+        "location": "France",
+        "job_type": "Full time, internship",
+        "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-full-time-france-214116",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-19T13:20:10+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-international-data-acquisition-manager-london-418759",
+        "title": "International Data Acquisition Manager",
+        "company": "Socure",
+        "location": "United Kingdom - Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/socure/international-data-acquisition-manager-london-418759",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-19T12:40:06+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-senior-backend-software-engineer-ruby-on-rails-413204",
         "title": "Senior Backend Software Engineer (Ruby on Rails)",
         "company": "Pennylane SAS",
@@ -8,6 +41,17 @@
         "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-backend-software-engineer-ruby-on-rails-413204",
         "source": "Arbeitnow",
         "published_at": "2026-09-19T07:40:07+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-digital-creative-gn-ai-focus-389642",
+        "title": "Senior Digital Creative (gn) AI Focus",
+        "company": "Bikeleasing",
+        "location": "Remote Deutschland",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-senior-digital-creative-gn-ai-focus-389642",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-19T11:09:21+00:00",
         "remote": false
     },
     {
@@ -55,36 +99,14 @@
         "remote": true
     },
     {
-        "id": "ashby-0b80474f-6438-4b41-94e4-0e653c7e3457",
-        "title": "Customer Success Manager - Ads Solutions",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/0b80474f-6438-4b41-94e4-0e653c7e3457",
-        "source": "Ashby",
-        "published_at": "2026-09-18T14:48:47.776000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-6d8facff-ce1d-4069-884b-dc1177cc1a06",
-        "title": "Applied AI Engineer, Quants",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/6d8facff-ce1d-4069-884b-dc1177cc1a06",
-        "source": "Ashby",
-        "published_at": "2026-09-18T11:40:06.085000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-b2fb6fa4-07a9-4d8d-adf5-bff18a5e6033",
-        "title": "Engineering Manager, Library",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/b2fb6fa4-07a9-4d8d-adf5-bff18a5e6033",
-        "source": "Ashby",
-        "published_at": "2026-09-18T11:26:44.651000+00:00",
+        "id": "arbeitnow-remote-backend-engineer-agentic-ai-berlin-107711",
+        "title": "Backend Engineer - Agentic AI (m/w/d)",
+        "company": "Getpress Gmbh",
+        "location": "Berlin",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-107711",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-19T11:09:08+00:00",
         "remote": true
     },
     {
@@ -110,25 +132,14 @@
         "remote": true
     },
     {
-        "id": "ashby-df2fe05d-87ca-4e87-a66d-50bb2c9c4859",
-        "title": "Software Engineer, Backend",
-        "company": "Resend",
-        "location": "Remote",
-        "job_type": "FullTime, Engineering",
-        "url": "https://jobs.ashbyhq.com/resend/df2fe05d-87ca-4e87-a66d-50bb2c9c4859",
-        "source": "Ashby",
-        "published_at": "2026-09-18T15:02:14.912000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6471657002",
-        "title": "Staff Backend Engineer, Core DevOps",
-        "company": "GitLab",
-        "location": "Remote, Canada; Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8689236002",
-        "source": "Greenhouse",
-        "published_at": "2026-09-18T09:19:22-04:00",
+        "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-333343",
+        "title": "Sales Account Executive - Cybersecurity",
+        "company": "Crowdsec",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-333343",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-19T10:30:34+00:00",
         "remote": true
     },
     {
@@ -184,6 +195,17 @@
         "url": "https://careers.roblox.com/jobs/8213384?gh_jid=8213384",
         "source": "Greenhouse",
         "published_at": "2026-09-18T13:06:01-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-system-engineer-bonn-440479",
+        "title": "Senior System Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, freelance",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-system-engineer-bonn-440479",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-19T11:30:30+00:00",
         "remote": true
     }
 ]

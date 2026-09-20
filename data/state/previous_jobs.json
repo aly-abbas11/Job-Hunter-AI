@@ -1,80 +1,47 @@
 [
     {
-        "id": "arbeitnow-finance-ai-automation-intern-remote-part-time-france-258419",
-        "title": "Finance & AI Automation Intern (Remote Part-time)",
-        "company": "Soda Data Nv",
-        "location": "France",
-        "job_type": "Part time, internship",
-        "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-part-time-france-258419",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T13:20:10+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-finance-ai-automation-intern-remote-full-time-france-214116",
-        "title": "Finance & AI Automation Intern (Remote Full-time)",
-        "company": "Soda Data Nv",
-        "location": "France",
-        "job_type": "Full time, internship",
-        "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-full-time-france-214116",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T13:20:10+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-international-data-acquisition-manager-london-418759",
-        "title": "International Data Acquisition Manager",
-        "company": "Socure",
-        "location": "United Kingdom - Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/socure/international-data-acquisition-manager-london-418759",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T12:40:06+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-backend-software-engineer-ruby-on-rails-413204",
-        "title": "Senior Backend Software Engineer (Ruby on Rails)",
-        "company": "Pennylane SAS",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-backend-software-engineer-ruby-on-rails-413204",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T07:40:07+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-ai-transformation-owner-product-design-16935",
-        "title": "AI Transformation Owner, Product & Design",
-        "company": "gitlab",
-        "location": "Remote",
+        "id": "arbeitnow-remote-ai-compiler-engineer-152964",
+        "title": "AI Compiler Engineer",
+        "company": "Enchargeai36",
+        "location": "Remote-US, Canada",
         "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-ai-transformation-owner-product-design-16935",
+        "url": "https://www.arbeitnow.com/jobs/companies/enchargeai36/remote-ai-compiler-engineer-152964",
         "source": "Arbeitnow",
-        "published_at": "2026-09-19T03:55:05+00:00",
+        "published_at": "2026-09-19T23:55:16+00:00",
         "remote": false
     },
     {
-        "id": "greenhouse-3542815",
-        "title": "Senior Staff Software Engineer, Tech Foundations",
-        "company": "Airbnb",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://careers.airbnb.com/positions/8187190?gh_jid=8187190",
-        "source": "Greenhouse",
-        "published_at": "2026-09-18T17:33:00-04:00",
+        "id": "arbeitnow-remote-it-systems-engineer-361671",
+        "title": "IT Systems Engineer",
+        "company": "remotewoman",
+        "location": "Remote • Canada, Spain, Germany, UK",
+        "job_type": "",
+        "url": "https://www.arbeitnow.fr/jobs/companies/remotewoman/remote-it-systems-engineer-361671",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-19T22:55:16+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-fullstack-fur-ki-produkte-338178",
+        "title": "Senior Software Engineer (m/w/d) | Fullstack für KI-Produkte",
+        "company": "Avenit Ag",
+        "location": "Remote in Deutschland",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-338178",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-19T20:09:18+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-ai-developer-nurnberg-177325",
+        "title": "AI Developer (m/f/d)",
+        "company": "Partspace",
+        "location": "Nürnberg",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/partspace/remote-ai-developer-nurnberg-177325",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-19T20:09:15+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-fullstack-software-engineer-ruby-react-ts-283957",
-        "title": "Senior Fullstack Software Engineer (Ruby/React & TS)",
-        "company": "Pennylane SAS",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-fullstack-software-engineer-ruby-react-ts-283957",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T07:40:07+00:00",
-        "remote": false
     },
     {
         "id": "arbeitnow-remote-senior-devops-engineer-all-genders-data-platform-16527",
@@ -88,72 +55,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-data-engineer-73233",
-        "title": "Data Engineer",
-        "company": "prolific",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-data-engineer-73233",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T15:55:11+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-333343",
-        "title": "Sales Account Executive - Cybersecurity",
-        "company": "Crowdsec",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-333343",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T10:30:34+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-principal-infrastructure-engineer-376229",
-        "title": "Principal Infrastructure Engineer",
-        "company": "Sezzle",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.fr/jobs/companies/sezzle/remote-principal-infrastructure-engineer-376229",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T07:55:07+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-analytics-engineer-455638",
-        "title": "Senior Analytics Engineer",
-        "company": "remotewoman",
-        "location": "Remote • France, Germany",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/remotewoman/remote-senior-analytics-engineer-455638",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T03:55:04+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-3554827",
-        "title": "Software Engineer II, Data Analytics & Engineering",
-        "company": "Pinterest",
-        "location": "San Francisco, CA, US; Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988",
-        "source": "Greenhouse",
-        "published_at": "2026-09-18T20:32:32-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3555194",
-        "title": "Software Engineer, Ingestion Platform",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8214910",
-        "source": "Greenhouse",
-        "published_at": "2026-09-18T19:35:09-04:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-data-centre-market-expert-london-400565",
         "title": "Data Centre Market Expert",
         "company": "Authority.inc",
@@ -162,17 +63,6 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/data-centre-market-expert-london-400565",
         "source": "Arbeitnow",
         "published_at": "2026-09-19T19:00:45+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-system-engineer-bonn-440479",
-        "title": "Senior System Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-system-engineer-bonn-440479",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T11:30:30+00:00",
         "remote": true
     },
     {

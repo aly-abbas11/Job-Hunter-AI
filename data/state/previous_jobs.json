@@ -1,13 +1,24 @@
 [
     {
-        "id": "arbeitnow-remote-ai-compiler-engineer-152964",
-        "title": "AI Compiler Engineer",
-        "company": "Enchargeai36",
-        "location": "Remote-US, Canada",
+        "id": "arbeitnow-remote-senior-analytics-engineer-91565",
+        "title": "Senior Analytics Engineer",
+        "company": "remotewoman",
+        "location": "Remote • France, Spain or UK",
         "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/enchargeai36/remote-ai-compiler-engineer-152964",
+        "url": "https://www.arbeitnow.com/jobs/companies/remotewoman/remote-senior-analytics-engineer-91565",
         "source": "Arbeitnow",
-        "published_at": "2026-09-19T23:55:16+00:00",
+        "published_at": "2026-09-20T08:55:06+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-e-invoicing-edi-integration-engineer-with-english-and-german-french-italian-484506",
+        "title": "E-invoicing & EDI Integration Engineer (f/m/d) - with English and German/French/Italian",
+        "company": "ecosio",
+        "location": "Germany, Austria, Spain, UK, Italy, Hungary, Portugal, Croatia, Poland - Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.fr/jobs/companies/ecosio/remote-e-invoicing-edi-integration-engineer-with-english-and-german-french-italian-484506",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-20T04:55:06+00:00",
         "remote": false
     },
     {
@@ -22,69 +33,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-software-engineer-fullstack-fur-ki-produkte-338178",
-        "title": "Senior Software Engineer (m/w/d) | Fullstack für KI-Produkte",
-        "company": "Avenit Ag",
-        "location": "Remote in Deutschland",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-338178",
+        "id": "arbeitnow-remote-project-manager-software-implementation-berlin-402634",
+        "title": "Project Manager - Software Implementation (m/f/x)",
+        "company": "Makersite GmbH",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-402634",
         "source": "Arbeitnow",
-        "published_at": "2026-09-19T20:09:18+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-ai-developer-nurnberg-177325",
-        "title": "AI Developer (m/f/d)",
-        "company": "Partspace",
-        "location": "Nürnberg",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/partspace/remote-ai-developer-nurnberg-177325",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T20:09:15+00:00",
+        "published_at": "2026-09-20T08:30:23+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-devops-engineer-all-genders-data-platform-16527",
-        "title": "Senior DevOps Engineer (all genders) | Data Platform",
-        "company": "Real Digital",
-        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
-        "job_type": "Experienced, Permanent, Full or part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-16527",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T17:09:55+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-data-centre-market-expert-london-400565",
-        "title": "Data Centre Market Expert",
-        "company": "Authority.inc",
-        "location": "London",
-        "job_type": "Contract, professional / experienced",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/data-centre-market-expert-london-400565",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T19:00:45+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-product-designer-all-genders-242185",
-        "title": "Senior Product Designer (all genders)",
-        "company": "Real Digital",
-        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
-        "job_type": "Experienced, Permanent, Full or part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-product-designer-all-genders-242185",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T17:09:55+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-ux-researcher-all-genders-419752",
-        "title": "(Senior) UX Researcher (all genders)",
-        "company": "Real Digital",
-        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
-        "job_type": "Experienced, Permanent, Full or part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-ux-researcher-all-genders-419752",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T17:09:55+00:00",
-        "remote": false
     }
 ]

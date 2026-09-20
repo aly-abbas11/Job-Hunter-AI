@@ -1,46 +1,13 @@
 [
     {
-        "id": "arbeitnow-remote-senior-analytics-engineer-91565",
-        "title": "Senior Analytics Engineer",
-        "company": "remotewoman",
-        "location": "Remote • France, Spain or UK",
+        "id": "arbeitnow-remote-principal-infrastructure-engineer-320329",
+        "title": "Principal Infrastructure Engineer",
+        "company": "Sezzle",
+        "location": "Remote",
         "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/remotewoman/remote-senior-analytics-engineer-91565",
+        "url": "https://www.arbeitnow.com/jobs/companies/sezzle/remote-principal-infrastructure-engineer-320329",
         "source": "Arbeitnow",
-        "published_at": "2026-09-20T08:55:06+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-e-invoicing-edi-integration-engineer-with-english-and-german-french-italian-484506",
-        "title": "E-invoicing & EDI Integration Engineer (f/m/d) - with English and German/French/Italian",
-        "company": "ecosio",
-        "location": "Germany, Austria, Spain, UK, Italy, Hungary, Portugal, Croatia, Poland - Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.fr/jobs/companies/ecosio/remote-e-invoicing-edi-integration-engineer-with-english-and-german-french-italian-484506",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-20T04:55:06+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-it-systems-engineer-361671",
-        "title": "IT Systems Engineer",
-        "company": "remotewoman",
-        "location": "Remote • Canada, Spain, Germany, UK",
-        "job_type": "",
-        "url": "https://www.arbeitnow.fr/jobs/companies/remotewoman/remote-it-systems-engineer-361671",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-19T22:55:16+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-project-manager-software-implementation-berlin-402634",
-        "title": "Project Manager - Software Implementation (m/f/x)",
-        "company": "Makersite GmbH",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-402634",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-20T08:30:23+00:00",
+        "published_at": "2026-09-20T11:55:07+00:00",
         "remote": true
     }
 ]

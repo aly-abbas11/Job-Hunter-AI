@@ -1,1 +1,46 @@
-[]
+[
+    {
+        "id": "arbeitnow-heartbeat-ai-partnerships-manager-berlin-80998",
+        "title": "Heartbeat AI Partnerships Manager (m/f/d)",
+        "company": "1KOMMA5˚",
+        "location": "Berlin",
+        "job_type": "professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/1komma50/heartbeat-ai-partnerships-manager-berlin-80998",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-21T08:58:28+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-java-developer-for-e-commerce-accounting-saas-company-remote-in-eu-hamburg-324024",
+        "title": "Senior Java Developer for E-Commerce + Accounting SaaS company - remote in EU",
+        "company": "pathway solutions gmbh",
+        "location": "Hamburg",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/pathway-solutions-gmbh/senior-java-developer-for-e-commerce-accounting-saas-company-remote-in-eu-hamburg-324024",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-21T08:53:27+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-pflichtpraktikum-grafikdesign-social-media-content-creation-frankfurt-am-main-205245",
+        "title": "Pflichtpraktikum Grafikdesign & Social Media Content Creation (m/w/d)",
+        "company": "READO GmbH",
+        "location": "Frankfurt am Main",
+        "job_type": "Internship, berufseinstieg",
+        "url": "https://www.arbeitnow.com/jobs/companies/reado-gmbh/pflichtpraktikum-grafikdesign-social-media-content-creation-frankfurt-am-main-205245",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-21T08:59:45+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-werkstudent-ux-ui-designer-bei-zenesis-leipzig-47888",
+        "title": "Werkstudent UX/UI Designer (m/w/d) bei Zenesis",
+        "company": "Zenesis GmbH",
+        "location": "Leipzig",
+        "job_type": "hilfstätigkeit / student",
+        "url": "https://www.arbeitnow.com/jobs/companies/zenesis-gmbh/werkstudent-ux-ui-designer-bei-zenesis-leipzig-47888",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-21T10:00:56+00:00",
+        "remote": true
+    }
+]

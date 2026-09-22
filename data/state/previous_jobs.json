@@ -11,25 +11,47 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-ai-engagement-lead-united-kingdom-342899",
-        "title": "AI Engagement Lead : United Kingdom",
-        "company": "Forgd Ai",
-        "location": "Remote - UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/forgd-ai/remote-ai-engagement-lead-united-kingdom-342899",
+        "id": "ashby-0e76e8eb-cd22-43c8-a9d0-cc35a3b9cb08",
+        "title": "IT Audiovisual Operations Engineer",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, IT",
+        "url": "https://jobs.ashbyhq.com/openai/0e76e8eb-cd22-43c8-a9d0-cc35a3b9cb08",
+        "source": "Ashby",
+        "published_at": "2026-09-22T20:32:07.670000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-data-engineer-real-time-analytics-494507",
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "location": "France Remote",
+        "job_type": "Permanent Full Time Employee",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-494507",
         "source": "Arbeitnow",
-        "published_at": "2026-09-22T15:40:07+00:00",
+        "published_at": "2026-09-22T19:04:27+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-genai-solution-engineer-all-genders-144391",
-        "title": "Senior GenAI Solution Engineer (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-genai-solution-engineer-all-genders-144391",
+        "id": "greenhouse-3379321",
+        "title": "Principal Engineer, AI Platform",
+        "company": "Pinterest",
+        "location": "San Francisco, CA, US; Remote, US",
+        "job_type": "Full Time",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7683977",
+        "source": "Greenhouse",
+        "published_at": "2026-09-22T14:14:17-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-staff-software-developer-kotlin-libraries-412913",
+        "title": "Staff Software Developer (Kotlin Libraries)",
+        "company": "jetbrains",
+        "location": "Berlin; Munich; Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-staff-software-developer-kotlin-libraries-412913",
         "source": "Arbeitnow",
-        "published_at": "2026-09-22T14:09:55+00:00",
+        "published_at": "2026-09-22T17:55:08+00:00",
         "remote": false
     },
     {
@@ -66,72 +88,6 @@
         "remote": true
     },
     {
-        "id": "ashby-8c95db0d-982e-43cf-95e4-e30cb09e6c9c",
-        "title": "Account Director, Large Enterprise",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/8c95db0d-982e-43cf-95e4-e30cb09e6c9c",
-        "source": "Ashby",
-        "published_at": "2026-09-21T20:46:30.899000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-65780e7c-6cbd-4e01-a437-2142363d855d",
-        "title": "Demo Experience Engineer, Technical Success",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/65780e7c-6cbd-4e01-a437-2142363d855d",
-        "source": "Ashby",
-        "published_at": "2026-09-21T18:21:37.454000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-0cf4a8f4-a57a-494b-aad8-4df8ac096939",
-        "title": "Strategic Partnerships Manager, Germany",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/0cf4a8f4-a57a-494b-aad8-4df8ac096939",
-        "source": "Ashby",
-        "published_at": "2026-09-21T17:53:16.868000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-bd4cdb4e-ecd7-45d6-8cab-0e9fa155104e",
-        "title": "Strategic Partnerships Manager, France",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/bd4cdb4e-ecd7-45d6-8cab-0e9fa155104e",
-        "source": "Ashby",
-        "published_at": "2026-09-21T17:51:55.019000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-e42305bf-2266-4dff-82ad-42be7ddac495",
-        "title": "Software Engineer, Plugin Ecosystem",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/e42305bf-2266-4dff-82ad-42be7ddac495",
-        "source": "Ashby",
-        "published_at": "2026-09-21T17:03:31.264000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-backend-engineer-offsite-search-optimisation-munich-360223",
-        "title": "Senior Backend Engineer: Offsite Search Optimisation",
-        "company": "Constructor",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/constructor/senior-backend-engineer-offsite-search-optimisation-munich-360223",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-22T14:40:11+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-7cd46077-05fe-4cd7-816f-5528638342f1",
         "title": "Software Engineer, Frontend, Growth",
         "company": "Ramp",
@@ -140,6 +96,72 @@
         "url": "https://jobs.ashbyhq.com/ramp/7cd46077-05fe-4cd7-816f-5528638342f1",
         "source": "Ashby",
         "published_at": "2026-09-21T22:38:37.920000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-security-research-engineer-50305",
+        "title": "Security Research Engineer",
+        "company": "Artemis",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/artemis/remote-security-research-engineer-50305",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-22T19:40:12+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-forward-deployed-engineer-444877",
+        "title": "Forward Deployed Engineer",
+        "company": "Livekit",
+        "location": "United Kingdom (Remote)",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/livekit/remote-forward-deployed-engineer-444877",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-22T18:40:10+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-developer-success-engineer-85661",
+        "title": "Developer Success Engineer",
+        "company": "Livekit",
+        "location": "United Kingdom (Remote)",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/livekit/remote-developer-success-engineer-85661",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-22T18:40:10+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-data-engineer-472633",
+        "title": "Senior Data Engineer",
+        "company": "Codat",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/codat/remote-senior-data-engineer-472633",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-22T18:40:02+00:00",
+        "remote": false
+    },
+    {
+        "id": "greenhouse-3553814",
+        "title": "Data Engineer",
+        "company": "Dropbox",
+        "location": "Remote - Canada: Select locations",
+        "job_type": "Full Time",
+        "url": "https://jobs.dropbox.com/listing/8211532?gh_jid=8211532",
+        "source": "Greenhouse",
+        "published_at": "2026-09-22T13:18:25-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3553814",
+        "title": "Data Engineer",
+        "company": "Dropbox",
+        "location": "Remote - US: Select locations",
+        "job_type": "Full Time",
+        "url": "https://jobs.dropbox.com/listing/8211529?gh_jid=8211529",
+        "source": "Greenhouse",
+        "published_at": "2026-09-22T13:18:18-04:00",
         "remote": true
     },
     {
@@ -152,50 +174,6 @@
         "source": "Ashby",
         "published_at": "2026-09-22T15:00:43.044000+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-data-scientist-munich-290576",
-        "title": "Senior Data Scientist",
-        "company": "Constructor",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/constructor/senior-data-scientist-munich-290576",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-22T14:40:11+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-sales-engineer-dach-munich-392140",
-        "title": "Sales Engineer (DACH)",
-        "company": "Constructor",
-        "location": "Remote - Germany",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/constructor/sales-engineer-dach-munich-392140",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-22T14:40:11+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-forward-deployed-engineer-all-genders-337845",
-        "title": "Forward Deployed Engineer (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-forward-deployed-engineer-all-genders-337845",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-22T14:09:55+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-data-engineer-all-genders-306396",
-        "title": "Data Engineer (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-306396",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-22T14:09:55+00:00",
-        "remote": false
     },
     {
         "id": "arbeitnow-remote-staff-software-engineer-real-time-systems-18001",
@@ -264,25 +242,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-it-project-manager-as-freelancer-all-genders-berlin-379074",
-        "title": "IT Project Manager as Freelancer (all genders)",
-        "company": "Vexcash AG",
-        "location": "Berlin",
-        "job_type": "professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/it-project-manager-as-freelancer-all-genders-berlin-379074",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-22T14:00:42+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-staff-product-designer-jetbrains-95084",
-        "title": "Staff Product Designer | JetBrains",
-        "company": "Hirehire",
+        "id": "arbeitnow-remote-sales-support-manager-427529",
+        "title": "Sales Support Manager (w/m/d)",
+        "company": "Enpal",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-staff-product-designer-jetbrains-95084",
+        "url": "https://www.arbeitnow.com/jobs/companies/enpal/remote-sales-support-manager-427529",
         "source": "Arbeitnow",
-        "published_at": "2026-09-22T14:40:11+00:00",
+        "published_at": "2026-09-22T17:40:12+00:00",
         "remote": true
     }
 ]

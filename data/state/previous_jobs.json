@@ -1,5 +1,27 @@
 [
     {
+        "id": "arbeitnow-software-test-qa-automation-engineer-mandatory-internship-unpaid-berlin-403562",
+        "title": "Software Test (QA) Automation Engineer - Mandatory Internship (Unpaid)",
+        "company": "IndieKidz GmbH",
+        "location": "Berlin",
+        "job_type": "Internship, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/software-test-qa-automation-engineer-mandatory-internship-unpaid-berlin-403562",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-22T08:00:32+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-full-stack-engineer-bath-362761",
+        "title": "Full Stack Engineer",
+        "company": "Salesape Ai",
+        "location": "Remote - UK",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/salesape-ai/full-stack-engineer-bath-362761",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-22T09:40:10+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-24ade569-b2eb-4879-b6d3-82407ac0efe7",
         "title": "Account Director, Insurance",
         "company": "OpenAI",
@@ -99,25 +121,47 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-solution-engineer-pre-sales-munich-418834",
-        "title": "Senior Solution Engineer (Pre-Sales)",
-        "company": "Zip",
-        "location": "Remote - Germany",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/zip/senior-solution-engineer-pre-sales-munich-418834",
+        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-470178",
+        "title": "AI Solution Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-470178",
         "source": "Arbeitnow",
-        "published_at": "2026-09-22T02:40:10+00:00",
-        "remote": false
+        "published_at": "2026-09-22T08:30:34+00:00",
+        "remote": true
     },
     {
-        "id": "arbeitnow-senior-analytics-engineer-berlin-20803",
-        "title": "Senior Analytics Engineer",
-        "company": "Cosuno",
-        "location": "Berlin/Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-analytics-engineer-berlin-20803",
+        "id": "arbeitnow-remote-product-manager-ai-search-hamburg-35026",
+        "title": "Product Manager AI Search (m/w/d)",
+        "company": "Moebel De",
+        "location": "Hamburg",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-product-manager-ai-search-hamburg-35026",
         "source": "Arbeitnow",
-        "published_at": "2026-09-21T23:40:05+00:00",
+        "published_at": "2026-09-22T08:09:20+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-grafikdesigner-e-commerce-mit-ai-erfahrung-minijob-basis-olpe-207092",
+        "title": "Grafikdesigner E-Commerce mit AI-Erfahrung Minijob Basis (m/w/d)",
+        "company": "Thiru GmbH",
+        "location": "Olpe",
+        "job_type": "Side",
+        "url": "https://www.arbeitnow.com/jobs/companies/thiru-gmbh/grafikdesigner-e-commerce-mit-ai-erfahrung-minijob-basis-olpe-207092",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-22T07:00:33+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-product-engineer-typescript-node-483361",
+        "title": "Senior Product Engineer (Typescript, Node)",
+        "company": "SoSafe",
+        "location": "United Kingdom Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-senior-product-engineer-typescript-node-483361",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-22T09:40:11+00:00",
         "remote": false
     },
     {
@@ -132,15 +176,81 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-it-systemadministrator-reinert-cottbus-68988",
-        "title": "IT-Systemadministrator (m/w/d) Reinert",
-        "company": "Ritter von Gral GmbH",
+        "id": "arbeitnow-senior-frontend-developer-angular-13-leipzig-475527",
+        "title": "Senior Frontend Developer (f/m/d) - Angular 13",
+        "company": "Rhebo GmbH",
+        "location": "Leipzig",
+        "job_type": "professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/rhebo-gmbh/senior-frontend-developer-angular-13-leipzig-475527",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-22T09:30:26+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-290825",
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
         "location": "Homeoffice",
         "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/ritter-von-gral-gmbh/remote-it-systemadministrator-reinert-cottbus-68988",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-290825",
         "source": "Arbeitnow",
-        "published_at": "2026-09-22T02:30:08+00:00",
+        "published_at": "2026-09-22T08:30:34+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-301936",
+        "title": "Senior Java Backend Developer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-301936",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-22T08:30:34+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-it-architect-karlsruhe-52966",
+        "title": "Senior IT Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-52966",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-22T08:30:34+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-74789",
+        "title": "Senior Oracle Data Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-74789",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-22T08:30:34+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-software-engineer-data-ml-tholey-135276",
+        "title": "Senior Software Engineer Data & ML (m/w/d)",
+        "company": "amentis solutions GmbH",
+        "location": "Tholey",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/amentis-solutions-gmbh/senior-software-engineer-data-ml-tholey-135276",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-22T06:30:32+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-content-and-social-media-manager-150746",
+        "title": "Senior Content and Social Media Manager",
+        "company": "Nivoda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nivoda/remote-senior-content-and-social-media-manager-150746",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-22T09:40:05+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-on-holiday-support-agent-331036",

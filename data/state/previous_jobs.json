@@ -1,16 +1,5 @@
 [
     {
-        "id": "arbeitnow-remote-junior-data-engineer-martech-specialist-mobile-apps-289692",
-        "title": "Junior Data Engineer & MarTech Specialist (Mobile Apps) (m/w/d)",
-        "company": "Trg",
-        "location": "Remote within Germany",
-        "job_type": "Entry, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/trg/remote-junior-data-engineer-martech-specialist-mobile-apps-289692",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-23T02:09:04+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-software-engineer-intern-summer-2027-233558",
         "title": "Software Engineer Intern (Summer 2027)",
         "company": "Swarmaero",
@@ -20,6 +9,28 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-22T13:40:10+00:00",
         "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-program-manager-enterprise-technology-and-ai-434144",
+        "title": "Senior Program Manager, Enterprise Technology and AI",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-program-manager-enterprise-technology-and-ai-434144",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-23T09:55:16+00:00",
+        "remote": false
+    },
+    {
+        "id": "ashby-566a5565-925c-4367-9912-6b64841beba2",
+        "title": "Applied AI Engineer, Codex",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/566a5565-925c-4367-9912-6b64841beba2",
+        "source": "Ashby",
+        "published_at": "2026-09-23T08:53:15.399000+00:00",
+        "remote": true
     },
     {
         "id": "ashby-4aa1dcbf-166a-4538-ae4e-08cf39c7ff23",
@@ -66,6 +77,72 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-senior-qa-engineer-ai-driven-testing-berlin-43054",
+        "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
+        "company": "1KOMMA5˚",
+        "location": "Berlin",
+        "job_type": "professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-qa-engineer-ai-driven-testing-berlin-43054",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-23T06:30:43+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-python-backend-developer-schwerpunkt-ki-plattform-wurzburg-307525",
+        "title": "Python Backend Developer (m/w/d) - Schwerpunkt KI-Plattform",
+        "company": "IT Studio Rech GmbH",
+        "location": "Würzburg",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/it-studio-rech-gmbh/python-backend-developer-schwerpunkt-ki-plattform-wurzburg-307525",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-23T08:30:46+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-lead-engineer-automotive-qualitatssicherung-luxemburg-remote-1719-mannheim-379148",
+        "title": "Lead Engineer (m/w/d) Automotive Qualitätssicherung Luxemburg / Remote (1719)",
+        "company": "BRÜGGEN ENGINEERING GmbH",
+        "location": "Mannheim",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/bruggen-engineering-gmbh/lead-engineer-automotive-qualitatssicherung-luxemburg-remote-1719-mannheim-379148",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-23T08:30:46+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-data-scientist-berlin-279277",
+        "title": "Senior Data Scientist (m/f/x)",
+        "company": "Makersite GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-279277",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-23T05:30:22+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-staff-software-engineer-all-genders-berlin-465930",
+        "title": "Staff Software Engineer (all genders)",
+        "company": "Distribusion Technologies",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-staff-software-engineer-all-genders-berlin-465930",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-23T05:30:04+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-security-engineer-i-customer-trust-emea-remote-eligible-in-the-uk-72338",
+        "title": "Senior Security Engineer I, Customer Trust EMEA (Remote Eligible in the UK)",
+        "company": "smartsheet",
+        "location": "-REMOTE",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/smartsheet/senior-security-engineer-i-customer-trust-emea-remote-eligible-in-the-uk-72338",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-23T03:55:20+00:00",
+        "remote": false
+    },
+    {
         "id": "greenhouse-3538247",
         "title": "[TEMPLATE] Integration Engineer (Metronome)",
         "company": "Stripe",
@@ -85,28 +162,6 @@
         "url": "https://www.arbeitnow.fr/jobs/companies/artemis/remote-security-research-engineer-50305",
         "source": "Arbeitnow",
         "published_at": "2026-09-22T19:40:12+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-forward-deployed-engineer-444877",
-        "title": "Forward Deployed Engineer",
-        "company": "Livekit",
-        "location": "United Kingdom (Remote)",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/livekit/remote-forward-deployed-engineer-444877",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-22T18:40:10+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-developer-success-engineer-85661",
-        "title": "Developer Success Engineer",
-        "company": "Livekit",
-        "location": "United Kingdom (Remote)",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/livekit/remote-developer-success-engineer-85661",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-22T18:40:10+00:00",
         "remote": false
     },
     {
@@ -198,14 +253,47 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-customer-support-executive-dalston-219280",
-        "title": "Customer Support Executive",
-        "company": "Pmmalliance",
-        "location": "Hybrid  or Fully Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/pmmalliance/customer-support-executive-dalston-219280",
+        "id": "arbeitnow-remote-systemadministrator-linux-hybrid-in-freiburg-mainz-397444",
+        "title": "Systemadministrator Linux (m/w/d) | Hybrid in Freiburg🌄",
+        "company": "ANGEHEUERT GmbH",
+        "location": "Homeoffice",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-systemadministrator-linux-hybrid-in-freiburg-mainz-397444",
         "source": "Arbeitnow",
-        "published_at": "2026-09-22T21:40:04+00:00",
-        "remote": false
+        "published_at": "2026-09-23T05:30:09+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-linux-systemadministrator-hybrid-in-freiburg-baden-wurttemberg-493905",
+        "title": "Linux-Systemadministrator (m/w/d) | Hybrid in Freiburg🌄",
+        "company": "ANGEHEUERT GmbH",
+        "location": "Homeoffice",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-linux-systemadministrator-hybrid-in-freiburg-baden-wurttemberg-493905",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-23T05:30:09+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-systemadministrator-linux-freiburg-im-breisgau-171194",
+        "title": "Systemadministrator Linux (m/w/d)",
+        "company": "ANGEHEUERT GmbH",
+        "location": "Homeoffice",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-systemadministrator-linux-freiburg-im-breisgau-171194",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-23T05:30:09+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-sap-ams-support-consultant-sap-basis-register-your-interest-uk-100822",
+        "title": "Senior SAP AMS Support Consultant (SAP Basis) - Register your interest",
+        "company": "The Config Team",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-senior-sap-ams-support-consultant-sap-basis-register-your-interest-uk-100822",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-23T09:30:03+00:00",
+        "remote": true
     }
 ]

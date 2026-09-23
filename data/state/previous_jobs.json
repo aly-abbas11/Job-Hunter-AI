@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-remote-junior-data-engineer-martech-specialist-mobile-apps-289692",
+        "title": "Junior Data Engineer & MarTech Specialist (Mobile Apps) (m/w/d)",
+        "company": "Trg",
+        "location": "Remote within Germany",
+        "job_type": "Entry, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/trg/remote-junior-data-engineer-martech-specialist-mobile-apps-289692",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-23T02:09:04+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-software-engineer-intern-summer-2027-233558",
         "title": "Software Engineer Intern (Summer 2027)",
         "company": "Swarmaero",
@@ -9,6 +20,17 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-22T13:40:10+00:00",
         "remote": false
+    },
+    {
+        "id": "ashby-4aa1dcbf-166a-4538-ae4e-08cf39c7ff23",
+        "title": "Head of Employee Tech & Experience (ETX)",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, IT",
+        "url": "https://jobs.ashbyhq.com/openai/4aa1dcbf-166a-4538-ae4e-08cf39c7ff23",
+        "source": "Ashby",
+        "published_at": "2026-09-22T22:17:53.988000+00:00",
+        "remote": true
     },
     {
         "id": "ashby-0e76e8eb-cd22-43c8-a9d0-cc35a3b9cb08",
@@ -44,58 +66,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-staff-software-developer-kotlin-libraries-412913",
-        "title": "Staff Software Developer (Kotlin Libraries)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-staff-software-developer-kotlin-libraries-412913",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-22T17:55:08+00:00",
-        "remote": false
-    },
-    {
-        "id": "ashby-24ade569-b2eb-4879-b6d3-82407ac0efe7",
-        "title": "Account Director, Insurance",
-        "company": "OpenAI",
+        "id": "greenhouse-3538247",
+        "title": "[TEMPLATE] Integration Engineer (Metronome)",
+        "company": "Stripe",
         "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/24ade569-b2eb-4879-b6d3-82407ac0efe7",
-        "source": "Ashby",
-        "published_at": "2026-09-21T22:25:20.603000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-d3d17f29-fbaf-4697-a6ed-aaa0055ecc5c",
-        "title": "Solutions Engineer, Ads Solutions - San Francisco",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/d3d17f29-fbaf-4697-a6ed-aaa0055ecc5c",
-        "source": "Ashby",
-        "published_at": "2026-09-21T21:15:23.531000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-e9d435e1-1b9e-4715-84ce-75f372e5559c",
-        "title": "Forward Deployed Engineer - UAE",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Forward Deployed Engineering",
-        "url": "https://jobs.ashbyhq.com/openai/e9d435e1-1b9e-4715-84ce-75f372e5559c",
-        "source": "Ashby",
-        "published_at": "2026-09-21T20:56:19.326000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-7cd46077-05fe-4cd7-816f-5528638342f1",
-        "title": "Software Engineer, Frontend, Growth",
-        "company": "Ramp",
-        "location": "Remote",
-        "job_type": "FullTime, Engineering",
-        "url": "https://jobs.ashbyhq.com/ramp/7cd46077-05fe-4cd7-816f-5528638342f1",
-        "source": "Ashby",
-        "published_at": "2026-09-21T22:38:37.920000+00:00",
+        "job_type": "Full Time",
+        "url": "https://stripe.com/jobs/search?gh_jid=8175647",
+        "source": "Greenhouse",
+        "published_at": "2026-09-22T17:16:20-04:00",
         "remote": true
     },
     {
@@ -129,17 +107,6 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/livekit/remote-developer-success-engineer-85661",
         "source": "Arbeitnow",
         "published_at": "2026-09-22T18:40:10+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-data-engineer-472633",
-        "title": "Senior Data Engineer",
-        "company": "Codat",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/codat/remote-senior-data-engineer-472633",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-22T18:40:02+00:00",
         "remote": false
     },
     {
@@ -231,25 +198,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-country-manager-software-unternehmen-private-equity-munich-227988",
-        "title": "Country Manager - Software Unternehmen - Private Equity (m/f/d)",
-        "company": "Options Group",
-        "location": "Munich",
-        "job_type": "geschäftsleitung",
-        "url": "https://www.arbeitnow.com/jobs/companies/options-group/country-manager-software-unternehmen-private-equity-munich-227988",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-22T15:30:24+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-sales-support-manager-427529",
-        "title": "Sales Support Manager (w/m/d)",
-        "company": "Enpal",
-        "location": "Remote",
+        "id": "arbeitnow-customer-support-executive-dalston-219280",
+        "title": "Customer Support Executive",
+        "company": "Pmmalliance",
+        "location": "Hybrid  or Fully Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/enpal/remote-sales-support-manager-427529",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/pmmalliance/customer-support-executive-dalston-219280",
         "source": "Arbeitnow",
-        "published_at": "2026-09-22T17:40:12+00:00",
-        "remote": true
+        "published_at": "2026-09-22T21:40:04+00:00",
+        "remote": false
     }
 ]

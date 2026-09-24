@@ -22,6 +22,61 @@
         "remote": true
     },
     {
+        "id": "ashby-9d4d2727-27f3-4a63-857c-a96466130645",
+        "title": "Machine Learning Engineer, Core Experimentation",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/9d4d2727-27f3-4a63-857c-a96466130645",
+        "source": "Ashby",
+        "published_at": "2026-09-24T20:40:14.837000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-d29b455a-9fee-4610-8e08-ce6a9ea8a37e",
+        "title": "Account Associate - EMEA",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/d29b455a-9fee-4610-8e08-ce6a9ea8a37e",
+        "source": "Ashby",
+        "published_at": "2026-09-24T19:15:10.646000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-b3fcdad3-abcb-4612-8fd9-a69e17210f0f",
+        "title": "Staff & Software Engineer, Payments & Billing, Consumer Monetization",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/b3fcdad3-abcb-4612-8fd9-a69e17210f0f",
+        "source": "Ashby",
+        "published_at": "2026-09-24T17:46:25.964000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-76c2a136-4e93-4e1a-bbdf-de4268498838",
+        "title": "Mobile / Full Stack Staff & Software Engineer, Consumer Monetization",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/76c2a136-4e93-4e1a-bbdf-de4268498838",
+        "source": "Ashby",
+        "published_at": "2026-09-24T17:45:59.814000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-d4cd5172-d4bc-4f9e-956e-c6bcaef1c355",
+        "title": "Full Stack Staff & Software Engineer, Consumer Monetization",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/d4cd5172-d4bc-4f9e-956e-c6bcaef1c355",
+        "source": "Ashby",
+        "published_at": "2026-09-24T17:42:19.514000+00:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-3550816",
         "title": "Senior Software Engineer- Blockchain Platform (Wallets, Liquidity & Bridging)",
         "company": "Coinbase",
@@ -88,36 +143,36 @@
         "remote": true
     },
     {
-        "id": "ashby-76c2a136-4e93-4e1a-bbdf-de4268498838",
-        "title": "Mobile / Full Stack Staff+ Software Engineer, Consumer Monetization",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/76c2a136-4e93-4e1a-bbdf-de4268498838",
-        "source": "Ashby",
-        "published_at": "2026-09-23T19:51:43.699000+00:00",
-        "remote": true
+        "id": "arbeitnow-remote-qa-lead-309026",
+        "title": "QA Lead",
+        "company": "Foundation Health",
+        "location": "United Kingdom - Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/foundation-health/remote-qa-lead-309026",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-24T18:40:11+00:00",
+        "remote": false
     },
     {
-        "id": "ashby-d4cd5172-d4bc-4f9e-956e-c6bcaef1c355",
-        "title": "Full Stack Staff+ Software Engineer, Consumer Monetization",
-        "company": "OpenAI",
+        "id": "arbeitnow-senior-security-engineer-remote-30941",
+        "title": "Senior Security Engineer - Remote",
+        "company": "Parity",
         "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/d4cd5172-d4bc-4f9e-956e-c6bcaef1c355",
-        "source": "Ashby",
-        "published_at": "2026-09-23T17:37:04.246000+00:00",
-        "remote": true
+        "job_type": "Contract",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/parity/senior-security-engineer-remote-30941",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-24T18:40:06+00:00",
+        "remote": false
     },
     {
-        "id": "ashby-b3fcdad3-abcb-4612-8fd9-a69e17210f0f",
-        "title": "Staff+ Software Engineer, Payments & Billing, Consumer Monetization",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/b3fcdad3-abcb-4612-8fd9-a69e17210f0f",
-        "source": "Ashby",
-        "published_at": "2026-09-23T17:36:13.662000+00:00",
+        "id": "arbeitnow-remote-project-manager-software-implementation-berlin-260014",
+        "title": "Project Manager - Software Implementation (m/f/x)",
+        "company": "Makersite GmbH",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-260014",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-24T17:30:09+00:00",
         "remote": true
     },
     {
@@ -154,94 +209,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-6538058002",
-        "title": "Senior Developer Advocate",
-        "company": "GitLab",
-        "location": "Remote, Canada; Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8838202002",
-        "source": "Greenhouse",
-        "published_at": "2026-09-23T16:17:55-04:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-2888b101-b1da-4e53-a02e-1bb9b1b5a951",
-        "title": "Machine Learning Engineer",
-        "company": "Ramp",
-        "location": "Remote",
-        "job_type": "FullTime, Data",
-        "url": "https://jobs.ashbyhq.com/ramp/2888b101-b1da-4e53-a02e-1bb9b1b5a951",
-        "source": "Ashby",
-        "published_at": "2026-09-23T19:39:11.015000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-c9f78e74-fb9d-4cd0-af0b-b1cec4632331",
-        "title": "OrioleDB Deployment Engineer (AMER)",
-        "company": "Supabase",
-        "location": "Remote",
-        "job_type": "FullTime, Engineering",
-        "url": "https://jobs.ashbyhq.com/supabase/c9f78e74-fb9d-4cd0-af0b-b1cec4632331",
-        "source": "Ashby",
-        "published_at": "2026-09-23T19:21:08.593000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3552759",
-        "title": "Sr. Technical Program Manager, Data Engineering",
-        "company": "Pinterest",
-        "location": "San Francisco, CA, US; Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209014",
-        "source": "Greenhouse",
-        "published_at": "2026-09-23T14:04:05-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3553013",
-        "title": "Staff Software Engineer, Programmatic Ads",
-        "company": "Pinterest",
-        "location": "San Francisco, CA, US; Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8226802",
-        "source": "Greenhouse",
-        "published_at": "2026-09-23T12:57:31-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-kubernetes-95767",
-        "title": "Senior Software Engineer, Kubernetes",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-kubernetes-95767",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-23T16:40:11+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-machine-learning-engineer-berlin-435827",
-        "title": "Machine Learning Engineer",
-        "company": "Phantasma Labs",
-        "location": "Berlin",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/phantasma-labs/machine-learning-engineer-berlin-435827",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-24T13:00:30+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-it-administrator-in-teilzeit-munich-165536",
-        "title": "IT-Administrator (m/w/d) (m/w/d) in Teilzeit",
-        "company": "Ecoturn GmbH",
-        "location": "Munich",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/ecoturn-gmbh/it-administrator-in-teilzeit-munich-165536",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-24T12:30:42+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-76583c87-78ea-4886-906d-81b0a9c05bfe",
         "title": "Support Delivery Lead",
         "company": "OpenAI",
@@ -253,14 +220,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-werkstudentin-kundensupport-social-media-grafelfing-278870",
-        "title": "Werkstudent:in Kundensupport & Social Media (M/W/D)",
-        "company": "BodyFast GmbH",
-        "location": "Gräfelfing",
-        "job_type": "Working student",
-        "url": "https://www.arbeitnow.com/jobs/companies/bodyfast-gmbh/werkstudentin-kundensupport-social-media-grafelfing-278870",
+        "id": "arbeitnow-product-support-specialist-german-speaking-munich-196104",
+        "title": "Product Support Specialist (German-speaking)",
+        "company": "Secfix",
+        "location": "Remote - Germany, Austria, Poland, the UK or Turkey",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/secfix/product-support-specialist-german-speaking-munich-196104",
         "source": "Arbeitnow",
-        "published_at": "2026-09-24T12:30:40+00:00",
-        "remote": true
+        "published_at": "2026-09-24T17:40:11+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-senior-product-designer-berlin-402706",
+        "title": "Senior Product Designer",
+        "company": "Secfix",
+        "location": "Remote - Europe",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/secfix/senior-product-designer-berlin-402706",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-24T17:40:11+00:00",
+        "remote": false
     }
 ]

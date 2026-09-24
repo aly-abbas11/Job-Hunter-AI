@@ -1,14 +1,47 @@
 [
     {
-        "id": "arbeitnow-senior-python-developer-remote-frankfurt-am-main-250296",
-        "title": "Senior Python Developer (w/m/d) - Remote",
-        "company": "node.energy",
-        "location": "Frankfurt am Main",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-frankfurt-am-main-250296",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-23T14:00:30+00:00",
+        "id": "ashby-a13ae586-f4cb-4385-8822-c42b9b54ed74",
+        "title": "Software Engineer Internship, Frontend",
+        "company": "Ramp",
+        "location": "Remote",
+        "job_type": "Intern, Engineering",
+        "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+        "source": "Ashby",
+        "published_at": "2026-09-24T00:40:15.975000+00:00",
         "remote": true
+    },
+    {
+        "id": "ashby-b66be397-240b-41a6-9b05-493299b270a9",
+        "title": "Software Engineering Intern, iOS",
+        "company": "Ramp",
+        "location": "Remote",
+        "job_type": "Intern, Engineering",
+        "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
+        "source": "Ashby",
+        "published_at": "2026-09-24T01:01:49.394000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-data-operations-specialist-336817",
+        "title": "Data & Operations Specialist",
+        "company": "Anyone Ai",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/remote-data-operations-specialist-336817",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-23T23:40:04+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-digital-creative-gn-ai-focus-74371",
+        "title": "Senior Digital Creative (gn) AI Focus",
+        "company": "Bikeleasing",
+        "location": "Remote Deutschland",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-senior-digital-creative-gn-ai-focus-74371",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-23T23:09:50+00:00",
+        "remote": false
     },
     {
         "id": "ashby-76c2a136-4e93-4e1a-bbdf-de4268498838",
@@ -66,25 +99,47 @@
         "remote": true
     },
     {
-        "id": "ashby-4aa1dcbf-166a-4538-ae4e-08cf39c7ff23",
-        "title": "Head of Employee Tech & Experience (ETX)",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, IT",
-        "url": "https://jobs.ashbyhq.com/openai/4aa1dcbf-166a-4538-ae4e-08cf39c7ff23",
-        "source": "Ashby",
-        "published_at": "2026-09-22T22:17:53.988000+00:00",
+        "id": "arbeitnow-remote-backend-engineer-agentic-ai-berlin-446366",
+        "title": "Backend Engineer - Agentic AI (m/w/d)",
+        "company": "Getpress Gmbh",
+        "location": "Berlin",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-446366",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-23T23:09:37+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-ai-product-engineer-bielefeld-415380",
-        "title": "AI Product Engineer",
-        "company": "paddy",
-        "location": "Bielefeld",
+        "id": "arbeitnow-remote-senior-product-engineer-164889",
+        "title": "Senior Product Engineer",
+        "company": "prolific",
+        "location": "Remote",
         "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/paddy/ai-product-engineer-bielefeld-415380",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-product-engineer-164889",
         "source": "Arbeitnow",
-        "published_at": "2026-09-23T16:30:39+00:00",
+        "published_at": "2026-09-24T00:55:23+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-principal-software-engineer-data-lakes-205806",
+        "title": "Principal Software Engineer - Data Lakes",
+        "company": "Fivetran",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-principal-software-engineer-data-lakes-205806",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-23T23:56:04+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-108798",
+        "title": "Sales Account Executive - Cybersecurity",
+        "company": "Crowdsec",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-108798",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-23T22:30:31+00:00",
         "remote": true
     },
     {
@@ -176,17 +231,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-machine-learning-engineer-personalization-118356",
-        "title": "Machine Learning Engineer: Personalization",
-        "company": "Constructor",
-        "location": "Remote - EMEA",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-machine-learning-engineer-personalization-118356",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-23T15:40:10+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3422759",
         "title": "Senior Director, Data Science",
         "company": "Reddit",
@@ -198,25 +242,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-field-service-engineer-ess-pv-france-south-22671",
-        "title": "Field Service Engineer (ESS / PV) - France (South)",
-        "company": "Sungrow Europe - Welcome traveler!",
-        "location": "France - remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/sungrow-europe-welcome-traveler/remote-field-service-engineer-ess-pv-france-south-22671",
+        "id": "arbeitnow-remote-senior-it-architect-bonn-80128",
+        "title": "Senior IT Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, freelance",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-bonn-80128",
         "source": "Arbeitnow",
-        "published_at": "2026-09-23T13:09:55+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-3538247",
-        "title": "[TEMPLATE] Integration Engineer (Metronome)",
-        "company": "Stripe",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://stripe.com/jobs/search?gh_jid=8175647",
-        "source": "Greenhouse",
-        "published_at": "2026-09-22T17:16:20-04:00",
+        "published_at": "2026-09-23T20:30:20+00:00",
         "remote": true
     },
     {
@@ -231,15 +264,26 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-customer-support-team-lead-london-245131",
-        "title": "Customer Support Team Lead",
-        "company": "Clipboard",
-        "location": "Remote (Canada, UK, EU)",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clipboard/customer-support-team-lead-london-245131",
+        "id": "ashby-76583c87-78ea-4886-906d-81b0a9c05bfe",
+        "title": "Support Delivery Lead",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, User Operations",
+        "url": "https://jobs.ashbyhq.com/openai/76583c87-78ea-4886-906d-81b0a9c05bfe",
+        "source": "Ashby",
+        "published_at": "2026-09-23T21:22:39.486000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-sap-basis-support-consultant-register-your-interest-uk-352473",
+        "title": "Senior SAP Basis Support Consultant - Register your interest",
+        "company": "The Config Team",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-senior-sap-basis-support-consultant-register-your-interest-uk-352473",
         "source": "Arbeitnow",
-        "published_at": "2026-09-23T15:40:02+00:00",
-        "remote": false
+        "published_at": "2026-09-23T21:30:03+00:00",
+        "remote": true
     },
     {
         "id": "ashby-ab8d1463-bc97-417f-97b1-bfc1fe619b3e",
@@ -250,17 +294,6 @@
         "url": "https://jobs.ashbyhq.com/supabase/ab8d1463-bc97-417f-97b1-bfc1fe619b3e",
         "source": "Ashby",
         "published_at": "2026-09-23T13:58:42.792000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-product-builder-ui-ux-designer-mobile-app-developer-hamburg-353211",
-        "title": "Product Builder (UI/UX Designer & Mobile App Developer) - (m/w/d)",
-        "company": "Luma Life",
-        "location": "Hamburg",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/luma-life/product-builder-ui-ux-designer-mobile-app-developer-hamburg-353211",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-23T13:00:35+00:00",
         "remote": true
     }
 ]

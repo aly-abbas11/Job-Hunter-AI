@@ -1,24 +1,35 @@
 [
     {
-        "id": "ashby-a13ae586-f4cb-4385-8822-c42b9b54ed74",
-        "title": "Software Engineer Internship, Frontend",
-        "company": "Ramp",
+        "id": "ashby-7caed1e8-c6f6-4569-9d45-2d7a7a56a025",
+        "title": "Software Engineer, Search Infrastructure",
+        "company": "OpenAI",
         "location": "Remote",
-        "job_type": "Intern, Engineering",
-        "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/7caed1e8-c6f6-4569-9d45-2d7a7a56a025",
         "source": "Ashby",
-        "published_at": "2026-09-24T00:40:15.975000+00:00",
+        "published_at": "2026-09-25T01:05:08.971000+00:00",
         "remote": true
     },
     {
-        "id": "ashby-b66be397-240b-41a6-9b05-493299b270a9",
-        "title": "Software Engineering Intern, iOS",
-        "company": "Ramp",
+        "id": "arbeitnow-ai-growth-marketer-remote-253947",
+        "title": "AI Growth Marketer (m/w/d) - remote",
+        "company": "Studysmarter",
+        "location": "Remote (Deutschland)",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/studysmarter/ai-growth-marketer-remote-253947",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-24T23:09:46+00:00",
+        "remote": false
+    },
+    {
+        "id": "ashby-6fd50ace-941b-4559-992f-e53f9b76c9a0",
+        "title": "Security Program Manager",
+        "company": "OpenAI",
         "location": "Remote",
-        "job_type": "Intern, Engineering",
-        "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
+        "job_type": "FullTime, Security",
+        "url": "https://jobs.ashbyhq.com/openai/6fd50ace-941b-4559-992f-e53f9b76c9a0",
         "source": "Ashby",
-        "published_at": "2026-09-24T01:01:49.394000+00:00",
+        "published_at": "2026-09-24T22:51:44.298000+00:00",
         "remote": true
     },
     {
@@ -143,36 +154,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-qa-lead-309026",
-        "title": "QA Lead",
-        "company": "Foundation Health",
-        "location": "United Kingdom - Remote",
+        "id": "greenhouse-6471047002",
+        "title": "Backend Engineer, Create: Repository Management",
+        "company": "GitLab",
+        "location": "Remote, United Kingdom",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/foundation-health/remote-qa-lead-309026",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-24T18:40:11+00:00",
-        "remote": false
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8843512002",
+        "source": "Greenhouse",
+        "published_at": "2026-09-24T17:59:06-04:00",
+        "remote": true
     },
     {
-        "id": "arbeitnow-senior-security-engineer-remote-30941",
-        "title": "Senior Security Engineer - Remote",
-        "company": "Parity",
-        "location": "Remote",
-        "job_type": "Contract",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/parity/senior-security-engineer-remote-30941",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-24T18:40:06+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-project-manager-software-implementation-berlin-260014",
-        "title": "Project Manager - Software Implementation (m/f/x)",
-        "company": "Makersite GmbH",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-260014",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-24T17:30:09+00:00",
+        "id": "greenhouse-3543029",
+        "title": "Staff Machine Learning Engineer, App Ads Modeling",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8187652",
+        "source": "Greenhouse",
+        "published_at": "2026-09-24T21:13:27-04:00",
         "remote": true
     },
     {
@@ -198,47 +198,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-108798",
-        "title": "Sales Account Executive - Cybersecurity",
-        "company": "Crowdsec",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-108798",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-23T22:30:31+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-76583c87-78ea-4886-906d-81b0a9c05bfe",
-        "title": "Support Delivery Lead",
+        "id": "ashby-2348230a-295f-434d-9b16-653e01ddbd0b",
+        "title": "Dedicated Support Engineer - San Francisco",
         "company": "OpenAI",
         "location": "Remote",
         "job_type": "FullTime, User Operations",
-        "url": "https://jobs.ashbyhq.com/openai/76583c87-78ea-4886-906d-81b0a9c05bfe",
+        "url": "https://jobs.ashbyhq.com/openai/2348230a-295f-434d-9b16-653e01ddbd0b",
         "source": "Ashby",
-        "published_at": "2026-09-23T21:22:39.486000+00:00",
+        "published_at": "2026-09-24T21:20:50.887000+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-product-support-specialist-german-speaking-munich-196104",
-        "title": "Product Support Specialist (German-speaking)",
-        "company": "Secfix",
-        "location": "Remote - Germany, Austria, Poland, the UK or Turkey",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/secfix/product-support-specialist-german-speaking-munich-196104",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-24T17:40:11+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-product-designer-berlin-402706",
-        "title": "Senior Product Designer",
-        "company": "Secfix",
-        "location": "Remote - Europe",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/secfix/senior-product-designer-berlin-402706",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-24T17:40:11+00:00",
-        "remote": false
     }
 ]

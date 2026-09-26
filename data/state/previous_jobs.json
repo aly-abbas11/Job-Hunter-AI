@@ -1,14 +1,14 @@
 [
     {
-        "id": "arbeitnow-remote-senior-advisor-project-excellence-ai-berlin-335684",
-        "title": "Senior Advisor Project Excellence & AI (m/w/d)",
-        "company": "Natuvion GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-advisor-project-excellence-ai-berlin-335684",
+        "id": "arbeitnow-remote-senior-fullstack-engineer-ai-platform-399671",
+        "title": "Senior Fullstack Engineer- AI Platform",
+        "company": "SoSafe",
+        "location": "United Kingdom Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-senior-fullstack-engineer-ai-platform-399671",
         "source": "Arbeitnow",
-        "published_at": "2026-09-25T23:30:16+00:00",
-        "remote": true
+        "published_at": "2026-09-26T09:40:10+00:00",
+        "remote": false
     },
     {
         "id": "ashby-2d91e925-7d2d-4a7d-b824-70678ce9453e",
@@ -22,6 +22,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-senior-software-engineer-backend-distributed-systems-359884",
+        "title": "Senior Software Engineer, Backend - Distributed Systems",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-359884",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-26T03:40:05+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-senior-cloud-product-manager-all-genders-180900",
         "title": "Senior Cloud Product Manager (all genders)",
         "company": "Contabo",
@@ -33,26 +44,26 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-software-engineer-backend-distributed-systems-305142",
-        "title": "Senior Software Engineer, Backend - Distributed Systems",
+        "id": "arbeitnow-remote-forward-deployed-engineer-64304",
+        "title": "Forward Deployed Engineer",
+        "company": "Hexa",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/hexa/remote-forward-deployed-engineer-64304",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-26T08:40:05+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-software-engineer-infrastructure-self-managed-experience-smx-330128",
+        "title": "Software Engineer, Infrastructure - Self Managed Experience (SMX)",
         "company": "Camunda",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-305142",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-330128",
         "source": "Arbeitnow",
-        "published_at": "2026-09-25T22:40:06+00:00",
+        "published_at": "2026-09-26T03:40:05+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-ai-product-engineer-berlin-286735",
-        "title": "(Senior) AI Product Engineer (m/w/d)",
-        "company": "Legalhero",
-        "location": "Berlin",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-286735",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-26T02:09:43+00:00",
-        "remote": true
     },
     {
         "id": "arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-160244",
@@ -85,72 +96,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-platform-reliability-engineer-all-genders-88147",
         "source": "Arbeitnow",
         "published_at": "2026-09-26T02:09:58+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-team-lead-sap-abap-development-data-migration-berlin-368024",
-        "title": "Team Lead SAP ABAP Development – Data Migration (m/w/d)",
-        "company": "Natuvion GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-team-lead-sap-abap-development-data-migration-berlin-368024",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-25T23:30:16+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-operations-engineer-charging-network-333703",
-        "title": "(Senior) Operations Engineer - Charging Network (f/m/x)",
-        "company": "IONITY GmbH",
-        "location": "Remote Work Germany",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/ionity-gmbh/remote-senior-operations-engineer-charging-network-333703",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-25T23:09:49+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-it-risk-pricing-172194",
-        "title": "Senior Software Engineer – IT Risk & Pricing (m/f/d)",
-        "company": "Auxmoney Gmbh",
-        "location": "Remote / Düsseldorf",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-it-risk-pricing-172194",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-25T23:09:46+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-it-banking-payment-operations-171811",
-        "title": "Senior Software Engineer – IT Banking & Payment Operations",
-        "company": "Auxmoney Gmbh",
-        "location": "Remote / Düsseldorf",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-it-banking-payment-operations-171811",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-25T23:09:46+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-devops-engineer-219281",
-        "title": "Senior DevOps Engineer (m/f/d)",
-        "company": "Auxmoney Gmbh",
-        "location": "Remote / Düsseldorf",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-devops-engineer-219281",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-25T23:09:46+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-software-engineer-infrastructure-self-managed-experience-smx-123880",
-        "title": "Software Engineer, Infrastructure - Self Managed Experience (SMX)",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-123880",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-25T22:40:06+00:00",
         "remote": false
     },
     {
@@ -209,17 +154,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-staff-product-security-architect-442889",
-        "title": "Staff Product Security Architect",
-        "company": "gitlab",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-staff-product-security-architect-442889",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-25T15:55:13+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-6527922002",
         "title": "Staff Product Security Architect",
         "company": "GitLab",
@@ -228,28 +162,6 @@
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8815140002",
         "source": "Greenhouse",
         "published_at": "2026-09-25T09:41:48-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-65580",
-        "title": "Développeur fullstack confirmé H/F (C#, .Net, Angular)",
-        "company": "N2JSoft",
-        "location": "Poste à distance",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-65580",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-25T07:30:11+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-werkstudent-softwareentwicklung-go-iot-energy-cologne-56281",
-        "title": "Werkstudent (m/w/d) Softwareentwicklung Go / IoT & Energy",
-        "company": "initEnergy GmbH",
-        "location": "Cologne",
-        "job_type": "Working student",
-        "url": "https://www.arbeitnow.com/jobs/companies/initenergy-gmbh/werkstudent-softwareentwicklung-go-iot-energy-cologne-56281",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-25T21:00:22+00:00",
         "remote": true
     },
     {
@@ -275,14 +187,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-werkstudent-customer-service-174702",
-        "title": "Werkstudent Customer Service (m/w/d)",
-        "company": "Auxmoney Gmbh",
-        "location": "Remote / Düsseldorf",
-        "job_type": "Student, Working student, Part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-werkstudent-customer-service-174702",
+        "id": "arbeitnow-remote-product-designer-simplestudy-388362",
+        "title": "Product Designer | SimpleStudy",
+        "company": "Hirehire",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-product-designer-simplestudy-388362",
         "source": "Arbeitnow",
-        "published_at": "2026-09-25T23:09:46+00:00",
+        "published_at": "2026-09-26T05:40:12+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-product-designer-52013",
+        "title": "Senior Product Designer",
+        "company": "prolific",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-product-designer-52013",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-26T03:55:17+00:00",
         "remote": false
     },
     {
@@ -295,16 +218,5 @@
         "source": "Ashby",
         "published_at": "2026-09-25T21:05:27.698000+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-product-designer-simplestudy-338113",
-        "title": "Product Designer | SimpleStudy",
-        "company": "Hirehire",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/hirehire/remote-product-designer-simplestudy-338113",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-25T18:40:02+00:00",
-        "remote": false
     }
 ]

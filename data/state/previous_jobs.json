@@ -44,6 +44,17 @@
         "remote": false
     },
     {
+        "id": "arbeitnow-remote-senior-data-scientist-berlin-388379",
+        "title": "Senior Data Scientist (m/f/x)",
+        "company": "Makersite GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-388379",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-27T17:30:16+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-product-engineer-85511",
         "title": "Product Engineer",
         "company": "0G",
@@ -74,6 +85,17 @@
         "url": "https://www.arbeitnow.fr/jobs/companies/inato/remote-product-engineer-119171",
         "source": "Arbeitnow",
         "published_at": "2026-09-27T10:40:09+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-junior-social-media-manager-fixed-term-employment-berlin-356562",
+        "title": "Junior Social Media Manager (Fixed Term Employment)",
+        "company": "Ecosia",
+        "location": "Berlin / fully remote",
+        "job_type": "Contract",
+        "url": "https://www.arbeitnow.com/jobs/companies/ecosia/junior-social-media-manager-fixed-term-employment-berlin-356562",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-27T17:40:02+00:00",
         "remote": false
     },
     {

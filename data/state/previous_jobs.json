@@ -1,14 +1,14 @@
 [
     {
-        "id": "arbeitnow-remote-junior-data-engineer-martech-specialist-mobile-apps-391953",
-        "title": "Junior Data Engineer & MarTech Specialist (Mobile Apps) (m/w/d)",
-        "company": "Trg",
-        "location": "Remote within Germany",
-        "job_type": "Entry, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/trg/remote-junior-data-engineer-martech-specialist-mobile-apps-391953",
+        "id": "arbeitnow-remote-data-operations-specialist-358431",
+        "title": "Data & Operations Specialist",
+        "company": "Anyone Ai",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.ch/jobs/companies/anyone-ai/remote-data-operations-specialist-358431",
         "source": "Arbeitnow",
-        "published_at": "2026-09-27T05:09:57+00:00",
-        "remote": false
+        "published_at": "2026-09-27T14:40:09+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-senior-ai-engineer-499516",
@@ -22,26 +22,48 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-genai-solution-engineer-all-genders-297775",
-        "title": "Senior GenAI Solution Engineer (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-genai-solution-engineer-all-genders-297775",
+        "id": "arbeitnow-remote-senior-backend-engineer-machine-learning-infrastructure-467357",
+        "title": "Senior Backend Engineer: Machine Learning Infrastructure",
+        "company": "Constructor",
+        "location": "Remote - EMEA",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-senior-backend-engineer-machine-learning-infrastructure-467357",
         "source": "Arbeitnow",
-        "published_at": "2026-09-26T20:09:58+00:00",
+        "published_at": "2026-09-27T15:40:08+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-72576",
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-72576",
+        "id": "arbeitnow-remote-cloud-security-specialist-emea-263967",
+        "title": "Cloud Security Specialist-EMEA",
+        "company": "Tenex",
+        "location": "Remote-United Kingdom",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/tenex/remote-cloud-security-specialist-emea-263967",
         "source": "Arbeitnow",
-        "published_at": "2026-09-26T20:30:26+00:00",
+        "published_at": "2026-09-27T12:40:10+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-product-engineer-85511",
+        "title": "Product Engineer",
+        "company": "0G",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.ch/jobs/companies/0g/remote-product-engineer-85511",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-27T14:40:02+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-software-engineer-gtm-products-eastern-europe-baltics-balkans-314900",
+        "title": "Software Engineer - GTM Products",
+        "company": "Wingtra 2",
+        "location": "Eastern Europe, Baltics & Balkans",
+        "job_type": "Full-time, remote",
+        "url": "https://www.arbeitnow.ch/jobs/companies/wingtra-2/software-engineer-gtm-products-eastern-europe-baltics-balkans-314900",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-27T14:25:00+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-product-engineer-119171",
@@ -55,69 +77,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-forward-deployed-engineer-all-genders-108309",
-        "title": "Forward Deployed Engineer (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-forward-deployed-engineer-all-genders-108309",
+        "id": "arbeitnow-werkstudent-video-editor-munster-73473",
+        "title": "(Werkstudent) Video Editor (m/w/d)",
+        "company": "paselo GmbH",
+        "location": "Münster",
+        "job_type": "Working student",
+        "url": "https://www.arbeitnow.com/jobs/companies/paselo-gmbh/werkstudent-video-editor-munster-73473",
         "source": "Arbeitnow",
-        "published_at": "2026-09-26T20:09:58+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-169377",
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-169377",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-26T20:30:26+00:00",
+        "published_at": "2026-09-27T12:30:59+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-304395",
-        "title": "Senior Java Backend Developer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-304395",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-26T20:30:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-it-architect-karlsruhe-69206",
-        "title": "Senior IT Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-69206",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-26T20:30:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-75190",
-        "title": "Senior Oracle Data Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-75190",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-26T20:30:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-mobile-product-designer-paris-315602",
-        "title": "Mobile Product Designer",
-        "company": "Yubo",
-        "location": "Paris - Full Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/yubo/mobile-product-designer-paris-315602",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-27T10:40:04+00:00",
-        "remote": false
     }
 ]

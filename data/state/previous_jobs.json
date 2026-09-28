@@ -1,16 +1,5 @@
 [
     {
-        "id": "arbeitnow-remote-data-operations-specialist-358431",
-        "title": "Data & Operations Specialist",
-        "company": "Anyone Ai",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.ch/jobs/companies/anyone-ai/remote-data-operations-specialist-358431",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-27T14:40:09+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-ai-engineer-499516",
         "title": "Senior AI Engineer",
         "company": "Inato",
@@ -33,14 +22,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-cloud-security-specialist-emea-263967",
-        "title": "Cloud Security Specialist-EMEA",
-        "company": "Tenex",
-        "location": "Remote-United Kingdom",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/tenex/remote-cloud-security-specialist-emea-263967",
+        "id": "arbeitnow-remote-distinguished-engineer-core-devops-436837",
+        "title": "Distinguished Engineer, Core DevOps",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-distinguished-engineer-core-devops-436837",
         "source": "Arbeitnow",
-        "published_at": "2026-09-27T12:40:10+00:00",
+        "published_at": "2026-09-27T21:55:17+00:00",
         "remote": false
     },
     {
@@ -55,28 +44,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-product-engineer-85511",
-        "title": "Product Engineer",
-        "company": "0G",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.ch/jobs/companies/0g/remote-product-engineer-85511",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-27T14:40:02+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-software-engineer-gtm-products-eastern-europe-baltics-balkans-314900",
-        "title": "Software Engineer - GTM Products",
-        "company": "Wingtra 2",
-        "location": "Eastern Europe, Baltics & Balkans",
-        "job_type": "Full-time, remote",
-        "url": "https://www.arbeitnow.ch/jobs/companies/wingtra-2/software-engineer-gtm-products-eastern-europe-baltics-balkans-314900",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-27T14:25:00+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-product-engineer-119171",
         "title": "Product Engineer",
         "company": "Inato",
@@ -86,6 +53,28 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-27T10:40:09+00:00",
         "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-full-stack-senior-software-developer-bern-4969",
+        "title": "Full Stack Senior Software Developer",
+        "company": "cross-ING AG",
+        "location": "Homeoffice",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/remote-full-stack-senior-software-developer-bern-4969",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-27T23:30:29+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-software-ingenieurin-robotics-dietlikon-314080",
+        "title": "Software-Ingenieur:in Robotics",
+        "company": "cross-ING AG",
+        "location": "Homeoffice",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/remote-software-ingenieurin-robotics-dietlikon-314080",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-27T23:30:29+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-junior-social-media-manager-fixed-term-employment-berlin-356562",

@@ -1,13 +1,13 @@
 [
     {
-        "id": "arbeitnow-remote-senior-ai-engineer-499516",
-        "title": "Senior AI Engineer",
-        "company": "Inato",
-        "location": "PARIS OFFICE or REMOTE FROM FRANCE",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/inato/remote-senior-ai-engineer-499516",
+        "id": "arbeitnow-remote-atlassian-senior-consultant-cloud-practice-125803",
+        "title": "Atlassian Senior Consultant - Cloud Practice",
+        "company": "Valiantys",
+        "location": "Remote, United Kingdom",
+        "job_type": "Full Time Permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/valiantys/remote-atlassian-senior-consultant-cloud-practice-125803",
         "source": "Arbeitnow",
-        "published_at": "2026-09-27T10:40:09+00:00",
+        "published_at": "2026-09-28T09:04:56+00:00",
         "remote": false
     },
     {
@@ -22,6 +22,39 @@
         "remote": false
     },
     {
+        "id": "arbeitnow-remote-senior-software-engineer-redapl-graph-engine-47394",
+        "title": "Senior Software Engineer - REDAPL Graph Engine",
+        "company": "Datadog",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.ch/jobs/companies/datadog/remote-senior-software-engineer-redapl-graph-engine-47394",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-28T11:55:07+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-head-of-technical-operations-automation-greentech-recycling-teilzeit-32h-remote-moglich-berlin-267477",
+        "title": "Head of Technical Operations & Automation (m/w/d)  - GreenTech/Recycling (Teilzeit 32h, Remote möglich)",
+        "company": "ecosistant",
+        "location": "Berlin",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/ecosistant/head-of-technical-operations-automation-greentech-recycling-teilzeit-32h-remote-moglich-berlin-267477",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-28T09:00:37+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-field-service-engineer-ess-pv-france-south-467419",
+        "title": "Field Service Engineer (ESS / PV) - France (South)",
+        "company": "Sungrow Europe - Welcome traveler!",
+        "location": "France - remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/sungrow-europe-welcome-traveler/remote-field-service-engineer-ess-pv-france-south-467419",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-28T04:09:25+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-distinguished-engineer-core-devops-436837",
         "title": "Distinguished Engineer, Core DevOps",
         "company": "gitlab",
@@ -30,28 +63,6 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-distinguished-engineer-core-devops-436837",
         "source": "Arbeitnow",
         "published_at": "2026-09-27T21:55:17+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-data-scientist-berlin-388379",
-        "title": "Senior Data Scientist (m/f/x)",
-        "company": "Makersite GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-388379",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-27T17:30:16+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-product-engineer-119171",
-        "title": "Product Engineer",
-        "company": "Inato",
-        "location": "PARIS OFFICE or REMOTE FROM FRANCE",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/inato/remote-product-engineer-119171",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-27T10:40:09+00:00",
         "remote": false
     },
     {
@@ -77,25 +88,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-junior-social-media-manager-fixed-term-employment-berlin-356562",
-        "title": "Junior Social Media Manager (Fixed Term Employment)",
-        "company": "Ecosia",
-        "location": "Berlin / fully remote",
-        "job_type": "Contract",
-        "url": "https://www.arbeitnow.com/jobs/companies/ecosia/junior-social-media-manager-fixed-term-employment-berlin-356562",
+        "id": "arbeitnow-remote-product-designer-449265",
+        "title": "Product Designer (m/f/d)",
+        "company": "Impower",
+        "location": "Remote Germany",
+        "job_type": "Experienced, Permanent, Part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/impower/remote-product-designer-449265",
         "source": "Arbeitnow",
-        "published_at": "2026-09-27T17:40:02+00:00",
+        "published_at": "2026-09-28T11:09:44+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-werkstudent-video-editor-munster-73473",
-        "title": "(Werkstudent) Video Editor (m/w/d)",
-        "company": "paselo GmbH",
-        "location": "Münster",
-        "job_type": "Working student",
-        "url": "https://www.arbeitnow.com/jobs/companies/paselo-gmbh/werkstudent-video-editor-munster-73473",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-27T12:30:59+00:00",
-        "remote": true
     }
 ]

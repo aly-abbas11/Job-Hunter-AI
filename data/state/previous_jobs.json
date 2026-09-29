@@ -11,6 +11,17 @@
         "remote": true
     },
     {
+        "id": "ashby-afebc24f-c6b8-4c66-a344-b1661fc77570",
+        "title": "Delivery Lead",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/afebc24f-c6b8-4c66-a344-b1661fc77570",
+        "source": "Ashby",
+        "published_at": "2026-09-29T02:57:26.446000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-9909555b-3dc4-4ba2-859e-43eae7c97a34",
         "title": "Software Engineer, Product Velocity",
         "company": "OpenAI",
@@ -77,17 +88,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-people-operations-and-ai-partner-london-204616",
-        "title": "People Operations and AI Partner",
-        "company": "Pencil",
-        "location": "United Kingdom - Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/pencil/people-operations-and-ai-partner-london-204616",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-28T15:40:04+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-67eb66cd-d89e-4312-a2cf-59e9a0a5e43f",
         "title": "Senior Web Experience Strategist",
         "company": "OpenAI",
@@ -99,15 +99,15 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-full-stack-developer-java-react-410879",
-        "title": "Full Stack Developer - Java & React (f/m/d)",
-        "company": "ecosio",
-        "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia, Poland - Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-410879",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-28T14:55:45+00:00",
-        "remote": false
+        "id": "greenhouse-3564969",
+        "title": "Senior Software Engineer, Backend - Overseer (Platform)",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8238630?gh_jid=8238630",
+        "source": "Greenhouse",
+        "published_at": "2026-09-28T19:31:58-04:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-ai-developer-nurnberg-225660",
@@ -119,6 +119,50 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-28T17:09:27+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-staff-software-engineer-security-agent-321424",
+        "title": "Staff Software Engineer - Security Agent",
+        "company": "Datadog",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-staff-software-engineer-security-agent-321424",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-29T02:55:14+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-security-consultant-365430",
+        "title": "Senior Security Consultant",
+        "company": "Tenableinc",
+        "location": "Netherlands - Remote, Italy - Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/tenableinc/remote-senior-security-consultant-365430",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-28T23:55:12+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-quality-4113",
+        "title": "Senior Software Engineer, Quality",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-quality-4113",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-28T23:40:08+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-network-developer-190327",
+        "title": "Network Developer",
+        "company": "Share",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/share/remote-network-developer-190327",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-28T22:40:05+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-fullstack-entwickler-fokus-nextjs-berlin-156081",
@@ -141,28 +185,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-09-28T17:40:07+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-devops-engineer-all-genders-data-platform-139336",
-        "title": "Senior DevOps Engineer (all genders) | Data Platform",
-        "company": "Real Digital",
-        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
-        "job_type": "Experienced, Permanent, Full or part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-139336",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-28T17:09:13+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-solutions-engineer-dach-395452",
-        "title": "Solutions Engineer DACH (m/f/d)",
-        "company": "360Learning",
-        "location": "Berlin, Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-solutions-engineer-dach-395452",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-28T17:04:34+00:00",
-        "remote": false
     },
     {
         "id": "greenhouse-3475098",
@@ -264,14 +286,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-field-service-engineer-ess-pv-france-south-467419",
-        "title": "Field Service Engineer (ESS / PV) - France (South)",
-        "company": "Sungrow Europe - Welcome traveler!",
-        "location": "France - remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/sungrow-europe-welcome-traveler/remote-field-service-engineer-ess-pv-france-south-467419",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-28T04:09:25+00:00",
+        "id": "ashby-186bf7d1-0531-47fc-8e81-4429cbd3b5cb",
+        "title": "AI Support Engineer - Toronto (Weekend Shift)",
+        "company": "OpenAI",
+        "location": "Ontario - Remote",
+        "job_type": "FullTime, User Operations",
+        "url": "https://jobs.ashbyhq.com/openai/186bf7d1-0531-47fc-8e81-4429cbd3b5cb",
+        "source": "Ashby",
+        "published_at": "2026-09-28T23:36:51.678000+00:00",
         "remote": false
     },
     {
@@ -316,28 +338,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/remote-senior-social-media-managerin-gn-berlin-487172",
         "source": "Arbeitnow",
         "published_at": "2026-09-28T20:30:28+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-micro-content-creator-rezepte-kochen-hamburg-125411",
-        "title": "Micro Content Creator - Rezepte & Kochen",
-        "company": "ReciMe",
-        "location": "Hamburg",
-        "job_type": "Freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/recime/micro-content-creator-rezepte-kochen-hamburg-125411",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-28T20:17:29+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-social-media-managerin-gn-berlin-437625",
-        "title": "Senior Social Media Manager:in (gn)",
-        "company": "Intermate Media GmbH",
-        "location": "Berlin",
-        "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-social-media-managerin-gn-berlin-437625",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-28T17:00:32+00:00",
         "remote": true
     }
 ]

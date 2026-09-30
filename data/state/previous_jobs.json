@@ -1,13 +1,13 @@
 [
     {
-        "id": "ashby-c9dffd0f-c4b2-461c-9aa2-d08bf1ca5e68",
-        "title": "International Growth Lead, France",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/c9dffd0f-c4b2-461c-9aa2-d08bf1ca5e68",
-        "source": "Ashby",
-        "published_at": "2026-09-29T16:43:13.580000+00:00",
+        "id": "arbeitnow-junior-backend-developer-python-20h-stellenbeschreibung-read-description-before-werther-140541",
+        "title": "Junior Backend Developer (Python) (M/W/D) 20H Stellenbeschreibung Read Description Before",
+        "company": "uNaice GmbH",
+        "location": "Werther",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/unaice-gmbh/junior-backend-developer-python-20h-stellenbeschreibung-read-description-before-werther-140541",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-30T10:00:42+00:00",
         "remote": true
     },
     {
@@ -110,17 +110,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-native-video-producer-45332",
-        "title": "AI-Native Video Producer",
-        "company": "Uplane",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/uplane/remote-ai-native-video-producer-45332",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-29T20:40:08+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3565546",
         "title": "Software Engineer, Passport & Commerce, iOS",
         "company": "Airbnb",
@@ -143,6 +132,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-ai-native-video-producer-17194",
+        "title": "AI-Native Video Producer",
+        "company": "Uplane",
+        "location": "remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.ch/jobs/companies/uplane/remote-ai-native-video-producer-17194",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-29T17:40:06+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-3254f6a7-6353-4a77-beec-f37b832c99ae",
         "title": "Applied AI Engineer, Digital Natives",
         "company": "OpenAI",
@@ -154,15 +154,15 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-fullstack-entwickler-php-laravel-remote-4-tage-woche-435519",
-        "title": "Senior Fullstack Entwickler PHP/Laravel (m/w/d) - Remote, 4-Tage-Woche",
-        "company": "Händlerbund Management AG",
-        "location": "Remote/Leipzig",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/handlerbund-management-ag/senior-fullstack-entwickler-php-laravel-remote-4-tage-woche-435519",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-29T23:09:12+00:00",
-        "remote": false
+        "id": "ashby-c9dffd0f-c4b2-461c-9aa2-d08bf1ca5e68",
+        "title": "Growth Lead, France",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/c9dffd0f-c4b2-461c-9aa2-d08bf1ca5e68",
+        "source": "Ashby",
+        "published_at": "2026-09-29T16:43:13.580000+00:00",
+        "remote": true
     },
     {
         "id": "greenhouse-3566103",
@@ -187,15 +187,48 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-software-engineer-quality-67277",
+        "id": "arbeitnow-remote-senior-engineering-manager-gn-data-intelligence-platform-188032",
+        "title": "Senior Engineering Manager [gn] Data Intelligence Platform",
+        "company": "Actian",
+        "location": "Europe - Remote",
+        "job_type": "Full-Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/actian/remote-senior-engineering-manager-gn-data-intelligence-platform-188032",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-30T07:24:25+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-data-reliability-engineer-481695",
+        "title": "Data Reliability Engineer",
+        "company": "Resilience Care",
+        "location": "France - Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/resilience-care/remote-data-reliability-engineer-481695",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-30T04:40:02+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-forward-deployed-engineer-emea-86525",
+        "title": "Forward Deployed Engineer - EMEA",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-86525",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-30T03:55:13+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-quality-203673",
         "title": "Senior Software Engineer, Quality",
         "company": "Camunda",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-quality-67277",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-quality-203673",
         "source": "Arbeitnow",
-        "published_at": "2026-09-30T02:40:13+00:00",
-        "remote": true
+        "published_at": "2026-09-30T03:40:05+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3562966",
@@ -308,58 +341,47 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-network-developer-269751",
-        "title": "Network Developer",
-        "company": "Share",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.ch/jobs/companies/share/remote-network-developer-269751",
+        "id": "arbeitnow-remote-professional-services-engineer-cloudflare-implementation-france-337081",
+        "title": "Professional Services Engineer - Cloudflare Implementation",
+        "company": "Brixio",
+        "location": "France",
+        "job_type": "Full time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-professional-services-engineer-cloudflare-implementation-france-337081",
         "source": "Arbeitnow",
-        "published_at": "2026-09-29T11:40:13+00:00",
+        "published_at": "2026-09-30T07:20:08+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-network-operation-engineer-411432",
-        "title": "Network Operation Engineer",
-        "company": "Share",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.ch/jobs/companies/share/remote-network-operation-engineer-411432",
+        "id": "arbeitnow-remote-msp-engineer-network-and-security-rotating-shifts-france-373290",
+        "title": "MSP Engineer, Network and Security - Rotating shifts",
+        "company": "Brixio",
+        "location": "France",
+        "job_type": "Full time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-msp-engineer-network-and-security-rotating-shifts-france-373290",
         "source": "Arbeitnow",
-        "published_at": "2026-09-29T11:40:13+00:00",
+        "published_at": "2026-09-30T07:20:08+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-software-engineer-real-time-systems-early-career-266685",
-        "title": "Software Engineer, Real-Time Systems (Early Career)",
-        "company": "Swarmaero",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-software-engineer-real-time-systems-early-career-266685",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-29T04:40:07+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-ai-native-static-ad-designer-462542",
+        "id": "arbeitnow-remote-ai-native-static-ad-designer-209081",
         "title": "AI-Native Static Ad Designer",
         "company": "Uplane",
         "location": "remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/uplane/remote-ai-native-static-ad-designer-462542",
+        "url": "https://www.arbeitnow.ch/jobs/companies/uplane/remote-ai-native-static-ad-designer-209081",
         "source": "Arbeitnow",
-        "published_at": "2026-09-29T20:40:08+00:00",
+        "published_at": "2026-09-29T17:40:06+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-ai-native-landing-page-designer-336719",
+        "id": "arbeitnow-remote-ai-native-landing-page-designer-99931",
         "title": "AI-Native Landing Page Designer",
         "company": "Uplane",
         "location": "remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/uplane/remote-ai-native-landing-page-designer-336719",
+        "url": "https://www.arbeitnow.ch/jobs/companies/uplane/remote-ai-native-landing-page-designer-99931",
         "source": "Arbeitnow",
-        "published_at": "2026-09-29T20:40:08+00:00",
+        "published_at": "2026-09-29T17:40:06+00:00",
         "remote": false
     },
     {
@@ -371,6 +393,116 @@
         "url": "https://jobs.ashbyhq.com/openai/bfd83255-8491-4c92-be4d-04dd0911cbe6",
         "source": "Ashby",
         "published_at": "2026-09-29T17:15:01.186000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-graphic-designer-social-media-youtube-thumbnails-minijob-frankfurt-am-main-352209",
+        "title": "Graphic Designer (m/w/d) – Social Media & YouTube Thumbnails (Minijob)",
+        "company": "Hildebrandt Personal Brand",
+        "location": "Frankfurt am Main",
+        "job_type": "Unbefristeter arbeitsvertrag, hilfstätigkeit / student",
+        "url": "https://www.arbeitnow.com/jobs/companies/hildebrandt-personal-brand/graphic-designer-social-media-youtube-thumbnails-minijob-frankfurt-am-main-352209",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-30T07:30:29+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-va-virtuelle-assistenz-social-media-content-manager-freelance-100-remote-stuttgart-379278",
+        "title": "VA (Virtuelle Assistenz) Social Media & Content Manager (w/m/d) - Freelance, 100% Remote",
+        "company": "NETSHAKE",
+        "location": "Stuttgart",
+        "job_type": "Freelance, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/netshake/va-virtuelle-assistenz-social-media-content-manager-freelance-100-remote-stuttgart-379278",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-30T09:31:27+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-linguist-wolof-ui-technical-marketing-remote-478845",
+        "title": "Linguist - Wolof - UI Technical / Marketing - Remote",
+        "company": "LILT (Production)",
+        "location": "Remote",
+        "job_type": "Contract",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/lilt-production/linguist-wolof-ui-technical-marketing-remote-478845",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-30T06:40:10+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-linguist-malagasy-ui-technical-marketing-remote-337097",
+        "title": "Linguist - Malagasy - UI Technical / Marketing - Remote",
+        "company": "LILT (Production)",
+        "location": "Remote",
+        "job_type": "Contract",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/lilt-production/linguist-malagasy-ui-technical-marketing-remote-337097",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-30T06:40:10+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-linguist-shona-ui-technical-marketing-remote-41502",
+        "title": "Linguist - Shona - UI Technical / Marketing - Remote",
+        "company": "LILT (Production)",
+        "location": "Remote",
+        "job_type": "Contract",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/lilt-production/linguist-shona-ui-technical-marketing-remote-41502",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-30T06:40:10+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-linguist-oromo-ui-technical-marketing-remote-462759",
+        "title": "Linguist - Oromo - UI Technical / Marketing - Remote",
+        "company": "LILT (Production)",
+        "location": "Remote",
+        "job_type": "Contract",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/lilt-production/linguist-oromo-ui-technical-marketing-remote-462759",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-30T06:40:10+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-linguist-mongolian-ui-technical-marketing-remote-144786",
+        "title": "Linguist - Mongolian - UI Technical / Marketing - Remote",
+        "company": "LILT (Production)",
+        "location": "Remote",
+        "job_type": "Contract",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/lilt-production/linguist-mongolian-ui-technical-marketing-remote-144786",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-30T06:40:10+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-social-media-recruiter-minijob-homeoffice-gummersbach-99514",
+        "title": "Social Media Recruiter (m/w/d) Minijob (Homeoffice)",
+        "company": "Beutler Saghari & Partner GmbH",
+        "location": "Gummersbach",
+        "job_type": "Side",
+        "url": "https://www.arbeitnow.com/jobs/companies/beutler-saghari-partner-gmbh/social-media-recruiter-minijob-homeoffice-gummersbach-99514",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-30T07:30:30+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-sales-support-account-operations-specialist-arabic-french-and-english-france-11700",
+        "title": "Sales Support & Account Operations Specialist (Arabic, French and English)",
+        "company": "Brixio",
+        "location": "France",
+        "job_type": "Full time, mid-senior",
+        "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-sales-support-account-operations-specialist-arabic-french-and-english-france-11700",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-30T07:20:08+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-customer-success-manager-managed-services-and-support-france-93431",
+        "title": "Customer Success Manager, Managed Services and Support",
+        "company": "Brixio",
+        "location": "France",
+        "job_type": "",
+        "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-customer-success-manager-managed-services-and-support-france-93431",
+        "source": "Arbeitnow",
+        "published_at": "2026-09-30T07:20:08+00:00",
         "remote": true
     }
 ]

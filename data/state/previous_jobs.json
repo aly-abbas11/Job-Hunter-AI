@@ -1,47 +1,36 @@
 [
     {
-        "id": "arbeitnow-remote-senior-product-cloud-security-engineer-55184",
-        "title": "Senior Product/Cloud Security Engineer",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-product-cloud-security-engineer-55184",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-30T23:55:06+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-qa-engineer-ultimate-team-225173",
-        "title": "QA Engineer (Ultimate team)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-qa-engineer-ultimate-team-225173",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-30T23:55:06+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-qa-engineer-ij-kotlin-plugin-187317",
-        "title": "QA Engineer (IJ Kotlin Plugin)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-qa-engineer-ij-kotlin-plugin-187317",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-30T23:55:06+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-team-lead-weiterbildungen-ai-data-science-100-remote-419779",
-        "title": "Team Lead Weiterbildungen AI & Data Science 100% remote (m/w/d)",
-        "company": "Karrieretutor De",
-        "location": "100% Remote in Deutschland",
+        "id": "arbeitnow-remote-senior-genai-solution-engineer-all-genders-491644",
+        "title": "Senior GenAI Solution Engineer (all genders)",
+        "company": "Eraneos",
+        "location": "Hamburg, München, Düsseldorf, remote",
         "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/karrieretutor-de/team-lead-weiterbildungen-ai-data-science-100-remote-419779",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-genai-solution-engineer-all-genders-491644",
         "source": "Arbeitnow",
-        "published_at": "2026-10-01T02:09:39+00:00",
+        "published_at": "2026-10-01T11:09:31+00:00",
         "remote": false
+    },
+    {
+        "id": "ashby-2aae72af-8c35-42bc-86f6-9d5634391245",
+        "title": "Manager, Applied AI Architect (India)",
+        "company": "OpenAI",
+        "location": "Bangalore - Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/2aae72af-8c35-42bc-86f6-9d5634391245",
+        "source": "Ashby",
+        "published_at": "2026-10-01T09:36:38.184000+00:00",
+        "remote": false
+    },
+    {
+        "id": "ashby-b47aae11-78e1-4321-947a-94a2fa3e83b4",
+        "title": "Applied AI Architect",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/b47aae11-78e1-4321-947a-94a2fa3e83b4",
+        "source": "Ashby",
+        "published_at": "2026-10-01T09:09:58.008000+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-ai-native-video-producer-133116",
@@ -66,61 +55,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-staff-research-engineer-llm-pre-training-258512",
-        "title": "Staff Research Engineer (LLM Pre-Training)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-staff-research-engineer-llm-pre-training-258512",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-30T23:55:06+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-appglass-136031",
-        "title": "Senior Software Engineer (AppGlass)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-software-engineer-appglass-136031",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-30T23:55:06+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-ai-engineer-core-engine-408194",
-        "title": "Senior AI Engineer (Core Engine)",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-ai-engineer-core-engine-408194",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-30T23:55:06+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-ai-technical-lead-developer-tooling-51547",
-        "title": "AI Technical Lead - Developer Tooling",
-        "company": "jetbrains",
-        "location": "Berlin; Munich; Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-ai-technical-lead-developer-tooling-51547",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-30T23:55:06+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-ai-strategist-uk-london-371470",
-        "title": "AI Strategist - UK",
-        "company": "Ema",
-        "location": "United Kingdom (Remote)",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/ema/ai-strategist-uk-london-371470",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-30T21:40:08+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-55f36629-8351-41d9-b2f5-3d63c5e26bf7",
         "title": "Account Associate - SF",
         "company": "OpenAI",
@@ -143,14 +77,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-full-stack-software-engineer-angular-python-239791",
-        "title": "Full Stack Software Engineer (Angular/Python)",
-        "company": "Lobster Data Gmbh",
-        "location": "Remote Germany",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/lobster-data-gmbh/remote-full-stack-software-engineer-angular-python-239791",
+        "id": "arbeitnow-staff-lead-python-engineer-fastapi-orchestration-london-486588",
+        "title": "Staff/Lead Python Engineer (FastAPI, Orchestration)",
+        "company": "Mimica",
+        "location": "Remote Anywhere",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/mimica/staff-lead-python-engineer-fastapi-orchestration-london-486588",
         "source": "Arbeitnow",
-        "published_at": "2026-10-01T02:09:06+00:00",
+        "published_at": "2026-10-01T09:40:09+00:00",
         "remote": false
     },
     {
@@ -165,15 +99,37 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-freiberufliche-lehrkraft-fur-data-analytics-168535",
-        "title": "Freiberufliche Lehrkraft (w/m/d) für Data Analytics",
-        "company": "Karrieretutor De",
-        "location": "100% Remote in Deutschland",
-        "job_type": "Experienced, Freelance, Part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/karrieretutor-de/remote-freiberufliche-lehrkraft-fur-data-analytics-168535",
+        "id": "arbeitnow-remote-conversational-ai-application-developer-english-and-french-speaker-france-410860",
+        "title": "Conversational AI Application Developer (English and French Speaker)",
+        "company": "Omilia Natural Language Solutions Ua Ltd",
+        "location": "France",
+        "job_type": "Full time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/omilia-natural-language-solutions-ua-ltd/remote-conversational-ai-application-developer-english-and-french-speaker-france-410860",
         "source": "Arbeitnow",
-        "published_at": "2026-10-01T02:09:39+00:00",
+        "published_at": "2026-10-01T04:20:07+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-forward-deployed-engineer-all-genders-86941",
+        "title": "Forward Deployed Engineer (all genders)",
+        "company": "Eraneos",
+        "location": "Hamburg, München, Düsseldorf, remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-forward-deployed-engineer-all-genders-86941",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-01T11:09:31+00:00",
         "remote": false
+    },
+    {
+        "id": "arbeitnow-werkstudent-it-systemadministration-100-remote-regen-259249",
+        "title": "Werkstudent IT-Systemadministration (m/w/d) - 100% remote",
+        "company": "FastRocket GmbH",
+        "location": "Regen",
+        "job_type": "Working student",
+        "url": "https://www.arbeitnow.com/jobs/companies/fastrocket-gmbh/werkstudent-it-systemadministration-100-remote-regen-259249",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-01T09:00:39+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-network-operation-engineer-424892",
@@ -184,17 +140,6 @@
         "url": "https://www.arbeitnow.fr/jobs/companies/share/remote-network-operation-engineer-424892",
         "source": "Arbeitnow",
         "published_at": "2026-10-01T01:40:07+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-product-security-architect-399216",
-        "title": "Senior Product Security Architect",
-        "company": "Axonius",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/axonius/remote-senior-product-security-architect-399216",
-        "source": "Arbeitnow",
-        "published_at": "2026-09-30T21:55:42+00:00",
         "remote": false
     },
     {
@@ -242,14 +187,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-experience-engineer-217975",
-        "title": "Senior Experience Engineer",
-        "company": "Parity",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.ch/jobs/companies/parity/remote-senior-experience-engineer-217975",
+        "id": "arbeitnow-lead-engineer-leipzig-1901",
+        "title": "Lead Engineer",
+        "company": "SEDIWORK",
+        "location": "Leipzig",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/sediwork/lead-engineer-leipzig-1901",
         "source": "Arbeitnow",
-        "published_at": "2026-09-30T11:40:03+00:00",
+        "published_at": "2026-10-01T10:30:29+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-336691",
+        "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+        "company": "Auralis Group",
+        "location": "Markt Indersdorf",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-336691",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-01T10:00:29+00:00",
         "remote": true
     },
     {
@@ -275,58 +231,91 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-linguist-wolof-ui-technical-marketing-remote-74389",
+        "id": "arbeitnow-english-to-french-linguist-copy-editor-for-product-marketing-ui-content-france-342835",
+        "title": "English to French Linguist & Copy Editor for Product, Marketing & UI Content",
+        "company": "Welo Global",
+        "location": "France",
+        "job_type": "Freelance-Remote",
+        "url": "https://www.arbeitnow.fr/jobs/companies/welo-global/english-to-french-linguist-copy-editor-for-product-marketing-ui-content-france-342835",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-01T10:04:23+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-clinical-support-expert-germany-234378",
+        "title": "Clinical Support Expert (Germany)",
+        "company": "Dandy",
+        "location": "Germany - Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/dandy/remote-clinical-support-expert-germany-234378",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-01T08:40:07+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-linguist-wolof-ui-technical-marketing-remote-472537",
         "title": "Linguist - Wolof - UI Technical / Marketing - Remote",
         "company": "LILT (Production)",
         "location": "Remote",
         "job_type": "Contract",
-        "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-wolof-ui-technical-marketing-remote-74389",
+        "url": "https://www.arbeitnow.fr/jobs/companies/lilt-production/linguist-wolof-ui-technical-marketing-remote-472537",
         "source": "Arbeitnow",
-        "published_at": "2026-10-01T02:40:07+00:00",
-        "remote": true
+        "published_at": "2026-09-30T16:40:09+00:00",
+        "remote": false
     },
     {
-        "id": "arbeitnow-linguist-malagasy-ui-technical-marketing-remote-221104",
+        "id": "arbeitnow-linguist-malagasy-ui-technical-marketing-remote-127146",
         "title": "Linguist - Malagasy - UI Technical / Marketing - Remote",
         "company": "LILT (Production)",
         "location": "Remote",
         "job_type": "Contract",
-        "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-malagasy-ui-technical-marketing-remote-221104",
+        "url": "https://www.arbeitnow.fr/jobs/companies/lilt-production/linguist-malagasy-ui-technical-marketing-remote-127146",
         "source": "Arbeitnow",
-        "published_at": "2026-10-01T02:40:07+00:00",
-        "remote": true
+        "published_at": "2026-09-30T16:40:09+00:00",
+        "remote": false
     },
     {
-        "id": "arbeitnow-linguist-shona-ui-technical-marketing-remote-196767",
+        "id": "arbeitnow-linguist-shona-ui-technical-marketing-remote-386853",
         "title": "Linguist - Shona - UI Technical / Marketing - Remote",
         "company": "LILT (Production)",
         "location": "Remote",
         "job_type": "Contract",
-        "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-shona-ui-technical-marketing-remote-196767",
+        "url": "https://www.arbeitnow.fr/jobs/companies/lilt-production/linguist-shona-ui-technical-marketing-remote-386853",
         "source": "Arbeitnow",
-        "published_at": "2026-10-01T02:40:07+00:00",
-        "remote": true
+        "published_at": "2026-09-30T16:40:09+00:00",
+        "remote": false
     },
     {
-        "id": "arbeitnow-linguist-oromo-ui-technical-marketing-remote-344391",
+        "id": "arbeitnow-linguist-oromo-ui-technical-marketing-remote-448278",
         "title": "Linguist - Oromo - UI Technical / Marketing - Remote",
         "company": "LILT (Production)",
         "location": "Remote",
         "job_type": "Contract",
-        "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-oromo-ui-technical-marketing-remote-344391",
+        "url": "https://www.arbeitnow.fr/jobs/companies/lilt-production/linguist-oromo-ui-technical-marketing-remote-448278",
         "source": "Arbeitnow",
-        "published_at": "2026-10-01T02:40:07+00:00",
-        "remote": true
+        "published_at": "2026-09-30T16:40:09+00:00",
+        "remote": false
     },
     {
-        "id": "arbeitnow-linguist-mongolian-ui-technical-marketing-remote-356539",
+        "id": "arbeitnow-linguist-mongolian-ui-technical-marketing-remote-174541",
         "title": "Linguist - Mongolian - UI Technical / Marketing - Remote",
         "company": "LILT (Production)",
         "location": "Remote",
         "job_type": "Contract",
-        "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-mongolian-ui-technical-marketing-remote-356539",
+        "url": "https://www.arbeitnow.fr/jobs/companies/lilt-production/linguist-mongolian-ui-technical-marketing-remote-174541",
         "source": "Arbeitnow",
-        "published_at": "2026-10-01T02:40:07+00:00",
+        "published_at": "2026-09-30T16:40:09+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-freelance-video-editor-berlin-272070",
+        "title": "Freelance Video Editor (w/m/d)",
+        "company": "Vino Digital",
+        "location": "Berlin",
+        "job_type": "Freelance",
+        "url": "https://www.arbeitnow.com/jobs/companies/vino-digital/freelance-video-editor-berlin-272070",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-01T10:00:32+00:00",
         "remote": true
     }
 ]

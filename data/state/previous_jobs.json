@@ -1,16 +1,5 @@
 [
     {
-        "id": "greenhouse-3418315",
-        "title": "Software Engineer Intern 2027 (USA)",
-        "company": "Pinterest",
-        "location": "San Francisco, CA, US; Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
-        "source": "Greenhouse",
-        "published_at": "2026-10-01T13:03:52-04:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-backend-engineer-ruby-ai-engineering-agent-foundations-385876",
         "title": "Backend Engineer (Ruby), AI Engineering: Agent Foundations",
         "company": "gitlab",
@@ -20,6 +9,17 @@
         "source": "Arbeitnow",
         "published_at": "2026-10-02T09:55:09+00:00",
         "remote": false
+    },
+    {
+        "id": "ashby-ba36fd95-2474-4986-98a6-5280c4e41bd3",
+        "title": "Strategic Sourcing Lead, Professional Services – Human Data",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Finance",
+        "url": "https://jobs.ashbyhq.com/openai/ba36fd95-2474-4986-98a6-5280c4e41bd3",
+        "source": "Ashby",
+        "published_at": "2026-10-02T14:37:09.260000+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-senior-software-engineer-typescript-ai-clients-duo-cli-311651",
@@ -66,25 +66,14 @@
         "remote": true
     },
     {
-        "id": "ashby-d9b730a4-ee24-4d18-bb46-d8111591c6d2",
-        "title": "Engineering Manager, ChatGPT Space",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/d9b730a4-ee24-4d18-bb46-d8111591c6d2",
-        "source": "Ashby",
-        "published_at": "2026-10-01T15:49:39.075000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-ab463045-cd9b-4100-a037-f1135ace1464",
-        "title": "Manager, Applied AI Architect",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/ab463045-cd9b-4100-a037-f1135ace1464",
-        "source": "Ashby",
-        "published_at": "2026-10-01T14:38:16.529000+00:00",
+        "id": "greenhouse-6541158002",
+        "title": "Staff Fullstack Engineer, Data Products (Golang / Node)",
+        "company": "GitLab",
+        "location": "Remote, Canada; Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8845277002",
+        "source": "Greenhouse",
+        "published_at": "2026-10-02T09:24:02-04:00",
         "remote": true
     },
     {
@@ -121,25 +110,58 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-head-of-development-ai-agent-platform-ismaning-325109",
-        "title": "Head of Development AI Agent Platform (m/w/d)",
-        "company": "Strategy & Transformation Consulting GmbH",
-        "location": "Ismaning",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/strategy-transformation-consulting-gmbh/head-of-development-ai-agent-platform-ismaning-325109",
+        "id": "arbeitnow-remote-field-service-engineer-ess-pv-france-south-483664",
+        "title": "Field Service Engineer (ESS / PV) - France (South)",
+        "company": "Sungrow Europe - Welcome traveler!",
+        "location": "France - remote",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/sungrow-europe-welcome-traveler/remote-field-service-engineer-ess-pv-france-south-483664",
         "source": "Arbeitnow",
-        "published_at": "2026-10-02T10:30:33+00:00",
+        "published_at": "2026-10-02T16:09:59+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-privacy-engineer-483854",
+        "title": "Senior Privacy Engineer",
+        "company": "Duck Duck Go",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-483854",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-02T15:40:02+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-inhouse-devops-platform-engineer-100-remote-dusseldorf-359425",
+        "title": "Inhouse DevOps / Platform Engineer (m/w/d) - 100% remote",
+        "company": "DWWA Personalberatung GmbH",
+        "location": "Düsseldorf",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/dwwa-personalberatung-gmbh/inhouse-devops-platform-engineer-100-remote-dusseldorf-359425",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-02T14:00:48+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-intelligent-automation-engineering-lead-london-128204",
-        "title": "Intelligent Automation Engineering Lead",
-        "company": "Delta Capita",
-        "location": "Remote job",
-        "job_type": "Mid, contract",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-intelligent-automation-engineering-lead-london-128204",
+        "id": "arbeitnow-senior-software-engineer-6-month-o-ir35-london-235653",
+        "title": "Senior software engineer - 6 month O/IR35",
+        "company": "Seccl",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/seccl/senior-software-engineer-6-month-o-ir35-london-235653",
         "source": "Arbeitnow",
-        "published_at": "2026-10-02T09:30:20+00:00",
+        "published_at": "2026-10-02T12:40:15+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-fullstack-softwareentwickler-braunschweig-313955",
+        "title": "Fullstack Softwareentwickler (m/w/d)",
+        "company": "TecFox GmbH",
+        "location": "Braunschweig",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-313955",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-02T12:00:37+00:00",
         "remote": true
     },
     {
@@ -198,113 +220,36 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3418322",
-        "title": "University Grad Software Engineer 2027 (USA)",
-        "company": "Pinterest",
-        "location": "San Francisco, CA, US; Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
-        "source": "Greenhouse",
-        "published_at": "2026-10-01T13:03:43-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3457512",
-        "title": "Software Engineer II, CRM & SEO",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8244914",
-        "source": "Greenhouse",
-        "published_at": "2026-10-01T12:24:52-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3561790",
-        "title": "Sr. Security Software Engineer, Security Operations",
-        "company": "Pinterest",
-        "location": "San Francisco, CA, US; Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8230778",
-        "source": "Greenhouse",
-        "published_at": "2026-10-01T12:04:55-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3449662",
-        "title": "Senior Software Engineer II, Ads Data Solutions Engineering",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8246054",
-        "source": "Greenhouse",
-        "published_at": "2026-10-01T11:26:44-04:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-53d3710a-2d55-42ac-ba90-cdfd306bf560",
-        "title": "Software Engineer, Developer Tools",
-        "company": "Resend",
-        "location": "Remote",
-        "job_type": "FullTime, Engineering",
-        "url": "https://jobs.ashbyhq.com/resend/53d3710a-2d55-42ac-ba90-cdfd306bf560",
-        "source": "Ashby",
-        "published_at": "2026-10-01T14:57:31.046000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-systemadministrator-linux-in-freiburg-im-breisgau-nuremberg-41511",
-        "title": "Systemadministrator Linux (m/w/d) | in Freiburg im Breisgau",
-        "company": "ANGEHEUERT GmbH Personalberatung",
-        "location": "Nuremberg",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh-personalberatung/systemadministrator-linux-in-freiburg-im-breisgau-nuremberg-41511",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-02T10:30:34+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-customer-implementation-engineer-nuremberg-263938",
-        "title": "Customer Implementation Engineer (m/w/d)",
-        "company": "Telepaxx Medical Data GmbH",
-        "location": "Nuremberg",
+        "id": "arbeitnow-frontend-softwareentwickler-braunschweig-442037",
+        "title": "Frontend Softwareentwickler (m/w/d)",
+        "company": "TecFox GmbH",
+        "location": "Braunschweig",
         "job_type": "berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/telepaxx-medical-data-gmbh/customer-implementation-engineer-nuremberg-263938",
+        "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-442037",
         "source": "Arbeitnow",
-        "published_at": "2026-10-02T08:30:54+00:00",
+        "published_at": "2026-10-02T12:30:53+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-safety-officer-helicopter-engineer-ach135-yacht-based-med-caribbean-france-367418",
-        "title": "Safety Officer / Helicopter Engineer - ACH135 | Yacht-Based | Med & Caribbean",
-        "company": "Elesta",
-        "location": "France",
-        "job_type": "Full time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/elesta/remote-safety-officer-helicopter-engineer-ach135-yacht-based-med-caribbean-france-367418",
+        "id": "arbeitnow-online-dozentin-fur-it-administration-cyber-security-berlin-443140",
+        "title": "(Online) Dozent*in für IT-Administration & Cyber Security",
+        "company": "Syntax Institut",
+        "location": "Berlin",
+        "job_type": "berufseinstieg",
+        "url": "https://www.arbeitnow.com/jobs/companies/syntax-institut/online-dozentin-fur-it-administration-cyber-security-berlin-443140",
         "source": "Arbeitnow",
-        "published_at": "2026-10-01T19:20:03+00:00",
+        "published_at": "2026-10-02T14:30:35+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-praktikum-social-media-content-community-bei-try-it-magdeburg-414936",
-        "title": "Praktikum Social Media, Content & Community bei Try It (m/w/d)",
-        "company": "Ariside UG (haftungsbeschränkt)",
-        "location": "Magdeburg",
-        "job_type": "Internship",
-        "url": "https://www.arbeitnow.com/jobs/companies/ariside-ug-haftungsbeschrankt/praktikum-social-media-content-community-bei-try-it-magdeburg-414936",
+        "id": "arbeitnow-werkstudent-data-analyst-all-genders-100-home-office-kassel-351691",
+        "title": "Werkstudent Data Analyst (all genders) - 100% Home Office",
+        "company": "fino digital GmbH",
+        "location": "Kassel",
+        "job_type": "Working student, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/fino-digital-gmbh/werkstudent-data-analyst-all-genders-100-home-office-kassel-351691",
         "source": "Arbeitnow",
-        "published_at": "2026-10-02T09:31:15+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3522956",
-        "title": "UX Quantitative Research Intern (USA)  *Remote",
-        "company": "Pinterest",
-        "location": "Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
-        "source": "Greenhouse",
-        "published_at": "2026-10-01T13:00:52-04:00",
+        "published_at": "2026-10-02T13:31:14+00:00",
         "remote": true
     },
     {
@@ -319,25 +264,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-quereinstieg-weiterbildung-social-media-ads-manager-remote-gefordert-landshut-111695",
-        "title": "Quereinstieg - Weiterbildung Social Media Ads Manager (m/w/d) - remote & gefördert",
-        "company": "Mentify Learn GmbH",
-        "location": "Landshut",
-        "job_type": "berufseinstieg",
-        "url": "https://www.arbeitnow.com/jobs/companies/mentify-learn-gmbh/quereinstieg-weiterbildung-social-media-ads-manager-remote-gefordert-landshut-111695",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-02T09:31:11+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-product-designer-design-systems-213115",
+        "id": "arbeitnow-remote-senior-product-designer-design-systems-470274",
         "title": "Senior Product Designer, Design Systems",
         "company": "Duck Duck Go",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-product-designer-design-systems-213115",
+        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-product-designer-design-systems-470274",
         "source": "Arbeitnow",
-        "published_at": "2026-10-01T22:40:06+00:00",
-        "remote": false
+        "published_at": "2026-10-02T11:40:12+00:00",
+        "remote": true
     }
 ]

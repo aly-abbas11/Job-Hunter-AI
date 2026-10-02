@@ -11,15 +11,26 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-head-of-ai-expansion-london-403350",
-        "title": "Head of AI Expansion",
-        "company": "Tether Operations Limited",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-head-of-ai-expansion-london-403350",
+        "id": "arbeitnow-remote-backend-engineer-ruby-ai-engineering-agent-foundations-385876",
+        "title": "Backend Engineer (Ruby), AI Engineering: Agent Foundations",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-ruby-ai-engineering-agent-foundations-385876",
         "source": "Arbeitnow",
-        "published_at": "2026-10-02T00:30:06+00:00",
-        "remote": true
+        "published_at": "2026-10-02T09:55:09+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-typescript-ai-clients-duo-cli-311651",
+        "title": "Senior Software Engineer (Typescript), AI Clients: Duo CLI",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-software-engineer-typescript-ai-clients-duo-cli-311651",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-02T09:55:09+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3568354",
@@ -55,17 +66,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-data-engineer-real-time-analytics-12199",
-        "title": "Senior Data Engineer - Real time analytics",
-        "company": "Aircall",
-        "location": "France Remote",
-        "job_type": "Permanent Full Time Employee",
-        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-12199",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-01T16:24:31+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-d9b730a4-ee24-4d18-bb46-d8111591c6d2",
         "title": "Engineering Manager, ChatGPT Space",
         "company": "OpenAI",
@@ -88,26 +88,26 @@
         "remote": true
     },
     {
-        "id": "ashby-2aae72af-8c35-42bc-86f6-9d5634391245",
-        "title": "Manager, Applied AI Architect (India)",
-        "company": "OpenAI",
-        "location": "Bangalore - Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/2aae72af-8c35-42bc-86f6-9d5634391245",
-        "source": "Ashby",
-        "published_at": "2026-10-01T09:36:38.184000+00:00",
+        "id": "arbeitnow-remote-senior-fullstack-engineer-marketing-297315",
+        "title": "Senior Fullstack Engineer, Marketing",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-fullstack-engineer-marketing-297315",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-02T09:55:09+00:00",
         "remote": false
     },
     {
-        "id": "ashby-b47aae11-78e1-4321-947a-94a2fa3e83b4",
-        "title": "Applied AI Architect",
-        "company": "OpenAI",
+        "id": "arbeitnow-remote-intermediate-senior-backend-engineer-ruby-plan-spec-driven-development-338107",
+        "title": "Intermediate-Senior Backend Engineer (Ruby), Plan: Spec-Driven Development",
+        "company": "gitlab",
         "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/b47aae11-78e1-4321-947a-94a2fa3e83b4",
-        "source": "Ashby",
-        "published_at": "2026-10-01T09:09:58.008000+00:00",
-        "remote": true
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-intermediate-senior-backend-engineer-ruby-plan-spec-driven-development-338107",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-02T09:55:09+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3568388",
@@ -121,15 +121,26 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-solutions-engineer-veeam-data-cloud-vault-315034",
-        "title": "Solutions Engineer, Veeam Data Cloud Vault",
-        "company": "veeamsoftware",
-        "location": "Remote",
+        "id": "arbeitnow-head-of-development-ai-agent-platform-ismaning-325109",
+        "title": "Head of Development AI Agent Platform (m/w/d)",
+        "company": "Strategy & Transformation Consulting GmbH",
+        "location": "Ismaning",
         "job_type": "",
-        "url": "https://www.arbeitnow.fr/jobs/companies/veeamsoftware/remote-solutions-engineer-veeam-data-cloud-vault-315034",
+        "url": "https://www.arbeitnow.com/jobs/companies/strategy-transformation-consulting-gmbh/head-of-development-ai-agent-platform-ismaning-325109",
         "source": "Arbeitnow",
-        "published_at": "2026-10-01T13:55:11+00:00",
-        "remote": false
+        "published_at": "2026-10-02T10:30:33+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-intelligent-automation-engineering-lead-london-128204",
+        "title": "Intelligent Automation Engineering Lead",
+        "company": "Delta Capita",
+        "location": "Remote job",
+        "job_type": "Mid, contract",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-intelligent-automation-engineering-lead-london-128204",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-02T09:30:20+00:00",
+        "remote": true
     },
     {
         "id": "greenhouse-3523509",
@@ -220,17 +231,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-clinical-data-manager-424673",
-        "title": "Senior Clinical Data Manager",
-        "company": "Precisionmedicinegroup",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-senior-clinical-data-manager-424673",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-01T15:55:52+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3449662",
         "title": "Senior Software Engineer II, Ads Data Solutions Engineering",
         "company": "Instacart",
@@ -253,14 +253,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-microsoft-identity-engineer-entra-id-and-microsoft-365-london-118133",
-        "title": "Senior Microsoft Identity Engineer (Entra ID and Microsoft 365)",
-        "company": "Intelance",
-        "location": "London",
-        "job_type": "Contract, professional / experienced",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/senior-microsoft-identity-engineer-entra-id-and-microsoft-365-london-118133",
+        "id": "arbeitnow-systemadministrator-linux-in-freiburg-im-breisgau-nuremberg-41511",
+        "title": "Systemadministrator Linux (m/w/d) | in Freiburg im Breisgau",
+        "company": "ANGEHEUERT GmbH Personalberatung",
+        "location": "Nuremberg",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh-personalberatung/systemadministrator-linux-in-freiburg-im-breisgau-nuremberg-41511",
         "source": "Arbeitnow",
-        "published_at": "2026-10-01T20:30:29+00:00",
+        "published_at": "2026-10-02T10:30:34+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-customer-implementation-engineer-nuremberg-263938",
+        "title": "Customer Implementation Engineer (m/w/d)",
+        "company": "Telepaxx Medical Data GmbH",
+        "location": "Nuremberg",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/telepaxx-medical-data-gmbh/customer-implementation-engineer-nuremberg-263938",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-02T08:30:54+00:00",
         "remote": true
     },
     {
@@ -272,6 +283,17 @@
         "url": "https://www.arbeitnow.fr/jobs/companies/elesta/remote-safety-officer-helicopter-engineer-ach135-yacht-based-med-caribbean-france-367418",
         "source": "Arbeitnow",
         "published_at": "2026-10-01T19:20:03+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-praktikum-social-media-content-community-bei-try-it-magdeburg-414936",
+        "title": "Praktikum Social Media, Content & Community bei Try It (m/w/d)",
+        "company": "Ariside UG (haftungsbeschränkt)",
+        "location": "Magdeburg",
+        "job_type": "Internship",
+        "url": "https://www.arbeitnow.com/jobs/companies/ariside-ug-haftungsbeschrankt/praktikum-social-media-content-community-bei-try-it-magdeburg-414936",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-02T09:31:15+00:00",
         "remote": true
     },
     {
@@ -294,6 +316,17 @@
         "url": "https://jobs.ashbyhq.com/openai/2ee19240-419a-479a-a00e-72436ae2b27a",
         "source": "Ashby",
         "published_at": "2026-10-01T20:32:19.031000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-quereinstieg-weiterbildung-social-media-ads-manager-remote-gefordert-landshut-111695",
+        "title": "Quereinstieg - Weiterbildung Social Media Ads Manager (m/w/d) - remote & gefördert",
+        "company": "Mentify Learn GmbH",
+        "location": "Landshut",
+        "job_type": "berufseinstieg",
+        "url": "https://www.arbeitnow.com/jobs/companies/mentify-learn-gmbh/quereinstieg-weiterbildung-social-media-ads-manager-remote-gefordert-landshut-111695",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-02T09:31:11+00:00",
         "remote": true
     },
     {

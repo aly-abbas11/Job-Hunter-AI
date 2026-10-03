@@ -66,15 +66,26 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-developer-nurnberg-350342",
-        "title": "AI Developer (m/f/d)",
-        "company": "Partspace",
-        "location": "Nürnberg",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/partspace/remote-ai-developer-nurnberg-350342",
+        "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-362742",
+        "title": "Sales Account Executive - Cybersecurity",
+        "company": "Crowdsec",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-362742",
         "source": "Arbeitnow",
-        "published_at": "2026-10-03T02:09:31+00:00",
+        "published_at": "2026-10-03T07:30:02+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-solutions-engineer-165483",
+        "title": "Solutions Engineer",
+        "company": "Sonicwall",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonicwall/remote-solutions-engineer-165483",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-03T03:55:08+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-6546126002",
@@ -187,17 +198,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-java-entwicklerin-java-developer-backend-munster-325044",
-        "title": "Java Entwickler:in / Java Developer Backend (w/m/d)",
-        "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-java-entwicklerin-java-developer-backend-munster-325044",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-02T20:30:04+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-helicopter-engineer-ach135-yacht-based-med-caribbean-switzerland-451770",
         "title": "Helicopter Engineer - ACH135 | Yacht-Based | Med & Caribbean",
         "company": "Elesta",
@@ -220,28 +220,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-medical-writer-uk-london-285592",
-        "title": "Senior Medical Writer | UK",
-        "company": "TransPerfect",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/remote-senior-medical-writer-uk-london-285592",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-03T00:30:34+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-product-designer-212213",
-        "title": "Product Designer (m/f/d)",
-        "company": "Impower",
-        "location": "Remote Germany",
-        "job_type": "Experienced, Permanent, Part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/impower/remote-product-designer-212213",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-02T23:09:07+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3562812",
         "title": "Director & Assistant General Counsel, Commercial",
         "company": "Pinterest",
@@ -250,17 +228,6 @@
         "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8233536",
         "source": "Greenhouse",
         "published_at": "2026-10-02T18:08:45-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-tiktok-content-creator-video-editor-werkstudentenstelle-neckargemund-261700",
-        "title": "TikTok Content Creator & Video Editor (m/w/d), Werkstudentenstelle",
-        "company": "FLOWZOOM",
-        "location": "Neckargemünd",
-        "job_type": "Working student, hilfstätigkeit / student",
-        "url": "https://www.arbeitnow.com/jobs/companies/flowzoom/tiktok-content-creator-video-editor-werkstudentenstelle-neckargemund-261700",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-02T22:30:28+00:00",
         "remote": true
     }
 ]

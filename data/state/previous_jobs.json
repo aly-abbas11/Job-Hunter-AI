@@ -44,28 +44,6 @@
         "remote": true
     },
     {
-        "id": "ashby-ba36fd95-2474-4986-98a6-5280c4e41bd3",
-        "title": "Strategic Sourcing Lead, Professional Services – Human Data",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Finance",
-        "url": "https://jobs.ashbyhq.com/openai/ba36fd95-2474-4986-98a6-5280c4e41bd3",
-        "source": "Ashby",
-        "published_at": "2026-10-02T14:37:09.260000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6541158002",
-        "title": "Staff Fullstack Engineer, Data Products (Golang / Node)",
-        "company": "GitLab",
-        "location": "Remote, Canada; Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8845277002",
-        "source": "Greenhouse",
-        "published_at": "2026-10-02T09:24:02-04:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-362742",
         "title": "Sales Account Executive - Cybersecurity",
         "company": "Crowdsec",
@@ -174,17 +152,6 @@
         "source": "Greenhouse",
         "published_at": "2026-10-02T15:32:07-04:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-field-service-engineer-ess-pv-france-south-483664",
-        "title": "Field Service Engineer (ESS / PV) - France (South)",
-        "company": "Sungrow Europe - Welcome traveler!",
-        "location": "France - remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/sungrow-europe-welcome-traveler/remote-field-service-engineer-ess-pv-france-south-483664",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-02T16:09:59+00:00",
-        "remote": false
     },
     {
         "id": "arbeitnow-remote-senior-cloud-operations-engineer-all-genders-ch-baar-329699",

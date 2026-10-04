@@ -1,16 +1,5 @@
 [
     {
-        "id": "arbeitnow-senior-fullstack-entwickler-php-laravel-remote-4-tage-woche-391258",
-        "title": "Senior Fullstack Entwickler PHP/Laravel (m/w/d) - Remote, 4-Tage-Woche",
-        "company": "Händlerbund Management AG",
-        "location": "Remote/Leipzig",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/handlerbund-management-ag/senior-fullstack-entwickler-php-laravel-remote-4-tage-woche-391258",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-04T05:09:09+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-qa-engineer-mobile-berlin-166747",
         "title": "QA Engineer Mobile",
         "company": "ScholarshipOwl",
@@ -19,6 +8,28 @@
         "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-qa-engineer-mobile-berlin-166747",
         "source": "Arbeitnow",
         "published_at": "2026-10-04T08:30:08+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-1c8e2b03-fcb3-4949-9113-07812f138eb6",
+        "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+        "company": "Ramp",
+        "location": "Remote",
+        "job_type": "FullTime, People & Talent",
+        "url": "https://jobs.ashbyhq.com/ramp/1c8e2b03-fcb3-4949-9113-07812f138eb6",
+        "source": "Ashby",
+        "published_at": "2026-10-04T13:55:38.925000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-microsoft-365-engineer-100-remote-stuttgart-432756",
+        "title": "Microsoft 365 Engineer (m/w/d), 100 % remote",
+        "company": "Kigen IT-Systemhaus",
+        "location": "Stuttgart",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/kigen-it-systemhaus/microsoft-365-engineer-100-remote-stuttgart-432756",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-04T11:30:36+00:00",
         "remote": true
     },
     {
@@ -63,6 +74,17 @@
         "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-411236",
         "source": "Arbeitnow",
         "published_at": "2026-10-04T05:30:30+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-product-designer-physical-products-ai-home-decor-brand-100-remote-part-fulltime-marktbreit-415474",
+        "title": "Product Designer (m/f/d)- Physical Products & AI - home decor brand - 100% remote - part-/fulltime",
+        "company": "Time to hire",
+        "location": "Marktbreit",
+        "job_type": "Freelance, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/time-to-hire/product-designer-physical-products-ai-home-decor-brand-100-remote-part-fulltime-marktbreit-415474",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-04T14:30:30+00:00",
         "remote": true
     },
     {

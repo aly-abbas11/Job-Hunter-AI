@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-remote-senior-frontend-engineer-vue-create-repository-management-62771",
+        "title": "Senior Frontend Engineer (Vue), Create:  Repository Management",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-frontend-engineer-vue-create-repository-management-62771",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-04T18:55:04+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-qa-engineer-mobile-berlin-166747",
         "title": "QA Engineer Mobile",
         "company": "ScholarshipOwl",
@@ -9,6 +20,39 @@
         "source": "Arbeitnow",
         "published_at": "2026-10-04T08:30:08+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-it-risk-pricing-494487",
+        "title": "Senior Software Engineer – IT Risk & Pricing (m/f/d)",
+        "company": "Auxmoney Gmbh",
+        "location": "Remote / Düsseldorf",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-it-risk-pricing-494487",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-04T17:09:58+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-devops-engineer-89471",
+        "title": "Senior DevOps Engineer (m/f/d)",
+        "company": "Auxmoney Gmbh",
+        "location": "Remote / Düsseldorf",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-devops-engineer-89471",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-04T17:09:58+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-systems-engineer-pre-sales-public-sector-defence-and-defence-industrial-base-uki-403474",
+        "title": "Senior Systems Engineer (Pre-Sales), Public Sector: Defence and Defence Industrial Base (UK&I)",
+        "company": "purestorage",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/purestorage/remote-senior-systems-engineer-pre-sales-public-sector-defence-and-defence-industrial-base-uki-403474",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-04T15:55:10+00:00",
+        "remote": false
     },
     {
         "id": "ashby-1c8e2b03-fcb3-4949-9113-07812f138eb6",
@@ -55,28 +99,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-perception-and-fusion-engineer-101328",
-        "title": "Perception and Fusion Engineer",
-        "company": "Swarmaero",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-perception-and-fusion-engineer-101328",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-03T16:40:04+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-it-architect-karlsruhe-411236",
-        "title": "Senior IT Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-411236",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-04T05:30:30+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-product-designer-physical-products-ai-home-decor-brand-100-remote-part-fulltime-marktbreit-415474",
         "title": "Product Designer (m/f/d)- Physical Products & AI - home decor brand - 100% remote - part-/fulltime",
         "company": "Time to hire",
@@ -86,6 +108,28 @@
         "source": "Arbeitnow",
         "published_at": "2026-10-04T14:30:30+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-werkstudent-customer-service-308425",
+        "title": "Werkstudent Customer Service (m/w/d)",
+        "company": "Auxmoney Gmbh",
+        "location": "Remote / Düsseldorf",
+        "job_type": "Student, Working student, Part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-werkstudent-customer-service-308425",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-04T17:09:58+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-content-editor-133934",
+        "title": "Content Editor",
+        "company": "Higgsfield",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/higgsfield/remote-content-editor-133934",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-04T16:40:09+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-ugc-creator-social-media-creator-munster-189757",

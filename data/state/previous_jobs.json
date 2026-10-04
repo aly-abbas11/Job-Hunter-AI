@@ -1,24 +1,46 @@
 [
     {
-        "id": "arbeitnow-remote-senior-web-compatibility-engineer-379161",
+        "id": "arbeitnow-senior-fullstack-entwickler-php-laravel-remote-4-tage-woche-391258",
+        "title": "Senior Fullstack Entwickler PHP/Laravel (m/w/d) - Remote, 4-Tage-Woche",
+        "company": "Händlerbund Management AG",
+        "location": "Remote/Leipzig",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/handlerbund-management-ag/senior-fullstack-entwickler-php-laravel-remote-4-tage-woche-391258",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-04T05:09:09+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-qa-engineer-mobile-berlin-166747",
+        "title": "QA Engineer Mobile",
+        "company": "ScholarshipOwl",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-qa-engineer-mobile-berlin-166747",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-04T08:30:08+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-web-compatibility-engineer-426717",
         "title": "Senior Web Compatibility Engineer",
         "company": "Duck Duck Go",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-379161",
+        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-426717",
         "source": "Arbeitnow",
-        "published_at": "2026-10-04T02:40:09+00:00",
+        "published_at": "2026-10-04T08:40:10+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-privacy-engineer-111342",
+        "id": "arbeitnow-remote-senior-privacy-engineer-115042",
         "title": "Senior Privacy Engineer",
         "company": "Duck Duck Go",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-111342",
+        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-115042",
         "source": "Arbeitnow",
-        "published_at": "2026-10-04T02:40:09+00:00",
+        "published_at": "2026-10-04T08:40:10+00:00",
         "remote": true
     },
     {
@@ -33,14 +55,25 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-362742",
-        "title": "Sales Account Executive - Cybersecurity",
-        "company": "Crowdsec",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-362742",
+        "id": "arbeitnow-remote-senior-it-architect-karlsruhe-411236",
+        "title": "Senior IT Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-411236",
         "source": "Arbeitnow",
-        "published_at": "2026-10-03T07:30:02+00:00",
+        "published_at": "2026-10-04T05:30:30+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-ugc-creator-social-media-creator-munster-189757",
+        "title": "UGC Creator / Social Media Creator (m/w/d)",
+        "company": "paselo GmbH",
+        "location": "Münster",
+        "job_type": "Side",
+        "url": "https://www.arbeitnow.com/jobs/companies/paselo-gmbh/ugc-creator-social-media-creator-munster-189757",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-04T10:30:26+00:00",
         "remote": true
     }
 ]

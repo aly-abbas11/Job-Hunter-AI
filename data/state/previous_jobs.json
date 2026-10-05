@@ -1,5 +1,27 @@
 [
     {
+        "id": "arbeitnow-remote-senior-frontend-developer-all-genders-372910",
+        "title": "Senior Frontend Developer (all genders)",
+        "company": "Contabo",
+        "location": "Remote (Germany)",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-frontend-developer-all-genders-372910",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-04T23:09:31+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-cloud-product-manager-all-genders-486432",
+        "title": "Senior Cloud Product Manager (all genders)",
+        "company": "Contabo",
+        "location": "Remote (Germany)",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-cloud-product-manager-all-genders-486432",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-04T23:09:31+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-senior-frontend-engineer-vue-create-repository-management-62771",
         "title": "Senior Frontend Engineer (Vue), Create:  Repository Management",
         "company": "gitlab",
@@ -11,36 +33,58 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-qa-engineer-mobile-berlin-166747",
-        "title": "QA Engineer Mobile",
-        "company": "ScholarshipOwl",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-qa-engineer-mobile-berlin-166747",
+        "id": "arbeitnow-remote-senior-ai-product-engineer-berlin-260132",
+        "title": "(Senior) AI Product Engineer (m/w/d)",
+        "company": "Legalhero",
+        "location": "Berlin",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-260132",
         "source": "Arbeitnow",
-        "published_at": "2026-10-04T08:30:08+00:00",
+        "published_at": "2026-10-04T23:09:16+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-software-engineer-it-risk-pricing-494487",
-        "title": "Senior Software Engineer – IT Risk & Pricing (m/f/d)",
-        "company": "Auxmoney Gmbh",
-        "location": "Remote / Düsseldorf",
+        "id": "arbeitnow-security-engineer-hybrid-or-remote-470182",
+        "title": "Security Engineer (Hybrid or Remote)",
+        "company": "Vivid",
+        "location": "Remote",
         "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-it-risk-pricing-494487",
+        "url": "https://www.arbeitnow.fr/jobs/companies/vivid/security-engineer-hybrid-or-remote-470182",
         "source": "Arbeitnow",
-        "published_at": "2026-10-04T17:09:58+00:00",
+        "published_at": "2026-10-05T01:09:20+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-devops-engineer-89471",
-        "title": "Senior DevOps Engineer (m/f/d)",
-        "company": "Auxmoney Gmbh",
-        "location": "Remote / Düsseldorf",
+        "id": "arbeitnow-remote-senior-software-developer-platform-infrastructure-engineering-all-genders-142731",
+        "title": "Senior Software Developer – Platform & Infrastructure Engineering (all genders)",
+        "company": "Contabo",
+        "location": "Remote (Germany)",
         "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-devops-engineer-89471",
+        "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-software-developer-platform-infrastructure-engineering-all-genders-142731",
         "source": "Arbeitnow",
-        "published_at": "2026-10-04T17:09:58+00:00",
+        "published_at": "2026-10-04T23:09:31+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-network-engineer-all-genders-22839",
+        "title": "Senior Network Engineer (all genders)",
+        "company": "Contabo",
+        "location": "Remote (Germany)",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-22839",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-04T23:09:31+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-platform-reliability-engineer-all-genders-184827",
+        "title": "Platform & Reliability Engineer (all genders)",
+        "company": "Contabo",
+        "location": "Remote (Germany)",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-platform-reliability-engineer-all-genders-184827",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-04T23:09:31+00:00",
         "remote": false
     },
     {
@@ -55,6 +99,17 @@
         "remote": false
     },
     {
+        "id": "arbeitnow-remote-senior-web-compatibility-engineer-192216",
+        "title": "Senior Web Compatibility Engineer",
+        "company": "Duck Duck Go",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-192216",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-04T15:40:08+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-1c8e2b03-fcb3-4949-9113-07812f138eb6",
         "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
         "company": "Ramp",
@@ -66,48 +121,15 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-microsoft-365-engineer-100-remote-stuttgart-432756",
-        "title": "Microsoft 365 Engineer (m/w/d), 100 % remote",
-        "company": "Kigen IT-Systemhaus",
-        "location": "Stuttgart",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/kigen-it-systemhaus/microsoft-365-engineer-100-remote-stuttgart-432756",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-04T11:30:36+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-web-compatibility-engineer-426717",
-        "title": "Senior Web Compatibility Engineer",
-        "company": "Duck Duck Go",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-426717",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-04T08:40:10+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-privacy-engineer-115042",
+        "id": "arbeitnow-remote-senior-privacy-engineer-366025",
         "title": "Senior Privacy Engineer",
         "company": "Duck Duck Go",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-115042",
+        "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-366025",
         "source": "Arbeitnow",
-        "published_at": "2026-10-04T08:40:10+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-product-designer-physical-products-ai-home-decor-brand-100-remote-part-fulltime-marktbreit-415474",
-        "title": "Product Designer (m/f/d)- Physical Products & AI - home decor brand - 100% remote - part-/fulltime",
-        "company": "Time to hire",
-        "location": "Marktbreit",
-        "job_type": "Freelance, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/time-to-hire/product-designer-physical-products-ai-home-decor-brand-100-remote-part-fulltime-marktbreit-415474",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-04T14:30:30+00:00",
-        "remote": true
+        "published_at": "2026-10-04T04:40:07+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-werkstudent-customer-service-308425",
@@ -130,16 +152,5 @@
         "source": "Arbeitnow",
         "published_at": "2026-10-04T16:40:09+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-ugc-creator-social-media-creator-munster-189757",
-        "title": "UGC Creator / Social Media Creator (m/w/d)",
-        "company": "paselo GmbH",
-        "location": "Münster",
-        "job_type": "Side",
-        "url": "https://www.arbeitnow.com/jobs/companies/paselo-gmbh/ugc-creator-social-media-creator-munster-189757",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-04T10:30:26+00:00",
-        "remote": true
     }
 ]

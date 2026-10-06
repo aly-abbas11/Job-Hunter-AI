@@ -1,5 +1,16 @@
 [
     {
+        "id": "greenhouse-3573235",
+        "title": "Staff Software Engineer, Cloud Infrastructure",
+        "company": "Airbnb",
+        "location": "Remote, USA",
+        "job_type": "Full Time",
+        "url": "https://careers.airbnb.com/positions/8257909?gh_jid=8257909",
+        "source": "Greenhouse",
+        "published_at": "2026-10-05T20:47:52-04:00",
+        "remote": true
+    },
+    {
         "id": "ashby-e6e5e4b6-a1d9-4a4e-beef-8d3befef08c0",
         "title": "Android Engineer, Plugin Developer Platform",
         "company": "OpenAI",
@@ -99,6 +110,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-ai-program-manager-hamburg-schellerdamm-147992",
+        "title": "AI Program Manager (w/m/d)",
+        "company": "Timetoact Group",
+        "location": "Hamburg Schellerdamm",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-ai-program-manager-hamburg-schellerdamm-147992",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-05T23:09:26+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-114020",
         "title": "AI Solution Architect (m/w/d)",
         "company": "virtual7 GmbH",
@@ -107,6 +129,39 @@
         "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-114020",
         "source": "Arbeitnow",
         "published_at": "2026-10-05T17:30:19+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-integration-engineer-353808",
+        "title": "Senior Integration Engineer",
+        "company": "Baringa",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/remote-senior-integration-engineer-353808",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-06T00:55:15+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-data-scientist-product-analytics-431439",
+        "title": "Data Scientist - Product Analytics",
+        "company": "ElevenLabs",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-data-scientist-product-analytics-431439",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-05T23:40:04+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-marketing-data-scientist-186335",
+        "title": "Marketing Data Scientist",
+        "company": "ElevenLabs",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-marketing-data-scientist-186335",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-05T23:40:04+00:00",
         "remote": true
     },
     {
@@ -165,17 +220,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-contract-golang-software-engineer-remote-europe-berlin-280012",
-        "title": "Contract Golang Software Engineer (Remote Europe)",
-        "company": "YLD.com",
-        "location": "Berlin",
-        "job_type": "Freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/yldcom/contract-golang-software-engineer-remote-europe-berlin-280012",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-05T16:30:40+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3403235",
         "title": "Sr. Staff Software Engineer, Notifications & Growth Platform",
         "company": "Pinterest",
@@ -209,17 +253,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-security-engineer-hybrid-or-remote-470182",
-        "title": "Security Engineer (Hybrid or Remote)",
-        "company": "Vivid",
-        "location": "Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/vivid/security-engineer-hybrid-or-remote-470182",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-05T01:09:20+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-381606",
         "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
         "company": "virtual7 GmbH",
@@ -242,6 +275,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-senior-consultant-data-analytics-koln-379643",
+        "title": "Senior Consultant Data Analytics (w/m/d)",
+        "company": "Timetoact Group",
+        "location": "Köln",
+        "job_type": "Experienced, Permanent, Full or part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-senior-consultant-data-analytics-koln-379643",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-05T23:09:26+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-366286",
         "title": "Senior Oracle Data Engineer (m/w/d)",
         "company": "virtual7 GmbH",
@@ -251,6 +295,17 @@
         "source": "Arbeitnow",
         "published_at": "2026-10-05T17:30:19+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-middle-senior-ux-designer-jr625-jr812-306908",
+        "title": "Middle/Senior UX Designer, JR625, JR812",
+        "company": "Eleks",
+        "location": "Remote (Germany)",
+        "job_type": "Consultant",
+        "url": "https://www.arbeitnow.com/jobs/companies/eleks/remote-middle-senior-ux-designer-jr625-jr812-306908",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-05T23:24:08+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-6546441002",
@@ -273,16 +328,5 @@
         "source": "Greenhouse",
         "published_at": "2026-10-05T14:22:21-04:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-content-editor-404162",
-        "title": "Content Editor",
-        "company": "Higgsfield",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/higgsfield/remote-content-editor-404162",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-05T06:40:12+00:00",
-        "remote": false
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-junior-customer-implementation-engineer-nuremberg-266276",
+        "title": "(Junior) Customer Implementation Engineer (m/w/d)",
+        "company": "Telepaxx Medical Data GmbH",
+        "location": "Nuremberg",
+        "job_type": "berufseinstieg",
+        "url": "https://www.arbeitnow.com/jobs/companies/telepaxx-medical-data-gmbh/junior-customer-implementation-engineer-nuremberg-266276",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-06T08:00:32+00:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-3573235",
         "title": "Staff Software Engineer, Cloud Infrastructure",
         "company": "Airbnb",
@@ -8,6 +19,17 @@
         "url": "https://careers.airbnb.com/positions/8257909?gh_jid=8257909",
         "source": "Greenhouse",
         "published_at": "2026-10-05T20:47:52-04:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-7fac113c-618d-4464-91b0-01307bf79cb6",
+        "title": "Business Recruiter, APAC",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/7fac113c-618d-4464-91b0-01307bf79cb6",
+        "source": "Ashby",
+        "published_at": "2026-10-06T04:56:37.419000+00:00",
         "remote": true
     },
     {
@@ -110,26 +132,92 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-program-manager-hamburg-schellerdamm-147992",
-        "title": "AI Program Manager (w/m/d)",
-        "company": "Timetoact Group",
-        "location": "Hamburg Schellerdamm",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-ai-program-manager-hamburg-schellerdamm-147992",
+        "id": "arbeitnow-remote-fullstack-developer-system-modernization-strategic-delivery-420550",
+        "title": "Fullstack Developer (m/f/d) System Modernization & Strategic Delivery",
+        "company": "primion Technology GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/primion-technology-gmbh/remote-fullstack-developer-system-modernization-strategic-delivery-420550",
         "source": "Arbeitnow",
-        "published_at": "2026-10-05T23:09:26+00:00",
+        "published_at": "2026-10-06T08:30:19+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-114020",
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-114020",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-05T17:30:19+00:00",
+        "id": "greenhouse-6550458002",
+        "title": "Senior Backend Engineer (Ruby), Production Engineering:Tenant Controls",
+        "company": "GitLab",
+        "location": "Remote, Poland",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867725002",
+        "source": "Greenhouse",
+        "published_at": "2026-10-06T04:22:35-04:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-trainees-als-it-trainer-dozent-fur-fachinformatiker-systemintegration-heidelberg-296549",
+        "title": "Trainees (m/w/x) als IT- Trainer/Dozent für Fachinformatiker Systemintegration (m/w/x)",
+        "company": "GFN GmbH",
+        "location": "Heidelberg",
+        "job_type": "hilfstätigkeit / student",
+        "url": "https://www.arbeitnow.com/jobs/companies/gfn-gmbh/trainees-als-it-trainer-dozent-fur-fachinformatiker-systemintegration-heidelberg-296549",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-06T09:00:29+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-sap-is-u-fi-co-abap-application-developer-berlin-420038",
+        "title": "Senior SAP IS-U & FI/CO ABAP Application Developer (m/w/d)",
+        "company": "Natuvion GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-is-u-fi-co-abap-application-developer-berlin-420038",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-06T08:30:02+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-it-project-manager-berlin-465567",
+        "title": "Senior IT Project Manager (m/w/d)",
+        "company": "Natuvion GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-it-project-manager-berlin-465567",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-06T08:30:02+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-forward-deployed-engineer-na-276317",
+        "title": "Senior Forward Deployed Engineer - NA",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-forward-deployed-engineer-na-276317",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-06T03:40:12+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-data-scientist-product-analytics-204236",
+        "title": "Data Scientist - Product Analytics",
+        "company": "Elevenlabs",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-data-scientist-product-analytics-204236",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-06T03:40:06+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-marketing-data-scientist-292691",
+        "title": "Marketing Data Scientist",
+        "company": "Elevenlabs",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-marketing-data-scientist-292691",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-06T03:40:06+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-senior-integration-engineer-353808",
@@ -141,28 +229,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-10-06T00:55:15+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-data-scientist-product-analytics-431439",
-        "title": "Data Scientist - Product Analytics",
-        "company": "ElevenLabs",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-data-scientist-product-analytics-431439",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-05T23:40:04+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-marketing-data-scientist-186335",
-        "title": "Marketing Data Scientist",
-        "company": "ElevenLabs",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-marketing-data-scientist-186335",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-05T23:40:04+00:00",
-        "remote": true
     },
     {
         "id": "greenhouse-3561876",
@@ -195,28 +261,6 @@
         "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015547",
         "source": "Greenhouse",
         "published_at": "2026-10-05T16:37:04-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-forward-deployed-engineer-all-genders-397452",
-        "title": "Forward Deployed Engineer (all genders)",
-        "company": "Eraneos",
-        "location": "Hamburg, München, Düsseldorf, remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-forward-deployed-engineer-all-genders-397452",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-05T20:09:25+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-forward-deployed-engineer-na-100694",
-        "title": "Senior Forward Deployed Engineer - NA",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-forward-deployed-engineer-na-100694",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-05T17:40:04+00:00",
         "remote": true
     },
     {
@@ -253,59 +297,15 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-381606",
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-381606",
+        "id": "arbeitnow-unpaid-content-creator-social-media-intern-mandatory-or-voluntary-internship-remote-berlin-278489",
+        "title": "Unpaid Content Creator & Social Media Intern (m/f/d): Mandatory or Voluntary Internship, Remote",
+        "company": "IndieKidz GmbH",
+        "location": "Berlin",
+        "job_type": "Internship, no experience required / student",
+        "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/unpaid-content-creator-social-media-intern-mandatory-or-voluntary-internship-remote-berlin-278489",
         "source": "Arbeitnow",
-        "published_at": "2026-10-05T17:30:19+00:00",
+        "published_at": "2026-10-06T10:31:04+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-341713",
-        "title": "Senior Java Backend Developer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-341713",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-05T17:30:19+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-consultant-data-analytics-koln-379643",
-        "title": "Senior Consultant Data Analytics (w/m/d)",
-        "company": "Timetoact Group",
-        "location": "Köln",
-        "job_type": "Experienced, Permanent, Full or part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-senior-consultant-data-analytics-koln-379643",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-05T23:09:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-366286",
-        "title": "Senior Oracle Data Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-366286",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-05T17:30:19+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-middle-senior-ux-designer-jr625-jr812-306908",
-        "title": "Middle/Senior UX Designer, JR625, JR812",
-        "company": "Eleks",
-        "location": "Remote (Germany)",
-        "job_type": "Consultant",
-        "url": "https://www.arbeitnow.com/jobs/companies/eleks/remote-middle-senior-ux-designer-jr625-jr812-306908",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-05T23:24:08+00:00",
-        "remote": false
     },
     {
         "id": "greenhouse-6546441002",
@@ -327,6 +327,17 @@
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8861795002",
         "source": "Greenhouse",
         "published_at": "2026-10-05T14:22:21-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-customer-support-specialist-saas-digitale-produkte-saarbrucken-489248",
+        "title": "Customer Support Specialist (m/w/d)-SaaS & digitale Produkte",
+        "company": "Cannaleo Digital GmbH",
+        "location": "Saarbrücken",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/cannaleo-digital-gmbh/customer-support-specialist-saas-digitale-produkte-saarbrucken-489248",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-06T08:00:31+00:00",
         "remote": true
     }
 ]

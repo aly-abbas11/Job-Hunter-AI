@@ -1,24 +1,35 @@
 [
     {
-        "id": "arbeitnow-junior-gtm-engineer-deutsch-c1-100-remote-munchen-145031",
-        "title": "Junior GTM Engineer - Deutsch C1 - 100% remote",
-        "company": "Pipebuilders",
-        "location": "München",
-        "job_type": "Unbefristeter arbeitsvertrag, berufseinstieg",
-        "url": "https://www.arbeitnow.com/jobs/companies/pipebuilders/junior-gtm-engineer-deutsch-c1-100-remote-munchen-145031",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-06T16:01:11+00:00",
+        "id": "greenhouse-3573233",
+        "title": "Senior Blockchain Security Engineer",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8257900?gh_jid=8257900",
+        "source": "Greenhouse",
+        "published_at": "2026-10-07T00:10:02-04:00",
         "remote": true
     },
     {
-        "id": "greenhouse-3573235",
-        "title": "Staff Software Engineer, Cloud Infrastructure",
-        "company": "Airbnb",
-        "location": "Remote, USA",
+        "id": "ashby-4f0d64b8-bfa7-4c30-9972-a10d74b49075",
+        "title": "Software Engineer, Life Sciences",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Life Sciences",
+        "url": "https://jobs.ashbyhq.com/openai/4f0d64b8-bfa7-4c30-9972-a10d74b49075",
+        "source": "Ashby",
+        "published_at": "2026-10-06T23:58:11.643000+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3350015",
+        "title": "Sr. Staff Software Engineer, AI Platform",
+        "company": "Pinterest",
+        "location": "Palo Alto, CA, US; Remote, US",
         "job_type": "Full Time",
-        "url": "https://careers.airbnb.com/positions/8257909?gh_jid=8257909",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7577227",
         "source": "Greenhouse",
-        "published_at": "2026-10-05T20:47:52-04:00",
+        "published_at": "2026-10-06T18:32:59-04:00",
         "remote": true
     },
     {
@@ -99,17 +110,6 @@
         "remote": true
     },
     {
-        "id": "ashby-e6e5e4b6-a1d9-4a4e-beef-8d3befef08c0",
-        "title": "Android Engineer, Plugin Developer Platform",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/e6e5e4b6-a1d9-4a4e-beef-8d3befef08c0",
-        "source": "Ashby",
-        "published_at": "2026-10-05T22:54:02.157000+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-6550458002",
         "title": "Senior Backend Engineer (Ruby), Production Engineering:Tenant Controls",
         "company": "GitLab",
@@ -119,6 +119,28 @@
         "source": "Greenhouse",
         "published_at": "2026-10-06T04:22:35-04:00",
         "remote": true
+    },
+    {
+        "id": "greenhouse-3465681",
+        "title": "Staff Data Scientist, Trust and Safety",
+        "company": "Pinterest",
+        "location": "San Francisco, CA, US; Remote, US",
+        "job_type": "Full Time",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7987856",
+        "source": "Greenhouse",
+        "published_at": "2026-10-06T21:56:28-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-forward-deployed-engineer-na-116166",
+        "title": "Senior Forward Deployed Engineer - NA",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-forward-deployed-engineer-na-116166",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-07T01:40:12+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3521191",
@@ -154,17 +176,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-forward-deployed-engineer-na-213608",
-        "title": "Senior Forward Deployed Engineer - NA",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-forward-deployed-engineer-na-213608",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-06T20:40:11+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-devsecops-engineer-241461",
         "title": "Senior DevSecOps Engineer",
         "company": "360Learning",
@@ -187,14 +198,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-oracle-fusion-hcm-security-specialist-freelance-bonn-192936",
-        "title": "Senior Oracle Fusion HCM Security Specialist (Freelance)",
-        "company": "Sidekick Network GmbH & Co. KG",
-        "location": "Bonn",
-        "job_type": "Freelance, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-oracle-fusion-hcm-security-specialist-freelance-bonn-192936",
+        "id": "arbeitnow-linguist-somali-ui-technical-marketing-remote-60289",
+        "title": "Linguist - Somali - UI Technical / Marketing - Remote",
+        "company": "LILT (Production)",
+        "location": "Remote",
+        "job_type": "Contract",
+        "url": "https://www.arbeitnow.ch/jobs/companies/lilt-production/linguist-somali-ui-technical-marketing-remote-60289",
         "source": "Arbeitnow",
-        "published_at": "2026-10-06T16:31:36+00:00",
+        "published_at": "2026-10-07T02:40:03+00:00",
         "remote": true
     },
     {

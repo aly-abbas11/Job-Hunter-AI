@@ -1,13 +1,13 @@
 [
     {
-        "id": "greenhouse-3573233",
-        "title": "Senior Blockchain Security Engineer",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8257900?gh_jid=8257900",
-        "source": "Greenhouse",
-        "published_at": "2026-10-07T00:10:02-04:00",
+        "id": "arbeitnow-ai-technical-product-manager-qvac-100-remote-london-442071",
+        "title": "AI Technical Product Manager (QVAC) (100% remote)",
+        "company": "Tether Operations Limited",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-technical-product-manager-qvac-100-remote-london-442071",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-07T03:30:43+00:00",
         "remote": true
     },
     {
@@ -110,15 +110,48 @@
         "remote": true
     },
     {
-        "id": "greenhouse-6550458002",
-        "title": "Senior Backend Engineer (Ruby), Production Engineering:Tenant Controls",
-        "company": "GitLab",
-        "location": "Remote, Poland",
+        "id": "arbeitnow-remote-data-scientist-product-analytics-460232",
+        "title": "Data Scientist - Product Analytics",
+        "company": "ElevenLabs",
+        "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867725002",
-        "source": "Greenhouse",
-        "published_at": "2026-10-06T04:22:35-04:00",
+        "url": "https://www.arbeitnow.fr/jobs/companies/elevenlabs/remote-data-scientist-product-analytics-460232",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-07T10:40:16+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-marketing-data-scientist-354904",
+        "title": "Marketing Data Scientist",
+        "company": "ElevenLabs",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/elevenlabs/remote-marketing-data-scientist-354904",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-07T10:40:16+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-data-analyst-automation-engineer-100-remote-hamburg-331696",
+        "title": "Data Analyst & Automation Engineer (m/w/d) | 100 % remote",
+        "company": "hey contact heroes GmbH",
+        "location": "Hamburg",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/data-analyst-automation-engineer-100-remote-hamburg-331696",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-07T10:31:56+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-data-scientist-munich-339149",
+        "title": "Senior Data Scientist",
+        "company": "Constructor",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/constructor/senior-data-scientist-munich-339149",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-07T08:40:07+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3465681",
@@ -154,28 +187,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-data-scientist-product-analytics-364885",
-        "title": "Data Scientist - Product Analytics",
-        "company": "ElevenLabs",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-data-scientist-product-analytics-364885",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-06T20:40:15+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-marketing-data-scientist-133130",
-        "title": "Marketing Data Scientist",
-        "company": "ElevenLabs",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-marketing-data-scientist-133130",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-06T20:40:15+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-devsecops-engineer-241461",
         "title": "Senior DevSecOps Engineer",
         "company": "360Learning",
@@ -198,14 +209,80 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-linguist-somali-ui-technical-marketing-remote-60289",
+        "id": "arbeitnow-remote-platform-boosters-backend-engineer-berlin-232578",
+        "title": "Platform Boosters - Backend Engineer (m/w/d)",
+        "company": "shopware AG",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-232578",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-07T08:30:29+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-principal-of-backend-chelmsford-301649",
+        "title": "Principal of backend",
+        "company": "SchemeServe Limited",
+        "location": "Chelmsford",
+        "job_type": "professional / experienced",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/schemeserve-limited/principal-of-backend-chelmsford-301649",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-07T07:31:25+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-computer-vision-photogrammetry-engineer-munster-228754",
+        "title": "Senior Computer Vision / Photogrammetry Engineer (m/w/d)",
+        "company": "syte GmbH",
+        "location": "Münster",
+        "job_type": "berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/syte-gmbh/senior-computer-vision-photogrammetry-engineer-munster-228754",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-07T09:31:22+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-java-entwickler-delphi-kenntnisse-saas-product-homeoffice-germany-291051",
+        "title": "Java Entwickler | Delphi-Kenntnisse (m/w/d) | SaaS Product | Homeoffice",
+        "company": "Kooku",
+        "location": "Germany",
+        "job_type": "Full time, mid-senior",
+        "url": "https://www.arbeitnow.com/jobs/companies/kooku/remote-java-entwickler-delphi-kenntnisse-saas-product-homeoffice-germany-291051",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-07T08:20:11+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-linguist-somali-ui-technical-marketing-remote-304441",
         "title": "Linguist - Somali - UI Technical / Marketing - Remote",
         "company": "LILT (Production)",
         "location": "Remote",
         "job_type": "Contract",
-        "url": "https://www.arbeitnow.ch/jobs/companies/lilt-production/linguist-somali-ui-technical-marketing-remote-60289",
+        "url": "https://www.arbeitnow.fr/jobs/companies/lilt-production/linguist-somali-ui-technical-marketing-remote-304441",
         "source": "Arbeitnow",
-        "published_at": "2026-10-07T02:40:03+00:00",
+        "published_at": "2026-10-07T10:40:10+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-founding-product-designer-310835",
+        "title": "Founding Product Designer",
+        "company": "3Ive",
+        "location": "Remote Germany",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/3ive/remote-founding-product-designer-310835",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-07T08:40:11+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-medical-writer-uk-london-165353",
+        "title": "Senior Medical Writer | UK",
+        "company": "TransPerfect",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/remote-senior-medical-writer-uk-london-165353",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-07T06:30:04+00:00",
         "remote": true
     },
     {

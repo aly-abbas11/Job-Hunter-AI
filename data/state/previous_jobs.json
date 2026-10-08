@@ -22,6 +22,50 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-ai-first-analytics-engineer-131383",
+        "title": "AI-First Analytics Engineer (m/f/d)",
+        "company": "Sport Alliance GmbH",
+        "location": "Remote (Germany)",
+        "job_type": "Full-time",
+        "url": "https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-ai-first-analytics-engineer-131383",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-08T11:04:04+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-commercial-ai-solutions-partner-berlin-143267",
+        "title": "Senior Commercial & AI Solutions Partner",
+        "company": "Yopeso Romania SRL",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/yopeso-romania-srl/remote-senior-commercial-ai-solutions-partner-berlin-143267",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-08T08:30:07+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-02ec1893-17df-420c-8d19-48eca8edd884",
+        "title": "Applied AI Engineer, Codex",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/02ec1893-17df-420c-8d19-48eca8edd884",
+        "source": "Ashby",
+        "published_at": "2026-10-08T07:11:08.268000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-applied-ai-engineer-467829",
+        "title": "Applied AI Engineer",
+        "company": "Elevenlabs",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-applied-ai-engineer-467829",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-08T03:40:14+00:00",
+        "remote": false
+    },
+    {
         "id": "greenhouse-6554024002",
         "title": "Staff Product Manager, AI Software Factory PLG",
         "company": "GitLab",
@@ -31,6 +75,28 @@
         "source": "Greenhouse",
         "published_at": "2026-10-07T12:54:03-04:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-backend-distributed-systems-44426",
+        "title": "Senior Software Engineer, Backend - Distributed Systems",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-44426",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-08T06:40:07+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-167706",
+        "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
+        "company": "Elevenlabs",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-167706",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-08T03:40:14+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-6471660002",
@@ -55,26 +121,26 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ios-developer-radiotech-377202",
+        "id": "arbeitnow-remote-ios-developer-radiotech-406158",
         "title": "iOS Developer (Radiotech)",
         "company": "Gismart",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-ios-developer-radiotech-377202",
+        "url": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-ios-developer-radiotech-406158",
         "source": "Arbeitnow",
-        "published_at": "2026-10-07T23:40:12+00:00",
+        "published_at": "2026-10-08T05:40:06+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-project-manager-software-implementation-berlin-46294",
-        "title": "Project Manager - Software Implementation (m/f/x)",
-        "company": "Makersite GmbH",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-46294",
+        "id": "arbeitnow-remote-full-stack-engineer-creative-agents-134141",
+        "title": "Full-stack Engineer - Creative Agents",
+        "company": "Elevenlabs",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-full-stack-engineer-creative-agents-134141",
         "source": "Arbeitnow",
-        "published_at": "2026-10-07T23:30:26+00:00",
-        "remote": true
+        "published_at": "2026-10-08T03:40:14+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-389413",
@@ -121,39 +187,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-werkstudentin-data-analytics-controlling-focus-hamburg-349359",
-        "title": "Werkstudent:in Data Analytics (Controlling Focus) (m/w/d)",
-        "company": "1Komma5Grad",
-        "location": "Hamburg",
-        "job_type": "Student, Working student, Part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/remote-werkstudentin-data-analytics-controlling-focus-hamburg-349359",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-08T02:09:58+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-software-sales-consultant-deutschlandweit-435583",
-        "title": "Software Sales Consultant (m/w/d)",
-        "company": "ANGEHEUERT GmbH",
-        "location": "Homeoffice",
-        "job_type": "Entry, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-software-sales-consultant-deutschlandweit-435583",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-07T23:30:13+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-venture-developer-berlin-415611",
-        "title": "Venture Developer (m/f/d)",
-        "company": "EBIT Ventures",
-        "location": "Berlin",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/ebit-ventures/venture-developer-berlin-415611",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-07T21:30:39+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3566736",
         "title": "Senior Software Engineer - Security Platform",
         "company": "Cloudflare",
@@ -165,14 +198,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-motion-designer-dancebit-287210",
+        "id": "arbeitnow-remote-motion-designer-dancebit-169389",
         "title": "Motion Designer (DanceBit)",
         "company": "Gismart",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-motion-designer-dancebit-287210",
+        "url": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-motion-designer-dancebit-169389",
         "source": "Arbeitnow",
-        "published_at": "2026-10-07T23:40:12+00:00",
+        "published_at": "2026-10-08T05:40:06+00:00",
         "remote": true
     },
     {

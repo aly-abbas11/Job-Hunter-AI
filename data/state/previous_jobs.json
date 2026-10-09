@@ -11,6 +11,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-senior-backend-engineer-core-devops-container-registry-126191",
+        "title": "Senior Backend Engineer, Core DevOps: Container Registry",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-core-devops-container-registry-126191",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-09T09:55:13+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-1f99d5d3-4512-4247-aaba-3133a3dabf5a",
         "title": "Frontend Software Engineer, ChatGPT Space",
         "company": "OpenAI",
@@ -30,6 +41,17 @@
         "url": "https://www.coinbase.com/careers/positions/8174232?gh_jid=8174232",
         "source": "Greenhouse",
         "published_at": "2026-10-08T19:50:37-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-software-engineer-clinical-ai-devices-paris-321935",
+        "title": "Software Engineer, Clinical AI Devices",
+        "company": "DeepHealth",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.fr/jobs/companies/deephealth/remote-software-engineer-clinical-ai-devices-paris-321935",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-09T04:31:23+00:00",
         "remote": true
     },
     {
@@ -110,15 +132,37 @@
         "remote": true
     },
     {
-        "id": "ashby-02ec1893-17df-420c-8d19-48eca8edd884",
-        "title": "Applied AI Engineer, Codex",
-        "company": "OpenAI",
+        "id": "arbeitnow-remote-senior-backend-engineer-core-devops-358372",
+        "title": "Senior Backend Engineer, Core DevOps",
+        "company": "gitlab",
         "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/02ec1893-17df-420c-8d19-48eca8edd884",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-core-devops-358372",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-09T09:55:13+00:00",
+        "remote": false
+    },
+    {
+        "id": "ashby-5d09daeb-2d7e-42de-9151-81a1341195c4",
+        "title": "Cloud Platform Engineer",
+        "company": "Supabase",
+        "location": "Remote, Global",
+        "job_type": "FullTime, Engineering",
+        "url": "https://jobs.ashbyhq.com/supabase/5d09daeb-2d7e-42de-9151-81a1341195c4",
         "source": "Ashby",
-        "published_at": "2026-10-08T07:11:08.268000+00:00",
-        "remote": true
+        "published_at": "2026-10-09T08:36:35.363000+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-backend-distributed-systems-125787",
+        "title": "Senior Software Engineer, Backend - Distributed Systems",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-125787",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-09T07:40:14+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-323217",
@@ -132,25 +176,47 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-software-engineer-backend-distributed-systems-417843",
-        "title": "Senior Software Engineer, Backend - Distributed Systems",
-        "company": "Camunda",
+        "id": "arbeitnow-remote-senior-professional-services-engineer-351271",
+        "title": "Senior Professional Services Engineer",
+        "company": "gitlab",
         "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-417843",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-professional-services-engineer-351271",
         "source": "Arbeitnow",
-        "published_at": "2026-10-08T20:40:09+00:00",
+        "published_at": "2026-10-09T09:55:13+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-web-developer-all-genders-475933",
+        "title": "Web Developer (all genders)",
+        "company": "Contabo",
+        "location": "Remote (Germany)",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-web-developer-all-genders-475933",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-09T08:09:15+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-uicc-euicc-esim-engineer-489570",
-        "title": "Senior UICC/eUICC/eSIM Engineer",
-        "company": "emnify",
-        "location": "Berlin, DACH remote, Poland Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/emnify/remote-senior-uicc-euicc-esim-engineer-489570",
+        "id": "arbeitnow-remote-senior-network-engineer-all-genders-116100",
+        "title": "Senior Network Engineer (all genders)",
+        "company": "Contabo",
+        "location": "Remote (Germany)",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-116100",
         "source": "Arbeitnow",
-        "published_at": "2026-10-09T02:55:09+00:00",
+        "published_at": "2026-10-09T08:09:15+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-platform-reliability-engineer-all-genders-77977",
+        "title": "Platform & Reliability Engineer (all genders)",
+        "company": "Contabo",
+        "location": "Remote (Germany)",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-platform-reliability-engineer-all-genders-77977",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-09T08:09:15+00:00",
         "remote": false
     },
     {
@@ -198,26 +264,48 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ios-developer-radiotech-406158",
-        "title": "iOS Developer (Radiotech)",
-        "company": "Gismart",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-ios-developer-radiotech-406158",
+        "id": "arbeitnow-remote-senior-data-engineer-gilching-277204",
+        "title": "Senior Data Engineer (m/w/d)",
+        "company": "celebrate company GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-data-engineer-gilching-277204",
         "source": "Arbeitnow",
-        "published_at": "2026-10-08T05:40:06+00:00",
+        "published_at": "2026-10-09T08:30:18+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-team-lead-customer-support-478593",
-        "title": "Team Lead Customer Support (f/m/d)",
-        "company": "plancraft",
-        "location": "Remote (within Germany)",
+        "id": "arbeitnow-remote-technical-customer-support-specialist-54073",
+        "title": "Technical Customer Support Specialist",
+        "company": "Happyrobot.ai",
+        "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/plancraft/remote-team-lead-customer-support-478593",
+        "url": "https://www.arbeitnow.ch/jobs/companies/happyrobotai/remote-technical-customer-support-specialist-54073",
         "source": "Arbeitnow",
-        "published_at": "2026-10-09T02:40:10+00:00",
-        "remote": false
+        "published_at": "2026-10-09T05:40:03+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-digitale-vertriebsassistenz-remote-sales-support-beeskow-213748",
+        "title": "Digitale Vertriebsassistenz/ Remote Sales Support (m/w/d)",
+        "company": "Julia Schüler",
+        "location": "Beeskow",
+        "job_type": "Freelance",
+        "url": "https://www.arbeitnow.com/jobs/companies/julia-schuler/digitale-vertriebsassistenz-remote-sales-support-beeskow-213748",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-09T09:01:01+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-product-designer-illustration-motion-edtech-406229",
+        "title": "Senior Product Designer (Illustration & Motion, EdTech)",
+        "company": "Miaplaza",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-senior-product-designer-illustration-motion-edtech-406229",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-09T08:30:09+00:00",
+        "remote": true
     },
     {
         "id": "greenhouse-6554897002",
@@ -231,14 +319,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-motion-designer-dancebit-169389",
-        "title": "Motion Designer (DanceBit)",
-        "company": "Gismart",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-motion-designer-dancebit-169389",
+        "id": "arbeitnow-video-content-creator-mit-hund-mini-job-von-zu-hause-koln-431467",
+        "title": "Video / Content Creator (mit Hund), Mini Job von zu Hause",
+        "company": "BodyFokus GmbH",
+        "location": "Köln",
+        "job_type": "Side, hilfstätigkeit / student",
+        "url": "https://www.arbeitnow.com/jobs/companies/bodyfokus-gmbh/video-content-creator-mit-hund-mini-job-von-zu-hause-koln-431467",
         "source": "Arbeitnow",
-        "published_at": "2026-10-08T05:40:06+00:00",
+        "published_at": "2026-10-09T09:31:05+00:00",
         "remote": true
     }
 ]

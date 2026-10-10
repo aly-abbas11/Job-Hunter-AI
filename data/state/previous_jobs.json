@@ -1,5 +1,27 @@
 [
     {
+        "id": "arbeitnow-remote-junior-data-engineer-martech-specialist-mobile-apps-223444",
+        "title": "Junior Data Engineer & MarTech Specialist (Mobile Apps) (m/w/d)",
+        "company": "Trg",
+        "location": "Remote within Germany",
+        "job_type": "Entry, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/trg/remote-junior-data-engineer-martech-specialist-mobile-apps-223444",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-10T11:09:20+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-machine-learning-scientist-berlin-216070",
+        "title": "Machine Learning Scientist",
+        "company": "Nucs AI",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-machine-learning-scientist-berlin-216070",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-10T14:30:27+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-senior-data-engineer-real-time-analytics-493491",
         "title": "Senior Data Engineer - Real time analytics",
         "company": "Aircall",
@@ -9,39 +31,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-10-10T01:24:27+00:00",
         "remote": false
-    },
-    {
-        "id": "ashby-0cf4a8f4-a57a-494b-aad8-4df8ac096939",
-        "title": "Business Development Manager, Product Partnerships",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/0cf4a8f4-a57a-494b-aad8-4df8ac096939",
-        "source": "Ashby",
-        "published_at": "2026-10-09T15:02:47.403000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-76084eee-9186-4897-ae12-3445307e61be",
-        "title": "Account Director, Mid-Market | Korea",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/76084eee-9186-4897-ae12-3445307e61be",
-        "source": "Ashby",
-        "published_at": "2026-10-09T14:09:43.762000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-30c99158-616b-4c48-ac01-c46300116c64",
-        "title": "Account Director, Digital Natives",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/30c99158-616b-4c48-ac01-c46300116c64",
-        "source": "Ashby",
-        "published_at": "2026-10-09T14:09:24.309000+00:00",
-        "remote": true
     },
     {
         "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-142992",
@@ -55,26 +44,15 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-ai-program-manager-hamburg-schellerdamm-178919",
-        "title": "AI Program Manager (w/m/d)",
-        "company": "Timetoact Group",
-        "location": "Hamburg Schellerdamm",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-ai-program-manager-hamburg-schellerdamm-178919",
+        "id": "arbeitnow-senior-anti-bot-scraping-engineer-london-234875",
+        "title": "Senior Anti-Bot / Scraping Engineer",
+        "company": "Adthena",
+        "location": "London I UK Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/adthena/senior-anti-bot-scraping-engineer-london-234875",
         "source": "Arbeitnow",
-        "published_at": "2026-10-10T05:09:22+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-120261",
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-120261",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-10T02:30:06+00:00",
-        "remote": true
+        "published_at": "2026-10-10T15:40:02+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-devops-engineer-28165",
@@ -97,6 +75,17 @@
         "source": "Arbeitnow",
         "published_at": "2026-10-10T09:40:04+00:00",
         "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-data-scientist-340621",
+        "title": "Senior Data Scientist",
+        "company": "Duck Duck Go",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-data-scientist-340621",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-10T02:40:05+00:00",
+        "remote": true
     },
     {
         "id": "greenhouse-6494003002",
@@ -129,17 +118,6 @@
         "url": "https://www.coinbase.com/careers/positions/8269081?gh_jid=8269081",
         "source": "Greenhouse",
         "published_at": "2026-10-09T20:06:06-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-data-scientist-180788",
-        "title": "Senior Data Scientist",
-        "company": "Duck Duck Go",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-data-scientist-180788",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-09T23:40:02+00:00",
         "remote": true
     },
     {
@@ -209,80 +187,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-324107",
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-324107",
+        "id": "arbeitnow-remote-technical-customer-support-specialist-11615",
+        "title": "Technical Customer Support Specialist",
+        "company": "Happyrobot.ai",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/happyrobotai/remote-technical-customer-support-specialist-11615",
         "source": "Arbeitnow",
-        "published_at": "2026-10-10T02:30:06+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-355121",
-        "title": "Senior Java Backend Developer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-355121",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-10T02:30:06+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-software-engineer-java-munchen-garmischer-strasse-455579",
-        "title": "Software Engineer - Java (w/m/d)",
-        "company": "Timetoact Group",
-        "location": "München Garmischer Straße",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-software-engineer-java-munchen-garmischer-strasse-455579",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-10T05:09:22+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-consultant-data-analytics-koln-75502",
-        "title": "Senior Consultant Data Analytics (w/m/d)",
-        "company": "Timetoact Group",
-        "location": "Köln",
-        "job_type": "Experienced, Permanent, Full or part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-senior-consultant-data-analytics-koln-75502",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-10T05:09:22+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-419481",
-        "title": "Senior Oracle Data Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-419481",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-10T02:30:06+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-full-stack-product-engineer-bling-schule-berlin-399408",
-        "title": "Full Stack Product Engineer (m/w/d) – Bling Schule",
-        "company": "Bling",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/bling/full-stack-product-engineer-bling-schule-berlin-399408",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-10T00:30:36+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-product-designer-wallets-100-remote-worldwide-united-kindom-293884",
-        "title": "Senior Product Designer (Wallets) - 100% Remote Worldwide",
-        "company": "Tether Operations Limited",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-product-designer-wallets-100-remote-worldwide-united-kindom-293884",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-10T06:30:19+00:00",
-        "remote": true
+        "published_at": "2026-10-10T15:40:09+00:00",
+        "remote": false
     }
 ]

@@ -1,25 +1,14 @@
 [
     {
-        "id": "ashby-1f99d5d3-4512-4247-aaba-3133a3dabf5a",
-        "title": "Frontend Software Engineer, ChatGPT Space",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/1f99d5d3-4512-4247-aaba-3133a3dabf5a",
-        "source": "Ashby",
-        "published_at": "2026-10-08T23:10:44.537000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3537739",
-        "title": "Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading)",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8174232?gh_jid=8174232",
-        "source": "Greenhouse",
-        "published_at": "2026-10-08T19:50:37-04:00",
-        "remote": true
+        "id": "arbeitnow-remote-senior-data-engineer-real-time-analytics-493491",
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "location": "France Remote",
+        "job_type": "Permanent Full Time Employee",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-493491",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-10T01:24:27+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-ai-specialist-london-101775",
@@ -66,72 +55,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-engineer-14033",
-        "title": "AI Engineer",
-        "company": "51D",
-        "location": "Remote - UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/51d/remote-ai-engineer-14033",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-09T12:40:11+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-ai-engineer-91190",
-        "title": "Senior AI Engineer",
-        "company": "51D",
-        "location": "Remote - UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/51d/remote-senior-ai-engineer-91190",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-09T12:40:11+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-3564787",
-        "title": "Director, AI Solutions Strategy & Planning",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8265982",
-        "source": "Greenhouse",
-        "published_at": "2026-10-08T19:34:58-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3564787",
-        "title": "Director, AI Solutions Strategy & Planning",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8265981",
-        "source": "Greenhouse",
-        "published_at": "2026-10-08T19:34:55-04:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-082f4d82-499f-4150-892f-0b0d1105fffe",
-        "title": "Data Scientist, FinEng",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Data Science",
-        "url": "https://jobs.ashbyhq.com/openai/082f4d82-499f-4150-892f-0b0d1105fffe",
-        "source": "Ashby",
-        "published_at": "2026-10-08T23:23:59.805000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-2f97db3d-3d92-4480-87cb-534e0caadadf",
-        "title": "Demo Studio Engineer",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Marketing",
-        "url": "https://jobs.ashbyhq.com/openai/2f97db3d-3d92-4480-87cb-534e0caadadf",
-        "source": "Ashby",
-        "published_at": "2026-10-08T23:22:33.180000+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-142992",
         "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
         "company": "ElevenLabs",
@@ -154,14 +77,69 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-software-engineer-backend-distributed-systems-125787",
-        "title": "Senior Software Engineer, Backend - Distributed Systems",
-        "company": "Camunda",
+        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-120261",
+        "title": "AI Solution Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-120261",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-10T02:30:06+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6494003002",
+        "title": "Senior Software Engineer, Security Factory: Code Security",
+        "company": "GitLab",
+        "location": "Remote, Canada; Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8738179002",
+        "source": "Greenhouse",
+        "published_at": "2026-10-09T20:31:32-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6473517002",
+        "title": "Staff Software Engineer, Security Factory: Static Analysis",
+        "company": "GitLab",
+        "location": "Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8693563002",
+        "source": "Greenhouse",
+        "published_at": "2026-10-09T20:28:56-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3477615",
+        "title": "Senior Software Engineer, Certificate Management",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8269081?gh_jid=8269081",
+        "source": "Greenhouse",
+        "published_at": "2026-10-09T20:06:06-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-data-scientist-180788",
+        "title": "Senior Data Scientist",
+        "company": "Duck Duck Go",
         "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-125787",
+        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-data-scientist-180788",
         "source": "Arbeitnow",
-        "published_at": "2026-10-09T07:40:14+00:00",
+        "published_at": "2026-10-09T23:40:02+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-machine-learning-engineer-ranking-personalization-312759",
+        "title": "Machine Learning Engineer: Ranking & Personalization",
+        "company": "Constructor",
+        "location": "Remote - EMEA",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-machine-learning-engineer-ranking-personalization-312759",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-09T21:40:07+00:00",
         "remote": false
     },
     {
@@ -275,6 +253,50 @@
         "remote": false
     },
     {
+        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-324107",
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-324107",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-10T02:30:06+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-java-backend-developer-karlsruhe-355121",
+        "title": "Senior Java Backend Developer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-355121",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-10T02:30:06+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-419481",
+        "title": "Senior Oracle Data Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-419481",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-10T02:30:06+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-full-stack-product-engineer-bling-schule-berlin-399408",
+        "title": "Full Stack Product Engineer (m/w/d) – Bling Schule",
+        "company": "Bling",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/bling/full-stack-product-engineer-bling-schule-berlin-399408",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-10T00:30:36+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-it-solution-architect-it-inhouse-consultant-microsoft-bielefeld-336565",
         "title": "IT Solution Architect / IT Inhouse Consultant – Microsoft (m/w/d)",
         "company": "Tech-Recruiting.de",
@@ -284,17 +306,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-10-09T20:30:36+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-product-designer-united-kingdom-420425",
-        "title": "Product Designer",
-        "company": "Geordie AI",
-        "location": "United Kingdom Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/geordie-ai/product-designer-united-kingdom-420425",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-09T12:40:04+00:00",
-        "remote": false
     },
     {
         "id": "arbeitnow-remote-technical-customer-support-specialist-54073",

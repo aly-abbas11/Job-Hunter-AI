@@ -1,16 +1,5 @@
 [
     {
-        "id": "arbeitnow-remote-junior-data-engineer-martech-specialist-mobile-apps-223444",
-        "title": "Junior Data Engineer & MarTech Specialist (Mobile Apps) (m/w/d)",
-        "company": "Trg",
-        "location": "Remote within Germany",
-        "job_type": "Entry, Permanent, Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/trg/remote-junior-data-engineer-martech-specialist-mobile-apps-223444",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-10T11:09:20+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-machine-learning-scientist-berlin-216070",
         "title": "Machine Learning Scientist",
         "company": "Nucs AI",
@@ -33,17 +22,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-142992",
-        "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
-        "company": "ElevenLabs",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-142992",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-09T19:40:02+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-senior-anti-bot-scraping-engineer-london-234875",
         "title": "Senior Anti-Bot / Scraping Engineer",
         "company": "Adthena",
@@ -63,17 +41,6 @@
         "url": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-devops-engineer-28165",
         "source": "Arbeitnow",
         "published_at": "2026-10-10T10:40:05+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-sales-engineer-uk-326345",
-        "title": "Senior Sales Engineer - UK",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-sales-engineer-uk-326345",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-10T09:40:04+00:00",
         "remote": false
     },
     {
@@ -121,72 +88,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-6547685002",
-        "title": "People Systems Engineer",
-        "company": "GitLab",
-        "location": "Bangalore, India; Remote, Poland",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8861748002",
-        "source": "Greenhouse",
-        "published_at": "2026-10-09T16:55:56-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3576434",
-        "title": "Enterprise Engineer",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8265721?gh_jid=8265721",
-        "source": "Greenhouse",
-        "published_at": "2026-10-09T15:55:29-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-full-stack-engineer-creative-agents-388937",
-        "title": "Full-stack Engineer - Creative Agents",
-        "company": "ElevenLabs",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/elevenlabs/remote-full-stack-engineer-creative-agents-388937",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-09T19:40:02+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-3577089",
-        "title": "Staff Machine Learning Engineer",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8267151?gh_jid=8267151",
-        "source": "Greenhouse",
-        "published_at": "2026-10-09T15:31:10-04:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-a9fc1d02-cace-4be9-8d3d-16f4fb137b39",
-        "title": "Platform Engineer",
-        "company": "Resend",
-        "location": "Remote",
-        "job_type": "FullTime, Engineering",
-        "url": "https://jobs.ashbyhq.com/resend/a9fc1d02-cace-4be9-8d3d-16f4fb137b39",
-        "source": "Ashby",
-        "published_at": "2026-10-09T19:00:12.048000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-9073c0cd-2545-473a-b2ac-63e4615c69b5",
-        "title": "Platform Engineer, Managed Postgres",
-        "company": "Supabase",
-        "location": "Remote, Global",
-        "job_type": "FullTime, Engineering",
-        "url": "https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5",
-        "source": "Ashby",
-        "published_at": "2026-10-09T17:17:39.437000+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-technical-customer-support-specialist-11615",
         "title": "Technical Customer Support Specialist",
         "company": "Happyrobot.ai",
@@ -196,5 +97,16 @@
         "source": "Arbeitnow",
         "published_at": "2026-10-10T15:40:09+00:00",
         "remote": false
+    },
+    {
+        "id": "arbeitnow-werkstudentin-social-media-und-newsletter-remote-munchen-32254",
+        "title": "Werkstudent:in Social Media und Newsletter (m/w/d), remote",
+        "company": "Steuerberaterin Nadine Brandstätter",
+        "location": "München",
+        "job_type": "Werkstudent, working student, hilfstätigkeit / student",
+        "url": "https://www.arbeitnow.com/jobs/companies/steuerberaterin-nadine-brandstatter/werkstudentin-social-media-und-newsletter-remote-munchen-32254",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-10T18:00:44+00:00",
+        "remote": true
     }
 ]

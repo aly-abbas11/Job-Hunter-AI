@@ -11,17 +11,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-ai-specialist-london-101775",
-        "title": "AI Specialist",
-        "company": "Uforce",
-        "location": "United Kingdom | Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/uforce/ai-specialist-london-101775",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-09T18:40:04+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-0cf4a8f4-a57a-494b-aad8-4df8ac096939",
         "title": "Business Development Manager, Product Partnerships",
         "company": "OpenAI",
@@ -66,15 +55,15 @@
         "remote": false
     },
     {
-        "id": "ashby-5d09daeb-2d7e-42de-9151-81a1341195c4",
-        "title": "Cloud Platform Engineer",
-        "company": "Supabase",
-        "location": "Remote, Global",
-        "job_type": "FullTime, Engineering",
-        "url": "https://jobs.ashbyhq.com/supabase/5d09daeb-2d7e-42de-9151-81a1341195c4",
-        "source": "Ashby",
-        "published_at": "2026-10-09T08:36:35.363000+00:00",
-        "remote": false
+        "id": "arbeitnow-remote-ai-program-manager-hamburg-schellerdamm-178919",
+        "title": "AI Program Manager (w/m/d)",
+        "company": "Timetoact Group",
+        "location": "Hamburg Schellerdamm",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-ai-program-manager-hamburg-schellerdamm-178919",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-10T05:09:22+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-120261",
@@ -86,6 +75,28 @@
         "source": "Arbeitnow",
         "published_at": "2026-10-10T02:30:06+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-devops-engineer-28165",
+        "title": "DevOps Engineer",
+        "company": "Swarmaero",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-devops-engineer-28165",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-10T10:40:05+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-sales-engineer-uk-326345",
+        "title": "Senior Sales Engineer - UK",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-sales-engineer-uk-326345",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-10T09:40:04+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-6494003002",
@@ -130,17 +141,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-10-09T23:40:02+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-machine-learning-engineer-ranking-personalization-312759",
-        "title": "Machine Learning Engineer: Ranking & Personalization",
-        "company": "Constructor",
-        "location": "Remote - EMEA",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-machine-learning-engineer-ranking-personalization-312759",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-09T21:40:07+00:00",
-        "remote": false
     },
     {
         "id": "greenhouse-6547685002",
@@ -198,39 +198,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-product-engineer-477196",
-        "title": "Product Engineer",
-        "company": "0G",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-product-engineer-477196",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-09T18:40:12+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-canvas-core-403988",
-        "title": "Senior Software Engineer, Canvas Core",
-        "company": "Mural",
-        "location": "United Kingdom Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/mural/remote-senior-software-engineer-canvas-core-403988",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-09T18:40:06+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-forward-deployed-engineer-mx-199234",
-        "title": "Forward Deployed Engineer - MX",
-        "company": "Breakmark",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/breakmark/remote-forward-deployed-engineer-mx-199234",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-09T18:40:02+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-9073c0cd-2545-473a-b2ac-63e4615c69b5",
         "title": "Platform Engineer, Managed Postgres",
         "company": "Supabase",
@@ -239,17 +206,6 @@
         "url": "https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5",
         "source": "Ashby",
         "published_at": "2026-10-09T17:17:39.437000+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-security-engineer-hybrid-or-remote-102404",
-        "title": "Security Engineer (Hybrid or Remote)",
-        "company": "Vivid",
-        "location": "Remote",
-        "job_type": "Experienced, Permanent, Full time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/vivid/security-engineer-hybrid-or-remote-102404",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-09T13:09:36+00:00",
         "remote": false
     },
     {
@@ -275,6 +231,28 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-software-engineer-java-munchen-garmischer-strasse-455579",
+        "title": "Software Engineer - Java (w/m/d)",
+        "company": "Timetoact Group",
+        "location": "München Garmischer Straße",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-software-engineer-java-munchen-garmischer-strasse-455579",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-10T05:09:22+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-consultant-data-analytics-koln-75502",
+        "title": "Senior Consultant Data Analytics (w/m/d)",
+        "company": "Timetoact Group",
+        "location": "Köln",
+        "job_type": "Experienced, Permanent, Full or part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-senior-consultant-data-analytics-koln-75502",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-10T05:09:22+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-419481",
         "title": "Senior Oracle Data Engineer (m/w/d)",
         "company": "virtual7 GmbH",
@@ -297,36 +275,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-it-solution-architect-it-inhouse-consultant-microsoft-bielefeld-336565",
-        "title": "IT Solution Architect / IT Inhouse Consultant – Microsoft (m/w/d)",
-        "company": "Tech-Recruiting.de",
-        "location": "Bielefeld",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/tech-recruitingde/it-solution-architect-it-inhouse-consultant-microsoft-bielefeld-336565",
+        "id": "arbeitnow-senior-product-designer-wallets-100-remote-worldwide-united-kindom-293884",
+        "title": "Senior Product Designer (Wallets) - 100% Remote Worldwide",
+        "company": "Tether Operations Limited",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-product-designer-wallets-100-remote-worldwide-united-kindom-293884",
         "source": "Arbeitnow",
-        "published_at": "2026-10-09T20:30:36+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-technical-customer-support-specialist-54073",
-        "title": "Technical Customer Support Specialist",
-        "company": "Happyrobot.ai",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.ch/jobs/companies/happyrobotai/remote-technical-customer-support-specialist-54073",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-09T05:40:03+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-in-house-content-creator-freelance-berlin-325016",
-        "title": "In-House Content Creator (Freelance)",
-        "company": "Paintgun",
-        "location": "Berlin",
-        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/paintgun/in-house-content-creator-freelance-berlin-325016",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-09T20:00:43+00:00",
+        "published_at": "2026-10-10T06:30:19+00:00",
         "remote": true
     }
 ]

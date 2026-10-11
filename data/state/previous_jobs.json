@@ -1,25 +1,69 @@
 [
     {
-        "id": "arbeitnow-remote-veeam-data-cloud-vault-solution-specialist-93212",
-        "title": "Veeam Data Cloud Vault Solution Specialist",
-        "company": "veeamsoftware",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-veeam-data-cloud-vault-solution-specialist-93212",
+        "id": "arbeitnow-remote-backend-engineer-agentic-ai-berlin-376827",
+        "title": "Backend Engineer - Agentic AI (m/w/d)",
+        "company": "Getpress Gmbh",
+        "location": "Berlin",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-376827",
         "source": "Arbeitnow",
-        "published_at": "2026-10-10T23:55:17+00:00",
+        "published_at": "2026-10-11T08:09:37+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-qa-engineer-all-genders-berlin-68172",
-        "title": "Senior QA Engineer (All genders)",
-        "company": "Distribusion Technologies",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-qa-engineer-all-genders-berlin-68172",
+        "id": "arbeitnow-remote-senior-qa-engineer-gn-298617",
+        "title": "Senior QA Engineer (gn)",
+        "company": "Bikeleasing",
+        "location": "Remote Deutschland",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-senior-qa-engineer-gn-298617",
         "source": "Arbeitnow",
-        "published_at": "2026-10-10T20:30:22+00:00",
+        "published_at": "2026-10-11T08:09:50+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-ai-automation-engineer-hannover-137973",
+        "title": "AI Automation Engineer",
+        "company": "JH Automations",
+        "location": "Hannover",
+        "job_type": "Freiberufler / selbstständiger, freelance, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/jh-automations/ai-automation-engineer-hannover-137973",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-11T11:00:56+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-ai-product-engineer-berlin-488060",
+        "title": "AI Product Engineer (m/w/d)",
+        "company": "Getpress Gmbh",
+        "location": "Berlin",
+        "job_type": "Experienced, Permanent, Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-ai-product-engineer-berlin-488060",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-11T08:09:37+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-sales-engineer-uk-164264",
+        "title": "Senior Sales Engineer - UK",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-uk-164264",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-11T05:40:09+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-data-platform-engineer-206793",
+        "title": "Senior Data Platform Engineer",
+        "company": "Akersystems",
+        "location": "Remote/Home Based",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/akersystems/remote-senior-data-platform-engineer-206793",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-11T03:55:09+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-forward-deployed-engineer-emea-385166",
@@ -44,28 +88,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-sales-engineer-uk-496085",
-        "title": "Senior Sales Engineer - UK",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-uk-496085",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-10T20:40:07+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-devops-engineer-28165",
-        "title": "DevOps Engineer",
-        "company": "Swarmaero",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-devops-engineer-28165",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-10T10:40:05+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-technical-customer-support-specialist-390100",
         "title": "Technical Customer Support Specialist",
         "company": "Happyrobot.ai",
@@ -77,14 +99,36 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-werkstudentin-social-media-und-newsletter-remote-munchen-32254",
-        "title": "Werkstudent:in Social Media und Newsletter (m/w/d), remote",
-        "company": "Steuerberaterin Nadine Brandstätter",
-        "location": "München",
-        "job_type": "Werkstudent, working student, hilfstätigkeit / student",
-        "url": "https://www.arbeitnow.com/jobs/companies/steuerberaterin-nadine-brandstatter/werkstudentin-social-media-und-newsletter-remote-munchen-32254",
+        "id": "arbeitnow-remote-senior-medical-writer-uk-london-484922",
+        "title": "Senior Medical Writer | UK",
+        "company": "TransPerfect",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/remote-senior-medical-writer-uk-london-484922",
         "source": "Arbeitnow",
-        "published_at": "2026-10-10T18:00:44+00:00",
+        "published_at": "2026-10-11T09:30:05+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-support-specialist-uk-london-186280",
+        "title": "Senior Support Specialist- UK",
+        "company": "Ema",
+        "location": "United Kingdom (Remote)",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ema/senior-support-specialist-uk-london-186280",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-11T06:40:03+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-content-and-social-media-manager-358815",
+        "title": "Senior Content and Social Media Manager",
+        "company": "Nivoda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/nivoda/remote-senior-content-and-social-media-manager-358815",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-11T05:40:09+00:00",
         "remote": true
     }
 ]

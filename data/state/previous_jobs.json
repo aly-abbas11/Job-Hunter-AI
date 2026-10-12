@@ -22,17 +22,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-fullstack-entwickler-munich-359972",
-        "title": "Fullstack Entwickler (m/w/d)",
-        "company": "ICT Digital Solutions",
-        "location": "Munich",
-        "job_type": "Unbefristeter arbeitsvertrag",
-        "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/fullstack-entwickler-munich-359972",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-11T22:30:48+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-staff-software-engineer-security-factory-static-analysis-125211",
         "title": "Staff Software Engineer, Security Factory: Static Analysis",
         "company": "gitlab",
@@ -55,37 +44,15 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-sales-engineer-uk-181980",
-        "title": "Senior Sales Engineer - UK",
-        "company": "Camunda",
-        "location": "Remote",
+        "id": "arbeitnow-software-support-technician-london-383580",
+        "title": "Software Support Technician",
+        "company": "Everfield",
+        "location": "UK - Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-sales-engineer-uk-181980",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/everfield/software-support-technician-london-383580",
         "source": "Arbeitnow",
-        "published_at": "2026-10-11T13:40:14+00:00",
+        "published_at": "2026-10-12T09:40:13+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-devops-engineer-munich-369656",
-        "title": "DevOps Engineer (m/w/d)",
-        "company": "ICT Digital Solutions",
-        "location": "Munich",
-        "job_type": "Unbefristeter arbeitsvertrag",
-        "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/devops-engineer-munich-369656",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-11T23:00:35+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-werde-andockoffizier-als-account-executive-information-security-karlsruhe-33710",
-        "title": "Werde Andockoffizier – als Account Executive Information Security (m/w/d)",
-        "company": "Naviro GmbH",
-        "location": "Karlsruhe",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/naviro-gmbh/werde-andockoffizier-als-account-executive-information-security-karlsruhe-33710",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-11T20:32:30+00:00",
-        "remote": true
     },
     {
         "id": "arbeitnow-remote-senior-assigned-support-engineer-emea-347823",
@@ -96,28 +63,6 @@
         "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-assigned-support-engineer-emea-347823",
         "source": "Arbeitnow",
         "published_at": "2026-10-11T18:55:13+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-social-media-content-manager-vollzeit-oder-teilzeit-ab-20h-100-remote-kevelaer-205313",
-        "title": "Social Media & Content Manager (m/w/d), Vollzeit oder Teilzeit ab 20h, 100% Remote",
-        "company": "Sivara GmbH",
-        "location": "Kevelaer",
-        "job_type": "Unbefristeter arbeitsvertrag",
-        "url": "https://www.arbeitnow.com/jobs/companies/sivara-gmbh/social-media-content-manager-vollzeit-oder-teilzeit-ab-20h-100-remote-kevelaer-205313",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-11T18:30:45+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-product-designer-35263",
-        "title": "Product Designer (m/f/d)",
-        "company": "Impower",
-        "location": "Remote Germany",
-        "job_type": "Experienced, Permanent, Part time",
-        "url": "https://www.arbeitnow.com/jobs/companies/impower/remote-product-designer-35263",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-11T14:09:20+00:00",
         "remote": false
     }
 ]

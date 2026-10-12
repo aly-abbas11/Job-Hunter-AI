@@ -22,6 +22,17 @@
         "remote": false
     },
     {
+        "id": "arbeitnow-fullstack-entwickler-munich-359972",
+        "title": "Fullstack Entwickler (m/w/d)",
+        "company": "ICT Digital Solutions",
+        "location": "Munich",
+        "job_type": "Unbefristeter arbeitsvertrag",
+        "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/fullstack-entwickler-munich-359972",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-11T22:30:48+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-staff-software-engineer-security-factory-static-analysis-125211",
         "title": "Staff Software Engineer, Security Factory: Static Analysis",
         "company": "gitlab",
@@ -55,25 +66,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-data-scientist-9830",
-        "title": "Senior Data Scientist",
-        "company": "Duck Duck Go",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-data-scientist-9830",
+        "id": "arbeitnow-devops-engineer-munich-369656",
+        "title": "DevOps Engineer (m/w/d)",
+        "company": "ICT Digital Solutions",
+        "location": "Munich",
+        "job_type": "Unbefristeter arbeitsvertrag",
+        "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/devops-engineer-munich-369656",
         "source": "Arbeitnow",
-        "published_at": "2026-10-10T22:40:07+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-automation-engineer-n8n-und-integrationen-hannover-344526",
-        "title": "Automation Engineer (m/w/d), n8n und Integrationen",
-        "company": "JH Automations",
-        "location": "Hannover",
-        "job_type": "Freiberufler / selbstständiger, freelance, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/jh-automations/automation-engineer-n8n-und-integrationen-hannover-344526",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-11T13:01:00+00:00",
+        "published_at": "2026-10-11T23:00:35+00:00",
         "remote": true
     },
     {
@@ -84,7 +84,7 @@
         "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
         "url": "https://www.arbeitnow.com/jobs/companies/naviro-gmbh/werde-andockoffizier-als-account-executive-information-security-karlsruhe-33710",
         "source": "Arbeitnow",
-        "published_at": "2026-10-11T12:01:13+00:00",
+        "published_at": "2026-10-11T20:32:30+00:00",
         "remote": true
     },
     {

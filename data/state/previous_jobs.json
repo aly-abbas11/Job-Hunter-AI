@@ -22,6 +22,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-senior-software-engineer-ai-303663",
+        "title": "Senior Software Engineer, AI",
+        "company": "Muckrack",
+        "location": "Remote (Bulgaria, Ireland",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-ai-303663",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-14T08:55:50+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-ca424ad4-4b8e-472a-acb3-b9822bc704b5",
         "title": "Account Director, Large Enterprise",
         "company": "OpenAI",
@@ -88,28 +99,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-lead-product-manager-go-to-market-472861",
-        "title": "Lead Product Manager, Go-to-Market",
-        "company": "Haut Ai",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/haut-ai/remote-lead-product-manager-go-to-market-472861",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:40:46+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-gcp-program-manager-57725",
-        "title": "GCP Program Manager",
-        "company": "Kairos Project",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/kairos-project/remote-gcp-program-manager-57725",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:40:44+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-a01fc9ed-de08-4326-9206-4ee3f08000dc",
         "title": "Machine Learning Engineer, Implicit Signals",
         "company": "OpenAI",
@@ -154,26 +143,26 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-backend-engineer-400498",
-        "title": "Backend Engineer",
-        "company": "Duna",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.nl/jobs/companies/duna/remote-backend-engineer-400498",
+        "id": "arbeitnow-backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-359143",
+        "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
+        "company": "AlmavivA de Belgique",
+        "location": "Remote job",
+        "job_type": "Experienced, freelance",
+        "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-359143",
         "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:40:48+00:00",
+        "published_at": "2026-10-14T03:30:22+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-robotic-sales-engineer-479260",
-        "title": "(Senior) Robotic Sales Engineer",
-        "company": "RobCo",
-        "location": "Germany - Remote",
+        "id": "arbeitnow-remote-mobile-engineer-elevenmusic-186129",
+        "title": "Mobile Engineer - ElevenMusic",
+        "company": "ElevenLabs",
+        "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/robco/remote-senior-robotic-sales-engineer-479260",
+        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-mobile-engineer-elevenmusic-186129",
         "source": "Arbeitnow",
-        "published_at": "2026-10-13T23:40:16+00:00",
-        "remote": false
+        "published_at": "2026-10-14T02:40:19+00:00",
+        "remote": true
     },
     {
         "id": "greenhouse-3581270",
@@ -184,28 +173,6 @@
         "url": "https://www.coinbase.com/careers/positions/8279479?gh_jid=8279479",
         "source": "Greenhouse",
         "published_at": "2026-10-13T17:33:04-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-infrastructure-engineer-united-kingdom-438636",
-        "title": "Senior Infrastructure Engineer",
-        "company": "Reactive Markets",
-        "location": "Remote, UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/senior-infrastructure-engineer-united-kingdom-438636",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T20:40:21+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-leading-software-engineer-fintech-berlin-481208",
-        "title": "Senior/Leading Software Engineer (fintech)",
-        "company": "TechBiz Global GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/remote-senior-leading-software-engineer-fintech-berlin-481208",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T20:30:11+00:00",
         "remote": true
     },
     {
@@ -220,160 +187,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-software-engineer-423367",
-        "title": "Senior Software Engineer",
-        "company": "Nopan",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/nopan/remote-senior-software-engineer-423367",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:41:08+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-data-scientist-304274",
-        "title": "Senior Data Scientist",
-        "company": "Spring Health",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/spring-health/remote-senior-data-scientist-304274",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:41:07+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-vice-president-us-privacy-and-global-data-protection-officer-199334",
-        "title": "Vice President, US Privacy and Global Data Protection Officer",
-        "company": "Spring Health",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/spring-health/remote-vice-president-us-privacy-and-global-data-protection-officer-199334",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:41:07+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-devops-engineer-442792",
-        "title": "DevOps Engineer",
-        "company": "Swarmaero",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-devops-engineer-442792",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:40:53+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-staff-software-engineer-real-time-systems-109359",
-        "title": "Staff Software Engineer, Real-Time Systems",
-        "company": "Swarmaero",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-staff-software-engineer-real-time-systems-109359",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:40:53+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-software-engineer-real-time-systems-early-career-159904",
-        "title": "Software Engineer, Real-Time Systems (Early Career)",
-        "company": "Swarmaero",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-software-engineer-real-time-systems-early-career-159904",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:40:53+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-forward-deployed-engineer-439184",
-        "title": "Senior Forward Deployed Engineer",
-        "company": "Swarmaero",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-senior-forward-deployed-engineer-439184",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:40:53+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-software-engineer-robotics-180888",
-        "title": "Software Engineer, Robotics",
-        "company": "Swarmaero",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-software-engineer-robotics-180888",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:40:53+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-perception-and-fusion-engineer-357509",
-        "title": "Perception and Fusion Engineer",
-        "company": "Swarmaero",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-perception-and-fusion-engineer-357509",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:40:53+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-staff-software-engineer-autonomy-402548",
-        "title": "Staff Software Engineer, Autonomy",
-        "company": "Swarmaero",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-staff-software-engineer-autonomy-402548",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:40:53+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-forward-deployed-engineer-170099",
-        "title": "Forward Deployed Engineer",
-        "company": "Swarmaero",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-forward-deployed-engineer-170099",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:40:53+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-software-engineer-autonomy-278473",
-        "title": "Software Engineer, Autonomy",
-        "company": "Swarmaero",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-software-engineer-autonomy-278473",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:40:53+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-infrastructure-security-engineer-449441",
-        "title": "(Senior) Infrastructure & Security Engineer",
-        "company": "Duna",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.nl/jobs/companies/duna/remote-senior-infrastructure-security-engineer-449441",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:40:48+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-ml-engineer-paris-101523",
-        "title": "Senior ML Engineer",
-        "company": "Yubo",
-        "location": "Paris - Full Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/yubo/senior-ml-engineer-paris-101523",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:40:47+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-6b314e83-6617-49fc-8c73-021ebae9a757",
         "title": "Platform Engineer - Compute",
         "company": "Supabase",
@@ -385,36 +198,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-devops-engineer-393877",
-        "title": "Devops Engineer",
-        "company": "360Learning",
-        "location": "Paris, Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-devops-engineer-393877",
+        "id": "arbeitnow-embedded-vision-fpga-engineer-in-aalen-244107",
+        "title": "Embedded Vision & FPGA Engineer (m/f/d) in Aalen",
+        "company": "hema electronic GmbH",
+        "location": "Aalen",
+        "job_type": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/hema-electronic-gmbh/embedded-vision-fpga-engineer-in-aalen-244107",
         "source": "Arbeitnow",
-        "published_at": "2026-10-13T16:04:23+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-product-designer-71097",
-        "title": "Senior Product Designer",
-        "company": "Haut Ai",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/haut-ai/remote-senior-product-designer-71097",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:40:46+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-technical-customer-support-specialist-148934",
-        "title": "Technical Customer Support Specialist",
-        "company": "Happyrobot.ai",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/happyrobotai/remote-technical-customer-support-specialist-148934",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-13T17:40:45+00:00",
+        "published_at": "2026-10-14T09:00:50+00:00",
         "remote": true
     },
     {
@@ -426,6 +217,17 @@
         "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/remote-senior-medical-writer-france-paris-210621",
         "source": "Arbeitnow",
         "published_at": "2026-10-14T01:30:31+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-werkstudentin-kundensupport-social-media-grafelfing-212494",
+        "title": "Werkstudent:in Kundensupport & Social Media (M/W/D)",
+        "company": "BodyFast GmbH",
+        "location": "Gräfelfing",
+        "job_type": "Werkstudent, working student",
+        "url": "https://www.arbeitnow.com/jobs/companies/bodyfast-gmbh/werkstudentin-kundensupport-social-media-grafelfing-212494",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-14T08:30:51+00:00",
         "remote": true
     }
 ]

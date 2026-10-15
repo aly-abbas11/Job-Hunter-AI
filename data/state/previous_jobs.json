@@ -44,17 +44,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-engagement-manager-data-ai-solutions-heidelberg-388888",
-        "title": "Engagement Manager Data & AI Solutions (m/w/d)",
-        "company": "Rewire",
-        "location": "Remote job",
-        "job_type": "Manager, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/rewire/remote-engagement-manager-data-ai-solutions-heidelberg-388888",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-14T20:32:23+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-e8e7fd72-bc4e-4717-8a67-81e4798372c7",
         "title": "SoC Engineer",
         "company": "OpenAI",
@@ -64,17 +53,6 @@
         "source": "Ashby",
         "published_at": "2026-10-14T18:29:05.694000+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-solutions-engineer-edi-e-invoicing-31776",
-        "title": "Solutions Engineer - EDI/e-invoicing (f/m/d)",
-        "company": "ecosio",
-        "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia, France - Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-solutions-engineer-edi-e-invoicing-31776",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-14T17:55:33+00:00",
-        "remote": false
     },
     {
         "id": "ashby-e808f3eb-f1bc-42ed-bf0c-12e339cabc92",
@@ -96,28 +74,6 @@
         "url": "https://jobs.ashbyhq.com/openai/1ae64ddb-505f-4ad2-a731-3a857e94edee",
         "source": "Ashby",
         "published_at": "2026-10-14T16:23:55.748000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-ca424ad4-4b8e-472a-acb3-b9822bc704b5",
-        "title": "Account Director, Large Enterprise",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/ca424ad4-4b8e-472a-acb3-b9822bc704b5",
-        "source": "Ashby",
-        "published_at": "2026-10-14T03:12:51.759000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-3397617d-19dd-49d1-bf8f-57e02a9ebb63",
-        "title": "Account Director, Enterprise | ANZ",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/3397617d-19dd-49d1-bf8f-57e02a9ebb63",
-        "source": "Ashby",
-        "published_at": "2026-10-14T03:11:55.343000+00:00",
         "remote": true
     },
     {
@@ -143,19 +99,19 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-product-engineer-bielefeld-429098",
-        "title": "(Senior) Product Engineer",
-        "company": "sustaind GmbH",
-        "location": "Bielefeld",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/sustaind-gmbh/senior-product-engineer-bielefeld-429098",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-14T21:47:32+00:00",
-        "remote": true
+        "id": "ashby-ed6cedb1-b9bf-4609-ac5c-c75c33b31bf3",
+        "title": "Site Reliability Engineer",
+        "company": "Supabase",
+        "location": "Remote, Global",
+        "job_type": "FullTime, Engineering",
+        "url": "https://jobs.ashbyhq.com/supabase/ed6cedb1-b9bf-4609-ac5c-c75c33b31bf3",
+        "source": "Ashby",
+        "published_at": "2026-10-15T09:15:10.373000+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3392925",
-        "title": "Senior Software Engineer, ML Platform",
+        "title": "Senior Machine Learning Systems Engineer, ML Platform",
         "company": "Reddit",
         "location": "Remote - United States",
         "job_type": "Full Time",
@@ -195,28 +151,6 @@
         "url": "https://job-boards.greenhouse.io/reddit/jobs/8237636",
         "source": "Greenhouse",
         "published_at": "2026-10-14T17:18:59-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-infrastructure-cybersecurity-engineer-uk-portishead-285835",
-        "title": "Senior Infrastructure & Cybersecurity Engineer (UK)",
-        "company": "A-Gas",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/a-gas/remote-senior-infrastructure-cybersecurity-engineer-uk-portishead-285835",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-14T20:32:32+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-lead-java-developer-solution-architect-6-month-contract-london-346117",
-        "title": "Lead Java Developer/Solution Architect (6-month contract)",
-        "company": "gravity9",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gravity9/remote-lead-java-developer-solution-architect-6-month-contract-london-346117",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-14T20:32:27+00:00",
         "remote": true
     },
     {
@@ -297,17 +231,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-ki-engineer-beratung-implementation-ampfing-32627",
-        "title": "KI-Engineer- Beratung & Implementation (m/w/d)",
-        "company": "Neurawork GmbH & Co. KG",
-        "location": "Ampfing",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/ki-engineer-beratung-implementation-ampfing-32627",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-14T17:00:44+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-palantir-foundry-engineer-relocation-to-abu-dhabi-uae-lausanne-52118",
         "title": "Palantir Foundry Engineer (Relocation to Abu Dhabi, UAE)",
         "company": "Unit8",
@@ -330,17 +253,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-medical-writer-germany-berlin-333952",
-        "title": "Senior Medical Writer | Germany",
-        "company": "TransPerfect",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/transperfect/remote-senior-medical-writer-germany-berlin-333952",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-14T20:32:23+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3347227",
         "title": "Product Designer, Terminal",
         "company": "Stripe",
@@ -349,17 +261,6 @@
         "url": "https://stripe.com/jobs/search?gh_jid=8282390",
         "source": "Greenhouse",
         "published_at": "2026-10-14T15:54:05-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-customer-support-teilzeit-oder-werkstudium-digital-health-remote-damme-473282",
-        "title": "Customer Support (m/w/d) | Teilzeit oder Werkstudium | Digital Health | Remote",
-        "company": "Infinos GmbH",
-        "location": "Damme",
-        "job_type": "Unbefristeter arbeitsvertrag, hilfstätigkeit / student",
-        "url": "https://www.arbeitnow.com/jobs/companies/infinos-gmbh/customer-support-teilzeit-oder-werkstudium-digital-health-remote-damme-473282",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-14T19:00:44+00:00",
         "remote": true
     },
     {

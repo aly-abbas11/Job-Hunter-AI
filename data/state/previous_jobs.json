@@ -1,5 +1,60 @@
 [
     {
+        "id": "ashby-329fe50f-7701-4f07-982d-a4e10cbec236",
+        "title": "Client Platform Engineer",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Security",
+        "url": "https://jobs.ashbyhq.com/openai/329fe50f-7701-4f07-982d-a4e10cbec236",
+        "source": "Ashby",
+        "published_at": "2026-10-15T00:16:24.105000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-f2d8ed04-3c2f-4298-832b-dda7e1644c1b",
+        "title": "Enterprise Security Engineer, Vulnerability Management",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Security",
+        "url": "https://jobs.ashbyhq.com/openai/f2d8ed04-3c2f-4298-832b-dda7e1644c1b",
+        "source": "Ashby",
+        "published_at": "2026-10-15T00:15:48.372000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-8cad7bcc-3720-4534-822d-d9722599e8a6",
+        "title": "Applied AI Engineer, Startups",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/8cad7bcc-3720-4534-822d-d9722599e8a6",
+        "source": "Ashby",
+        "published_at": "2026-10-14T22:57:58.883000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-servicenow-ai-architect-zurich-248913",
+        "title": "ServiceNow AI Architect",
+        "company": "SwissPeak Partners GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-248913",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-14T20:32:27+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-engagement-manager-data-ai-solutions-heidelberg-388888",
+        "title": "Engagement Manager Data & AI Solutions (m/w/d)",
+        "company": "Rewire",
+        "location": "Remote job",
+        "job_type": "Manager, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/rewire/remote-engagement-manager-data-ai-solutions-heidelberg-388888",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-14T20:32:23+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-e8e7fd72-bc4e-4717-8a67-81e4798372c7",
         "title": "SoC Engineer",
         "company": "OpenAI",
@@ -44,17 +99,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-ai-benchmark-engineer-native-language-specialist-dutch-remote-rotterdam-201716",
-        "title": "AI Benchmark Engineer | Native Language Specialist - Dutch - Remote",
-        "company": "LILT (Production)",
-        "location": "Netherlands (Remote)",
-        "job_type": "Contract",
-        "url": "https://www.arbeitnow.nl/jobs/companies/lilt-production/ai-benchmark-engineer-native-language-specialist-dutch-remote-rotterdam-201716",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-14T11:40:18+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-ca424ad4-4b8e-472a-acb3-b9822bc704b5",
         "title": "Account Director, Large Enterprise",
         "company": "OpenAI",
@@ -77,17 +121,6 @@
         "remote": true
     },
     {
-        "id": "ashby-8842f4d5-dabb-4b15-a339-36ab13a6db11",
-        "title": "Enablement Lead, Knowledge Work",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/8842f4d5-dabb-4b15-a339-36ab13a6db11",
-        "source": "Ashby",
-        "published_at": "2026-10-14T03:07:32.093000+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-fullstack-software-engineer-ror-js-w-m-paris-363056",
         "title": "Fullstack Software Engineer RoR/JS W/M",
         "company": "Pennylane SAS",
@@ -99,6 +132,17 @@
         "remote": false
     },
     {
+        "id": "greenhouse-6558730002",
+        "title": "Cloud Platform Engineer",
+        "company": "GitLab",
+        "location": "Remote, Canada; Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8889193002",
+        "source": "Greenhouse",
+        "published_at": "2026-10-14T18:58:44-04:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-senior-product-engineer-bielefeld-429098",
         "title": "(Senior) Product Engineer",
         "company": "sustaind GmbH",
@@ -106,7 +150,95 @@
         "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
         "url": "https://www.arbeitnow.com/jobs/companies/sustaind-gmbh/senior-product-engineer-bielefeld-429098",
         "source": "Arbeitnow",
-        "published_at": "2026-10-14T17:30:43+00:00",
+        "published_at": "2026-10-14T21:47:32+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3392925",
+        "title": "Senior Software Engineer, ML Platform",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8283770",
+        "source": "Greenhouse",
+        "published_at": "2026-10-14T21:09:56-04:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-331dbcfd-3faf-4357-a7d8-3acd854b4b42",
+        "title": "Physical Security Lead",
+        "company": "Ramp",
+        "location": "Remote",
+        "job_type": "FullTime, Security",
+        "url": "https://jobs.ashbyhq.com/ramp/331dbcfd-3faf-4357-a7d8-3acd854b4b42",
+        "source": "Ashby",
+        "published_at": "2026-10-14T22:22:02.947000+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3582596",
+        "title": "Analytics Engineer",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
+        "source": "Greenhouse",
+        "published_at": "2026-10-14T18:03:16-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3564633",
+        "title": "Staff Software Engineer, Android Design System",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8237636",
+        "source": "Greenhouse",
+        "published_at": "2026-10-14T17:18:59-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-infrastructure-cybersecurity-engineer-uk-portishead-285835",
+        "title": "Senior Infrastructure & Cybersecurity Engineer (UK)",
+        "company": "A-Gas",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/a-gas/remote-senior-infrastructure-cybersecurity-engineer-uk-portishead-285835",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-14T20:32:32+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-lead-java-developer-solution-architect-6-month-contract-london-346117",
+        "title": "Lead Java Developer/Solution Architect (6-month contract)",
+        "company": "gravity9",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gravity9/remote-lead-java-developer-solution-architect-6-month-contract-london-346117",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-14T20:32:27+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-staff-site-reliability-engineer-paris-357394",
+        "title": "Staff Site Reliability Engineer",
+        "company": "Adikteev",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.fr/jobs/companies/adikteev/remote-staff-site-reliability-engineer-paris-357394",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-14T20:32:27+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-software-test-engineer-bern-277047",
+        "title": "Software Test Engineer",
+        "company": "SwissPeak Partners GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-277047",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-14T20:32:27+00:00",
         "remote": true
     },
     {
@@ -154,17 +286,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-c-engineer-298192",
-        "title": "Senior C++ Engineer",
-        "company": "Duck Duck Go",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-c-engineer-298192",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-14T14:40:23+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3566909",
         "title": "Enterprise Security Sales Specialist",
         "company": "Datadog",
@@ -176,17 +297,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3581270",
-        "title": "Software Engineer, Enterprise Apps",
-        "company": "Coinbase",
-        "location": "Remote - Brazil",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8279479?gh_jid=8279479",
-        "source": "Greenhouse",
-        "published_at": "2026-10-13T17:33:04-04:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-ki-engineer-beratung-implementation-ampfing-32627",
         "title": "KI-Engineer- Beratung & Implementation (m/w/d)",
         "company": "Neurawork GmbH & Co. KG",
@@ -195,17 +305,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/ki-engineer-beratung-implementation-ampfing-32627",
         "source": "Arbeitnow",
         "published_at": "2026-10-14T17:00:44+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-systems-engineer-microsoft-365-ampfing-462347",
-        "title": "Systems Engineer Microsoft 365 (m/w/d)",
-        "company": "Neurawork GmbH & Co. KG",
-        "location": "Ampfing",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/systems-engineer-microsoft-365-ampfing-462347",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-14T14:31:34+00:00",
         "remote": true
     },
     {
@@ -228,6 +327,17 @@
         "url": "https://www.arbeitnow.ch/jobs/companies/unit8/remote-palantir-foundry-engineer-relocation-to-abu-dhabi-uae-zurich-350581",
         "source": "Arbeitnow",
         "published_at": "2026-10-14T14:20:12+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-medical-writer-germany-berlin-333952",
+        "title": "Senior Medical Writer | Germany",
+        "company": "TransPerfect",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/transperfect/remote-senior-medical-writer-germany-berlin-333952",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-14T20:32:23+00:00",
         "remote": true
     },
     {
@@ -262,16 +372,5 @@
         "source": "Greenhouse",
         "published_at": "2026-10-14T14:15:44-04:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-customer-support-engineer-221371",
-        "title": "Senior Customer Support Engineer",
-        "company": "vercel",
-        "location": "Remote - United Kingdom",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/vercel/remote-senior-customer-support-engineer-221371",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-14T14:55:40+00:00",
-        "remote": false
     }
 ]

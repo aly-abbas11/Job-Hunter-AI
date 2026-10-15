@@ -1,5 +1,27 @@
 [
     {
+        "id": "ashby-2c6a5737-aef9-4fe3-802c-295a4097e007",
+        "title": "Corporate Security Manager - Americas",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Corporate Security",
+        "url": "https://jobs.ashbyhq.com/openai/2c6a5737-aef9-4fe3-802c-295a4097e007",
+        "source": "Ashby",
+        "published_at": "2026-10-15T20:09:20.599000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-c364b3ea-4f31-4a1a-b419-6765e131dd07",
+        "title": "IT Logistics Lead",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, IT",
+        "url": "https://jobs.ashbyhq.com/openai/c364b3ea-4f31-4a1a-b419-6765e131dd07",
+        "source": "Ashby",
+        "published_at": "2026-10-15T20:03:48.752000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-329fe50f-7701-4f07-982d-a4e10cbec236",
         "title": "Client Platform Engineer",
         "company": "OpenAI",
@@ -33,83 +55,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-servicenow-ai-architect-zurich-248913",
-        "title": "ServiceNow AI Architect",
-        "company": "SwissPeak Partners GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-248913",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-14T20:32:27+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-e8e7fd72-bc4e-4717-8a67-81e4798372c7",
-        "title": "SoC Engineer",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/e8e7fd72-bc4e-4717-8a67-81e4798372c7",
-        "source": "Ashby",
-        "published_at": "2026-10-14T18:29:05.694000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-e808f3eb-f1bc-42ed-bf0c-12e339cabc92",
-        "title": "Partner Applied AI Engineer - LATAM",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/e808f3eb-f1bc-42ed-bf0c-12e339cabc92",
-        "source": "Ashby",
-        "published_at": "2026-10-14T16:57:49.829000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-1ae64ddb-505f-4ad2-a731-3a857e94edee",
-        "title": "Growth Marketing, Creative and Ad Operations",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/1ae64ddb-505f-4ad2-a731-3a857e94edee",
-        "source": "Ashby",
-        "published_at": "2026-10-14T16:23:55.748000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-fullstack-software-engineer-ror-js-w-m-paris-363056",
-        "title": "Fullstack Software Engineer RoR/JS W/M",
-        "company": "Pennylane SAS",
-        "location": "All France (remote)",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/fullstack-software-engineer-ror-js-w-m-paris-363056",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-14T17:40:23+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-founding-engineer-tech-lead-full-stack-ai-native-berlin-106809",
-        "title": "Founding Engineer (Tech Lead) · Full-Stack, AI-native (m/w/d)",
-        "company": "Infinos GmbH",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, teamleitung",
-        "url": "https://www.arbeitnow.com/jobs/companies/infinos-gmbh/founding-engineer-tech-lead-full-stack-ai-native-berlin-106809",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-15T14:17:41+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-ai-consultant-customer-experience-all-genders-berlin-285347",
-        "title": "AI Consultant – Customer Experience (all genders)",
-        "company": "MAI Group",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/mai-group/ai-consultant-customer-experience-all-genders-berlin-285347",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-15T12:01:25+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-ingenieur-terrain-field-engineer-france-307115",
         "title": "Ingénieur Terrain / Field Engineer F/H/X",
         "company": "Genetec Inc",
@@ -121,14 +66,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-sales-manager-tech-data-all-genders-berlin-336004",
-        "title": "Sales Manager - Tech & Data (all genders)",
-        "company": "MAI Group",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, teamleitung",
-        "url": "https://www.arbeitnow.com/jobs/companies/mai-group/sales-manager-tech-data-all-genders-berlin-336004",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-15T10:01:33+00:00",
+        "id": "ashby-493579ff-3198-420f-ab6a-b8bb971cb513",
+        "title": "Senior / Staff Security Engineer",
+        "company": "Linear",
+        "location": "Remote",
+        "job_type": "FullTime, Product",
+        "url": "https://jobs.ashbyhq.com/linear/493579ff-3198-420f-ab6a-b8bb971cb513",
+        "source": "Ashby",
+        "published_at": "2026-10-15T18:06:03.583000+00:00",
         "remote": true
     },
     {
@@ -209,72 +154,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-staff-site-reliability-engineer-paris-357394",
-        "title": "Staff Site Reliability Engineer",
-        "company": "Adikteev",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.fr/jobs/companies/adikteev/remote-staff-site-reliability-engineer-paris-357394",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-14T20:32:27+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-software-test-engineer-bern-277047",
-        "title": "Software Test Engineer",
-        "company": "SwissPeak Partners GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-277047",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-14T20:32:27+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3582374",
-        "title": "Manager II, Developer Advocacy",
-        "company": "Datadog",
-        "location": "California, USA, Remote; New York, USA, Remote; Washington, USA, Remote",
-        "job_type": "Full Time",
-        "url": "https://careers.datadoghq.com/detail/8282140/?gh_jid=8282140",
-        "source": "Greenhouse",
-        "published_at": "2026-10-14T14:32:29-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3475190",
-        "title": "Staff Machine Learning Engineer",
-        "company": "Pinterest",
-        "location": "San Francisco, CA, US; Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015543",
-        "source": "Greenhouse",
-        "published_at": "2026-10-14T13:57:40-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3490577",
-        "title": "Senior Software Engineer II, Ads Data Solutions Engineering",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8281965",
-        "source": "Greenhouse",
-        "published_at": "2026-10-14T13:25:23-04:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
-        "title": "FinOps Data Engineer",
-        "company": "Supabase",
-        "location": "Remote, Global",
-        "job_type": "FullTime, Engineering",
-        "url": "https://jobs.ashbyhq.com/supabase/73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
-        "source": "Ashby",
-        "published_at": "2026-10-14T16:54:28.658000+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-senior-scientific-data-engineer-germany-163831",
         "title": "Senior Scientific Data Engineer",
         "company": "Tetrascience",
@@ -319,25 +198,25 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3347227",
-        "title": "Product Designer, Terminal",
-        "company": "Stripe",
-        "location": "US Remote",
-        "job_type": "Full Time",
-        "url": "https://stripe.com/jobs/search?gh_jid=8282390",
-        "source": "Greenhouse",
-        "published_at": "2026-10-14T15:54:05-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3581522",
-        "title": "Senior Product Designer, Platform",
+        "id": "greenhouse-3577882",
+        "title": "Social Media Manager, Predictions",
         "company": "Coinbase",
         "location": "Remote - USA",
         "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8280149?gh_jid=8280149",
+        "url": "https://www.coinbase.com/careers/positions/8269104?gh_jid=8269104",
         "source": "Greenhouse",
-        "published_at": "2026-10-14T14:15:44-04:00",
+        "published_at": "2026-10-15T14:29:14-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-customer-support-managerin-berlin-279105",
+        "title": "Customer Support Manager:in (m/w/d)",
+        "company": "heycare",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, teamleitung",
+        "url": "https://www.arbeitnow.com/jobs/companies/heycare/customer-support-managerin-berlin-279105",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-15T15:30:58+00:00",
         "remote": true
     }
 ]

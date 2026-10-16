@@ -1,5 +1,49 @@
 [
     {
+        "id": "greenhouse-3548040",
+        "title": "Solutions Engineer, AI Build Team",
+        "company": "Stripe",
+        "location": "US-SF, US-NYC, US-Remote",
+        "job_type": "Full Time",
+        "url": "https://stripe.com/jobs/search?gh_jid=8198323",
+        "source": "Greenhouse",
+        "published_at": "2026-10-16T15:00:36-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6547001002",
+        "title": "Staff Solutions Architect, AI Subject Matter Expert",
+        "company": "GitLab",
+        "location": "Remote, France; Remote, Germany; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860196002",
+        "source": "Greenhouse",
+        "published_at": "2026-10-16T13:04:28-04:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-ac43a452-1f50-42a2-816e-f920fdb51823",
+        "title": "Financial Systems Engineer",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Finance",
+        "url": "https://jobs.ashbyhq.com/openai/ac43a452-1f50-42a2-816e-f920fdb51823",
+        "source": "Ashby",
+        "published_at": "2026-10-16T16:54:26.162000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-bbe1e108-b8cf-4c57-a646-f89eb1007f1c",
+        "title": "Data Center Design Manager",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Scaling",
+        "url": "https://jobs.ashbyhq.com/openai/bbe1e108-b8cf-4c57-a646-f89eb1007f1c",
+        "source": "Ashby",
+        "published_at": "2026-10-16T16:14:43.097000+00:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-6558911002",
         "title": "Staff Solutions Architect, AI Subject Matter Expert",
         "company": "GitLab",
@@ -11,28 +55,6 @@
         "remote": true
     },
     {
-        "id": "ashby-2c6a5737-aef9-4fe3-802c-295a4097e007",
-        "title": "Corporate Security Manager - Americas",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Corporate Security",
-        "url": "https://jobs.ashbyhq.com/openai/2c6a5737-aef9-4fe3-802c-295a4097e007",
-        "source": "Ashby",
-        "published_at": "2026-10-15T20:09:20.599000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-c364b3ea-4f31-4a1a-b419-6765e131dd07",
-        "title": "IT Logistics Lead",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, IT",
-        "url": "https://jobs.ashbyhq.com/openai/c364b3ea-4f31-4a1a-b419-6765e131dd07",
-        "source": "Ashby",
-        "published_at": "2026-10-15T20:03:48.752000+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-b65287c7-2071-4bc6-8717-58c090e2a372",
         "title": "SDK Engineer - Python",
         "company": "Supabase",
@@ -41,6 +63,17 @@
         "url": "https://jobs.ashbyhq.com/supabase/b65287c7-2071-4bc6-8717-58c090e2a372",
         "source": "Ashby",
         "published_at": "2026-10-16T15:41:37.459000+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3583418",
+        "title": "Senior Frontend Engineer, Portfolio",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8285182?gh_jid=8285182",
+        "source": "Greenhouse",
+        "published_at": "2026-10-16T13:04:18-04:00",
         "remote": true
     },
     {
@@ -66,37 +99,15 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-fullstack-softwareentwickler-berlin-149961",
-        "title": "Fullstack Softwareentwickler (m/w/d)",
-        "company": "TecFox GmbH",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-berlin-149961",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-16T12:31:06+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-analytics-engineer-179618",
-        "title": "Analytics Engineer",
-        "company": "prolific",
-        "location": "Remote",
+        "id": "arbeitnow-remote-senior-data-scientist-credit-249711",
+        "title": "Senior Data Scientist (Credit)",
+        "company": "Moniepoint",
+        "location": "Remote, London",
         "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-analytics-engineer-179618",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/moniepoint/remote-senior-data-scientist-credit-249711",
         "source": "Arbeitnow",
-        "published_at": "2026-10-16T11:55:18+00:00",
+        "published_at": "2026-10-16T17:55:39+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-founding-engineer-remote-eea-uk-berlin-162955",
-        "title": "Founding Engineer (Remote - EEA/UK)",
-        "company": "Tarebase",
-        "location": "Berlin",
-        "job_type": "Permanent employment, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/tarebase/founding-engineer-remote-eea-uk-berlin-162955",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-16T11:00:56+00:00",
-        "remote": true
     },
     {
         "id": "greenhouse-3584239",
@@ -110,36 +121,14 @@
         "remote": true
     },
     {
-        "id": "ashby-493579ff-3198-420f-ab6a-b8bb971cb513",
-        "title": "Senior / Staff Security Engineer",
-        "company": "Linear",
-        "location": "Remote",
-        "job_type": "FullTime, Product",
-        "url": "https://jobs.ashbyhq.com/linear/493579ff-3198-420f-ab6a-b8bb971cb513",
-        "source": "Ashby",
-        "published_at": "2026-10-15T18:06:03.583000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-frontend-softwareentwickler-berlin-250708",
-        "title": "Frontend Softwareentwickler (m/w/d)",
-        "company": "TecFox GmbH",
+        "id": "arbeitnow-legal-product-manager-legal-engineer-jurist-in-berlin-124081",
+        "title": "Legal Product Manager | Legal Engineer (Jurist/in) (x/w/m)",
+        "company": "Hopkins Rechtsanwaltsgesellschaft mbH",
         "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-berlin-250708",
+        "job_type": "Befristeter arbeitsvertrag, berufseinstieg",
+        "url": "https://www.arbeitnow.com/jobs/companies/hopkins-rechtsanwaltsgesellschaft-mbh/legal-product-manager-legal-engineer-jurist-in-berlin-124081",
         "source": "Arbeitnow",
-        "published_at": "2026-10-16T13:01:21+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-founding-platform-engineer-germany-308426",
-        "title": "Founding Platform Engineer",
-        "company": "Mlabs",
-        "location": "Germany",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/mlabs/remote-founding-platform-engineer-germany-308426",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-16T14:20:04+00:00",
+        "published_at": "2026-10-16T17:00:51+00:00",
         "remote": true
     },
     {
@@ -165,14 +154,36 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3577882",
-        "title": "Social Media Manager, Predictions",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8269104?gh_jid=8269104",
-        "source": "Greenhouse",
-        "published_at": "2026-10-15T14:29:14-04:00",
+        "id": "ashby-4885f56d-9f59-4c40-81d8-c33a167cb26c",
+        "title": "Product Designer, Higher Education",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Product Design",
+        "url": "https://jobs.ashbyhq.com/openai/4885f56d-9f59-4c40-81d8-c33a167cb26c",
+        "source": "Ashby",
+        "published_at": "2026-10-16T16:33:16.777000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-weiterbildung-zum-visual-audio-designer-100-forderbar-berlin-457366",
+        "title": "Weiterbildung zum Visual & Audio Designer (m/w/d) – (100 % förderbar)",
+        "company": "velpTEC GmbH",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufseinstieg",
+        "url": "https://www.arbeitnow.com/jobs/companies/velptec-gmbh/weiterbildung-zum-visual-audio-designer-100-forderbar-berlin-457366",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-16T17:30:57+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-social-media-opener-im-gesundheitsbereich-munich-203591",
+        "title": "Social Media Opener im Gesundheitsbereich (m/w/d)",
+        "company": "Melanie Fleischmann",
+        "location": "Munich",
+        "job_type": "Freiberufler / selbstständiger, freelance, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/melanie-fleischmann/social-media-opener-im-gesundheitsbereich-munich-203591",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-16T16:01:21+00:00",
         "remote": true
     }
 ]

@@ -22,15 +22,48 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ingenieur-terrain-field-engineer-france-307115",
-        "title": "Ingénieur Terrain / Field Engineer F/H/X",
-        "company": "Genetec Inc",
-        "location": "France",
-        "job_type": "Full time, associate",
-        "url": "https://www.arbeitnow.fr/jobs/companies/genetec-inc/remote-ingenieur-terrain-field-engineer-france-307115",
+        "id": "arbeitnow-remote-iam-fullstack-engineer-66675",
+        "title": "IAM Fullstack Engineer",
+        "company": "SoSafe",
+        "location": "United Kingdom Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-iam-fullstack-engineer-66675",
         "source": "Arbeitnow",
-        "published_at": "2026-10-15T10:20:22+00:00",
+        "published_at": "2026-10-16T05:40:18+00:00",
+        "remote": false
+    },
+    {
+        "id": "greenhouse-3584238",
+        "title": "Staff Software Engineer, Backend - FinHub (Transfers)",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8287662?gh_jid=8287662",
+        "source": "Greenhouse",
+        "published_at": "2026-10-16T02:25:34-04:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-full-stack-engineer-realtime-voice-customer-experience-platform-44760",
+        "title": "Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform",
+        "company": "Hopper",
+        "location": "England - Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/hopper/remote-senior-full-stack-engineer-realtime-voice-customer-experience-platform-44760",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-16T08:40:15+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-analytics-engineer-83455",
+        "title": "Senior Analytics Engineer",
+        "company": "SoSafe",
+        "location": "United Kingdom Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-senior-analytics-engineer-83455",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-16T05:40:18+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3584239",
@@ -55,25 +88,25 @@
         "remote": true
     },
     {
-        "id": "ashby-ed6cedb1-b9bf-4609-ac5c-c75c33b31bf3",
-        "title": "Site Reliability Engineer",
-        "company": "Supabase",
-        "location": "Remote, Global",
-        "job_type": "FullTime, Engineering",
-        "url": "https://jobs.ashbyhq.com/supabase/ed6cedb1-b9bf-4609-ac5c-c75c33b31bf3",
-        "source": "Ashby",
-        "published_at": "2026-10-15T09:15:10.373000+00:00",
-        "remote": false
+        "id": "arbeitnow-ml-engineer-computer-vision-ml-ops-berlin-240466",
+        "title": "ML Engineer (Computer Vision & ML Ops)",
+        "company": "StellDirVor GmbH",
+        "location": "Berlin",
+        "job_type": "Fixed-term contract (befristeter arbeitsvertrag), professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/stelldirvor-gmbh/ml-engineer-computer-vision-ml-ops-berlin-240466",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-16T08:01:01+00:00",
+        "remote": true
     },
     {
-        "id": "arbeitnow-it-consultant-berlin-408772",
-        "title": "IT-Consultant (m/w/d)",
-        "company": "Leafworks GmbH",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/leafworks-gmbh/it-consultant-berlin-408772",
+        "id": "arbeitnow-remote-senior-lead-security-engineer-detection-response-france-104833",
+        "title": "Senior/Lead Security Engineer (Detection & Response)",
+        "company": "Fuseenergy",
+        "location": "France",
+        "job_type": "Full time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/fuseenergy/remote-senior-lead-security-engineer-detection-response-france-104833",
         "source": "Arbeitnow",
-        "published_at": "2026-10-15T21:30:47+00:00",
+        "published_at": "2026-10-16T07:20:17+00:00",
         "remote": true
     },
     {
@@ -85,6 +118,17 @@
         "url": "https://www.coinbase.com/careers/positions/8269104?gh_jid=8269104",
         "source": "Greenhouse",
         "published_at": "2026-10-15T14:29:14-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-designer-london-121026",
+        "title": "Senior Designer",
+        "company": "Tangible",
+        "location": "London",
+        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/tangible/senior-designer-london-121026",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-16T08:01:01+00:00",
         "remote": true
     }
 ]

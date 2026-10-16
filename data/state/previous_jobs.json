@@ -1,5 +1,16 @@
 [
     {
+        "id": "greenhouse-6558911002",
+        "title": "Staff Solutions Architect, AI Subject Matter Expert",
+        "company": "GitLab",
+        "location": "Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8886426002",
+        "source": "Greenhouse",
+        "published_at": "2026-10-16T11:58:55-04:00",
+        "remote": true
+    },
+    {
         "id": "ashby-2c6a5737-aef9-4fe3-802c-295a4097e007",
         "title": "Corporate Security Manager - Americas",
         "company": "OpenAI",
@@ -22,14 +33,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-iam-fullstack-engineer-66675",
-        "title": "IAM Fullstack Engineer",
-        "company": "SoSafe",
-        "location": "United Kingdom Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-iam-fullstack-engineer-66675",
+        "id": "ashby-b65287c7-2071-4bc6-8717-58c090e2a372",
+        "title": "SDK Engineer - Python",
+        "company": "Supabase",
+        "location": "Remote",
+        "job_type": "FullTime, Engineering",
+        "url": "https://jobs.ashbyhq.com/supabase/b65287c7-2071-4bc6-8717-58c090e2a372",
+        "source": "Ashby",
+        "published_at": "2026-10-16T15:41:37.459000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-staff-backend-engineer-developer-experience-137082",
+        "title": "Staff Backend Engineer, Developer Experience",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-staff-backend-engineer-developer-experience-137082",
         "source": "Arbeitnow",
-        "published_at": "2026-10-16T05:40:18+00:00",
+        "published_at": "2026-10-16T14:55:21+00:00",
         "remote": false
     },
     {
@@ -44,26 +66,37 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-full-stack-engineer-realtime-voice-customer-experience-platform-44760",
-        "title": "Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform",
-        "company": "Hopper",
-        "location": "England - Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/hopper/remote-senior-full-stack-engineer-realtime-voice-customer-experience-platform-44760",
+        "id": "arbeitnow-fullstack-softwareentwickler-berlin-149961",
+        "title": "Fullstack Softwareentwickler (m/w/d)",
+        "company": "TecFox GmbH",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-berlin-149961",
         "source": "Arbeitnow",
-        "published_at": "2026-10-16T08:40:15+00:00",
+        "published_at": "2026-10-16T12:31:06+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-analytics-engineer-179618",
+        "title": "Analytics Engineer",
+        "company": "prolific",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-analytics-engineer-179618",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-16T11:55:18+00:00",
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-analytics-engineer-83455",
-        "title": "Senior Analytics Engineer",
-        "company": "SoSafe",
-        "location": "United Kingdom Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-senior-analytics-engineer-83455",
+        "id": "arbeitnow-founding-engineer-remote-eea-uk-berlin-162955",
+        "title": "Founding Engineer (Remote - EEA/UK)",
+        "company": "Tarebase",
+        "location": "Berlin",
+        "job_type": "Permanent employment, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/tarebase/founding-engineer-remote-eea-uk-berlin-162955",
         "source": "Arbeitnow",
-        "published_at": "2026-10-16T05:40:18+00:00",
-        "remote": false
+        "published_at": "2026-10-16T11:00:56+00:00",
+        "remote": true
     },
     {
         "id": "greenhouse-3584239",
@@ -88,14 +121,36 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-ml-engineer-computer-vision-ml-ops-berlin-240466",
-        "title": "ML Engineer (Computer Vision & ML Ops)",
-        "company": "StellDirVor GmbH",
+        "id": "arbeitnow-frontend-softwareentwickler-berlin-250708",
+        "title": "Frontend Softwareentwickler (m/w/d)",
+        "company": "TecFox GmbH",
         "location": "Berlin",
-        "job_type": "Fixed-term contract (befristeter arbeitsvertrag), professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/stelldirvor-gmbh/ml-engineer-computer-vision-ml-ops-berlin-240466",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-berlin-250708",
         "source": "Arbeitnow",
-        "published_at": "2026-10-16T08:01:01+00:00",
+        "published_at": "2026-10-16T13:01:21+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-founding-platform-engineer-germany-308426",
+        "title": "Founding Platform Engineer",
+        "company": "Mlabs",
+        "location": "Germany",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/mlabs/remote-founding-platform-engineer-germany-308426",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-16T14:20:04+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-scientific-data-engineer-switzerland-5487",
+        "title": "Senior Scientific Data Engineer",
+        "company": "Tetrascience",
+        "location": "Switzerland",
+        "job_type": "Full time, mid-senior",
+        "url": "https://www.arbeitnow.ch/jobs/companies/tetrascience/remote-senior-scientific-data-engineer-switzerland-5487",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-16T11:20:05+00:00",
         "remote": true
     },
     {
@@ -118,17 +173,6 @@
         "url": "https://www.coinbase.com/careers/positions/8269104?gh_jid=8269104",
         "source": "Greenhouse",
         "published_at": "2026-10-15T14:29:14-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-designer-london-121026",
-        "title": "Senior Designer",
-        "company": "Tangible",
-        "location": "London",
-        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/tangible/senior-designer-london-121026",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-16T08:01:01+00:00",
         "remote": true
     }
 ]

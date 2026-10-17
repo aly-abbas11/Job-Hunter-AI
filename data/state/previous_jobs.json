@@ -110,17 +110,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3584238",
-        "title": "Staff Software Engineer, Backend - FinHub (Transfers)",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8287662?gh_jid=8287662",
-        "source": "Greenhouse",
-        "published_at": "2026-10-16T02:25:34-04:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-working-student-ai-engineering-document-intelligence-berlin-357203",
         "title": "Working Student — AI Engineering & Document Intelligence",
         "company": "Tracium GmbH",
@@ -198,14 +187,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-legal-product-manager-legal-engineer-jurist-in-berlin-124081",
-        "title": "Legal Product Manager | Legal Engineer (Jurist/in) (x/w/m)",
-        "company": "Hopkins Rechtsanwaltsgesellschaft mbH",
-        "location": "Berlin",
-        "job_type": "Befristeter arbeitsvertrag, berufseinstieg",
-        "url": "https://www.arbeitnow.com/jobs/companies/hopkins-rechtsanwaltsgesellschaft-mbh/legal-product-manager-legal-engineer-jurist-in-berlin-124081",
+        "id": "arbeitnow-remote-lead-solutions-engineer-france-354209",
+        "title": "Lead Solutions Engineer",
+        "company": "Exotec",
+        "location": "France",
+        "job_type": "Full time, mid-senior",
+        "url": "https://www.arbeitnow.fr/jobs/companies/exotec/remote-lead-solutions-engineer-france-354209",
         "source": "Arbeitnow",
-        "published_at": "2026-10-16T17:00:51+00:00",
+        "published_at": "2026-10-17T07:20:14+00:00",
         "remote": true
     },
     {
@@ -220,17 +209,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-lead-security-engineer-detection-response-france-104833",
-        "title": "Senior/Lead Security Engineer (Detection & Response)",
-        "company": "Fuseenergy",
-        "location": "France",
-        "job_type": "Full time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/fuseenergy/remote-senior-lead-security-engineer-detection-response-france-104833",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-16T07:20:17+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-4885f56d-9f59-4c40-81d8-c33a167cb26c",
         "title": "Product Designer, Higher Education",
         "company": "OpenAI",
@@ -239,17 +217,6 @@
         "url": "https://jobs.ashbyhq.com/openai/4885f56d-9f59-4c40-81d8-c33a167cb26c",
         "source": "Ashby",
         "published_at": "2026-10-16T16:33:16.777000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-weiterbildung-zum-visual-audio-designer-100-forderbar-berlin-457366",
-        "title": "Weiterbildung zum Visual & Audio Designer (m/w/d) – (100 % förderbar)",
-        "company": "velpTEC GmbH",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufseinstieg",
-        "url": "https://www.arbeitnow.com/jobs/companies/velptec-gmbh/weiterbildung-zum-visual-audio-designer-100-forderbar-berlin-457366",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-16T17:30:57+00:00",
         "remote": true
     }
 ]

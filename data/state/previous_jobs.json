@@ -1,135 +1,36 @@
 [
     {
-        "id": "arbeitnow-remote-senior-software-engineer-search-ai-80625",
-        "title": "Senior Software Engineer, Search & AI",
-        "company": "Muckrack",
-        "location": "Remote (Bulgaria, Ireland",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-search-ai-80625",
+        "id": "arbeitnow-remote-founding-gtm-sales-manager-dach-nordics-gn-at-ai-digital-defense-venture-germany-berlin-245680",
+        "title": "Founding GTM & Sales Manager - DACH & Nordics (gn) @ AI Digital Defense Venture, Germany",
+        "company": "atlantic.vc",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/remote-founding-gtm-sales-manager-dach-nordics-gn-at-ai-digital-defense-venture-germany-berlin-245680",
         "source": "Arbeitnow",
-        "published_at": "2026-10-17T11:55:13+00:00",
+        "published_at": "2026-10-17T23:31:46+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-director-data-science-440507",
+        "title": "Director, Data Science",
+        "company": "Duck Duck Go",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-director-data-science-440507",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-17T23:40:14+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-gtm-growth-engineer-berlin-423784",
+        "title": "GTM & Growth Engineer",
+        "company": "Cosuno",
+        "location": "Berlin/Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/cosuno/gtm-growth-engineer-berlin-423784",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-17T20:40:15+00:00",
         "remote": false
-    },
-    {
-        "id": "ashby-dbe79b89-e593-44b3-8aec-c667f7134445",
-        "title": "Software Engineer, Full Stack — Dots",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/dbe79b89-e593-44b3-8aec-c667f7134445",
-        "source": "Ashby",
-        "published_at": "2026-10-16T23:48:11.093000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-3b34eb10-25b0-4a97-bd6d-05fc90ad4981",
-        "title": "Software Engineer, Mobile Web — Dots",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/3b34eb10-25b0-4a97-bd6d-05fc90ad4981",
-        "source": "Ashby",
-        "published_at": "2026-10-16T23:47:53.457000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-230d7d77-133e-4b87-a7a4-3e8d4e9fdab3",
-        "title": "Model Policy Manager, National Security",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Safety Systems",
-        "url": "https://jobs.ashbyhq.com/openai/230d7d77-133e-4b87-a7a4-3e8d4e9fdab3",
-        "source": "Ashby",
-        "published_at": "2026-10-16T23:34:44.028000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-working-student-ai-engineering-document-intelligence-berlin-357203",
-        "title": "Working Student — AI Engineering & Document Intelligence",
-        "company": "Tracium GmbH",
-        "location": "Berlin",
-        "job_type": "Working student, working student, no experience required / student",
-        "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/working-student-ai-engineering-document-intelligence-berlin-357203",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-17T11:47:21+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-full-stack-engineer-ai-authoring-platform-hamburg-483900",
-        "title": "Full-Stack Engineer — AI Authoring Platform",
-        "company": "Tracium GmbH",
-        "location": "Hamburg",
-        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/full-stack-engineer-ai-authoring-platform-hamburg-483900",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-17T11:47:20+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-data-engineer-document-ai-pipelines-berlin-415387",
-        "title": "Senior Data Engineer — Document & AI Pipelines",
-        "company": "Tracium GmbH",
-        "location": "Berlin",
-        "job_type": "Fixed-term contract, contract, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/senior-data-engineer-document-ai-pipelines-berlin-415387",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-17T11:47:19+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-ai-engineer-document-intelligence-berlin-350144",
-        "title": "Senior AI Engineer — Document Intelligence",
-        "company": "Tracium GmbH",
-        "location": "Berlin",
-        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/senior-ai-engineer-document-intelligence-berlin-350144",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-17T11:47:18+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-principal-data-scientist-london-295261",
-        "title": "Principal Data Scientist",
-        "company": "Faculty",
-        "location": "Remote (UK)",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/principal-data-scientist-london-295261",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-17T11:40:18+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-3585984",
-        "title": "Senior Sales Engineer",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8292802",
-        "source": "Greenhouse",
-        "published_at": "2026-10-16T19:07:25-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3585984",
-        "title": "Senior Sales Engineer",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8292786",
-        "source": "Greenhouse",
-        "published_at": "2026-10-16T19:07:23-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3585987",
-        "title": "Senior Machine Learning Engineer, CX",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8292793?gh_jid=8292793",
-        "source": "Greenhouse",
-        "published_at": "2026-10-16T17:53:42-04:00",
-        "remote": true
     },
     {
         "id": "arbeitnow-cloud-engineer-mit-karriereambitionen-berlin-312024",
@@ -140,6 +41,39 @@
         "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/cloud-engineer-mit-karriereambitionen-berlin-312024",
         "source": "Arbeitnow",
         "published_at": "2026-10-17T10:31:00+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-quality-engineer-checkout-payments-schoppingen-296821",
+        "title": "Senior Quality Engineer - Checkout & Payments (m/w/d)",
+        "company": "shopware AG",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-senior-quality-engineer-checkout-payments-schoppingen-296821",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-17T23:31:43+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-security-engineer-schoppingen-412728",
+        "title": "Security Engineer (m/w/d)",
+        "company": "shopware AG",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-security-engineer-schoppingen-412728",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-17T23:31:43+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-security-engineering-lead-schoppingen-351655",
+        "title": "Security Engineering Lead (m/w/d)",
+        "company": "shopware AG",
+        "location": "Homeoffice",
+        "job_type": "Manager, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-security-engineering-lead-schoppingen-351655",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-17T23:31:43+00:00",
         "remote": true
     },
     {
@@ -184,6 +118,17 @@
         "url": "https://www.arbeitnow.fr/jobs/companies/exotec/remote-lead-solutions-engineer-france-354209",
         "source": "Arbeitnow",
         "published_at": "2026-10-17T07:20:14+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-uk-nominee-director-remote-compliance-support-role-chalkhouse-green-90516",
+        "title": "UK Nominee Director (Remote, Compliance Support Role)",
+        "company": "Emplyfy",
+        "location": "Remote job",
+        "job_type": "Entry, freelance",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/uk-nominee-director-remote-compliance-support-role-chalkhouse-green-90516",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-17T23:31:47+00:00",
         "remote": true
     },
     {

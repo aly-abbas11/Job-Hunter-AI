@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-remote-staff-solutions-architect-ai-subject-matter-expert-456239",
+        "title": "Staff Solutions Architect, AI Subject Matter Expert",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-staff-solutions-architect-ai-subject-matter-expert-456239",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-18T11:55:27+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-senior-quality-engineer-tellent-intelligence-ai-amsterdam-295070",
         "title": "Senior Quality Engineer - Tellent Intelligence (AI)",
         "company": "Tellent",
@@ -11,25 +22,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-sql-developer-ai-prompting-context-engineering-bromley-374742",
-        "title": "SQL Developer – AI Prompting & Context Engineering",
-        "company": "Bromcom Computers Plc",
+        "id": "arbeitnow-backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-27129",
+        "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
+        "company": "AlmavivA de Belgique",
         "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-sql-developer-ai-prompting-context-engineering-bromley-374742",
+        "job_type": "Experienced, freelance",
+        "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-27129",
         "source": "Arbeitnow",
-        "published_at": "2026-10-18T02:32:13+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-fullstack-engineer-agenticops-100-remote-united-kindom-441724",
-        "title": "Fullstack Engineer - AgenticOps (100% Remote)",
-        "company": "Tether Operations Limited",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/fullstack-engineer-agenticops-100-remote-united-kindom-441724",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-18T02:32:11+00:00",
+        "published_at": "2026-10-18T11:31:16+00:00",
         "remote": true
     },
     {
@@ -96,28 +96,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-consultant-erp-ewm-utilities-data-migration-berlin-378305",
         "source": "Arbeitnow",
         "published_at": "2026-10-18T08:31:28+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-mobile-engineer-react-native-100-remote-worldwide-united-kindom-24659",
-        "title": "Mobile Engineer - React Native (100% Remote) - Worldwide",
-        "company": "Tether Operations Limited",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/mobile-engineer-react-native-100-remote-worldwide-united-kindom-24659",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-18T02:32:11+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-founding-platform-engineer-netherlands-152205",
-        "title": "Founding Platform Engineer",
-        "company": "Mlabs",
-        "location": "Netherlands",
-        "job_type": "",
-        "url": "https://www.arbeitnow.nl/jobs/companies/mlabs/remote-founding-platform-engineer-netherlands-152205",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-17T12:20:05+00:00",
         "remote": true
     },
     {

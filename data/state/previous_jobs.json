@@ -11,6 +11,28 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-software-engineer-applied-ai-430890",
+        "title": "Software Engineer, Applied AI",
+        "company": "Circuithub",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-applied-ai-430890",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-20T14:40:40+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-sales-engineer-data-ai-security-173217",
+        "title": "Senior Sales Engineer - Data & AI Security",
+        "company": "veeamsoftware",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.fr/jobs/companies/veeamsoftware/remote-senior-sales-engineer-data-ai-security-173217",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-20T11:55:21+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-cfa6bf43-bc06-4f33-a889-7f962c86fc26",
         "title": "Manager, Sales Development",
         "company": "OpenAI",
@@ -77,17 +99,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-servicenow-ai-architect-zurich-117232",
-        "title": "ServiceNow AI Architect",
-        "company": "SwissPeak Partners GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-117232",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-19T17:31:28+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-3228eed1-9cb3-4330-82c3-19fb3dbb4408",
         "title": "Program Manager, National Security Policy Operations",
         "company": "OpenAI",
@@ -99,26 +110,26 @@
         "remote": true
     },
     {
-        "id": "ashby-a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
-        "title": "Software Engineer, CI/CD & ML Infrastructure",
-        "company": "OpenAI",
+        "id": "ashby-b7514711-8a29-4bd2-a97a-967be14e336f",
+        "title": "Senior Backend Engineer | Token Spend Management",
+        "company": "Ramp",
         "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
+        "job_type": "FullTime, Engineering",
+        "url": "https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f",
         "source": "Ashby",
-        "published_at": "2026-10-19T15:52:31.558000+00:00",
+        "published_at": "2026-10-20T13:40:20.264000+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-backend-engineer-ruby-create-change-record-484067",
-        "title": "Backend Engineer (Ruby), Create: Change Record",
-        "company": "gitlab",
+        "id": "ashby-47a75895-24af-49b7-9858-1be0ec0e7c71",
+        "title": "Senior Backend Engineer | Accounts Receivable",
+        "company": "Ramp",
         "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-ruby-create-change-record-484067",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-20T08:55:26+00:00",
-        "remote": false
+        "job_type": "FullTime, Engineering",
+        "url": "https://jobs.ashbyhq.com/ramp/47a75895-24af-49b7-9858-1be0ec0e7c71",
+        "source": "Ashby",
+        "published_at": "2026-10-20T13:26:07.649000+00:00",
+        "remote": true
     },
     {
         "id": "greenhouse-3589645",
@@ -132,6 +143,72 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-software-engineer-product-297213",
+        "title": "Software Engineer, Product",
+        "company": "Circuithub",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-product-297213",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-20T14:40:40+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-software-engineer-front-end-design-8654",
+        "title": "Software Engineer, Front End & Design",
+        "company": "Circuithub",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-front-end-design-8654",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-20T14:40:40+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-software-engineer-computer-vision-401580",
+        "title": "Software Engineer, Computer Vision",
+        "company": "Circuithub",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-computer-vision-401580",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-20T14:40:40+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-software-engineer-robotics-169035",
+        "title": "Software Engineer, Robotics",
+        "company": "Circuithub",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-robotics-169035",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-20T14:40:40+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-software-engineer-haskell-207329",
+        "title": "Software Engineer, Haskell",
+        "company": "Circuithub",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-haskell-207329",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-20T14:40:40+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-head-of-software-engineering-lausanne-192376",
+        "title": "Head of Software Engineering",
+        "company": "Adaptyv",
+        "location": "Lausanne / Hybrid / Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/head-of-software-engineering-lausanne-192376",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-20T11:40:19+00:00",
+        "remote": false
+    },
+    {
         "id": "greenhouse-3532594",
         "title": "Staff Software Engineer, Infrastructure Data Engineering",
         "company": "Pinterest",
@@ -140,17 +217,6 @@
         "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8162539",
         "source": "Greenhouse",
         "published_at": "2026-10-19T14:20:35-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-software-test-engineer-bern-226881",
-        "title": "Software Test Engineer",
-        "company": "SwissPeak Partners GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-226881",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-19T17:31:28+00:00",
         "remote": true
     },
     {
@@ -165,6 +231,50 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-senior-lead-developer-core-data-services-sap-btp-germany-273542",
+        "title": "Senior / Lead Developer - Core Data Services (SAP BTP) (m/f/d)",
+        "company": "Fioneer",
+        "location": "Germany",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/fioneer/remote-senior-lead-developer-core-data-services-sap-btp-germany-273542",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-20T14:20:16+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-systems-analyst-it-project-manager-as-freelancer-all-genders-berlin-466967",
+        "title": "Systems Analyst/ IT Project Manager as Freelancer (all genders)",
+        "company": "Vexcash AG",
+        "location": "Berlin",
+        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/systems-analyst-it-project-manager-as-freelancer-all-genders-berlin-466967",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-20T12:00:50+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-software-engineer-all-identities-healthcare-integrations-berlin-82856",
+        "title": "Senior Software Engineer (all identities) - Healthcare Integrations",
+        "company": "Caspar Health",
+        "location": "Berlin",
+        "job_type": "Permanent employment",
+        "url": "https://www.arbeitnow.com/jobs/companies/caspar-health/senior-software-engineer-all-identities-healthcare-integrations-berlin-82856",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-20T11:30:57+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-sales-manager-mobile-performance-advertising-berlin-207173",
+        "title": "Senior Sales Manager – Mobile Performance Advertising",
+        "company": "REPLUG",
+        "location": "Berlin",
+        "job_type": "Fixed-term contract, contract, manager",
+        "url": "https://www.arbeitnow.com/jobs/companies/replug/senior-sales-manager-mobile-performance-advertising-berlin-207173",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-20T11:30:57+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-senior-analytics-engineer-emea-france-234875",
         "title": "Senior Analytics Engineer - EMEA",
         "company": "Seeq",
@@ -174,28 +284,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-10-19T22:20:11+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-full-stack-developer-paris-258791",
-        "title": "Full-stack Developer",
-        "company": "ADOMIK",
-        "location": "Paris",
-        "job_type": "Self-employed/freelance (auto-entrepreneur/indépendant), freelance, professional / experienced",
-        "url": "https://www.arbeitnow.fr/jobs/companies/adomik/full-stack-developer-paris-258791",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-19T17:00:57+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-associate-team-lead-customer-support-t2-423291",
-        "title": "Associate Team Lead - Customer Support (T2)",
-        "company": "Pennylane SAS",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-associate-team-lead-customer-support-t2-423291",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-19T17:40:18+00:00",
-        "remote": false
     },
     {
         "id": "greenhouse-3589317",

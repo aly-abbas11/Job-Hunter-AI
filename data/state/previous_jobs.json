@@ -99,15 +99,15 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-data-engineer-real-time-analytics-101618",
-        "title": "Senior Data Engineer - Real time analytics",
-        "company": "Aircall",
-        "location": "France Remote",
-        "job_type": "Permanent Full Time Employee",
-        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-101618",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-18T23:07:40+00:00",
-        "remote": false
+        "id": "greenhouse-3589645",
+        "title": "Staff Software Enginer, Backend - Payments Platform",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8302189?gh_jid=8302189",
+        "source": "Greenhouse",
+        "published_at": "2026-10-19T18:14:33-04:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-cloud-engineer-cologne-307668",
@@ -198,25 +198,14 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3580502",
-        "title": "Software Engineer, Agent Optimization & Evaluation",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8275745",
-        "source": "Greenhouse",
-        "published_at": "2026-10-18T21:44:46-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3588675",
-        "title": "Machine Learning Engineer, Answers Relevance",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8299781",
-        "source": "Greenhouse",
-        "published_at": "2026-10-18T19:58:34-04:00",
+        "id": "arbeitnow-remote-senior-analytics-engineer-emea-france-234875",
+        "title": "Senior Analytics Engineer - EMEA",
+        "company": "Seeq",
+        "location": "France",
+        "job_type": "Full time, mid-senior",
+        "url": "https://www.arbeitnow.fr/jobs/companies/seeq/remote-senior-analytics-engineer-emea-france-234875",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-19T22:20:11+00:00",
         "remote": true
     },
     {
@@ -250,17 +239,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/jamorie-consulting-gmbh/business-development-manager-cyber-security-aufbau-neukundengeschaft-berlin-332205",
         "source": "Arbeitnow",
         "published_at": "2026-10-19T13:01:41+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-sap-security-authorizations-consultant-berlin-417832",
-        "title": "SAP Security & Authorizations Consultant",
-        "company": "Cypher Consulting Europe",
-        "location": "Berlin",
-        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/cypher-consulting-europe/sap-security-authorizations-consultant-berlin-417832",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-19T11:31:12+00:00",
         "remote": true
     },
     {

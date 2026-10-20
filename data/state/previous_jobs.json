@@ -1,13 +1,35 @@
 [
     {
-        "id": "ashby-341a5ad4-9134-4bad-88e1-2ce0f70bf519",
-        "title": "Software Engineer, Backend — Dots",
+        "id": "ashby-5f094405-1b54-419b-88b2-df1d7eb16af0",
+        "title": "Compliance Program Manager — Regulatory Compliance",
         "company": "OpenAI",
         "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/341a5ad4-9134-4bad-88e1-2ce0f70bf519",
+        "job_type": "FullTime, Security",
+        "url": "https://jobs.ashbyhq.com/openai/5f094405-1b54-419b-88b2-df1d7eb16af0",
         "source": "Ashby",
-        "published_at": "2026-10-19T16:46:48.788000+00:00",
+        "published_at": "2026-10-20T20:26:46.214000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-0a6f6736-8743-4528-b17c-4e1f4f8ea45c",
+        "title": "Software Engineer, TPU Compilers",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Scaling",
+        "url": "https://jobs.ashbyhq.com/openai/0a6f6736-8743-4528-b17c-4e1f4f8ea45c",
+        "source": "Ashby",
+        "published_at": "2026-10-20T19:23:16.552000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-fd0a10a9-80e5-48c4-b313-c2403f009761",
+        "title": "Head of GTM Planning & Incentives",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/fd0a10a9-80e5-48c4-b313-c2403f009761",
+        "source": "Ashby",
+        "published_at": "2026-10-20T18:17:23.546000+00:00",
         "remote": true
     },
     {
@@ -55,58 +77,14 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3589512",
-        "title": "Senior Forward Deployed Engineer (AI Enablement)",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8301784",
-        "source": "Greenhouse",
-        "published_at": "2026-10-19T16:14:16-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3589497",
-        "title": "Lead Forward Deployed Engineer (AI Enablement)",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8301736",
-        "source": "Greenhouse",
-        "published_at": "2026-10-19T15:59:09-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3589405",
-        "title": "Senior Data Scientist, People Analytics & Research",
-        "company": "Airbnb",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://careers.airbnb.com/positions/8301515?gh_jid=8301515",
-        "source": "Greenhouse",
-        "published_at": "2026-10-19T14:59:06-04:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-30a1d941-f12c-4589-a7a0-dad116b9aa33",
-        "title": "Product Reliability Engineer",
-        "company": "OpenAI",
+        "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-coremusic-118556",
+        "title": "Full-Stack Engineer (Backend Leaning) - CoreMusic",
+        "company": "ElevenLabs",
         "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/30a1d941-f12c-4589-a7a0-dad116b9aa33",
-        "source": "Ashby",
-        "published_at": "2026-10-19T17:51:08.284000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-3228eed1-9cb3-4330-82c3-19fb3dbb4408",
-        "title": "Program Manager, National Security Policy Operations",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Global Affairs",
-        "url": "https://jobs.ashbyhq.com/openai/3228eed1-9cb3-4330-82c3-19fb3dbb4408",
-        "source": "Ashby",
-        "published_at": "2026-10-19T16:40:55.004000+00:00",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-coremusic-118556",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-20T17:40:41+00:00",
         "remote": true
     },
     {
@@ -140,6 +118,127 @@
         "url": "https://www.coinbase.com/careers/positions/8302189?gh_jid=8302189",
         "source": "Greenhouse",
         "published_at": "2026-10-19T18:14:33-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-full-stack-blockchain-engineer-for-rwa-market-zug-393337",
+        "title": "Full Stack Blockchain Engineer for RWA market",
+        "company": "Blockvora",
+        "location": "Zug",
+        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
+        "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/full-stack-blockchain-engineer-for-rwa-market-zug-393337",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-20T16:01:05+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3590433",
+        "title": "Senior Software Engineer",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8304034?gh_jid=8304034",
+        "source": "Greenhouse",
+        "published_at": "2026-10-20T17:06:08-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3449661",
+        "title": "Senior Software Engineer - Ads Manager",
+        "company": "Instacart",
+        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8304487",
+        "source": "Greenhouse",
+        "published_at": "2026-10-20T16:58:36-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3590584",
+        "title": "Senior Machine Learning Engineer, Ads ML Efficiency",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8304463",
+        "source": "Greenhouse",
+        "published_at": "2026-10-20T16:57:26-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3490577",
+        "title": "Senior Software Engineer II - Enterprise Foundations",
+        "company": "Instacart",
+        "location": "United States - Remote",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8304279",
+        "source": "Greenhouse",
+        "published_at": "2026-10-20T16:00:23-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3590434",
+        "title": "Software Engineer - Crypto Data Foundations",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8304038?gh_jid=8304038",
+        "source": "Greenhouse",
+        "published_at": "2026-10-20T14:42:39-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-full-stack-engineer-elevenmusic-401054",
+        "title": "Full-Stack Engineer - ElevenMusic",
+        "company": "ElevenLabs",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-elevenmusic-401054",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-20T17:40:41+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-mobile-engineer-elevenmusic-390337",
+        "title": "Mobile Engineer - ElevenMusic",
+        "company": "ElevenLabs",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-mobile-engineer-elevenmusic-390337",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-20T17:40:41+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3562802",
+        "title": "Staff Software Engineer, Developer Infrastructure",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8233500?gh_jid=8233500",
+        "source": "Greenhouse",
+        "published_at": "2026-10-20T13:40:41-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3590331",
+        "title": "Senior Software Engineer, Web Platform",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8303798",
+        "source": "Greenhouse",
+        "published_at": "2026-10-20T12:54:32-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3564788",
+        "title": "Product Counsel, Data Products",
+        "company": "Stripe",
+        "location": "US remote",
+        "job_type": "Full Time",
+        "url": "https://stripe.com/jobs/search?gh_jid=8238100",
+        "source": "Greenhouse",
+        "published_at": "2026-10-20T11:49:29-04:00",
         "remote": true
     },
     {
@@ -209,28 +308,6 @@
         "remote": false
     },
     {
-        "id": "greenhouse-3532594",
-        "title": "Staff Software Engineer, Infrastructure Data Engineering",
-        "company": "Pinterest",
-        "location": "New York, NY, US; Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8162539",
-        "source": "Greenhouse",
-        "published_at": "2026-10-19T14:20:35-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-data-privacy-compliance-specialist-amsterdam-rotterdam-445275",
-        "title": "Data Privacy Compliance Specialist",
-        "company": "DeepHealth",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.nl/jobs/companies/deephealth/remote-data-privacy-compliance-specialist-amsterdam-rotterdam-445275",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-19T17:31:25+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-lead-developer-core-data-services-sap-btp-germany-273542",
         "title": "Senior / Lead Developer - Core Data Services (SAP BTP) (m/f/d)",
         "company": "Fioneer",
@@ -253,47 +330,36 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-software-engineer-all-identities-healthcare-integrations-berlin-82856",
-        "title": "Senior Software Engineer (all identities) - Healthcare Integrations",
-        "company": "Caspar Health",
-        "location": "Berlin",
-        "job_type": "Permanent employment",
-        "url": "https://www.arbeitnow.com/jobs/companies/caspar-health/senior-software-engineer-all-identities-healthcare-integrations-berlin-82856",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-20T11:30:57+00:00",
+        "id": "ashby-068c4492-1e07-4d51-9ab0-ec2727b7fc51",
+        "title": "Customer Service Systems Engineer, Government",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Finance",
+        "url": "https://jobs.ashbyhq.com/openai/068c4492-1e07-4d51-9ab0-ec2727b7fc51",
+        "source": "Ashby",
+        "published_at": "2026-10-20T19:18:03.049000+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-sales-manager-mobile-performance-advertising-berlin-207173",
-        "title": "Senior Sales Manager – Mobile Performance Advertising",
-        "company": "REPLUG",
-        "location": "Berlin",
-        "job_type": "Fixed-term contract, contract, manager",
-        "url": "https://www.arbeitnow.com/jobs/companies/replug/senior-sales-manager-mobile-performance-advertising-berlin-207173",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-20T11:30:57+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-analytics-engineer-emea-france-234875",
-        "title": "Senior Analytics Engineer - EMEA",
-        "company": "Seeq",
-        "location": "France",
-        "job_type": "Full time, mid-senior",
-        "url": "https://www.arbeitnow.fr/jobs/companies/seeq/remote-senior-analytics-engineer-emea-france-234875",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-19T22:20:11+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3589317",
-        "title": "Senior Product Designer, Developer Foundations",
-        "company": "Coinbase",
-        "location": "Remote - USA",
+        "id": "greenhouse-3583792",
+        "title": "Executive Assistant to the Chief Business Officer",
+        "company": "Dropbox",
+        "location": "Remote - US: Select locations",
         "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8301285?gh_jid=8301285",
+        "url": "https://jobs.dropbox.com/listing/8286535?gh_jid=8286535",
         "source": "Greenhouse",
-        "published_at": "2026-10-19T13:38:54-04:00",
+        "published_at": "2026-10-20T16:41:08-04:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3583792",
+        "title": "Executive Assistant to the Chief Business Officer",
+        "company": "Dropbox",
+        "location": "Remote - Canada: Select locations",
+        "job_type": "Full Time",
+        "url": "https://jobs.dropbox.com/listing/8286536?gh_jid=8286536",
+        "source": "Greenhouse",
+        "published_at": "2026-10-20T16:41:06-04:00",
         "remote": true
     }
 ]

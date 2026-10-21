@@ -1,5 +1,27 @@
 [
     {
+        "id": "greenhouse-3579860",
+        "title": "Software Engineer, Payments",
+        "company": "Airbnb",
+        "location": "Remote, USA",
+        "job_type": "Full Time",
+        "url": "https://careers.airbnb.com/positions/8274152?gh_jid=8274152",
+        "source": "Greenhouse",
+        "published_at": "2026-10-21T16:01:47-04:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-0b80474f-6438-4b41-94e4-0e653c7e3457",
+        "title": "Customer Success Manager - Ads Solutions (Dutch speaking)",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/0b80474f-6438-4b41-94e4-0e653c7e3457",
+        "source": "Ashby",
+        "published_at": "2026-10-21T17:37:19.503000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-1f148786-2e00-472a-96b9-0b29015980e1",
         "title": "Product Data Scientist - Youth, Families and Learning",
         "company": "OpenAI",
@@ -11,36 +33,25 @@
         "remote": true
     },
     {
-        "id": "ashby-5f094405-1b54-419b-88b2-df1d7eb16af0",
-        "title": "Compliance Program Manager — Regulatory Compliance",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Security",
-        "url": "https://jobs.ashbyhq.com/openai/5f094405-1b54-419b-88b2-df1d7eb16af0",
-        "source": "Ashby",
-        "published_at": "2026-10-20T20:26:46.214000+00:00",
+        "id": "greenhouse-3473475",
+        "title": "Staff Backend Engineer, User Safety",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8204924",
+        "source": "Greenhouse",
+        "published_at": "2026-10-21T16:01:38-04:00",
         "remote": true
     },
     {
-        "id": "ashby-0a6f6736-8743-4528-b17c-4e1f4f8ea45c",
-        "title": "Software Engineer, TPU Compilers",
-        "company": "OpenAI",
+        "id": "ashby-c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
+        "title": "Senior Backend Engineer | Accounting",
+        "company": "Ramp",
         "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/0a6f6736-8743-4528-b17c-4e1f4f8ea45c",
+        "job_type": "FullTime, Engineering",
+        "url": "https://jobs.ashbyhq.com/ramp/c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
         "source": "Ashby",
-        "published_at": "2026-10-20T19:23:16.552000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-fd0a10a9-80e5-48c4-b313-c2403f009761",
-        "title": "Head of GTM Planning & Incentives",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/fd0a10a9-80e5-48c4-b313-c2403f009761",
-        "source": "Ashby",
-        "published_at": "2026-10-20T18:17:23.546000+00:00",
+        "published_at": "2026-10-21T18:22:42.345000+00:00",
         "remote": true
     },
     {
@@ -77,14 +88,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-accounting-expert-ai-model-evaluation-germany-30961",
-        "title": "Accounting Expert: AI Model Evaluation",
-        "company": "Huzzle",
-        "location": "Germany",
-        "job_type": "Contract, mid-senior",
-        "url": "https://www.arbeitnow.com/jobs/companies/huzzle/remote-accounting-expert-ai-model-evaluation-germany-30961",
+        "id": "greenhouse-3522634",
+        "title": "Manager II, Engineering - Kubernetes Platform",
+        "company": "Pinterest",
+        "location": "San Francisco, CA, US; Remote, CA, US",
+        "job_type": "Full Time",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8139439",
+        "source": "Greenhouse",
+        "published_at": "2026-10-21T15:26:36-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-fullstack-engineer-all-identities-berlin-358239",
+        "title": "Senior Fullstack Engineer (all identities)",
+        "company": "Caspar Health",
+        "location": "Berlin",
+        "job_type": "Permanent employment, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/caspar-health/senior-fullstack-engineer-all-identities-berlin-358239",
         "source": "Arbeitnow",
-        "published_at": "2026-10-21T11:20:20+00:00",
+        "published_at": "2026-10-21T15:31:31+00:00",
         "remote": true
     },
     {
@@ -110,102 +132,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-saas-software-sales-manager-region-sud-full-remote-berlin-273863",
-        "title": "SaaS Software Sales Manager Region Süd (m/w/d) - Full Remote",
-        "company": "DWWA Personalberatung GmbH",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, teamleitung",
-        "url": "https://www.arbeitnow.com/jobs/companies/dwwa-personalberatung-gmbh/saas-software-sales-manager-region-sud-full-remote-berlin-273863",
+        "id": "arbeitnow-signalling-security-specialist-paris-142621",
+        "title": "Signalling Security Specialist",
+        "company": "P1 Security",
+        "location": "Paris",
+        "job_type": "Permanent employment, professional / experienced",
+        "url": "https://www.arbeitnow.fr/jobs/companies/p1-security/signalling-security-specialist-paris-142621",
         "source": "Arbeitnow",
-        "published_at": "2026-10-21T12:01:00+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-enterprise-field-engineer-pre-sales-southeast-atlanta-82243",
-        "title": "Enterprise Field Engineer - Pre-sales - Southeast (Atlanta)",
-        "company": "CodeRabbit",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/coderabbit/remote-enterprise-field-engineer-pre-sales-southeast-atlanta-82243",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-21T11:40:16+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-3590433",
-        "title": "Senior Software Engineer",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8304034?gh_jid=8304034",
-        "source": "Greenhouse",
-        "published_at": "2026-10-20T17:06:08-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3449661",
-        "title": "Senior Software Engineer - Ads Manager",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8304487",
-        "source": "Greenhouse",
-        "published_at": "2026-10-20T16:58:36-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3590584",
-        "title": "Senior Machine Learning Engineer, Ads ML Efficiency",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8304463",
-        "source": "Greenhouse",
-        "published_at": "2026-10-20T16:57:26-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3490577",
-        "title": "Senior Software Engineer II - Enterprise Foundations",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8304279",
-        "source": "Greenhouse",
-        "published_at": "2026-10-20T16:00:23-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3590434",
-        "title": "Software Engineer - Crypto Data Foundations",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8304038?gh_jid=8304038",
-        "source": "Greenhouse",
-        "published_at": "2026-10-20T14:42:39-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3562802",
-        "title": "Staff Software Engineer, Developer Infrastructure",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8233500?gh_jid=8233500",
-        "source": "Greenhouse",
-        "published_at": "2026-10-20T13:40:41-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3590331",
-        "title": "Senior Software Engineer, Web Platform",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8303798",
-        "source": "Greenhouse",
-        "published_at": "2026-10-20T12:54:32-04:00",
+        "published_at": "2026-10-21T16:00:43+00:00",
         "remote": true
     },
     {
@@ -220,25 +154,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-microsoft-365-engineer-multi-tenant-automatisierung-berlin-52350",
-        "title": "Senior Microsoft 365 Engineer (m/w/d)- Multi-Tenant & Automatisierung",
-        "company": "Neurawork GmbH & Co. KG",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/senior-microsoft-365-engineer-multi-tenant-automatisierung-berlin-52350",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-21T11:31:14+00:00",
+        "id": "greenhouse-3588477",
+        "title": "Learning Experience Designer",
+        "company": "Dropbox",
+        "location": "Remote - Ireland",
+        "job_type": "Full Time",
+        "url": "https://jobs.dropbox.com/listing/8296377?gh_jid=8296377",
+        "source": "Greenhouse",
+        "published_at": "2026-10-21T16:20:37-04:00",
         "remote": true
     },
     {
-        "id": "ashby-068c4492-1e07-4d51-9ab0-ec2727b7fc51",
-        "title": "Customer Service Systems Engineer, Government",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Finance",
-        "url": "https://jobs.ashbyhq.com/openai/068c4492-1e07-4d51-9ab0-ec2727b7fc51",
-        "source": "Ashby",
-        "published_at": "2026-10-20T19:18:03.049000+00:00",
+        "id": "arbeitnow-copywriter-direct-response-100-remote-berlin-444204",
+        "title": "Copywriter (m/w/d) Direct Response – 100 % Remote",
+        "company": "Just Hiring",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/just-hiring/copywriter-direct-response-100-remote-berlin-444204",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-21T19:00:55+00:00",
         "remote": true
     },
     {
@@ -253,25 +187,14 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3583792",
-        "title": "Executive Assistant to the Chief Business Officer",
-        "company": "Dropbox",
-        "location": "Remote - US: Select locations",
-        "job_type": "Full Time",
-        "url": "https://jobs.dropbox.com/listing/8286535?gh_jid=8286535",
-        "source": "Greenhouse",
-        "published_at": "2026-10-20T16:41:08-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3583792",
-        "title": "Executive Assistant to the Chief Business Officer",
-        "company": "Dropbox",
-        "location": "Remote - Canada: Select locations",
-        "job_type": "Full Time",
-        "url": "https://jobs.dropbox.com/listing/8286536?gh_jid=8286536",
-        "source": "Greenhouse",
-        "published_at": "2026-10-20T16:41:06-04:00",
+        "id": "arbeitnow-creative-designer-berlin-23343",
+        "title": "Creative Designer (m/w/d)",
+        "company": "Neolymp",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/neolymp/creative-designer-berlin-23343",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-21T16:30:51+00:00",
         "remote": true
     },
     {
@@ -305,17 +228,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/femsure-gmbh/werkstudent-social-media-content-creator-berlin-283882",
         "source": "Arbeitnow",
         "published_at": "2026-10-21T14:01:20+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-support-kundenbetreuung-berlin-449664",
-        "title": "Support & Kundenbetreuung (m/w/d)",
-        "company": "PC CADDIE AG",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/pc-caddie-ag/support-kundenbetreuung-berlin-449664",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-21T11:00:59+00:00",
         "remote": true
     }
 ]

@@ -44,61 +44,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-software-engineer-applied-ai-430890",
-        "title": "Software Engineer, Applied AI",
-        "company": "Circuithub",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-applied-ai-430890",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-20T14:40:40+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-sales-engineer-data-ai-security-173217",
-        "title": "Senior Sales Engineer - Data & AI Security",
-        "company": "veeamsoftware",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.fr/jobs/companies/veeamsoftware/remote-senior-sales-engineer-data-ai-security-173217",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-20T11:55:21+00:00",
-        "remote": false
-    },
-    {
-        "id": "ashby-cfa6bf43-bc06-4f33-a889-7f962c86fc26",
-        "title": "Manager, Sales Development",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/cfa6bf43-bc06-4f33-a889-7f962c86fc26",
-        "source": "Ashby",
-        "published_at": "2026-10-20T10:27:34.568000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-112e34f2-45da-4a08-adf4-cc29398938df",
-        "title": "Applied AI Engineer, Digital Natives",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/112e34f2-45da-4a08-adf4-cc29398938df",
-        "source": "Ashby",
-        "published_at": "2026-10-20T07:19:41.364000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-coremusic-118556",
-        "title": "Full-Stack Engineer (Backend Leaning) - CoreMusic",
-        "company": "ElevenLabs",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-coremusic-118556",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-20T17:40:41+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-b7514711-8a29-4bd2-a97a-967be14e336f",
         "title": "Senior Backend Engineer | Token Spend Management",
         "company": "Ramp",
@@ -129,6 +74,28 @@
         "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/full-stack-blockchain-engineer-for-rwa-market-zug-393337",
         "source": "Arbeitnow",
         "published_at": "2026-10-20T16:01:05+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-automation-engineer-100-remote-n8n-ki-berlin-291379",
+        "title": "Automation Engineer (m/w/d) 100% Remote – n8n & KI",
+        "company": "Martic Solutions",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/martic-solutions/automation-engineer-100-remote-n8n-ki-berlin-291379",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-21T05:30:52+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-platform-engineer-berlin-8213",
+        "title": "Platform Engineer (f/m/d)",
+        "company": "Spread Group",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/spread-group/remote-platform-engineer-berlin-8213",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-21T02:31:22+00:00",
         "remote": true
     },
     {
@@ -165,17 +132,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-security-engineer-remote-196334",
-        "title": "Senior Security Engineer - Remote",
-        "company": "Parity",
-        "location": "Remote",
-        "job_type": "Contract",
-        "url": "https://www.arbeitnow.com/jobs/companies/parity/senior-security-engineer-remote-196334",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-20T20:40:15+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3490577",
         "title": "Senior Software Engineer II - Enterprise Foundations",
         "company": "Instacart",
@@ -195,28 +151,6 @@
         "url": "https://www.coinbase.com/careers/positions/8304038?gh_jid=8304038",
         "source": "Greenhouse",
         "published_at": "2026-10-20T14:42:39-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-full-stack-engineer-elevenmusic-401054",
-        "title": "Full-Stack Engineer - ElevenMusic",
-        "company": "ElevenLabs",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-elevenmusic-401054",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-20T17:40:41+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-mobile-engineer-elevenmusic-390337",
-        "title": "Mobile Engineer - ElevenMusic",
-        "company": "ElevenLabs",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-mobile-engineer-elevenmusic-390337",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-20T17:40:41+00:00",
         "remote": true
     },
     {
@@ -253,61 +187,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-software-engineer-product-297213",
-        "title": "Software Engineer, Product",
-        "company": "Circuithub",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-product-297213",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-20T14:40:40+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-software-engineer-front-end-design-8654",
-        "title": "Software Engineer, Front End & Design",
-        "company": "Circuithub",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-front-end-design-8654",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-20T14:40:40+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-software-engineer-computer-vision-401580",
-        "title": "Software Engineer, Computer Vision",
-        "company": "Circuithub",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-computer-vision-401580",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-20T14:40:40+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-software-engineer-robotics-169035",
-        "title": "Software Engineer, Robotics",
-        "company": "Circuithub",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-robotics-169035",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-20T14:40:40+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-software-engineer-haskell-207329",
-        "title": "Software Engineer, Haskell",
-        "company": "Circuithub",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-haskell-207329",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-20T14:40:40+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-head-of-software-engineering-lausanne-192376",
         "title": "Head of Software Engineering",
         "company": "Adaptyv",
@@ -319,25 +198,14 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-analytics-engineer-emea-germany-207467",
-        "title": "Senior Analytics Engineer - EMEA",
-        "company": "Seeq",
-        "location": "Germany",
-        "job_type": "Full time, mid-senior",
-        "url": "https://www.arbeitnow.com/jobs/companies/seeq/remote-senior-analytics-engineer-emea-germany-207467",
+        "id": "arbeitnow-it-leitung-fur-unsere-klinikkunden-berlin-324854",
+        "title": "IT-Leitung (m/w/d) für unsere Klinikkunden",
+        "company": "Actura Partners GmbH",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, teamleitung",
+        "url": "https://www.arbeitnow.com/jobs/companies/actura-partners-gmbh/it-leitung-fur-unsere-klinikkunden-berlin-324854",
         "source": "Arbeitnow",
-        "published_at": "2026-10-20T20:20:18+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-lead-developer-core-data-services-sap-btp-germany-273542",
-        "title": "Senior / Lead Developer - Core Data Services (SAP BTP) (m/f/d)",
-        "company": "Fioneer",
-        "location": "Germany",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/fioneer/remote-senior-lead-developer-core-data-services-sap-btp-germany-273542",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-20T14:20:16+00:00",
+        "published_at": "2026-10-21T07:00:58+00:00",
         "remote": true
     },
     {
@@ -349,6 +217,17 @@
         "url": "https://jobs.ashbyhq.com/openai/068c4492-1e07-4d51-9ab0-ec2727b7fc51",
         "source": "Ashby",
         "published_at": "2026-10-20T19:18:03.049000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-job-homeoffice-job-als-social-media-und-promo-mitarbeiter-in-zurich-197556",
+        "title": "Remote Job / Homeoffice Job als Social Media und Promo Mitarbeiter-/in",
+        "company": "HomeOfficeClub.ch",
+        "location": "Zürich",
+        "job_type": "Teilzeitbeschäftigung, berufseinstieg",
+        "url": "https://www.arbeitnow.ch/jobs/companies/homeofficeclubch/remote-job-homeoffice-job-als-social-media-und-promo-mitarbeiter-in-zurich-197556",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-21T10:01:15+00:00",
         "remote": true
     },
     {
@@ -371,6 +250,17 @@
         "url": "https://jobs.dropbox.com/listing/8286536?gh_jid=8286536",
         "source": "Greenhouse",
         "published_at": "2026-10-20T16:41:06-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-social-media-manager-fur-malen-nach-zahlen-langweid-am-lech-370443",
+        "title": "Social Media Manager für Malen nach Zahlen (m/w/d)",
+        "company": "Picmondoo GmbH",
+        "location": "Langweid am Lech",
+        "job_type": "Freiberufler / selbstständiger, freelance, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/picmondoo-gmbh/social-media-manager-fur-malen-nach-zahlen-langweid-am-lech-370443",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-21T09:31:06+00:00",
         "remote": true
     }
 ]

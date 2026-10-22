@@ -11,6 +11,17 @@
         "remote": true
     },
     {
+        "id": "ashby-0ca02747-5c97-432b-95c5-4b9099bce992",
+        "title": "Machine Learning Data Scientist - Consumer Forecasting",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Data Science",
+        "url": "https://jobs.ashbyhq.com/openai/0ca02747-5c97-432b-95c5-4b9099bce992",
+        "source": "Ashby",
+        "published_at": "2026-10-22T01:05:58.052000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3",
         "title": "Software Engineer, Privacy Engineering (Lawful Access)",
         "company": "OpenAI",
@@ -20,17 +31,6 @@
         "source": "Ashby",
         "published_at": "2026-10-21T23:06:51.805000+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-ai-engineering-lehrkraft-coach-all-genders-berlin-152788",
-        "title": "AI & Engineering Lehrkraft/Coach (all genders)",
-        "company": "Stackfuel",
-        "location": "Remote - Germany",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/stackfuel/ai-engineering-lehrkraft-coach-all-genders-berlin-152788",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-21T20:40:19+00:00",
-        "remote": false
     },
     {
         "id": "greenhouse-3579860",
@@ -85,17 +85,6 @@
         "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/python-amp-cloud-native-software-engineer-76078-winterthur-74030",
         "source": "Arbeitnow",
         "published_at": "2026-10-21T15:00:50+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-backend-distributed-systems-443737",
-        "title": "Senior Software Engineer, Backend - Distributed Systems",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-443737",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-21T14:40:16+00:00",
         "remote": true
     },
     {
@@ -154,28 +143,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-fullstack-engineer-all-identities-berlin-358239",
-        "title": "Senior Fullstack Engineer (all identities)",
-        "company": "Caspar Health",
-        "location": "Berlin",
-        "job_type": "Permanent employment, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/caspar-health/senior-fullstack-engineer-all-identities-berlin-358239",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-21T15:31:31+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-sales-engineer-mena-384139",
-        "title": "Senior Sales Engineer - MENA",
-        "company": "Sardine",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/sardine/remote-senior-sales-engineer-mena-384139",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-21T14:40:19+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3584967",
         "title": "Principal Data Scientist, User Ecosystem",
         "company": "Reddit",
@@ -187,6 +154,83 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-java-entwicklerin-java-developer-backend-berlin-196646",
+        "title": "Java Entwickler:in / Java Developer Backend (w/m/d)",
+        "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/java-entwicklerin-java-developer-backend-berlin-196646",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-22T07:01:05+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-it-vertragsmanagerin-zurich-363153",
+        "title": "IT-Vertragsmanager:in",
+        "company": "Coopers Group AG",
+        "location": "Zürich",
+        "job_type": "Interim, interim",
+        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-vertragsmanagerin-zurich-363153",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-22T09:01:12+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-it-projektleiterin-20-zurich-137234",
+        "title": "Senior IT-Projektleiter:in (20%)",
+        "company": "Coopers Group AG",
+        "location": "Zürich",
+        "job_type": "Befristeter arbeitsvertrag, contract",
+        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-it-projektleiterin-20-zurich-137234",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-22T08:31:59+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-full-stack-engineer-web-infrastructure-germany-245745",
+        "title": "Senior Full-Stack Engineer (Web + Infrastructure)",
+        "company": "Searoutes",
+        "location": "Germany",
+        "job_type": "Full time, mid-senior",
+        "url": "https://www.arbeitnow.com/jobs/companies/searoutes/remote-senior-full-stack-engineer-web-infrastructure-germany-245745",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-22T08:20:05+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-business-consultant-it-business-analyst-banking-insurance-berlin-352096",
+        "title": "Business Consultant / IT Business Analyst - Banking & Insurance (w/m/d)",
+        "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag",
+        "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/business-consultant-it-business-analyst-banking-insurance-berlin-352096",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-22T07:01:05+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-meldewesenspezialistin-it-business-analyst-berlin-186616",
+        "title": "Meldewesenspezialist:in / IT Business Analyst (w/m/d)",
+        "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag",
+        "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/meldewesenspezialistin-it-business-analyst-berlin-186616",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-22T07:01:05+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-it-business-analyst-berlin-114521",
+        "title": "IT Business Analyst (w/m/d)",
+        "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/it-business-analyst-berlin-114521",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-22T07:01:05+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-signalling-security-specialist-paris-142621",
         "title": "Signalling Security Specialist",
         "company": "P1 Security",
@@ -195,17 +239,6 @@
         "url": "https://www.arbeitnow.fr/jobs/companies/p1-security/signalling-security-specialist-paris-142621",
         "source": "Arbeitnow",
         "published_at": "2026-10-21T16:00:43+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-1186-senior-data-architect-french-speaking-france-176800",
-        "title": "1186 | Senior Data Architect (French-speaking)",
-        "company": "Intetics 2",
-        "location": "France",
-        "job_type": "",
-        "url": "https://www.arbeitnow.fr/jobs/companies/intetics-2/remote-1186-senior-data-architect-french-speaking-france-176800",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-21T13:20:09+00:00",
         "remote": true
     },
     {
@@ -242,36 +275,36 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-copywriter-direct-response-100-remote-berlin-444204",
-        "title": "Copywriter (m/w/d) Direct Response – 100 % Remote",
-        "company": "Just Hiring",
+        "id": "arbeitnow-al-video-creator-social-media-short-form-content-tiktok-instagram-reels-youtube-shorts-berlin-464742",
+        "title": "Al Video Creator (m/w/d) (Social Media/Short-Form-Content) TikTok/ Instagram Reels/ YouTube Shorts",
+        "company": "RealStudio GmbH",
         "location": "Berlin",
         "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/just-hiring/copywriter-direct-response-100-remote-berlin-444204",
+        "url": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/al-video-creator-social-media-short-form-content-tiktok-instagram-reels-youtube-shorts-berlin-464742",
         "source": "Arbeitnow",
-        "published_at": "2026-10-21T19:00:55+00:00",
+        "published_at": "2026-10-22T08:32:00+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-job-homeoffice-job-als-social-media-und-promo-mitarbeiter-in-zurich-197556",
-        "title": "Remote Job / Homeoffice Job als Social Media und Promo Mitarbeiter-/in",
-        "company": "HomeOfficeClub.ch",
-        "location": "Zürich",
-        "job_type": "Teilzeitbeschäftigung, berufseinstieg",
-        "url": "https://www.arbeitnow.ch/jobs/companies/homeofficeclubch/remote-job-homeoffice-job-als-social-media-und-promo-mitarbeiter-in-zurich-197556",
+        "id": "arbeitnow-technical-support-enablement-specialist-berlin-158494",
+        "title": "Technical Support & Enablement Specialist (m/f/d)",
+        "company": "1KOMMA5˚",
+        "location": "Berlin",
+        "job_type": "Permanent employment",
+        "url": "https://www.arbeitnow.com/jobs/companies/1komma50/technical-support-enablement-specialist-berlin-158494",
         "source": "Arbeitnow",
-        "published_at": "2026-10-21T10:01:15+00:00",
+        "published_at": "2026-10-22T08:01:08+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-creative-designer-berlin-23343",
-        "title": "Creative Designer (m/w/d)",
-        "company": "Neolymp",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/neolymp/creative-designer-berlin-23343",
+        "id": "arbeitnow-remote-product-designer-netherlands-77442",
+        "title": "Product Designer",
+        "company": "Mlabs",
+        "location": "Netherlands",
+        "job_type": "",
+        "url": "https://www.arbeitnow.nl/jobs/companies/mlabs/remote-product-designer-netherlands-77442",
         "source": "Arbeitnow",
-        "published_at": "2026-10-21T16:30:51+00:00",
+        "published_at": "2026-10-22T06:20:09+00:00",
         "remote": true
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-remote-participate-in-the-openai-experience-lab-ai-enthusiasts-wanted-location-london-uk-in-person-date-9-november-183782",
+        "title": "Participate in the OpenAI Experience Lab – AI Enthusiasts Wanted! Location: London, UK (In-Person) Date: 9 November",
+        "company": "Tester Work",
+        "location": "Remote job",
+        "job_type": "Entry, parttime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/tester-work/remote-participate-in-the-openai-experience-lab-ai-enthusiasts-wanted-location-london-uk-in-person-date-9-november-183782",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-23T02:31:08+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-cec9ba9a-0b2d-4e90-8482-01ccc72234fb",
         "title": "Research Communications, Models & Frontier AI",
         "company": "OpenAI",
@@ -66,25 +77,58 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-255821",
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-255821",
+        "id": "arbeitnow-backend-software-engineer-rust-ai-first-e-commerce-tech-berlin-334474",
+        "title": "Backend Software Engineer (m/f/d), Rust – AI-first E-commerce Tech",
+        "company": "adstrong",
+        "location": "Berlin",
+        "job_type": "Permanent employment, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/adstrong/backend-software-engineer-rust-ai-first-e-commerce-tech-berlin-334474",
         "source": "Arbeitnow",
-        "published_at": "2026-10-22T20:31:37+00:00",
+        "published_at": "2026-10-23T09:31:34+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-project-manager-software-implementation-berlin-396785",
-        "title": "Project Manager - Software Implementation (m/f/x)",
-        "company": "Makersite GmbH",
+        "id": "arbeitnow-backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-434774",
+        "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
+        "company": "AlmavivA de Belgique",
+        "location": "Remote job",
+        "job_type": "Experienced, freelance",
+        "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-434774",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-23T02:31:10+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-ai-platform-engineer-llm-agents-berlin-491116",
+        "title": "Senior AI Platform Engineer- LLM & Agents (m/w/d)",
+        "company": "Neurawork GmbH & Co. KG",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/senior-ai-platform-engineer-llm-agents-berlin-491116",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-23T08:01:16+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-cyber-security-consultant-uk-dionach-by-nomios-scotland-274544",
+        "title": "Cyber Security Consultant (UK) - Dionach by Nomios",
+        "company": "Nomios",
         "location": "Remote job",
         "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-396785",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nomios/remote-cyber-security-consultant-uk-dionach-by-nomios-scotland-274544",
         "source": "Arbeitnow",
-        "published_at": "2026-10-22T23:31:10+00:00",
+        "published_at": "2026-10-23T02:31:11+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-lead-cyber-security-consultant-check-uk-dionach-by-nomios-england-228849",
+        "title": "Lead Cyber Security Consultant (CHECK) (UK) - Dionach by Nomios",
+        "company": "Nomios",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nomios/remote-lead-cyber-security-consultant-check-uk-dionach-by-nomios-england-228849",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-23T02:31:11+00:00",
         "remote": true
     },
     {
@@ -110,36 +154,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-89280",
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
+        "id": "arbeitnow-remote-selbststandiger-handelsvertreter-vertrieb-landwirtschaftliche-software-munchen-233979",
+        "title": "selbstständiger Handelsvertreter (m/w/d) Vertrieb landwirtschaftliche Software",
+        "company": "Wimex-Gruppe",
         "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-89280",
+        "job_type": "Entry, freelance",
+        "url": "https://www.arbeitnow.com/jobs/companies/wimex-gruppe/remote-selbststandiger-handelsvertreter-vertrieb-landwirtschaftliche-software-munchen-233979",
         "source": "Arbeitnow",
-        "published_at": "2026-10-22T20:31:37+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-177938",
-        "title": "Senior Oracle Data Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-177938",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-22T20:31:37+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-it-vertragsmanagerin-zurich-363153",
-        "title": "IT-Vertragsmanager:in",
-        "company": "Coopers Group AG",
-        "location": "Zürich",
-        "job_type": "Interim, interim",
-        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-vertragsmanagerin-zurich-363153",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-22T09:01:12+00:00",
+        "published_at": "2026-10-23T08:31:25+00:00",
         "remote": true
     },
     {
@@ -151,17 +173,6 @@
         "url": "https://jobs.ashbyhq.com/openai/3d71df2d-7d19-4ca9-97c4-b361c8a362f9",
         "source": "Ashby",
         "published_at": "2026-10-23T01:31:14.260000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-arabic-speaking-customer-support-agent-work-in-sofia-bulgaria-france-302928",
-        "title": "Arabic Speaking Customer Support Agent - Work In Sofia, Bulgaria",
-        "company": "Patrique Mercier Recruitment Fr",
-        "location": "France",
-        "job_type": "Full time, entry",
-        "url": "https://www.arbeitnow.fr/jobs/companies/patrique-mercier-recruitment-fr/remote-arabic-speaking-customer-support-agent-work-in-sofia-bulgaria-france-302928",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-22T16:20:07+00:00",
         "remote": true
     }
 ]

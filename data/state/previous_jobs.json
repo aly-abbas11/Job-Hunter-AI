@@ -55,39 +55,6 @@
         "remote": true
     },
     {
-        "id": "ashby-d02ce96c-2a8b-4871-860d-d59a19a2369f",
-        "title": "SDR Manager",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/d02ce96c-2a8b-4871-860d-d59a19a2369f",
-        "source": "Ashby",
-        "published_at": "2026-10-23T15:09:26.748000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-agentic-ai-ci-cd-software-engineer-zurich-60907",
-        "title": "Remote Senior Agentic AI / CI/CD Software Engineer",
-        "company": "PROSTAFF Schweiz GmbH",
-        "location": "Zürich",
-        "job_type": "Permanent employment",
-        "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/remote-senior-agentic-ai-ci-cd-software-engineer-zurich-60907",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-23T13:30:56+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-intermediate-fullstack-engineer-ruby-vuejs-growth-413932",
-        "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
-        "company": "gitlab",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-intermediate-fullstack-engineer-ruby-vuejs-growth-413932",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-24T05:55:16+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-6561325002",
         "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
         "company": "GitLab",
@@ -121,14 +88,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-ki-beraterin-microsoft-ai-und-copilot-umsetzung-befahigung-berlin-401910",
-        "title": "Senior KI-Berater:in Microsoft AI und Copilot: Umsetzung & Befähigung (m/w/d)",
-        "company": "Blümlein AI & Automation GmbH",
+        "id": "arbeitnow-working-student-ai-engineering-document-intelligence-berlin-378393",
+        "title": "Working Student — AI Engineering & Document Intelligence",
+        "company": "Tracium GmbH",
         "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/blumlein-ai-automation-gmbh/senior-ki-beraterin-microsoft-ai-und-copilot-umsetzung-befahigung-berlin-401910",
+        "job_type": "Working student, working student, no experience required / student",
+        "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/working-student-ai-engineering-document-intelligence-berlin-378393",
         "source": "Arbeitnow",
-        "published_at": "2026-10-23T21:30:41+00:00",
+        "published_at": "2026-10-24T13:30:52+00:00",
         "remote": true
     },
     {
@@ -231,17 +198,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-systems-engineer-zurich-94036",
-        "title": "Systems Engineer",
-        "company": "Exeon Analytics",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.ch/jobs/companies/exeon-analytics/remote-systems-engineer-zurich-94036",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-23T11:51:32+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-backend-engineer-zug-145470",
         "title": "Backend Engineer",
         "company": "Blockvora",
@@ -253,14 +209,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-test-automation-engineer-strasbourg-449366",
-        "title": "Test Automation Engineer",
-        "company": "European Dynamics",
-        "location": "Strasbourg, France",
-        "job_type": "Full time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/european-dynamics/remote-test-automation-engineer-strasbourg-449366",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-23T10:20:08+00:00",
+        "id": "greenhouse-3577560",
+        "title": "Designer",
+        "company": "Pinterest",
+        "location": "Remote, US",
+        "job_type": "Full Time",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268336",
+        "source": "Greenhouse",
+        "published_at": "2026-10-24T09:44:09-04:00",
         "remote": true
     }
 ]

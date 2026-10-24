@@ -77,6 +77,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-intermediate-fullstack-engineer-ruby-vuejs-growth-413932",
+        "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
+        "company": "gitlab",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-intermediate-fullstack-engineer-ruby-vuejs-growth-413932",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-24T05:55:16+00:00",
+        "remote": false
+    },
+    {
         "id": "greenhouse-6561325002",
         "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
         "company": "GitLab",
@@ -132,6 +143,83 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-senior-systems-engineer-494924",
+        "title": "Senior Systems Engineer",
+        "company": "veeamsoftware",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-systems-engineer-494924",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-24T05:55:20+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-sales-engineer-275042",
+        "title": "Senior Sales Engineer",
+        "company": "veeamsoftware",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-sales-engineer-275042",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-24T05:55:20+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-sap-abap-developer-architect-technical-migration-berlin-283087",
+        "title": "(Senior) SAP ABAP Developer/ Architect – Technical Migration (m/w/d)",
+        "company": "Natuvion GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-abap-developer-architect-technical-migration-berlin-283087",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-24T05:51:34+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-sap-abap-developer-architect-product-development-berlin-140979",
+        "title": "(Senior) SAP ABAP Developer/Architect – Product Development (m/w/d)",
+        "company": "Natuvion GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-abap-developer-architect-product-development-berlin-140979",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-24T05:51:34+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-full-stack-engineer-paris-164464",
+        "title": "Senior Full Stack Engineer",
+        "company": "Upflow",
+        "location": "Paris or Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/upflow/senior-full-stack-engineer-paris-164464",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-24T05:40:26+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-ios-engineer-creative-app-247930",
+        "title": "iOS Engineer - Creative App",
+        "company": "ElevenLabs",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-ios-engineer-creative-app-247930",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-24T02:40:24+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-android-engineer-creative-app-68934",
+        "title": "Android Engineer - Creative App",
+        "company": "ElevenLabs",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-android-engineer-creative-app-68934",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-24T02:40:24+00:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-3595256",
         "title": "Staff Machine Learning Engineer, Retrieval & Targeting",
         "company": "Reddit",
@@ -173,17 +261,6 @@
         "url": "https://www.arbeitnow.fr/jobs/companies/european-dynamics/remote-test-automation-engineer-strasbourg-449366",
         "source": "Arbeitnow",
         "published_at": "2026-10-23T10:20:08+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-graphic-designer-puchheim-347117",
-        "title": "Graphic Designer",
-        "company": "HOPn UG",
-        "location": "Puchheim",
-        "job_type": "Internship, internship, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/hopn-ug/graphic-designer-puchheim-347117",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-23T19:30:43+00:00",
         "remote": true
     }
 ]

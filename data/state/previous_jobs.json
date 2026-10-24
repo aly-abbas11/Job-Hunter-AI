@@ -1,82 +1,5 @@
 [
     {
-        "id": "ashby-d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
-        "title": "Software Engineer",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Research",
-        "url": "https://jobs.ashbyhq.com/openai/d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
-        "source": "Ashby",
-        "published_at": "2026-10-23T18:55:14.565000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-0ed5f6c7-3977-4da9-9961-202fe76de456",
-        "title": "Applied AI Engineer, Digital Natives",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/0ed5f6c7-3977-4da9-9961-202fe76de456",
-        "source": "Ashby",
-        "published_at": "2026-10-23T17:25:44.476000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-191e42f8-cd62-4082-8f72-505c26505e67",
-        "title": "Full Stack Software Engineer, Monetization Platform",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/191e42f8-cd62-4082-8f72-505c26505e67",
-        "source": "Ashby",
-        "published_at": "2026-10-23T17:15:11.941000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3533715",
-        "title": "Offensive Security Engineer, AI",
-        "company": "Coinbase",
-        "location": "Remote - Canada",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8318599?gh_jid=8318599",
-        "source": "Greenhouse",
-        "published_at": "2026-10-23T12:45:38-04:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-b73e46a6-881a-4413-835a-94b9d5f35d2f",
-        "title": "IT Systems Engineer",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, IT",
-        "url": "https://jobs.ashbyhq.com/openai/b73e46a6-881a-4413-835a-94b9d5f35d2f",
-        "source": "Ashby",
-        "published_at": "2026-10-23T16:28:28.121000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6561325002",
-        "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
-        "company": "GitLab",
-        "location": "Remote, United Kingdom",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891836002",
-        "source": "Greenhouse",
-        "published_at": "2026-10-23T12:05:34-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6561325002",
-        "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
-        "company": "GitLab",
-        "location": "Remote, Poland",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8911684002",
-        "source": "Greenhouse",
-        "published_at": "2026-10-23T12:05:32-04:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-6509478002",
         "title": "Backend Engineer, Knowledge Graph (Rust)",
         "company": "GitLab",
@@ -85,6 +8,39 @@
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
         "source": "Greenhouse",
         "published_at": "2026-10-23T18:47:07-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-full-stack-engineer-ai-authoring-platform-berlin-234521",
+        "title": "Full-Stack Engineer — AI Authoring Platform",
+        "company": "Tracium GmbH",
+        "location": "Berlin",
+        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/full-stack-engineer-ai-authoring-platform-berlin-234521",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-24T14:00:46+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-ai-engineer-document-intelligence-berlin-227489",
+        "title": "Senior AI Engineer — Document Intelligence",
+        "company": "Tracium GmbH",
+        "location": "Berlin",
+        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/senior-ai-engineer-document-intelligence-berlin-227489",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-24T14:00:46+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-data-engineer-document-ai-pipelines-berlin-58783",
+        "title": "Senior Data Engineer — Document & AI Pipelines",
+        "company": "Tracium GmbH",
+        "location": "Berlin",
+        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/senior-data-engineer-document-ai-pipelines-berlin-58783",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-24T14:00:46+00:00",
         "remote": true
     },
     {
@@ -99,15 +55,48 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-blockchain-engineer-zug-291866",
-        "title": "Blockchain Engineer",
-        "company": "Blockvora",
-        "location": "Zug",
-        "job_type": "Permanent employment, professional / experienced",
-        "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-291866",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-23T19:00:48+00:00",
+        "id": "greenhouse-3596705",
+        "title": "Software Engineer, Ad Signals",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8319655",
+        "source": "Greenhouse",
+        "published_at": "2026-10-24T12:34:49-04:00",
         "remote": true
+    },
+    {
+        "id": "ashby-9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
+        "title": "Software Engineer - Storage",
+        "company": "Supabase",
+        "location": "Remote",
+        "job_type": "FullTime, Engineering",
+        "url": "https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
+        "source": "Ashby",
+        "published_at": "2026-10-24T16:13:28.579000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+        "title": "Data API Engineer",
+        "company": "Supabase",
+        "location": "Remote",
+        "job_type": "FullTime, Engineering",
+        "url": "https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+        "source": "Ashby",
+        "published_at": "2026-10-24T16:04:20.762000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-devops-engineer-w-m-remote-451955",
+        "title": "DevOps Engineer W/M (remote) 🇪🇺",
+        "company": "Pennylane SAS",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/devops-engineer-w-m-remote-451955",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-24T14:40:15+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-remote-senior-systems-engineer-494924",
@@ -165,28 +154,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-ios-engineer-creative-app-247930",
-        "title": "iOS Engineer - Creative App",
-        "company": "ElevenLabs",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-ios-engineer-creative-app-247930",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-24T02:40:24+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-android-engineer-creative-app-68934",
-        "title": "Android Engineer - Creative App",
-        "company": "ElevenLabs",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-android-engineer-creative-app-68934",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-24T02:40:24+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3595256",
         "title": "Staff Machine Learning Engineer, Retrieval & Targeting",
         "company": "Reddit",
@@ -198,14 +165,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-backend-engineer-zug-145470",
-        "title": "Backend Engineer",
-        "company": "Blockvora",
-        "location": "Zug",
-        "job_type": "Permanent employment, professional / experienced",
-        "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/backend-engineer-zug-145470",
+        "id": "arbeitnow-remote-communications-and-social-media-manager-328503",
+        "title": "Communications and Social Media Manager",
+        "company": "Duck Duck Go",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-communications-and-social-media-manager-328503",
         "source": "Arbeitnow",
-        "published_at": "2026-10-23T18:00:51+00:00",
+        "published_at": "2026-10-24T14:40:12+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-product-designer-255909",
+        "title": "Senior Product Designer",
+        "company": "Duck Duck Go",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-product-designer-255909",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-24T14:40:12+00:00",
         "remote": true
     },
     {

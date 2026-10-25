@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-remote-senior-data-engineer-real-time-analytics-5303",
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "location": "France Remote",
+        "job_type": "Permanent Full Time Employee",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-5303",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-25T12:07:49+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-servicenow-ai-architect-zurich-494295",
         "title": "ServiceNow AI Architect",
         "company": "SwissPeak Partners GmbH",
@@ -20,6 +31,61 @@
         "source": "Arbeitnow",
         "published_at": "2026-10-25T03:40:11+00:00",
         "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-platform-engineer-paris-409658",
+        "title": "Platform Engineer",
+        "company": "ITQ",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime fixed term",
+        "url": "https://www.arbeitnow.fr/jobs/companies/itq/remote-platform-engineer-paris-409658",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-25T12:51:22+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-staff-security-engineer-blue-team-uk-128602",
+        "title": "Staff Security Engineer - Blue Team (UK)",
+        "company": "Olo",
+        "location": "Belfast, Northern Ireland, Remote",
+        "job_type": "Full-Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/olo/remote-staff-security-engineer-blue-team-uk-128602",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-25T12:07:51+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-cinder-expert-network-84072",
+        "title": "Cinder Expert Network",
+        "company": "Cinder",
+        "location": "Remote",
+        "job_type": "Contract",
+        "url": "https://www.arbeitnow.com/jobs/companies/cinder/remote-cinder-expert-network-84072",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-25T09:40:15+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-devops-engineer-242127",
+        "title": "DevOps Engineer",
+        "company": "Swarmaero",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-devops-engineer-242127",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-25T09:40:14+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-data-scientist-kaggle-drivendata-remote-worldwide-amsterdam-169939",
+        "title": "Data Scientist (Kaggle/DrivenData) (Remote-Worldwide)",
+        "company": "Your Software Supplier",
+        "location": "Amsterdam",
+        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
+        "url": "https://www.arbeitnow.nl/jobs/companies/your-software-supplier/data-scientist-kaggle-drivendata-remote-worldwide-amsterdam-169939",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-25T09:31:06+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-software-test-engineer-bern-487044",
@@ -88,36 +154,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-devops-engineer-w-m-remote-451955",
-        "title": "DevOps Engineer W/M (remote) 🇪🇺",
-        "company": "Pennylane SAS",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/devops-engineer-w-m-remote-451955",
+        "id": "arbeitnow-social-media-content-creater-vrijwillig-capelle-aan-den-ijssel-151324",
+        "title": "Social media content creater (vrijwillig)",
+        "company": "Mirtos Animal Project",
+        "location": "Capelle aan den IJssel",
+        "job_type": "Vast dienstverband (onbepaalde tijd), professional / ervaren",
+        "url": "https://www.arbeitnow.nl/jobs/companies/mirtos-animal-project/social-media-content-creater-vrijwillig-capelle-aan-den-ijssel-151324",
         "source": "Arbeitnow",
-        "published_at": "2026-10-24T14:40:15+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-communications-and-social-media-manager-328503",
-        "title": "Communications and Social Media Manager",
-        "company": "Duck Duck Go",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-communications-and-social-media-manager-328503",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-24T14:40:12+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3577560",
-        "title": "Designer",
-        "company": "Pinterest",
-        "location": "Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268336",
-        "source": "Greenhouse",
-        "published_at": "2026-10-24T09:44:09-04:00",
+        "published_at": "2026-10-25T13:31:13+00:00",
         "remote": true
     }
 ]

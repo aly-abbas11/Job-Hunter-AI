@@ -22,17 +22,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-cloud-security-engineer-291881",
-        "title": "Cloud Security Engineer",
-        "company": "Ygo",
-        "location": "Remote EU",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/ygo/remote-cloud-security-engineer-291881",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-25T03:40:11+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-platform-engineer-paris-409658",
         "title": "Platform Engineer",
         "company": "ITQ",
@@ -96,61 +85,6 @@
         "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-487044",
         "source": "Arbeitnow",
         "published_at": "2026-10-25T03:31:09+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-security-engineer-appsec-5689",
-        "title": "Senior Security Engineer - AppSec (d/f/m)",
-        "company": "Vivenu",
-        "location": "Remote Germany",
-        "job_type": "Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-senior-security-engineer-appsec-5689",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-25T03:07:28+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-platform-engineer-428111",
-        "title": "Senior Platform Engineer (d/f/m)",
-        "company": "Vivenu",
-        "location": "Remote Germany",
-        "job_type": "Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-senior-platform-engineer-428111",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-25T03:07:28+00:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-3596705",
-        "title": "Software Engineer, Ad Signals",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8319655",
-        "source": "Greenhouse",
-        "published_at": "2026-10-24T12:34:49-04:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
-        "title": "Software Engineer - Storage",
-        "company": "Supabase",
-        "location": "Remote",
-        "job_type": "FullTime, Engineering",
-        "url": "https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
-        "source": "Ashby",
-        "published_at": "2026-10-24T16:13:28.579000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-950e8ffc-79a5-4626-b1dd-115fcbcddad0",
-        "title": "Data API Engineer",
-        "company": "Supabase",
-        "location": "Remote",
-        "job_type": "FullTime, Engineering",
-        "url": "https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0",
-        "source": "Ashby",
-        "published_at": "2026-10-24T16:04:20.762000+00:00",
         "remote": true
     },
     {

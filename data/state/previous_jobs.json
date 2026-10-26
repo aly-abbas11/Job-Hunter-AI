@@ -1,16 +1,5 @@
 [
     {
-        "id": "arbeitnow-remote-senior-data-engineer-real-time-analytics-5303",
-        "title": "Senior Data Engineer - Real time analytics",
-        "company": "Aircall",
-        "location": "France Remote",
-        "job_type": "Permanent Full Time Employee",
-        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-5303",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-25T12:07:49+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-servicenow-ai-architect-zurich-494295",
         "title": "ServiceNow AI Architect",
         "company": "SwissPeak Partners GmbH",
@@ -19,17 +8,6 @@
         "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-494295",
         "source": "Arbeitnow",
         "published_at": "2026-10-25T03:31:09+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-platform-engineer-paris-409658",
-        "title": "Platform Engineer",
-        "company": "ITQ",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime fixed term",
-        "url": "https://www.arbeitnow.fr/jobs/companies/itq/remote-platform-engineer-paris-409658",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-25T12:51:22+00:00",
         "remote": true
     },
     {

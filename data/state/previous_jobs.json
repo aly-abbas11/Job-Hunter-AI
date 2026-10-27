@@ -1,5 +1,16 @@
 [
     {
+        "id": "ashby-72aea491-406c-4a6f-abb4-66115f45d37c",
+        "title": "Field Service Engineer",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Scaling",
+        "url": "https://jobs.ashbyhq.com/openai/72aea491-406c-4a6f-abb4-66115f45d37c",
+        "source": "Ashby",
+        "published_at": "2026-10-27T21:27:52.953000+00:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-3569396",
         "title": "Senior iOS Engineer, Guest & Host",
         "company": "Airbnb",
@@ -34,46 +45,13 @@
     },
     {
         "id": "ashby-2c646ef9-6f93-4124-9d51-964d2c5aa783",
-        "title": "Software Engineer, Physical Engineering",
+        "title": "Founding Software Engineer, Physical Engineering",
         "company": "OpenAI",
         "location": "Remote",
         "job_type": "FullTime, Applied AI",
         "url": "https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783",
         "source": "Ashby",
         "published_at": "2026-10-26T22:18:02.107000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-d134caf2-907c-4c85-be2d-fad477d2b425",
-        "title": "Value Engineer - NYC",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/d134caf2-907c-4c85-be2d-fad477d2b425",
-        "source": "Ashby",
-        "published_at": "2026-10-26T21:21:51.242000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-7472e486-0aa6-4f9d-86da-2105a42b2dce",
-        "title": "Forward Deployed Engineer (FDE) - AI Infra - SF",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Forward Deployed Engineering",
-        "url": "https://jobs.ashbyhq.com/openai/7472e486-0aa6-4f9d-86da-2105a42b2dce",
-        "source": "Ashby",
-        "published_at": "2026-10-26T17:45:52.245000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-83ac3381-99c0-46a0-897c-abcd8699b466",
-        "title": "VC Partnerships Manager",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/83ac3381-99c0-46a0-897c-abcd8699b466",
-        "source": "Ashby",
-        "published_at": "2026-10-26T17:36:08.958000+00:00",
         "remote": true
     },
     {
@@ -88,14 +66,58 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-132164",
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-132164",
+        "id": "greenhouse-3581503",
+        "title": "Sr. Data Scientist, Performance Marketing",
+        "company": "Pinterest",
+        "location": "San Francisco, CA, US; Remote, US",
+        "job_type": "Full Time",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8280111",
+        "source": "Greenhouse",
+        "published_at": "2026-10-27T15:51:06-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-project-manager-software-implementation-berlin-237977",
+        "title": "Project Manager - Software Implementation (m/f/x)",
+        "company": "Makersite GmbH",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-237977",
         "source": "Arbeitnow",
-        "published_at": "2026-10-27T12:51:35+00:00",
+        "published_at": "2026-10-27T18:31:25+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-site-reliability-engineer-sre-berlin-347745",
+        "title": "Senior Site Reliability Engineer (SRE) m/f/x",
+        "company": "Makersite GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-347745",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-27T18:31:25+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-fullstack-entwickler-java-angular-stuttgart-430479",
+        "title": "Senior Fullstack Entwickler Java / Angular (m/w/d)",
+        "company": "Rockstardevelopers GmbH",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-fullstack-entwickler-java-angular-stuttgart-430479",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-27T18:17:34+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-fullstack-entwickler-java-angular-mid-level-stuttgart-350219",
+        "title": "Fullstack Entwickler Java / Angular (m/w/d) – Mid-Level",
+        "company": "Rockstardevelopers GmbH",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/fullstack-entwickler-java-angular-mid-level-stuttgart-350219",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-27T18:17:34+00:00",
         "remote": true
     },
     {
@@ -154,28 +176,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-fullstack-entwickler-java-angular-stuttgart-430479",
-        "title": "Senior Fullstack Entwickler Java / Angular (m/w/d)",
-        "company": "Rockstardevelopers GmbH",
-        "location": "Stuttgart",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-fullstack-entwickler-java-angular-stuttgart-430479",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-27T14:01:11+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-fullstack-entwickler-java-angular-mid-level-stuttgart-350219",
-        "title": "Fullstack Entwickler Java / Angular (m/w/d) – Mid-Level",
-        "company": "Rockstardevelopers GmbH",
-        "location": "Stuttgart",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/fullstack-entwickler-java-angular-mid-level-stuttgart-350219",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-27T14:01:11+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-23147",
         "title": "Sales Account Executive - Cybersecurity",
         "company": "Crowdsec",
@@ -187,91 +187,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-devops-engineer-314207",
-        "title": "Senior DevOps Engineer",
-        "company": "0G",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/0g/remote-senior-devops-engineer-314207",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-27T12:40:16+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3596662",
-        "title": "Machine Learning Engineering Manager -  Core Ads Ranking",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8319536",
-        "source": "Greenhouse",
-        "published_at": "2026-10-26T17:41:40-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3594229",
-        "title": "Regional Security Manager, APAC",
-        "company": "Coinbase",
-        "location": "Remote - Singapore",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8312623?gh_jid=8312623",
-        "source": "Greenhouse",
-        "published_at": "2026-10-26T17:31:19-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3596619",
-        "title": "Senior Security Engineer, Corporate Security",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8319448?gh_jid=8319448",
-        "source": "Greenhouse",
-        "published_at": "2026-10-26T16:49:22-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3596618",
-        "title": "Security Engineer, Corporate Security",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8319444?gh_jid=8319444",
-        "source": "Greenhouse",
-        "published_at": "2026-10-26T16:47:39-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3565672",
-        "title": "Staff Machine Learning Engineer",
-        "company": "Pinterest",
-        "location": "San Francisco, CA, US; Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8240355",
-        "source": "Greenhouse",
-        "published_at": "2026-10-26T15:44:30-04:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-senior-cloud-devops-engineer-aws-kubernetes-openshift-stuttgart-311937",
         "title": "Senior Cloud / DevOps Engineer – AWS, Kubernetes/OpenShift (m/w/d)",
         "company": "Rockstardevelopers GmbH",
-        "location": "Stuttgart",
+        "location": "Berlin",
         "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
         "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-cloud-devops-engineer-aws-kubernetes-openshift-stuttgart-311937",
         "source": "Arbeitnow",
-        "published_at": "2026-10-27T14:01:11+00:00",
+        "published_at": "2026-10-27T18:17:35+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-26886",
-        "title": "Senior Oracle Data Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-26886",
+        "id": "arbeitnow-freelancer-senior-mobile-engineer-react-native-expo-typescript-berlin-359332",
+        "title": "Freelancer Senior Mobile Engineer (React Native, Expo, TypeScript) m/w/d",
+        "company": "easybill GmbH",
+        "location": "Berlin",
+        "job_type": "Freiberufler / selbstständiger, freelance",
+        "url": "https://www.arbeitnow.com/jobs/companies/easybill-gmbh/freelancer-senior-mobile-engineer-react-native-expo-typescript-berlin-359332",
         "source": "Arbeitnow",
-        "published_at": "2026-10-27T12:51:35+00:00",
+        "published_at": "2026-10-27T17:31:03+00:00",
         "remote": true
     },
     {

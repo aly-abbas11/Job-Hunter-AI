@@ -1,5 +1,27 @@
 [
     {
+        "id": "ashby-ed9255f0-981f-49e9-8b01-9fd203141929",
+        "title": "Product Cost Management Lead - AI Infrastructure",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Scaling",
+        "url": "https://jobs.ashbyhq.com/openai/ed9255f0-981f-49e9-8b01-9fd203141929",
+        "source": "Ashby",
+        "published_at": "2026-10-26T23:40:06.892000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-2c646ef9-6f93-4124-9d51-964d2c5aa783",
+        "title": "Software Engineer, Physical Engineering",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783",
+        "source": "Ashby",
+        "published_at": "2026-10-26T22:18:02.107000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-d134caf2-907c-4c85-be2d-fad477d2b425",
         "title": "Value Engineer - NYC",
         "company": "OpenAI",
@@ -34,7 +56,7 @@
     },
     {
         "id": "ashby-c3d39767-3824-4d41-83dd-7b132834b122",
-        "title": "Data Center Electrical R&D Design Engineer",
+        "title": "Data Center Electrical R&D Engineer",
         "company": "OpenAI",
         "location": "Remote",
         "job_type": "FullTime, Scaling",
@@ -74,6 +96,17 @@
         "url": "https://jobs.ashbyhq.com/openai/c8eda1e9-10f9-4fc8-b88a-042ea6751d5b",
         "source": "Ashby",
         "published_at": "2026-10-26T06:03:15.904000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-backend-engineer-paris-287438",
+        "title": "Senior Backend Engineer",
+        "company": "Payflows",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.fr/jobs/companies/payflows/remote-senior-backend-engineer-paris-287438",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-26T21:51:29+00:00",
         "remote": true
     },
     {
@@ -165,17 +198,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-principal-security-researcher-195565",
-        "title": "Principal Security Researcher",
-        "company": "gitlab",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-principal-security-researcher-195565",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-26T03:55:18+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-devops-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-373151",
         "title": "DevOps Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
         "company": "Auralis Group",
@@ -206,6 +228,17 @@
         "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/it-administrator-mirosoft-365-berlin-72864",
         "source": "Arbeitnow",
         "published_at": "2026-10-26T15:31:03+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-product-designer-15490",
+        "title": "Product Designer",
+        "company": "Swarmaero",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-product-designer-15490",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-27T00:40:11+00:00",
         "remote": true
     },
     {

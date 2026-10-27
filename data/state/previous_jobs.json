@@ -1,5 +1,27 @@
 [
     {
+        "id": "arbeitnow-remote-senior-ai-ml-engineer-berlin-460742",
+        "title": "Senior AI/ML Engineer (m/w/d)",
+        "company": "Recare Deutschland GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-ai-ml-engineer-berlin-460742",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-27T09:31:11+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-customs-ai-integration-automation-engineer-france-lyon-474730",
+        "title": "Customs AI Integration & Automation Engineer (France)",
+        "company": "Customs Support Group",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.fr/jobs/companies/customs-support-group/remote-customs-ai-integration-automation-engineer-france-lyon-474730",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-27T03:31:21+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-ed9255f0-981f-49e9-8b01-9fd203141929",
         "title": "Product Cost Management Lead - AI Infrastructure",
         "company": "OpenAI",
@@ -66,39 +88,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-gtm-systems-ai-and-automation-engineer-436740",
-        "title": "Senior GTM Systems AI and Automation Engineer",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-436740",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-26T15:40:12+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-6f7656fc-9983-48be-bbd3-8b40e0e3027a",
-        "title": "Container Engineer",
-        "company": "Supabase",
-        "location": "Remote, Global",
-        "job_type": "FullTime, Engineering",
-        "url": "https://jobs.ashbyhq.com/supabase/6f7656fc-9983-48be-bbd3-8b40e0e3027a",
-        "source": "Ashby",
-        "published_at": "2026-10-26T09:32:58.735000+00:00",
-        "remote": false
-    },
-    {
-        "id": "ashby-c8eda1e9-10f9-4fc8-b88a-042ea6751d5b",
-        "title": "Applied AI Architect, OpenAI for Government",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, OpenAI for Gov",
-        "url": "https://jobs.ashbyhq.com/openai/c8eda1e9-10f9-4fc8-b88a-042ea6751d5b",
-        "source": "Ashby",
-        "published_at": "2026-10-26T06:03:15.904000+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-backend-engineer-paris-287438",
         "title": "Senior Backend Engineer",
         "company": "Payflows",
@@ -110,14 +99,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-gtm-manager-ai-startup-berlin-58998",
-        "title": "GTM Manager - AI Startup",
-        "company": "Logicc",
+        "id": "arbeitnow-senior-full-stack-software-engineer-govtech-ai-berlin-98054",
+        "title": "Senior Full Stack Software Engineer (w/m/d) (GovTech & AI)",
+        "company": "Lexaru GmbH",
         "location": "Berlin",
-        "job_type": "Permanent employment, manager",
-        "url": "https://www.arbeitnow.com/jobs/companies/logicc/gtm-manager-ai-startup-berlin-58998",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/lexaru-gmbh/senior-full-stack-software-engineer-govtech-ai-berlin-98054",
         "source": "Arbeitnow",
-        "published_at": "2026-10-26T21:01:09+00:00",
+        "published_at": "2026-10-27T10:01:05+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-head-of-sales-ai-startup-berlin-78269",
+        "title": "Head of Sales (m/w/d) AI-Startup",
+        "company": "Fenie AI",
+        "location": "Berlin",
+        "job_type": "Nebentätigkeit, side, teamleitung",
+        "url": "https://www.arbeitnow.com/jobs/companies/fenie-ai/head-of-sales-ai-startup-berlin-78269",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-27T09:01:23+00:00",
         "remote": true
     },
     {
@@ -176,17 +176,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-integration-engineer-french-speaker-444069",
-        "title": "Integration Engineer (French Speaker)",
-        "company": "Constructor",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-integration-engineer-french-speaker-444069",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-26T18:40:13+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3577451",
         "title": "Senior Software Engineer, Fulfillment",
         "company": "Instacart",
@@ -198,58 +187,47 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-devops-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-373151",
-        "title": "DevOps Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
-        "company": "Auralis Group",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag",
-        "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/devops-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-373151",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-26T16:30:51+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-212802",
-        "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
-        "company": "Auralis Group",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag",
-        "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-212802",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-26T16:30:51+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-it-administrator-mirosoft-365-berlin-72864",
-        "title": "IT-Administrator Mirosoft 365 (m/w/d)",
-        "company": "Neurawork GmbH & Co. KG",
+        "id": "arbeitnow-gcp-cloud-architect-network-berlin-49011",
+        "title": "GCP Cloud Architect (Network) (m/w/d)",
+        "company": "adconova GmbH",
         "location": "Berlin",
         "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/it-administrator-mirosoft-365-berlin-72864",
+        "url": "https://www.arbeitnow.com/jobs/companies/adconova-gmbh/gcp-cloud-architect-network-berlin-49011",
         "source": "Arbeitnow",
-        "published_at": "2026-10-26T15:31:03+00:00",
+        "published_at": "2026-10-27T09:01:20+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-product-designer-15490",
-        "title": "Product Designer",
-        "company": "Swarmaero",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-product-designer-15490",
+        "id": "arbeitnow-sap-concur-consultant-module-security-berlin-72072",
+        "title": "SAP Concur Consultant – Module Security",
+        "company": "Market Cloud",
+        "location": "Berlin",
+        "job_type": "Fixed-term contract, contract, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/market-cloud/sap-concur-consultant-module-security-berlin-72072",
         "source": "Arbeitnow",
-        "published_at": "2026-10-27T00:40:11+00:00",
+        "published_at": "2026-10-27T07:30:40+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-product-designer-builder-stellartech-47148",
-        "title": "Product Designer-Builder | StellarTech",
-        "company": "Hirehire",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-product-designer-builder-stellartech-47148",
+        "id": "arbeitnow-devops-engineer-fur-linux-und-kubernetes-basierte-oss-infrastrukturen-berlin-446339",
+        "title": "DevOps Engineer (m/w/d) für Linux- und Kubernetes-basierte OSS-Infrastrukturen",
+        "company": "Biz Factory GmbH",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/biz-factory-gmbh/devops-engineer-fur-linux-und-kubernetes-basierte-oss-infrastrukturen-berlin-446339",
         "source": "Arbeitnow",
-        "published_at": "2026-10-26T18:40:13+00:00",
+        "published_at": "2026-10-27T09:30:48+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-data-architect-3-month-project-france-46823",
+        "title": "Senior Data Architect (3 month project)",
+        "company": "Intetics 2",
+        "location": "France",
+        "job_type": "",
+        "url": "https://www.arbeitnow.fr/jobs/companies/intetics-2/remote-senior-data-architect-3-month-project-france-46823",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-27T08:20:07+00:00",
         "remote": true
     },
     {

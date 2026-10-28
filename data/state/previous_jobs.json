@@ -11,17 +11,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3569396",
-        "title": "Senior iOS Engineer, Guest & Host",
-        "company": "Airbnb",
-        "location": "Remote, USA",
-        "job_type": "Full Time",
-        "url": "https://careers.airbnb.com/positions/8327822?gh_jid=8327822",
-        "source": "Greenhouse",
-        "published_at": "2026-10-27T11:58:17-04:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-ai-product-engineer-paris-212944",
         "title": "AI Product Engineer",
         "company": "Finary",
@@ -33,28 +22,6 @@
         "remote": false
     },
     {
-        "id": "ashby-ed9255f0-981f-49e9-8b01-9fd203141929",
-        "title": "Product Cost Management Lead - AI Infrastructure",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/ed9255f0-981f-49e9-8b01-9fd203141929",
-        "source": "Ashby",
-        "published_at": "2026-10-26T23:40:06.892000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-2c646ef9-6f93-4124-9d51-964d2c5aa783",
-        "title": "Founding Software Engineer, Physical Engineering",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783",
-        "source": "Ashby",
-        "published_at": "2026-10-26T22:18:02.107000+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-ai-research-scientist-scientific-evaluation-ml-ai-zurich-74951",
         "title": "AI Research Scientist – Scientific Evaluation (ML/AI)",
         "company": "Lightly AG",
@@ -64,6 +31,17 @@
         "source": "Arbeitnow",
         "published_at": "2026-10-27T14:31:07+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-manager-compliance-advisory-and-data-protection-london-435717",
+        "title": "Manager: Compliance Advisory (and Data Protection)",
+        "company": "Griffin",
+        "location": "London or remote within the UK",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/griffin/manager-compliance-advisory-and-data-protection-london-435717",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-27T21:40:19+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3581503",
@@ -176,17 +154,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-23147",
-        "title": "Sales Account Executive - Cybersecurity",
-        "company": "Crowdsec",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-23147",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-27T12:51:34+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-senior-cloud-devops-engineer-aws-kubernetes-openshift-stuttgart-311937",
         "title": "Senior Cloud / DevOps Engineer – AWS, Kubernetes/OpenShift (m/w/d)",
         "company": "Rockstardevelopers GmbH",
@@ -220,14 +187,47 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-werkstudent-in-ux-ui-design-15-20-std-woche-100-remote-berlin-243797",
-        "title": "Werkstudent/in UX/UI Design (15-20 Std./Woche - 100% Remote)",
-        "company": "BlickSolutions GmbH",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, hilfstätigkeit / student",
-        "url": "https://www.arbeitnow.com/jobs/companies/blicksolutions-gmbh/werkstudent-in-ux-ui-design-15-20-std-woche-100-remote-berlin-243797",
+        "id": "ashby-30b0a80b-8421-4847-a670-5bd09920c4ce",
+        "title": "Motion Designer",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Marketing",
+        "url": "https://jobs.ashbyhq.com/openai/30b0a80b-8421-4847-a670-5bd09920c4ce",
+        "source": "Ashby",
+        "published_at": "2026-10-28T00:18:51.154000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-d4fed8a0-cf2a-49b1-b216-80d710827e16",
+        "title": "Support Vendor Manager, APAC",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, User Operations",
+        "url": "https://jobs.ashbyhq.com/openai/d4fed8a0-cf2a-49b1-b216-80d710827e16",
+        "source": "Ashby",
+        "published_at": "2026-10-27T23:57:45.847000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-3942de32-739a-409a-841c-828af04bad83",
+        "title": "Content Designer",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Product Design",
+        "url": "https://jobs.ashbyhq.com/openai/3942de32-739a-409a-841c-828af04bad83",
+        "source": "Ashby",
+        "published_at": "2026-10-27T22:43:21.681000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-sap-ams-support-consultant-sap-sd-sap-mm-sap-pp-uk-361712",
+        "title": "Senior SAP AMS Support Consultant (SAP SD, SAP MM, SAP PP)",
+        "company": "The Config Team",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-senior-sap-ams-support-consultant-sap-sd-sap-mm-sap-pp-uk-361712",
         "source": "Arbeitnow",
-        "published_at": "2026-10-27T13:31:00+00:00",
+        "published_at": "2026-10-28T00:31:44+00:00",
         "remote": true
     },
     {

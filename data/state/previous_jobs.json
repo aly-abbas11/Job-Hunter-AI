@@ -1,16 +1,5 @@
 [
     {
-        "id": "arbeitnow-freelance-full-stack-developer-django-ai-products-python-llm-integration-remote-100-stuttgart-200558",
-        "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration | Remote 100%",
-        "company": "hurra.com",
-        "location": "Stuttgart",
-        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/hurracom/freelance-full-stack-developer-django-ai-products-python-llm-integration-remote-100-stuttgart-200558",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-28T13:05:01+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-b82699a2-5819-4276-a402-fd88f56f9246",
         "title": "Data Scientist, Cloud Distribution & Growth",
         "company": "OpenAI",
@@ -19,6 +8,39 @@
         "url": "https://jobs.ashbyhq.com/openai/b82699a2-5819-4276-a402-fd88f56f9246",
         "source": "Ashby",
         "published_at": "2026-10-28T19:59:03.385000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-9f7371c4-e306-4a45-a400-aa2843fabd85",
+        "title": "Network Infrastructure Engineer, Global Network Infra (WAN)",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Scaling",
+        "url": "https://jobs.ashbyhq.com/openai/9f7371c4-e306-4a45-a400-aa2843fabd85",
+        "source": "Ashby",
+        "published_at": "2026-10-29T02:42:10.106000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-33acf0e2-5c11-46d7-9dc9-417f5537139b",
+        "title": "Software Engineer, IP Infrastructure",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Research",
+        "url": "https://jobs.ashbyhq.com/openai/33acf0e2-5c11-46d7-9dc9-417f5537139b",
+        "source": "Ashby",
+        "published_at": "2026-10-29T01:58:58.904000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-50d89082-42a3-42ca-93f5-2110b87a3be6",
+        "title": "Incident Commander, Detection & Response - APAC",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Security",
+        "url": "https://jobs.ashbyhq.com/openai/50d89082-42a3-42ca-93f5-2110b87a3be6",
+        "source": "Ashby",
+        "published_at": "2026-10-28T22:13:03.928000+00:00",
         "remote": true
     },
     {
@@ -66,47 +88,14 @@
         "remote": true
     },
     {
-        "id": "ashby-8ff67de2-7ee8-4d9d-bef4-dadabeeaf312",
-        "title": "Fire Protection Engineer",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/8ff67de2-7ee8-4d9d-bef4-dadabeeaf312",
-        "source": "Ashby",
-        "published_at": "2026-10-28T04:19:06.603000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-6c1d86d0-e89d-475b-a324-6c57fa30b345",
-        "title": "Network Infrastructure Lead",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/6c1d86d0-e89d-475b-a324-6c57fa30b345",
-        "source": "Ashby",
-        "published_at": "2026-10-28T04:18:54.800000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-generative-ai-analyst-dutch-netherlands-199013",
-        "title": "Generative AI Analyst | Dutch (Netherlands)",
-        "company": "Welo Global",
-        "location": "Netherlands",
-        "job_type": "Freelance-Remote",
-        "url": "https://www.arbeitnow.nl/jobs/companies/welo-global/generative-ai-analyst-dutch-netherlands-199013",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-28T03:27:17+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-software-functional-consultant-sap-wm-uk-173485",
-        "title": "Software Functional Consultant (SAP WM)",
-        "company": "The Config Team",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-software-functional-consultant-sap-wm-uk-173485",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-28T15:31:27+00:00",
+        "id": "greenhouse-3601259",
+        "title": "Senior Software Engineer, Infrastructure Engineering",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8331341",
+        "source": "Greenhouse",
+        "published_at": "2026-10-28T19:00:05-04:00",
         "remote": true
     },
     {
@@ -165,14 +154,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-quantitative-schedule-risk-analysis-qsra-consultant-data-centre-construction-london-211420",
-        "title": "Quantitative Schedule Risk Analysis (QSRA) consultant - Data Centre Construction",
-        "company": "Project Blackbook",
-        "location": "London",
-        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/project-blackbook/quantitative-schedule-risk-analysis-qsra-consultant-data-centre-construction-london-211420",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-28T13:04:57+00:00",
+        "id": "ashby-67c67c36-e710-4f21-bd9c-759eb72cfabf",
+        "title": "Product Content Creator",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Marketing",
+        "url": "https://jobs.ashbyhq.com/openai/67c67c36-e710-4f21-bd9c-759eb72cfabf",
+        "source": "Ashby",
+        "published_at": "2026-10-29T00:07:51.559000+00:00",
         "remote": true
     },
     {
@@ -198,37 +187,26 @@
         "remote": true
     },
     {
-        "id": "ashby-30b0a80b-8421-4847-a670-5bd09920c4ce",
-        "title": "Motion Designer",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Marketing",
-        "url": "https://jobs.ashbyhq.com/openai/30b0a80b-8421-4847-a670-5bd09920c4ce",
-        "source": "Ashby",
-        "published_at": "2026-10-28T00:18:51.154000+00:00",
-        "remote": true
+        "id": "arbeitnow-customer-support-executive-6-month-ftc-remote-in-uk-284708",
+        "title": "Customer Support Executive, 6 month FTC (Remote in UK)",
+        "company": "Nivoda",
+        "location": "Remote - UK",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nivoda/customer-support-executive-6-month-ftc-remote-in-uk-284708",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-29T00:40:10+00:00",
+        "remote": false
     },
     {
-        "id": "ashby-d4fed8a0-cf2a-49b1-b216-80d710827e16",
-        "title": "Support Vendor Manager, APAC",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, User Operations",
-        "url": "https://jobs.ashbyhq.com/openai/d4fed8a0-cf2a-49b1-b216-80d710827e16",
-        "source": "Ashby",
-        "published_at": "2026-10-27T23:57:45.847000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-3942de32-739a-409a-841c-828af04bad83",
-        "title": "Content Designer",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Product Design",
-        "url": "https://jobs.ashbyhq.com/openai/3942de32-739a-409a-841c-828af04bad83",
-        "source": "Ashby",
-        "published_at": "2026-10-27T22:43:21.681000+00:00",
-        "remote": true
+        "id": "arbeitnow-senior-customer-support-executive-italian-french-speaking-remote-in-europe-209505",
+        "title": "Senior Customer Support Executive, Italian & French Speaking (Remote in Europe)",
+        "company": "Nivoda",
+        "location": "Remote - UK",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nivoda/senior-customer-support-executive-italian-french-speaking-remote-in-europe-209505",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-29T00:40:10+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3475099",

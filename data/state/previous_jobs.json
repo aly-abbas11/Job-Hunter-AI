@@ -1,5 +1,49 @@
 [
     {
+        "id": "arbeitnow-remote-full-stack-developer-java-react-496339",
+        "title": "Full Stack Developer - Java & React (f/m/d)",
+        "company": "ecosio",
+        "location": "Austria, Germany, Spain, Italy, Hungary, Portugal, Croatia - Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ecosio/remote-full-stack-developer-java-react-496339",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-31T18:55:29+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-e-invoicing-edi-integration-engineer-with-english-and-german-french-italian-103815",
+        "title": "E-invoicing & EDI Integration Engineer (f/m/d) - with English and German/French/Italian",
+        "company": "ecosio",
+        "location": "Germany, Austria, Spain, UK, Italy, Hungary, Portugal, Croatia, Poland - Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.fr/jobs/companies/ecosio/remote-e-invoicing-edi-integration-engineer-with-english-and-german-french-italian-103815",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-31T18:55:29+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-full-stack-developer-java-react-120706",
+        "title": "Full Stack Developer - Java & React (f/m/d)",
+        "company": "ecosio",
+        "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-120706",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-31T18:55:28+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-google-ads-manager-ai-first-performance-marketing-remote-59473",
+        "title": "Google Ads Manager – AI-First Performance Marketing (m/w/d) · Remote",
+        "company": "Evolve Digital GmbH",
+        "location": "Homeoffice",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/google-ads-manager-ai-first-performance-marketing-remote-59473",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-31T18:31:08+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-fb0b563a-e541-43fd-8555-9eb6473aaa11",
         "title": "Software Engineer - AI Tooling Infrastructure",
         "company": "Supabase",
@@ -44,58 +88,14 @@
         "remote": true
     },
     {
-        "id": "ashby-a0a26a90-7c9a-4a45-a042-ae646911930a",
-        "title": "Customer Activation Manager | AI Spend",
-        "company": "Ramp",
+        "id": "arbeitnow-remote-senior-backend-engineer-database-excellence-ruby-5106",
+        "title": "Senior Backend Engineer, Database Excellence (Ruby)",
+        "company": "gitlab",
         "location": "Remote",
-        "job_type": "FullTime, Sales",
-        "url": "https://jobs.ashbyhq.com/ramp/a0a26a90-7c9a-4a45-a042-ae646911930a",
-        "source": "Ashby",
-        "published_at": "2026-10-30T19:35:07.164000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-65dd3a22-32f8-4559-875a-bbb923664c87",
-        "title": "Product Growth",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/65dd3a22-32f8-4559-875a-bbb923664c87",
-        "source": "Ashby",
-        "published_at": "2026-10-30T18:57:24.116000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3596462",
-        "title": "Business Development, AI Product Partnerships",
-        "company": "Pinterest",
-        "location": "San Francisco, CA, US; Remote, US",
-        "job_type": "Full Time",
-        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8319154",
-        "source": "Greenhouse",
-        "published_at": "2026-10-30T14:34:56-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3565671",
-        "title": "Senior Software Engineer, Enterprise AI",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8240352",
-        "source": "Greenhouse",
-        "published_at": "2026-10-30T14:31:50-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3565671",
-        "title": "Senior Software Engineer, Enterprise AI",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8240350",
-        "source": "Greenhouse",
-        "published_at": "2026-10-30T14:31:48-04:00",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-database-excellence-ruby-5106",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-31T18:55:27+00:00",
         "remote": true
     },
     {
@@ -132,6 +132,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-331462",
+        "title": "Sales Account Executive - Cybersecurity",
+        "company": "Crowdsec",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-331462",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-31T18:31:09+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-senior-sales-engineer-mena-47457",
         "title": "Senior Sales Engineer - MENA",
         "company": "Sardine",
@@ -141,17 +152,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-10-31T15:40:14+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-security-and-compliance-engineer-london-361433",
-        "title": "Security and Compliance Engineer",
-        "company": "Griffin",
-        "location": "London or remote within the UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/griffin/security-and-compliance-engineer-london-361433",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-31T09:40:16+00:00",
-        "remote": false
     },
     {
         "id": "greenhouse-3487802",
@@ -173,72 +173,6 @@
         "url": "https://job-boards.greenhouse.io/reddit/jobs/8319764",
         "source": "Greenhouse",
         "published_at": "2026-10-30T18:53:14-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6575092002",
-        "title": "Data Scientist, Enterprise Analytics",
-        "company": "GitLab",
-        "location": "Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922013002",
-        "source": "Greenhouse",
-        "published_at": "2026-10-30T15:59:39-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3603022",
-        "title": "Manager, People Ops & Automation",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8335575?gh_jid=8335575",
-        "source": "Greenhouse",
-        "published_at": "2026-10-30T15:49:29-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3603942",
-        "title": "Senior Software Engineer, Tax Engineering",
-        "company": "Coinbase",
-        "location": "Remote - Canada",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8337715?gh_jid=8337715",
-        "source": "Greenhouse",
-        "published_at": "2026-10-30T15:22:50-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6575116002",
-        "title": "Senior Manager, Data Science",
-        "company": "GitLab",
-        "location": "Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922062002",
-        "source": "Greenhouse",
-        "published_at": "2026-10-30T15:07:37-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3565660",
-        "title": "Senior Machine Learning Engineer, Fulfillment",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8240307",
-        "source": "Greenhouse",
-        "published_at": "2026-10-30T14:31:40-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3565660",
-        "title": "Senior Machine Learning Engineer, Fulfillment",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8240305",
-        "source": "Greenhouse",
-        "published_at": "2026-10-30T14:31:38-04:00",
         "remote": true
     },
     {
@@ -283,17 +217,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/digital-evolution/social-media-manager-mit-weiterbildung-remote-moglich-berlin-123349",
         "source": "Arbeitnow",
         "published_at": "2026-10-31T06:30:43+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3599971",
-        "title": "Administrative Business Partner, Coverage",
-        "company": "Stripe",
-        "location": "Remote - US",
-        "job_type": "Full Time",
-        "url": "https://stripe.com/jobs/search?gh_jid=8328118",
-        "source": "Greenhouse",
-        "published_at": "2026-10-30T13:30:15-04:00",
         "remote": true
     }
 ]

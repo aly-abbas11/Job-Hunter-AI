@@ -1,5 +1,27 @@
 [
     {
+        "id": "ashby-36a746ab-66a6-4f3e-b164-3ca8fa9e0658",
+        "title": "Senior Counsel, AI Product",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Legal",
+        "url": "https://jobs.ashbyhq.com/openai/36a746ab-66a6-4f3e-b164-3ca8fa9e0658",
+        "source": "Ashby",
+        "published_at": "2026-10-30T23:14:07.007000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-2df14230-1cb5-4727-a34e-f480303e4212",
+        "title": "Manufacturing Quality Engineer, Data Center Equipment",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Scaling",
+        "url": "https://jobs.ashbyhq.com/openai/2df14230-1cb5-4727-a34e-f480303e4212",
+        "source": "Ashby",
+        "published_at": "2026-10-30T22:23:31.989000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-a0a26a90-7c9a-4a45-a042-ae646911930a",
         "title": "Customer Activation Manager | AI Spend",
         "company": "Ramp",
@@ -77,17 +99,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-servicenow-ai-architect-zurich-341724",
-        "title": "ServiceNow AI Architect",
-        "company": "SwissPeak Partners GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-341724",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-30T00:31:24+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-working-student-data-engineer-python-sql-cloud-platforms-berlin-407856",
         "title": "Working Student Data Engineer – Python, SQL & Cloud Platforms",
         "company": "AgentixLake GmbH",
@@ -110,17 +121,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3603013",
-        "title": "Senior Software Engineer, Backend (Coinbase One)",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8335547?gh_jid=8335547",
-        "source": "Greenhouse",
-        "published_at": "2026-10-29T18:43:45-04:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-ai-agent-developer-ki-agentenentwickler-berlin-420317",
         "title": "AI Agent Developer / KI-Agentenentwickler (m/w/d)",
         "company": "WAITS Software- und Prozessberatungsgesellschaft mbH",
@@ -132,58 +132,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-working-student-ai-engineer-llms-rag-ai-agents-berlin-364158",
-        "title": "Working Student AI Engineer – LLMs, RAG & AI Agents",
-        "company": "AgentixLake GmbH",
-        "location": "Berlin",
-        "job_type": "Working student, working student, no experience required / student",
-        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-engineer-llms-rag-ai-agents-berlin-364158",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-30T17:00:43+00:00",
+        "id": "greenhouse-3487802",
+        "title": "Staff Analytics Engineer",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8047150?gh_jid=8047150",
+        "source": "Greenhouse",
+        "published_at": "2026-10-30T22:38:15-04:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-283450",
-        "title": "Working Student AI Solutions Architect – Generative AI & Data Platforms",
-        "company": "AgentixLake GmbH",
-        "location": "Berlin",
-        "job_type": "Working student, working student, no experience required / student",
-        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-283450",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-30T17:00:42+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-werkstudent-ai-business-analysis-wurzburg-174354",
-        "title": "Werkstudent (w/m/d) - AI Business Analysis",
-        "company": "Pentadoc Gruppe",
-        "location": "Würzburg",
-        "job_type": "Working student, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/pentadoc-gruppe/werkstudent-ai-business-analysis-wurzburg-174354",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-30T16:31:46+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-working-student-ai-engineering-wurzburg-474175",
-        "title": "Working Student (m/f/d) - AI Engineering",
-        "company": "Pentadoc Gruppe",
-        "location": "Würzburg",
-        "job_type": "Working student, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/pentadoc-gruppe/working-student-ai-engineering-wurzburg-474175",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-30T16:31:45+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-ai-engeneer-berlin-21174",
-        "title": "AI Engeneer",
-        "company": "JETPLAN",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetplan/ai-engeneer-berlin-21174",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-30T16:01:13+00:00",
+        "id": "greenhouse-3596752",
+        "title": "Staff Program Manager, Human & LLM Data Annotation Operations",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8319764",
+        "source": "Greenhouse",
+        "published_at": "2026-10-30T18:53:14-04:00",
         "remote": true
     },
     {
@@ -308,17 +275,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-software-test-engineer-bern-463546",
-        "title": "Software Test Engineer",
-        "company": "SwissPeak Partners GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-463546",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-30T00:31:24+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-software-engineer-edge-cloud-berlin-16107",
         "title": "Software Engineer - Edge & Cloud (m/w/d)",
         "company": "1KOMMA5˚",
@@ -341,15 +297,15 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-ftth-security-expert-paris-486738",
-        "title": "FTTH Security Expert",
-        "company": "P1 Security",
-        "location": "Paris",
-        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
-        "url": "https://www.arbeitnow.fr/jobs/companies/p1-security/ftth-security-expert-paris-486738",
+        "id": "arbeitnow-senior-engineer-ii-chromium-emea-distributed-uk-32034",
+        "title": "Senior Engineer II, Chromium",
+        "company": "Menlosecurity",
+        "location": "EMEA - Distributed (UK)",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/menlosecurity/senior-engineer-ii-chromium-emea-distributed-uk-32034",
         "source": "Arbeitnow",
-        "published_at": "2026-10-30T07:31:06+00:00",
-        "remote": true
+        "published_at": "2026-10-30T21:40:22+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3599971",
@@ -360,6 +316,17 @@
         "url": "https://stripe.com/jobs/search?gh_jid=8328118",
         "source": "Greenhouse",
         "published_at": "2026-10-30T13:30:15-04:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-social-media-manager-freelance-berlin-487995",
+        "title": "Social Media Manager (Freelance, m/f/d)",
+        "company": "L1VE GmbH",
+        "location": "Berlin",
+        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/l1ve-gmbh/social-media-manager-freelance-berlin-487995",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-31T02:31:00+00:00",
         "remote": true
     },
     {

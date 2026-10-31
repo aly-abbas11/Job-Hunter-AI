@@ -1,5 +1,38 @@
 [
     {
+        "id": "ashby-fb0b563a-e541-43fd-8555-9eb6473aaa11",
+        "title": "Software Engineer - AI Tooling Infrastructure",
+        "company": "Supabase",
+        "location": "Remote",
+        "job_type": "FullTime, Engineering",
+        "url": "https://jobs.ashbyhq.com/supabase/fb0b563a-e541-43fd-8555-9eb6473aaa11",
+        "source": "Ashby",
+        "published_at": "2026-10-31T08:47:34.051000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-product-engineer-devtools-ai-reliability-remote-berlin-277824",
+        "title": "Senior Product Engineer (DevTools & AI reliability, remote)",
+        "company": "Checkly",
+        "location": "Remote (UTC-3 to UTC+3)",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/checkly/senior-product-engineer-devtools-ai-reliability-remote-berlin-277824",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-31T06:40:26+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-ai-first-data-engineer-117386",
+        "title": "AI-First Data Engineer (m/f/d)",
+        "company": "Sport Alliance GmbH",
+        "location": "Remote (Germany)",
+        "job_type": "Full-time",
+        "url": "https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-ai-first-data-engineer-117386",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-31T03:27:15+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-36a746ab-66a6-4f3e-b164-3ca8fa9e0658",
         "title": "Senior Counsel, AI Product",
         "company": "OpenAI",
@@ -77,17 +110,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-google-ads-manager-ai-first-performance-marketing-remote-84863",
-        "title": "(Senior) Google Ads Manager – AI-First Performance Marketing (m/w/d) · Remote",
-        "company": "Evolve Digital GmbH",
-        "location": "Homeoffice",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-google-ads-manager-ai-first-performance-marketing-remote-84863",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-30T18:31:08+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-6c88bfaa-7f1b-4175-82f1-6d484a516ca8",
         "title": "Enterprise Account Associate - EMEA (German Speaking)",
         "company": "OpenAI",
@@ -99,37 +121,48 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-working-student-data-engineer-python-sql-cloud-platforms-berlin-407856",
-        "title": "Working Student Data Engineer – Python, SQL & Cloud Platforms",
-        "company": "AgentixLake GmbH",
+        "id": "arbeitnow-head-of-sales-ai-startup-berlin-233871",
+        "title": "Head of Sales (m/w/d) AI-Startup",
+        "company": "Fenie AI",
         "location": "Berlin",
-        "job_type": "Working student, working student, no experience required / student",
-        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-data-engineer-python-sql-cloud-platforms-berlin-407856",
+        "job_type": "Nebentätigkeit, side, teamleitung",
+        "url": "https://www.arbeitnow.com/jobs/companies/fenie-ai/head-of-sales-ai-startup-berlin-233871",
         "source": "Arbeitnow",
-        "published_at": "2026-10-30T17:00:43+00:00",
+        "published_at": "2026-10-31T06:30:45+00:00",
         "remote": true
     },
     {
-        "id": "greenhouse-3398503",
-        "title": "Backend Product Software Engineer",
-        "company": "Dropbox",
-        "location": "Remote - Mexico",
+        "id": "arbeitnow-security-and-compliance-engineer-london-361433",
+        "title": "Security and Compliance Engineer",
+        "company": "Griffin",
+        "location": "London or remote within the UK",
         "job_type": "Full Time",
-        "url": "https://jobs.dropbox.com/listing/7752226?gh_jid=7752226",
-        "source": "Greenhouse",
-        "published_at": "2026-10-30T07:05:41-04:00",
-        "remote": true
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/griffin/security-and-compliance-engineer-london-361433",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-31T09:40:16+00:00",
+        "remote": false
     },
     {
-        "id": "arbeitnow-ai-agent-developer-ki-agentenentwickler-berlin-420317",
-        "title": "AI Agent Developer / KI-Agentenentwickler (m/w/d)",
-        "company": "WAITS Software- und Prozessberatungsgesellschaft mbH",
-        "location": "Berlin",
-        "job_type": "Befristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/waits-software-und-prozessberatungsgesellschaft-mbh/ai-agent-developer-ki-agentenentwickler-berlin-420317",
+        "id": "arbeitnow-remote-lead-data-engineer-315863",
+        "title": "Lead Data Engineer",
+        "company": "Akersystems",
+        "location": "Remote/Home Based",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/akersystems/remote-lead-data-engineer-315863",
         "source": "Arbeitnow",
-        "published_at": "2026-10-30T17:30:53+00:00",
-        "remote": true
+        "published_at": "2026-10-31T06:55:17+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-security-engineer-eu-remote-germany-434793",
+        "title": "Security Engineer (EU Remote)",
+        "company": "Gurobioptimization",
+        "location": "Germany",
+        "job_type": "Full-Time Remote",
+        "url": "https://www.arbeitnow.com/jobs/companies/gurobioptimization/security-engineer-eu-remote-germany-434793",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-31T03:27:16+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-3487802",
@@ -198,28 +231,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-data-scientist-fraud-62682",
-        "title": "Data Scientist (Fraud)",
-        "company": "Moniepoint",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/moniepoint/remote-data-scientist-fraud-62682",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-30T18:55:25+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-mobile-quality-engineer-206450",
-        "title": "Senior Mobile Quality Engineer",
-        "company": "Lendable",
-        "location": "UK Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/remote-senior-mobile-quality-engineer-206450",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-30T18:40:16+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-3565660",
         "title": "Senior Machine Learning Engineer, Fulfillment",
         "company": "Instacart",
@@ -242,28 +253,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-sap-is-u-abap-application-developer-produktentwicklung-berlin-395668",
-        "title": "Senior SAP IS-U ABAP Application Developer - Produktentwicklung (m/w/d)",
-        "company": "Natuvion GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-is-u-abap-application-developer-produktentwicklung-berlin-395668",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-30T18:31:09+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-sap-fi-co-abap-application-developer-produktentwicklung-berlin-324805",
-        "title": "Senior SAP FI/CO ABAP Application Developer - Produktentwicklung (m/w/d)",
-        "company": "Natuvion GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-fi-co-abap-application-developer-produktentwicklung-berlin-324805",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-30T18:31:09+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-go-to-market-lead-germany-amsterdam-497683",
         "title": "Go-To-Market Lead (Germany)",
         "company": "LLEVERAGE",
@@ -272,6 +261,17 @@
         "url": "https://www.arbeitnow.nl/jobs/companies/lleverage/remote-go-to-market-lead-germany-amsterdam-497683",
         "source": "Arbeitnow",
         "published_at": "2026-10-30T12:31:58+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-487125",
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-487125",
+        "source": "Arbeitnow",
+        "published_at": "2026-10-31T06:31:28+00:00",
         "remote": true
     },
     {
@@ -286,26 +286,15 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-software-engineer-edge-cloud-berlin-280496",
-        "title": "Software Engineer - Edge & Cloud (m/f/d)",
-        "company": "1KOMMA5˚",
+        "id": "arbeitnow-social-media-manager-mit-weiterbildung-remote-moglich-berlin-123349",
+        "title": "Social Media Manager (m/w/d) mit Weiterbildung - Remote möglich",
+        "company": "Digital Evolution",
         "location": "Berlin",
-        "job_type": "Permanent employment, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/1komma50/software-engineer-edge-cloud-berlin-280496",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/digital-evolution/social-media-manager-mit-weiterbildung-remote-moglich-berlin-123349",
         "source": "Arbeitnow",
-        "published_at": "2026-10-30T20:30:52+00:00",
+        "published_at": "2026-10-31T06:30:43+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-engineer-ii-chromium-emea-distributed-uk-32034",
-        "title": "Senior Engineer II, Chromium",
-        "company": "Menlosecurity",
-        "location": "EMEA - Distributed (UK)",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/menlosecurity/senior-engineer-ii-chromium-emea-distributed-uk-32034",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-30T21:40:22+00:00",
-        "remote": false
     },
     {
         "id": "greenhouse-3599971",
@@ -327,28 +316,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/l1ve-gmbh/social-media-manager-freelance-berlin-487995",
         "source": "Arbeitnow",
         "published_at": "2026-10-31T02:31:00+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-product-designer-france-120501",
-        "title": "Senior Product Designer (m/f/d)",
-        "company": "Hilobyaktiia",
-        "location": "France",
-        "job_type": "Full time, mid-senior",
-        "url": "https://www.arbeitnow.fr/jobs/companies/hilobyaktiia/remote-senior-product-designer-france-120501",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-30T17:20:09+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-lead-product-designer-france-379469",
-        "title": "Lead Product Designer (m/f/d)",
-        "company": "Hilobyaktiia",
-        "location": "France",
-        "job_type": "Full time, mid-senior",
-        "url": "https://www.arbeitnow.fr/jobs/companies/hilobyaktiia/remote-lead-product-designer-france-379469",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-30T17:20:09+00:00",
         "remote": true
     }
 ]

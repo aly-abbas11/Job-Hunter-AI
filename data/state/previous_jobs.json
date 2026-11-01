@@ -1,13 +1,13 @@
 [
     {
-        "id": "arbeitnow-remote-e-invoicing-edi-integration-engineer-with-english-and-german-french-italian-103815",
-        "title": "E-invoicing & EDI Integration Engineer (f/m/d) - with English and German/French/Italian",
-        "company": "ecosio",
-        "location": "Germany, Austria, Spain, UK, Italy, Hungary, Portugal, Croatia, Poland - Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.fr/jobs/companies/ecosio/remote-e-invoicing-edi-integration-engineer-with-english-and-german-french-italian-103815",
+        "id": "arbeitnow-remote-senior-data-engineer-real-time-analytics-489321",
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "location": "France Remote",
+        "job_type": "Permanent Full Time Employee",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-489321",
         "source": "Arbeitnow",
-        "published_at": "2026-10-31T18:55:29+00:00",
+        "published_at": "2026-11-01T06:06:51+00:00",
         "remote": false
     },
     {
@@ -33,39 +33,6 @@
         "remote": true
     },
     {
-        "id": "ashby-fb0b563a-e541-43fd-8555-9eb6473aaa11",
-        "title": "Software Engineer - AI Tooling Infrastructure",
-        "company": "Supabase",
-        "location": "Remote",
-        "job_type": "FullTime, Engineering",
-        "url": "https://jobs.ashbyhq.com/supabase/fb0b563a-e541-43fd-8555-9eb6473aaa11",
-        "source": "Ashby",
-        "published_at": "2026-10-31T08:47:34.051000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-backend-data-streaming-132472",
-        "title": "Senior Software Engineer, Backend - Data Streaming",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-132472",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-31T15:40:13+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-backend-data-layer-4206",
-        "title": "Senior Software Engineer, Backend - Data Layer",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-4206",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-31T15:40:13+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-430823",
         "title": "AI Solution Architect (m/w/d)",
         "company": "virtual7 GmbH",
@@ -88,17 +55,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-331462",
-        "title": "Sales Account Executive - Cybersecurity",
-        "company": "Crowdsec",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-331462",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-31T18:31:09+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-sales-engineer-mena-47457",
         "title": "Senior Sales Engineer - MENA",
         "company": "Sardine",
@@ -110,6 +66,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-mitarbeiter-vertrieb-landwirtschaftliche-software-fur-mehrere-regionen-in-deutschland-munchen-358455",
+        "title": "Mitarbeiter Vertrieb (m/w/d) landwirtschaftliche Software für mehrere Regionen in Deutschland",
+        "company": "Wimex-Gruppe",
+        "location": "Homeoffice",
+        "job_type": "Entry, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/wimex-gruppe/remote-mitarbeiter-vertrieb-landwirtschaftliche-software-fur-mehrere-regionen-in-deutschland-munchen-358455",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-01T09:31:31+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-188254",
         "title": "Senior Oracle Data Engineer (m/w/d)",
         "company": "virtual7 GmbH",
@@ -118,39 +85,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-188254",
         "source": "Arbeitnow",
         "published_at": "2026-11-01T00:31:19+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-react-native-engineer-based-in-germany-berlin-388773",
-        "title": "(Senior) React Native Engineer (m/f/x) - Based in Germany",
-        "company": "Cara Care",
-        "location": "Berlin, Germany",
-        "job_type": "Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-react-native-engineer-based-in-germany-berlin-388773",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-31T12:20:03+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-react-native-engineer-based-in-germany-164217",
-        "title": "(Senior) React Native Engineer (m/f/x) - Based in Germany",
-        "company": "Cara Care",
-        "location": "Germany",
-        "job_type": "Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-react-native-engineer-based-in-germany-164217",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-31T12:20:03+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-product-designer-growth-54230",
-        "title": "Senior Product Designer - Growth",
-        "company": "Trustedhousesitters.com",
-        "location": "Remote",
-        "job_type": "Full-time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/trustedhousesitterscom/remote-senior-product-designer-growth-54230",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-01T03:07:47+00:00",
         "remote": true
     }
 ]

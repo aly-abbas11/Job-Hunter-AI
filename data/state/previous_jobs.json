@@ -1,16 +1,5 @@
 [
     {
-        "id": "arbeitnow-remote-full-stack-developer-java-react-496339",
-        "title": "Full Stack Developer - Java & React (f/m/d)",
-        "company": "ecosio",
-        "location": "Austria, Germany, Spain, Italy, Hungary, Portugal, Croatia - Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/ecosio/remote-full-stack-developer-java-react-496339",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-31T18:55:29+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-remote-e-invoicing-edi-integration-engineer-with-english-and-german-french-italian-103815",
         "title": "E-invoicing & EDI Integration Engineer (f/m/d) - with English and German/French/Italian",
         "company": "ecosio",
@@ -55,50 +44,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-product-engineer-devtools-ai-reliability-remote-berlin-277824",
-        "title": "Senior Product Engineer (DevTools & AI reliability, remote)",
-        "company": "Checkly",
-        "location": "Remote (UTC-3 to UTC+3)",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/checkly/senior-product-engineer-devtools-ai-reliability-remote-berlin-277824",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-31T06:40:26+00:00",
-        "remote": false
-    },
-    {
-        "id": "ashby-36a746ab-66a6-4f3e-b164-3ca8fa9e0658",
-        "title": "Senior Counsel, AI Product",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Legal",
-        "url": "https://jobs.ashbyhq.com/openai/36a746ab-66a6-4f3e-b164-3ca8fa9e0658",
-        "source": "Ashby",
-        "published_at": "2026-10-30T23:14:07.007000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-2df14230-1cb5-4727-a34e-f480303e4212",
-        "title": "Manufacturing Quality Engineer, Data Center Equipment",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/2df14230-1cb5-4727-a34e-f480303e4212",
-        "source": "Ashby",
-        "published_at": "2026-10-30T22:23:31.989000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-backend-engineer-database-excellence-ruby-5106",
-        "title": "Senior Backend Engineer, Database Excellence (Ruby)",
-        "company": "gitlab",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-database-excellence-ruby-5106",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-31T18:55:27+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-software-engineer-backend-data-streaming-132472",
         "title": "Senior Software Engineer, Backend - Data Streaming",
         "company": "Camunda",
@@ -121,14 +66,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-head-of-sales-ai-startup-berlin-233871",
-        "title": "Head of Sales (m/w/d) AI-Startup",
-        "company": "Fenie AI",
-        "location": "Berlin",
-        "job_type": "Nebentätigkeit, side, teamleitung",
-        "url": "https://www.arbeitnow.com/jobs/companies/fenie-ai/head-of-sales-ai-startup-berlin-233871",
+        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-430823",
+        "title": "AI Solution Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-430823",
         "source": "Arbeitnow",
-        "published_at": "2026-10-31T06:30:45+00:00",
+        "published_at": "2026-11-01T00:31:19+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-site-reliability-engineer-sre-berlin-445711",
+        "title": "Senior Site Reliability Engineer (SRE) m/f/x",
+        "company": "Makersite GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-445711",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-01T00:31:17+00:00",
         "remote": true
     },
     {
@@ -154,36 +110,14 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3487802",
-        "title": "Staff Analytics Engineer",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8047150?gh_jid=8047150",
-        "source": "Greenhouse",
-        "published_at": "2026-10-30T22:38:15-04:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3596752",
-        "title": "Staff Program Manager, Human & LLM Data Annotation Operations",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8319764",
-        "source": "Greenhouse",
-        "published_at": "2026-10-30T18:53:14-04:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-487125",
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-188254",
+        "title": "Senior Oracle Data Engineer (m/w/d)",
         "company": "virtual7 GmbH",
         "location": "Homeoffice",
         "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-487125",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-188254",
         "source": "Arbeitnow",
-        "published_at": "2026-10-31T06:31:28+00:00",
+        "published_at": "2026-11-01T00:31:19+00:00",
         "remote": true
     },
     {
@@ -209,14 +143,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-social-media-manager-mit-weiterbildung-remote-moglich-berlin-123349",
-        "title": "Social Media Manager (m/w/d) mit Weiterbildung - Remote möglich",
-        "company": "Digital Evolution",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/digital-evolution/social-media-manager-mit-weiterbildung-remote-moglich-berlin-123349",
+        "id": "arbeitnow-remote-senior-product-designer-growth-54230",
+        "title": "Senior Product Designer - Growth",
+        "company": "Trustedhousesitters.com",
+        "location": "Remote",
+        "job_type": "Full-time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/trustedhousesitterscom/remote-senior-product-designer-growth-54230",
         "source": "Arbeitnow",
-        "published_at": "2026-10-31T06:30:43+00:00",
+        "published_at": "2026-11-01T03:07:47+00:00",
         "remote": true
     }
 ]

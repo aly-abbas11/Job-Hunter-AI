@@ -1,5 +1,60 @@
 [
     {
+        "id": "arbeitnow-lead-ai-engineer-remote-berlin-289486",
+        "title": "Lead AI Engineer (m/w/d) – Remote",
+        "company": "MAIA",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, teamleitung",
+        "url": "https://www.arbeitnow.com/jobs/companies/maia/lead-ai-engineer-remote-berlin-289486",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-01T17:00:52+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-product-engineer-ai-remote-berlin-51768",
+        "title": "(Senior) Product Engineer – AI (m/f/d) – Remote",
+        "company": "MAIA",
+        "location": "Berlin",
+        "job_type": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-product-engineer-ai-remote-berlin-51768",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-01T17:00:51+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-software-engineer-ai-remote-berlin-132265",
+        "title": "(Senior) Software Engineer – AI (m/f/d) – Remote",
+        "company": "MAIA",
+        "location": "Berlin",
+        "job_type": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-software-engineer-ai-remote-berlin-132265",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-01T17:00:51+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-ai-engineer-remote-berlin-24944",
+        "title": "(Senior) AI Engineer (m/f/d) – Remote",
+        "company": "MAIA",
+        "location": "Berlin",
+        "job_type": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-ai-engineer-remote-berlin-24944",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-01T16:30:49+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-product-engineer-ai-agents-berlin-309383",
+        "title": "Senior Product Engineer (AI Agents)",
+        "company": "Cosuno",
+        "location": "Berlin/Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-product-engineer-ai-agents-berlin-309383",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-01T15:40:16+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-senior-data-engineer-real-time-analytics-489321",
         "title": "Senior Data Engineer - Real time analytics",
         "company": "Aircall",
@@ -9,28 +64,6 @@
         "source": "Arbeitnow",
         "published_at": "2026-11-01T06:06:51+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-full-stack-developer-java-react-120706",
-        "title": "Full Stack Developer - Java & React (f/m/d)",
-        "company": "ecosio",
-        "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-120706",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-31T18:55:28+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-google-ads-manager-ai-first-performance-marketing-remote-59473",
-        "title": "Google Ads Manager – AI-First Performance Marketing (m/w/d) · Remote",
-        "company": "Evolve Digital GmbH",
-        "location": "Homeoffice",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/google-ads-manager-ai-first-performance-marketing-remote-59473",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-31T18:31:08+00:00",
-        "remote": true
     },
     {
         "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-430823",
@@ -44,6 +77,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-senior-full-stack-developer-deepdesk-rotterdam-346552",
+        "title": "Senior Full Stack Developer - Deepdesk",
+        "company": "AnywhereNow",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.nl/jobs/companies/anywherenow/remote-senior-full-stack-developer-deepdesk-rotterdam-346552",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-01T15:31:44+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-senior-site-reliability-engineer-sre-berlin-445711",
         "title": "Senior Site Reliability Engineer (SRE) m/f/x",
         "company": "Makersite GmbH",
@@ -52,17 +96,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-445711",
         "source": "Arbeitnow",
         "published_at": "2026-11-01T00:31:17+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-sales-engineer-mena-47457",
-        "title": "Senior Sales Engineer - MENA",
-        "company": "Sardine",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/sardine/remote-senior-sales-engineer-mena-47457",
-        "source": "Arbeitnow",
-        "published_at": "2026-10-31T15:40:14+00:00",
         "remote": true
     },
     {

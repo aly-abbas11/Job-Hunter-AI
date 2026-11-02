@@ -66,17 +66,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-ai-solution-architect-nurnberg-mittelfranken-430823",
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-430823",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-01T00:31:19+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-full-stack-developer-deepdesk-rotterdam-346552",
         "title": "Senior Full Stack Developer - Deepdesk",
         "company": "AnywhereNow",
@@ -88,17 +77,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-site-reliability-engineer-sre-berlin-445711",
-        "title": "Senior Site Reliability Engineer (SRE) m/f/x",
-        "company": "Makersite GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-445711",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-01T00:31:17+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-mitarbeiter-vertrieb-landwirtschaftliche-software-fur-mehrere-regionen-in-deutschland-munchen-358455",
         "title": "Mitarbeiter Vertrieb (m/w/d) landwirtschaftliche Software für mehrere Regionen in Deutschland",
         "company": "Wimex-Gruppe",
@@ -107,17 +85,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/wimex-gruppe/remote-mitarbeiter-vertrieb-landwirtschaftliche-software-fur-mehrere-regionen-in-deutschland-munchen-358455",
         "source": "Arbeitnow",
         "published_at": "2026-11-01T09:31:31+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-oracle-data-engineer-karlsruhe-188254",
-        "title": "Senior Oracle Data Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-188254",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-01T00:31:19+00:00",
         "remote": true
     }
 ]

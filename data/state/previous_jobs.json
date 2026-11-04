@@ -22,6 +22,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-marketing-manager-google-ads-ai-first-performance-marketing-remote-146486",
+        "title": "Marketing Manager Google Ads – AI-First Performance Marketing (m/w/d) · Remote",
+        "company": "Evolve Digital GmbH",
+        "location": "Homeoffice",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/marketing-manager-google-ads-ai-first-performance-marketing-remote-146486",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-04T09:51:18+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-5ceff3dd-3503-4ea0-9ade-eeb36b29f14e",
         "title": "Data Scientist, Analytics Enablement",
         "company": "OpenAI",
@@ -99,28 +110,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3608742",
-        "title": "Senior Risk Tools & Automation Lead",
-        "company": "Airbnb",
-        "location": "Remote, India",
-        "job_type": "Full Time",
-        "url": "https://careers.airbnb.com/positions/8349121?gh_jid=8349121",
-        "source": "Greenhouse",
-        "published_at": "2026-11-03T05:36:21-05:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-7be58f3a-6005-42ed-86fa-77773ebfb294",
-        "title": "Applied AI Engineer, Digital Natives",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294",
-        "source": "Ashby",
-        "published_at": "2026-11-03T09:51:48.656000+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-6575203002",
         "title": "Intermediate Fullstack Engineer, Subscription Lifecycle",
         "company": "GitLab",
@@ -129,17 +118,6 @@
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922249002",
         "source": "Greenhouse",
         "published_at": "2026-11-03T11:38:14-05:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-qa-manager-fully-remote-berlin-156016",
-        "title": "Senior QA Manager - Fully Remote",
-        "company": "SOFTGAMES",
-        "location": "Remote job",
-        "job_type": "Entry, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-qa-manager-fully-remote-berlin-156016",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-04T03:31:37+00:00",
         "remote": true
     },
     {
@@ -154,6 +132,28 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-senior-sales-executive-mwd-software-as-a-service-224203",
+        "title": "Senior Sales Executive (m|w|d) Software as a Service",
+        "company": "ANGEHEUERT GmbH",
+        "location": "Remote Deutschlandweit",
+        "job_type": "Full-time permanent, mid",
+        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-senior-sales-executive-mwd-software-as-a-service-224203",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-04T12:20:05+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-staff-software-engineer-sap-connectors-462420",
+        "title": "Senior Staff Software Engineer - SAP Connectors",
+        "company": "Fivetran",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.nl/jobs/companies/fivetran/remote-senior-staff-software-engineer-sap-connectors-462420",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-04T09:55:23+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-power-platform-and-azure-devops-expert-remote-from-eu-amsterdam-110494",
         "title": "Power Platform and Azure DevOps Expert - remote from EU",
         "company": "AlmavivA de Belgique",
@@ -162,17 +162,6 @@
         "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/power-platform-and-azure-devops-expert-remote-from-eu-amsterdam-110494",
         "source": "Arbeitnow",
         "published_at": "2026-11-04T03:31:28+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-architect-enterprise-agentic-automation-165952",
-        "title": "Senior Architect, Enterprise Agentic Automation",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-architect-enterprise-agentic-automation-165952",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-03T21:40:17+00:00",
         "remote": true
     },
     {
@@ -198,58 +187,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-full-stack-engineer-based-in-germany-berlin-352789",
-        "title": "(Senior) Full Stack Engineer (m/f/x) - Based in Germany",
-        "company": "Cara Care",
-        "location": "Berlin, Germany",
-        "job_type": "Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-full-stack-engineer-based-in-germany-berlin-352789",
+        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-336464",
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-336464",
         "source": "Arbeitnow",
-        "published_at": "2026-11-04T00:20:17+00:00",
+        "published_at": "2026-11-04T12:31:29+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-full-stack-engineer-based-in-germany-183253",
-        "title": "(Senior) Full Stack Engineer (m/f/x) - Based in Germany",
-        "company": "Cara Care",
-        "location": "Germany",
-        "job_type": "Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-full-stack-engineer-based-in-germany-183253",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-04T00:20:17+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-head-of-it-berlin-488626",
-        "title": "Head of IT",
-        "company": "PCS PolymerCycle Solutions GmbH",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, teamleitung",
-        "url": "https://www.arbeitnow.com/jobs/companies/pcs-polymercycle-solutions-gmbh/head-of-it-berlin-488626",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-03T19:00:46+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-ux-ui-designer-ai-powered-cologne-30977",
-        "title": "UX/UI Designer (m/w/d) – AI-powered",
-        "company": "Digitale Leute School",
-        "location": "Cologne",
-        "job_type": "Befristeter arbeitsvertrag, contract, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/ux-ui-designer-ai-powered-cologne-30977",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-03T22:00:39+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3603043",
+        "id": "greenhouse-3603042",
         "title": "Social Support Specialist I",
         "company": "Coinbase",
         "location": "Remote - USA",
         "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8335621?gh_jid=8335621",
+        "url": "https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618",
         "source": "Greenhouse",
-        "published_at": "2026-11-03T19:54:24-05:00",
+        "published_at": "2026-11-03T19:52:09-05:00",
         "remote": true
     },
     {
@@ -261,6 +217,28 @@
         "url": "https://jobs.ashbyhq.com/linear/b4df9dbe-618e-4a3b-874c-c9abf87ca5c0",
         "source": "Ashby",
         "published_at": "2026-11-03T22:24:20.315000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-french-speaking-fitbit-customer-support-specialist-work-in-sofia-bulgaria-switzerland-469655",
+        "title": "French Speaking Fitbit Customer Support Specialist - Work In Sofia, Bulgaria",
+        "company": "Patrique Mercier Recruitment Fr",
+        "location": "Switzerland",
+        "job_type": "Full time, entry",
+        "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-french-speaking-fitbit-customer-support-specialist-work-in-sofia-bulgaria-switzerland-469655",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-04T12:20:13+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-social-media-manager-creator-cologne-93535",
+        "title": "Social Media Manager & Creator",
+        "company": "Hearr Media UG (haftungsbeschränkt)",
+        "location": "Cologne",
+        "job_type": "Freiberufler / selbstständiger, freelance, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/hearr-media-ug-haftungsbeschrankt/social-media-manager-creator-cologne-93535",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-04T11:00:50+00:00",
         "remote": true
     }
 ]

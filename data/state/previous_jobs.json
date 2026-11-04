@@ -1,5 +1,16 @@
 [
     {
+        "id": "ashby-02b170ae-de32-46f5-8ef1-844b268681fe",
+        "title": "Staff Backend Engineer, Financial Engineering",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/02b170ae-de32-46f5-8ef1-844b268681fe",
+        "source": "Ashby",
+        "published_at": "2026-11-04T00:02:33.947000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-f363932f-2820-4056-9786-14cb697f4a93",
         "title": "Engineering Manager, API Multicloud",
         "company": "OpenAI",
@@ -11,14 +22,25 @@
         "remote": true
     },
     {
-        "id": "ashby-4f2d9849-ad00-48d5-a22f-0cb943723999",
-        "title": "EDA Cloud & Developer Infrastructure Engineer",
+        "id": "ashby-5ceff3dd-3503-4ea0-9ade-eeb36b29f14e",
+        "title": "Data Scientist, Analytics Enablement",
         "company": "OpenAI",
         "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/4f2d9849-ad00-48d5-a22f-0cb943723999",
+        "job_type": "FullTime, Data Science",
+        "url": "https://jobs.ashbyhq.com/openai/5ceff3dd-3503-4ea0-9ade-eeb36b29f14e",
         "source": "Ashby",
-        "published_at": "2026-11-03T02:37:14.184000+00:00",
+        "published_at": "2026-11-04T02:20:48.500000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-48bd347f-c799-48ac-aa5b-1b0dfbff90f7",
+        "title": "Counsel, AI Safety & Cyber Incident Response",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Legal",
+        "url": "https://jobs.ashbyhq.com/openai/48bd347f-c799-48ac-aa5b-1b0dfbff90f7",
+        "source": "Ashby",
+        "published_at": "2026-11-03T23:25:16.858000+00:00",
         "remote": true
     },
     {
@@ -110,6 +132,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-senior-qa-manager-fully-remote-berlin-156016",
+        "title": "Senior QA Manager - Fully Remote",
+        "company": "SOFTGAMES",
+        "location": "Remote job",
+        "job_type": "Entry, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-qa-manager-fully-remote-berlin-156016",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-04T03:31:37+00:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-3446087",
         "title": "Senior Software Engineer, Backend (Consumer - Risk)",
         "company": "Coinbase",
@@ -121,36 +154,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-ai-solutions-engineer-beratung-und-umsetzung-im-mittelstand-berlin-250733",
-        "title": "Senior AI Solutions Engineer (m/w/d)- Beratung und Umsetzung im Mittelstand",
-        "company": "Neurawork GmbH & Co. KG",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/senior-ai-solutions-engineer-beratung-und-umsetzung-im-mittelstand-berlin-250733",
+        "id": "arbeitnow-power-platform-and-azure-devops-expert-remote-from-eu-amsterdam-110494",
+        "title": "Power Platform and Azure DevOps Expert - remote from EU",
+        "company": "AlmavivA de Belgique",
+        "location": "Remote job",
+        "job_type": "Experienced, freelance",
+        "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/power-platform-and-azure-devops-expert-remote-from-eu-amsterdam-110494",
         "source": "Arbeitnow",
-        "published_at": "2026-11-03T17:00:45+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-ai-platform-engineer-ai-hub-fur-10-unternehmen-berlin-43586",
-        "title": "AI Platform Engineer (m/w/d) | AI Hub für 10+ Unternehmen",
-        "company": "CHAPTERS Group AG",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/ai-platform-engineer-ai-hub-fur-10-unternehmen-berlin-43586",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-03T16:31:06+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-ai-solutions-architect-berlin-436992",
-        "title": "AI Solutions Architect (f/m/d)",
-        "company": "BeNeering GmbH",
-        "location": "Berlin",
-        "job_type": "Permanent employment (unbefristeter arbeitsvertrag), executive",
-        "url": "https://www.arbeitnow.com/jobs/companies/beneering-gmbh/ai-solutions-architect-berlin-436992",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-03T16:01:19+00:00",
+        "published_at": "2026-11-04T03:31:28+00:00",
         "remote": true
     },
     {
@@ -187,36 +198,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-infrastructure-platform-engineer-274392",
-        "title": "Infrastructure / Platform Engineer",
-        "company": "Neuphonic",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/neuphonic/remote-infrastructure-platform-engineer-274392",
+        "id": "arbeitnow-remote-senior-full-stack-engineer-based-in-germany-berlin-352789",
+        "title": "(Senior) Full Stack Engineer (m/f/x) - Based in Germany",
+        "company": "Cara Care",
+        "location": "Berlin, Germany",
+        "job_type": "Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-full-stack-engineer-based-in-germany-berlin-352789",
         "source": "Arbeitnow",
-        "published_at": "2026-11-03T15:40:32+00:00",
+        "published_at": "2026-11-04T00:20:17+00:00",
         "remote": true
     },
     {
-        "id": "greenhouse-3603863",
-        "title": "Software Engineer, Infrastructure Engineering",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8337444",
-        "source": "Greenhouse",
-        "published_at": "2026-11-02T18:28:32-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3590438",
-        "title": "Senior Data Scientist, Platform",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8304052?gh_jid=8304052",
-        "source": "Greenhouse",
-        "published_at": "2026-11-02T18:22:19-05:00",
+        "id": "arbeitnow-remote-senior-full-stack-engineer-based-in-germany-183253",
+        "title": "(Senior) Full Stack Engineer (m/f/x) - Based in Germany",
+        "company": "Cara Care",
+        "location": "Germany",
+        "job_type": "Full time",
+        "url": "https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-full-stack-engineer-based-in-germany-183253",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-04T00:20:17+00:00",
         "remote": true
     },
     {
@@ -231,14 +231,25 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-it-projectmanager-all-genders-microsoft-grossprojekte-berlin-259298",
-        "title": "Senior IT-Projectmanager (all genders): Microsoft-Großprojekte",
-        "company": "mi.ro Personalvermittlung",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/miro-personalvermittlung/senior-it-projectmanager-all-genders-microsoft-grossprojekte-berlin-259298",
+        "id": "arbeitnow-ux-ui-designer-ai-powered-cologne-30977",
+        "title": "UX/UI Designer (m/w/d) – AI-powered",
+        "company": "Digitale Leute School",
+        "location": "Cologne",
+        "job_type": "Befristeter arbeitsvertrag, contract, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/ux-ui-designer-ai-powered-cologne-30977",
         "source": "Arbeitnow",
-        "published_at": "2026-11-03T17:00:47+00:00",
+        "published_at": "2026-11-03T22:00:39+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3603043",
+        "title": "Social Support Specialist I",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8335621?gh_jid=8335621",
+        "source": "Greenhouse",
+        "published_at": "2026-11-03T19:54:24-05:00",
         "remote": true
     },
     {
@@ -250,17 +261,6 @@
         "url": "https://jobs.ashbyhq.com/linear/b4df9dbe-618e-4a3b-874c-c9abf87ca5c0",
         "source": "Ashby",
         "published_at": "2026-11-03T22:24:20.315000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-social-media-content-communications-manager-teilzeit-20-25h-yachting-berlin-284057",
-        "title": "Social Media Content & Communications Manager (m/w/d) Teilzeit (20-25h) / Yachting",
-        "company": "Saleshead Recruiting",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/saleshead-recruiting/social-media-content-communications-manager-teilzeit-20-25h-yachting-berlin-284057",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-03T15:31:09+00:00",
         "remote": true
     }
 ]

@@ -1,16 +1,5 @@
 [
     {
-        "id": "ashby-02b170ae-de32-46f5-8ef1-844b268681fe",
-        "title": "Staff Backend Engineer, Financial Engineering",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/02b170ae-de32-46f5-8ef1-844b268681fe",
-        "source": "Ashby",
-        "published_at": "2026-11-04T00:02:33.947000+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-partner-manager-data-ai-security-475954",
         "title": "Senior Partner Manager - Data & AI Security",
         "company": "veeamsoftware",
@@ -77,39 +66,6 @@
         "remote": true
     },
     {
-        "id": "ashby-5ceff3dd-3503-4ea0-9ade-eeb36b29f14e",
-        "title": "Data Scientist, Analytics Enablement",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Data Science",
-        "url": "https://jobs.ashbyhq.com/openai/5ceff3dd-3503-4ea0-9ade-eeb36b29f14e",
-        "source": "Ashby",
-        "published_at": "2026-11-04T02:20:48.500000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-48bd347f-c799-48ac-aa5b-1b0dfbff90f7",
-        "title": "Counsel, AI Safety & Cyber Incident Response",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Legal",
-        "url": "https://jobs.ashbyhq.com/openai/48bd347f-c799-48ac-aa5b-1b0dfbff90f7",
-        "source": "Ashby",
-        "published_at": "2026-11-03T23:25:16.858000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-python-django-entwickler-fullstack-rest-ci-cd-stuttgart-166406",
-        "title": "Python / Django Entwickler (m/w/d) – Fullstack, REST, CI/CD",
-        "company": "Rockstardevelopers GmbH",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/python-django-entwickler-fullstack-rest-ci-cd-stuttgart-166406",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-04T19:47:46+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-6511d68f-b65d-4499-962f-7e2f75eabe3f",
         "title": "Software Engineer, Frontend",
         "company": "Ramp",
@@ -118,6 +74,17 @@
         "url": "https://jobs.ashbyhq.com/ramp/6511d68f-b65d-4499-962f-7e2f75eabe3f",
         "source": "Ashby",
         "published_at": "2026-11-04T19:56:37.701000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-activation-and-production-testing-specialist-171647",
+        "title": "Activation and Production Testing Specialist",
+        "company": "Hopae",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/hopae/remote-activation-and-production-testing-specialist-171647",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-05T00:40:12+00:00",
         "remote": true
     },
     {
@@ -154,14 +121,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-power-platform-and-azure-devops-expert-remote-from-eu-amsterdam-110494",
-        "title": "Power Platform and Azure DevOps Expert - remote from EU",
-        "company": "AlmavivA de Belgique",
-        "location": "Remote job",
-        "job_type": "Experienced, freelance",
-        "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/power-platform-and-azure-devops-expert-remote-from-eu-amsterdam-110494",
+        "id": "arbeitnow-sales-manager-ch-ki-software-fur-psychotherapeutinnen-zurich-223149",
+        "title": "Sales Manager CH, KI-Software für Psychotherapeut:innen",
+        "company": "VIA HealthTech",
+        "location": "Zürich",
+        "job_type": "Unbefristeter arbeitsvertrag, teamleitung",
+        "url": "https://www.arbeitnow.ch/jobs/companies/via-healthtech/sales-manager-ch-ki-software-fur-psychotherapeutinnen-zurich-223149",
         "source": "Arbeitnow",
-        "published_at": "2026-11-04T03:31:28+00:00",
+        "published_at": "2026-11-04T22:30:52+00:00",
         "remote": true
     },
     {
@@ -173,17 +140,6 @@
         "url": "https://jobs.ashbyhq.com/openai/67c67c36-e710-4f21-bd9c-759eb72cfabf",
         "source": "Ashby",
         "published_at": "2026-11-04T18:38:53.408000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3603042",
-        "title": "Social Support Specialist I",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618",
-        "source": "Greenhouse",
-        "published_at": "2026-11-03T19:52:09-05:00",
         "remote": true
     },
     {

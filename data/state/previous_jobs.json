@@ -22,72 +22,6 @@
         "remote": true
     },
     {
-        "id": "ashby-a12c3c93-51df-437d-862f-4892367fea32",
-        "title": "Forward Deployed Engineer (FDE), Life Sciences - NYC",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Forward Deployed Engineering",
-        "url": "https://jobs.ashbyhq.com/openai/a12c3c93-51df-437d-862f-4892367fea32",
-        "source": "Ashby",
-        "published_at": "2026-11-06T19:30:22.727000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-gmp-manufacturing-ai-advisor-remote-zurich-41685",
-        "title": "Senior GMP Manufacturing & AI Advisor (remote)",
-        "company": "Coopers Group AG",
-        "location": "Zürich",
-        "job_type": "Freiberufler / selbstständiger, freelance, berufserfahren",
-        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-gmp-manufacturing-ai-advisor-remote-zurich-41685",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-06T14:31:18+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3611826",
-        "title": "Staff Software Engineer - Backend (Consumer - Agentic Trading)",
-        "company": "Coinbase",
-        "location": "Remote - Canada",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8359515?gh_jid=8359515",
-        "source": "Greenhouse",
-        "published_at": "2026-11-06T12:12:07-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3611826",
-        "title": "Staff Software Engineer - Backend (Consumer - Agentic Trading)",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8356846?gh_jid=8356846",
-        "source": "Greenhouse",
-        "published_at": "2026-11-06T12:12:06-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3611827",
-        "title": "Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading)",
-        "company": "Coinbase",
-        "location": "Remote - Canada",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8359446?gh_jid=8359446",
-        "source": "Greenhouse",
-        "published_at": "2026-11-06T11:55:54-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3611827",
-        "title": "Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading)",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8356850?gh_jid=8356850",
-        "source": "Greenhouse",
-        "published_at": "2026-11-06T11:25:17-05:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-software-engineer-ai-assisted-development-basel-371528",
         "title": "Software Engineer – AI-Assisted Development (m/w/d)",
         "company": "DocCheck AG",
@@ -110,124 +44,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-design-engineer-deel-395604",
-        "title": "Senior Design Engineer | Deel",
-        "company": "Hirehire",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-senior-design-engineer-deel-395604",
+        "id": "arbeitnow-remote-chief-information-security-officer-berlin-162086",
+        "title": "Chief Information Security Officer",
+        "company": "Decentralized Masters",
+        "location": "Berlin, Germany",
+        "job_type": "Full time, director",
+        "url": "https://www.arbeitnow.com/jobs/companies/decentralized-masters/remote-chief-information-security-officer-berlin-162086",
         "source": "Arbeitnow",
-        "published_at": "2026-11-07T06:40:28+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-forward-deployed-engineer-canada-170128",
-        "title": "Senior Forward Deployed Engineer - Canada",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-forward-deployed-engineer-canada-170128",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-07T06:40:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-sales-engineer-north-america-441824",
-        "title": "Senior Sales Engineer - North America",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-north-america-441824",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-07T06:40:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-sales-engineer-dach-223556",
-        "title": "Senior Sales Engineer - DACH",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-dach-223556",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-07T06:40:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-middle-senior-staff-site-reliability-engineer-k8s-1859",
-        "title": "Middle/Senior/Staff Site Reliability Engineer (K8s)",
-        "company": "Npv",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/npv/remote-middle-senior-staff-site-reliability-engineer-k8s-1859",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-07T03:40:27+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-127371",
-        "title": "Sales Account Executive - Cybersecurity",
-        "company": "Crowdsec",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-127371",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-07T03:31:29+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6574514002",
-        "title": "Senior Professional Services Engineer - North Carolina",
-        "company": "GitLab",
-        "location": "Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8920764002",
-        "source": "Greenhouse",
-        "published_at": "2026-11-06T16:25:46-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3608127",
-        "title": "Senior Machine Learning Engineer",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8347602?gh_jid=8347602",
-        "source": "Greenhouse",
-        "published_at": "2026-11-06T16:01:16-05:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-6075e1dc-c833-4e27-a789-61d3a596c66c",
-        "title": "Senior Security Engineer, Identity",
-        "company": "Ramp",
-        "location": "Remote",
-        "job_type": "FullTime, Security",
-        "url": "https://jobs.ashbyhq.com/ramp/6075e1dc-c833-4e27-a789-61d3a596c66c",
-        "source": "Ashby",
-        "published_at": "2026-11-06T19:57:59.753000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3220851",
-        "title": "Infrastructure Software Engineer",
-        "company": "Dropbox",
-        "location": "Remote - Mexico",
-        "job_type": "Full Time",
-        "url": "https://jobs.dropbox.com/listing/7172713?gh_jid=7172713",
-        "source": "Greenhouse",
-        "published_at": "2026-11-06T13:35:23-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3612138",
-        "title": "Senior Software Engineer (Institutional, USDC)",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8357772?gh_jid=8357772",
-        "source": "Greenhouse",
-        "published_at": "2026-11-06T11:21:25-05:00",
+        "published_at": "2026-11-07T18:20:14+00:00",
         "remote": true
     },
     {
@@ -242,17 +66,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-ap-ar-assistant-397527",
-        "title": "AP/AR Assistant",
-        "company": "Uforce",
-        "location": "United Kingdom | Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/uforce/remote-ap-ar-assistant-397527",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-07T06:40:29+00:00",
-        "remote": false
-    },
-    {
         "id": "greenhouse-6577698002",
         "title": "Executive Assistant, Office of the CFO",
         "company": "GitLab",
@@ -261,17 +74,6 @@
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928552002",
         "source": "Greenhouse",
         "published_at": "2026-11-06T19:43:56-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3549751",
-        "title": "Senior Product Designer, Ads",
-        "company": "Reddit",
-        "location": "Remote - United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/reddit/jobs/8201913",
-        "source": "Greenhouse",
-        "published_at": "2026-11-06T14:57:17-05:00",
         "remote": true
     }
 ]

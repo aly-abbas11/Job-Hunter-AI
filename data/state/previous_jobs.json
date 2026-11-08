@@ -154,17 +154,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-staff-platform-engineer-382004",
-        "title": "(Senior/Staff) Platform Engineer",
-        "company": "Duna",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.nl/jobs/companies/duna/remote-senior-staff-platform-engineer-382004",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-07T06:40:31+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-chief-information-security-officer-amsterdam-193201",
         "title": "Chief Information Security Officer",
         "company": "Decentralized Masters",
@@ -174,5 +163,16 @@
         "source": "Arbeitnow",
         "published_at": "2026-11-07T22:20:05+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-web-designer-at-aios-remote-75k-150k-yr-including-equity-berlin-388201",
+        "title": "Web Designer at AIOS — Remote, $75k-$150k/yr (including equity)",
+        "company": "AIOS (YC W20/S21)",
+        "location": "Remote (EU)",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/aios-yc-w20s21/web-designer-at-aios-remote-75k-150k-yr-including-equity-berlin-388201",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-08T06:40:11+00:00",
+        "remote": false
     }
 ]

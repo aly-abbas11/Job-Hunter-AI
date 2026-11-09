@@ -1,36 +1,36 @@
 [
     {
-        "id": "arbeitnow-international-data-acquisition-manager-london-167894",
-        "title": "International Data Acquisition Manager",
-        "company": "Socure",
-        "location": "United Kingdom - Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/socure/international-data-acquisition-manager-london-167894",
+        "id": "arbeitnow-junior-backend-developer-python-20h-stellenbeschreibung-read-description-before-werther-188721",
+        "title": "Junior Backend Developer (Python) (M/W/D) 20H Stellenbeschreibung Read Description Before",
+        "company": "uNaice GmbH",
+        "location": "Werther",
+        "job_type": "Unbefristeter arbeitsvertrag",
+        "url": "https://www.arbeitnow.com/jobs/companies/unaice-gmbh/junior-backend-developer-python-20h-stellenbeschreibung-read-description-before-werther-188721",
         "source": "Arbeitnow",
-        "published_at": "2026-11-08T12:40:15+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-senior-backend-software-engineer-ruby-on-rails-359527",
-        "title": "Senior Backend Software Engineer (Ruby on Rails)",
-        "company": "Pennylane SAS",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-backend-software-engineer-ruby-on-rails-359527",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-08T15:40:18+00:00",
+        "published_at": "2026-11-09T13:01:02+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-head-of-gtm-systems-ai-231440",
-        "title": "Head of GTM Systems & AI (m/f/d)",
-        "company": "360Learning",
-        "location": "Berlin, Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-head-of-gtm-systems-ai-231440",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-09T00:07:20+00:00",
-        "remote": false
+        "id": "ashby-0cbc002e-bd6e-4aa3-9dbc-ed7fe59511ea",
+        "title": "Applied AI Engineer, Large Enterprise",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/0cbc002e-bd6e-4aa3-9dbc-ed7fe59511ea",
+        "source": "Ashby",
+        "published_at": "2026-11-09T13:58:27.834000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-110d820b-fcbe-4f02-9203-5b6145132e60",
+        "title": "Sales Manager, Enterprise - Japan",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/110d820b-fcbe-4f02-9203-5b6145132e60",
+        "source": "Ashby",
+        "published_at": "2026-11-09T12:06:24.552000+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-head-of-gtm-systems-ai-121843",
@@ -55,25 +55,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-servicenow-ai-architect-zurich-455252",
-        "title": "ServiceNow AI Architect",
-        "company": "SwissPeak Partners GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-455252",
+        "id": "arbeitnow-founding-full-stack-engineer-berlin-62731",
+        "title": "Founding Full-Stack Engineer",
+        "company": "planqor.ai",
+        "location": "Berlin",
+        "job_type": "Permanent employment, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/planqorai/founding-full-stack-engineer-berlin-62731",
         "source": "Arbeitnow",
-        "published_at": "2026-11-08T12:31:22+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-fullstack-software-engineer-ruby-react-ts-388753",
-        "title": "Senior Fullstack Software Engineer (Ruby/React & TS)",
-        "company": "Pennylane SAS",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-fullstack-software-engineer-ruby-react-ts-388753",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-08T15:40:18+00:00",
+        "published_at": "2026-11-09T12:31:07+00:00",
         "remote": true
     },
     {
@@ -88,6 +77,39 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-senior-sales-engineer-berlin-77094",
+        "title": "Senior Sales Engineer (m/w/d)",
+        "company": "Natuvion GmbH",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sales-engineer-berlin-77094",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-09T12:31:12+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-java-fullstack-software-engineer-spring-boot-angular-bern-241500",
+        "title": "Java Fullstack Software Engineer (Spring Boot / Angular)",
+        "company": "Coopers Group AG",
+        "location": "Bern",
+        "job_type": "Interim, interim, berufserfahren",
+        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/java-fullstack-software-engineer-spring-boot-angular-bern-241500",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-09T11:01:03+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-2d-game-developer-defold-remote-worldwide-amsterdam-139626",
+        "title": "2D Game Developer (Defold) (Remote-Worldwide)",
+        "company": "Your Software Supplier",
+        "location": "Amsterdam",
+        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
+        "url": "https://www.arbeitnow.nl/jobs/companies/your-software-supplier/2d-game-developer-defold-remote-worldwide-amsterdam-139626",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-09T09:01:09+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-area-pre-sales-engineer-france-strasbourg-461107",
         "title": "Area Pre-Sales Engineer France",
         "company": "Ajax Systems",
@@ -97,38 +119,5 @@
         "source": "Arbeitnow",
         "published_at": "2026-11-09T00:07:23+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-software-test-engineer-bern-255669",
-        "title": "Software Test Engineer",
-        "company": "SwissPeak Partners GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-255669",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-08T12:31:22+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-424126",
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-424126",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-08T18:31:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-support-engineer-paygo-317778",
-        "title": "Support Engineer, PAYGO",
-        "company": "Exa",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/exa/remote-support-engineer-paygo-317778",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-09T03:40:30+00:00",
-        "remote": true
     }
 ]

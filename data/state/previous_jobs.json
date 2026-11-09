@@ -22,6 +22,28 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-head-of-gtm-systems-ai-231440",
+        "title": "Head of GTM Systems & AI (m/f/d)",
+        "company": "360Learning",
+        "location": "Berlin, Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-head-of-gtm-systems-ai-231440",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-09T00:07:20+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-head-of-gtm-systems-ai-121843",
+        "title": "Head of GTM Systems & AI",
+        "company": "360Learning",
+        "location": "Paris, Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-head-of-gtm-systems-ai-121843",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-09T00:07:20+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-0ed12b35-0115-4ad3-81f5-ea1bb05c9f6b",
         "title": "White Space Manager, Network & Data Halls",
         "company": "OpenAI",
@@ -55,6 +77,28 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-freelance-e-commerce-operations-ai-manager-right-hand-to-the-cbo-25-30h-week-amsterdam-176895",
+        "title": "Freelance E-Commerce Operations & AI Manager - Right Hand to the CBO - 25 - 30h/week",
+        "company": "Time to hire",
+        "location": "Amsterdam",
+        "job_type": "Self-employed/freelance (zzp - zelfstandige zonder personeel), freelance, manager",
+        "url": "https://www.arbeitnow.nl/jobs/companies/time-to-hire/freelance-e-commerce-operations-ai-manager-right-hand-to-the-cbo-25-30h-week-amsterdam-176895",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-08T22:00:39+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-area-pre-sales-engineer-france-strasbourg-461107",
+        "title": "Area Pre-Sales Engineer France",
+        "company": "Ajax Systems",
+        "location": "Strasbourg",
+        "job_type": "Full-time, Remote",
+        "url": "https://www.arbeitnow.fr/jobs/companies/ajax-systems/area-pre-sales-engineer-france-strasbourg-461107",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-09T00:07:23+00:00",
+        "remote": false
+    },
+    {
         "id": "arbeitnow-remote-software-test-engineer-bern-255669",
         "title": "Software Test Engineer",
         "company": "SwissPeak Partners GmbH",
@@ -77,25 +121,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-chief-information-security-officer-amsterdam-193201",
-        "title": "Chief Information Security Officer",
-        "company": "Decentralized Masters",
-        "location": "Amsterdam, Netherlands",
-        "job_type": "Full time, director",
-        "url": "https://www.arbeitnow.nl/jobs/companies/decentralized-masters/remote-chief-information-security-officer-amsterdam-193201",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-07T22:20:05+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-web-designer-at-aios-remote-75k-150k-yr-including-equity-berlin-388201",
-        "title": "Web Designer at AIOS — Remote, $75k-$150k/yr (including equity)",
-        "company": "AIOS (YC W20/S21)",
-        "location": "Remote (EU)",
+        "id": "arbeitnow-remote-support-engineer-paygo-317778",
+        "title": "Support Engineer, PAYGO",
+        "company": "Exa",
+        "location": "Remote",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/aios-yc-w20s21/web-designer-at-aios-remote-75k-150k-yr-including-equity-berlin-388201",
+        "url": "https://www.arbeitnow.com/jobs/companies/exa/remote-support-engineer-paygo-317778",
         "source": "Arbeitnow",
-        "published_at": "2026-11-08T06:40:11+00:00",
-        "remote": false
+        "published_at": "2026-11-09T03:40:30+00:00",
+        "remote": true
     }
 ]

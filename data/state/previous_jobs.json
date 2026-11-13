@@ -1,13 +1,46 @@
 [
     {
-        "id": "arbeitnow-senior-qa-manager-automation-ai-fully-remote-berlin-71172",
-        "title": "Senior QA Manager Automation & AI - Fully Remote",
-        "company": "SOFTGAMES",
-        "location": "Remote job",
-        "job_type": "Entry, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-qa-manager-automation-ai-fully-remote-berlin-71172",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-12T21:31:40+00:00",
+        "id": "ashby-b1d19dac-065d-42d3-9f2c-97cc3fe73cdf",
+        "title": "Regional Client Partner, Ads Solutions",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/b1d19dac-065d-42d3-9f2c-97cc3fe73cdf",
+        "source": "Ashby",
+        "published_at": "2026-11-13T09:56:54.746000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-fd14915c-7d0f-4ede-a88a-31093211a656",
+        "title": "Customer Success Manager, Ads Solutions",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/fd14915c-7d0f-4ede-a88a-31093211a656",
+        "source": "Ashby",
+        "published_at": "2026-11-13T09:55:58.182000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-a3ee806c-74c3-4e51-a773-203555f885fe",
+        "title": "Head of UK, Ad Solutions",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/a3ee806c-74c3-4e51-a773-203555f885fe",
+        "source": "Ashby",
+        "published_at": "2026-11-13T09:45:51.908000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-bb514c6a-7df6-48e6-a6a6-ccec6669b981",
+        "title": "Head of Agency, EMEA - Ad Solutions",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/bb514c6a-7df6-48e6-a6a6-ccec6669b981",
+        "source": "Ashby",
+        "published_at": "2026-11-13T09:42:00.022000+00:00",
         "remote": true
     },
     {
@@ -132,14 +165,14 @@
         "remote": true
     },
     {
-        "id": "ashby-ec3a6550-7e29-46e7-abb8-0c326f39cc2b",
-        "title": "Partnerships Lead, Northern Europe",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/ec3a6550-7e29-46e7-abb8-0c326f39cc2b",
-        "source": "Ashby",
-        "published_at": "2026-11-12T11:30:35.493000+00:00",
+        "id": "arbeitnow-remote-senior-cloud-engineer-utrecht-183144",
+        "title": "Senior Cloud Engineer",
+        "company": "Luscii",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.nl/jobs/companies/luscii/remote-senior-cloud-engineer-utrecht-183144",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-13T09:31:33+00:00",
         "remote": true
     },
     {
@@ -154,15 +187,26 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-staff-platform-engineer-rust-228633",
-        "title": "Senior/Staff Platform Engineer - Rust (d/f/m)",
-        "company": "Luminovo GmbH",
-        "location": "🇪🇺 Germany (remote)",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/luminovo-gmbh/remote-senior-staff-platform-engineer-rust-228633",
+        "id": "arbeitnow-remote-software-test-engineer-bern-98324",
+        "title": "Software Test Engineer",
+        "company": "SwissPeak Partners GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-98324",
         "source": "Arbeitnow",
-        "published_at": "2026-11-13T00:40:10+00:00",
-        "remote": false
+        "published_at": "2026-11-13T09:31:36+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-principal-infrastructure-engineer-14603",
+        "title": "Principal Infrastructure Engineer",
+        "company": "Sezzle",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.fr/jobs/companies/sezzle/remote-principal-infrastructure-engineer-14603",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-13T06:55:15+00:00",
+        "remote": true
     },
     {
         "id": "ashby-b7fd55f4-6c5a-42f5-be04-aa09a4d5b7a9",
@@ -264,14 +308,58 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-ux-research-intern-berlin-272486",
-        "title": "UX Research Intern",
-        "company": "baesh social UG",
+        "id": "arbeitnow-principal-consultant-engagement-lead-qa-advisory-berlin-180501",
+        "title": "Principal Consultant – Engagement Lead QA & Advisory (m/w/d)",
+        "company": "QESTIT",
         "location": "Berlin",
-        "job_type": "Internship (praktikum), internship, no experience required / student",
-        "url": "https://www.arbeitnow.com/jobs/companies/baesh-social-ug/ux-research-intern-berlin-272486",
+        "job_type": "Unbefristeter arbeitsvertrag, geschäftsleitung",
+        "url": "https://www.arbeitnow.com/jobs/companies/qestit/principal-consultant-engagement-lead-qa-advisory-berlin-180501",
         "source": "Arbeitnow",
-        "published_at": "2026-11-12T23:30:35+00:00",
+        "published_at": "2026-11-13T12:00:57+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-it-systems-engineer-windows-finance-berlin-177743",
+        "title": "(Senior) IT Systems Engineer Windows Finance (m/w/d)",
+        "company": "noris network AG",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/noris-network-ag/senior-it-systems-engineer-windows-finance-berlin-177743",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-13T12:30:58+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-vertriebsmitarbeiter-it-infrastruktur-berlin-184325",
+        "title": "Vertriebsmitarbeiter IT-Infrastruktur (m/w/d)",
+        "company": "MintCode Solutions GmbH",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufseinstieg",
+        "url": "https://www.arbeitnow.com/jobs/companies/mintcode-solutions-gmbh/vertriebsmitarbeiter-it-infrastruktur-berlin-184325",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-13T11:31:12+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-pflichtpraktikum-social-media-remote-konstanz-479224",
+        "title": "Pflichtpraktikum Social Media (Remote) (m/w/d)",
+        "company": "vermaye GmbH",
+        "location": "Konstanz",
+        "job_type": "Praktikum, internship, hilfstätigkeit / student",
+        "url": "https://www.arbeitnow.com/jobs/companies/vermaye-gmbh/pflichtpraktikum-social-media-remote-konstanz-479224",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-13T13:01:10+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-werkstudent-intern-social-media-content-creator-berlin-157835",
+        "title": "Werkstudent / Intern (m/w/d) Social Media & Content Creator",
+        "company": "Beglaubigt.de",
+        "location": "Berlin",
+        "job_type": "Werkstudent, working student, hilfstätigkeit / student",
+        "url": "https://www.arbeitnow.com/jobs/companies/beglaubigtde/werkstudent-intern-social-media-content-creator-berlin-157835",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-13T13:01:08+00:00",
         "remote": true
     },
     {
@@ -286,25 +374,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-game-designer-systems-economy-fully-remote-berlin-338173",
-        "title": "Senior Game Designer - Systems & Economy - Fully Remote",
-        "company": "SOFTGAMES",
-        "location": "Remote job",
-        "job_type": "Mid, freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-game-designer-systems-economy-fully-remote-berlin-338173",
+        "id": "arbeitnow-remote-job-homeoffice-job-als-social-media-und-promo-mitarbeiter-in-zurich-156314",
+        "title": "Remote Job / Homeoffice Job als Social Media und Promo Mitarbeiter-/in",
+        "company": "HomeOfficeClub.ch",
+        "location": "Zürich",
+        "job_type": "Teilzeitbeschäftigung, hilfstätigkeit / student",
+        "url": "https://www.arbeitnow.ch/jobs/companies/homeofficeclubch/remote-job-homeoffice-job-als-social-media-und-promo-mitarbeiter-in-zurich-156314",
         "source": "Arbeitnow",
-        "published_at": "2026-11-12T21:31:40+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-ui-engineer-based-in-ca-or-nc-only-47794",
-        "title": "UI Engineer (Based in CA or NC only)",
-        "company": "Bluerocksecurity",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/bluerocksecurity/remote-ui-engineer-based-in-ca-or-nc-only-47794",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-12T18:40:15+00:00",
+        "published_at": "2026-11-13T10:31:23+00:00",
         "remote": true
     }
 ]

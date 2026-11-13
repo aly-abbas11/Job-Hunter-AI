@@ -11,6 +11,28 @@
         "remote": true
     },
     {
+        "id": "ashby-5a55fa31-64fd-4bf9-8c12-48f0d6fe1d69",
+        "title": "Partner Director, IBM North America",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/5a55fa31-64fd-4bf9-8c12-48f0d6fe1d69",
+        "source": "Ashby",
+        "published_at": "2026-11-12T23:54:49.054000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-fcfc366b-354d-4604-9fc3-ede92e531a61",
+        "title": "Partner Director, EY North America",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/fcfc366b-354d-4604-9fc3-ede92e531a61",
+        "source": "Ashby",
+        "published_at": "2026-11-12T23:16:36.183000+00:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-3615227",
         "title": "Product Manager, AI Foundations",
         "company": "Reddit",
@@ -132,6 +154,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-senior-staff-platform-engineer-rust-228633",
+        "title": "Senior/Staff Platform Engineer - Rust (d/f/m)",
+        "company": "Luminovo GmbH",
+        "location": "🇪🇺 Germany (remote)",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/luminovo-gmbh/remote-senior-staff-platform-engineer-rust-228633",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-13T00:40:10+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-b7fd55f4-6c5a-42f5-be04-aa09a4d5b7a9",
         "title": "Senior Design Systems Engineer",
         "company": "Ramp",
@@ -141,17 +174,6 @@
         "source": "Ashby",
         "published_at": "2026-11-12T20:01:54.072000+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-infrastructure-engineer-london-356073",
-        "title": "Infrastructure Engineer",
-        "company": "Griffin",
-        "location": "London or remote within the UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/griffin/infrastructure-engineer-london-356073",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-12T18:40:18+00:00",
-        "remote": false
     },
     {
         "id": "greenhouse-3600097",
@@ -242,14 +264,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-consultant-informationssicherheit-bsi-it-grundschutz-berlin-157451",
-        "title": "Senior Consultant Informationssicherheit & BSI IT-Grundschutz (d/w/m)",
-        "company": "XAAS",
+        "id": "arbeitnow-ux-research-intern-berlin-272486",
+        "title": "UX Research Intern",
+        "company": "baesh social UG",
         "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/xaas/senior-consultant-informationssicherheit-bsi-it-grundschutz-berlin-157451",
+        "job_type": "Internship (praktikum), internship, no experience required / student",
+        "url": "https://www.arbeitnow.com/jobs/companies/baesh-social-ug/ux-research-intern-berlin-272486",
         "source": "Arbeitnow",
-        "published_at": "2026-11-12T15:01:31+00:00",
+        "published_at": "2026-11-12T23:30:35+00:00",
         "remote": true
     },
     {

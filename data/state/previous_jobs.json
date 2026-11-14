@@ -33,136 +33,15 @@
         "remote": true
     },
     {
-        "id": "ashby-fa49d49e-0a9b-4927-898e-2e3faa6be981",
-        "title": "Account Associate - Austin",
-        "company": "OpenAI",
+        "id": "arbeitnow-remote-software-engineer-all-levels-united-kingdom-213631",
+        "title": "Software Engineer (All Levels), United Kingdom",
+        "company": "Koboldmetals",
         "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/fa49d49e-0a9b-4927-898e-2e3faa6be981",
-        "source": "Ashby",
-        "published_at": "2026-11-13T21:51:45.714000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-55f36629-8351-41d9-b2f5-3d63c5e26bf7",
-        "title": "Account Associate - NYC",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/55f36629-8351-41d9-b2f5-3d63c5e26bf7",
-        "source": "Ashby",
-        "published_at": "2026-11-13T21:51:42.294000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-58b0c1ff-9a9a-4a8a-a7eb-97618713574d",
-        "title": "GTM Strategy & Operations, Generalist",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/58b0c1ff-9a9a-4a8a-a7eb-97618713574d",
-        "source": "Ashby",
-        "published_at": "2026-11-13T21:34:19.279000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-cc1ea124-47ad-4b81-9e4e-0c69e525b62a",
-        "title": "Full Stack Software Engineer, Consumer Health",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/cc1ea124-47ad-4b81-9e4e-0c69e525b62a",
-        "source": "Ashby",
-        "published_at": "2026-11-13T21:10:12.048000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-26cfb873-f30a-4a13-b7b6-52833ea48ec9",
-        "title": "Full Stack Software Engineer, ChatGPT Finances",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/26cfb873-f30a-4a13-b7b6-52833ea48ec9",
-        "source": "Ashby",
-        "published_at": "2026-11-13T20:57:10.105000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3602614",
-        "title": "Policy Lead, AI Infrastructure",
-        "company": "Stripe",
-        "location": "US-Remote",
-        "job_type": "Full Time",
-        "url": "https://stripe.com/jobs/search?gh_jid=8334556",
-        "source": "Greenhouse",
-        "published_at": "2026-11-13T13:15:30-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3568354",
-        "title": "Software Engineer, Profile & Community, Android",
-        "company": "Airbnb",
-        "location": "Remote, USA",
-        "job_type": "Full Time",
-        "url": "https://careers.airbnb.com/positions/8386083?gh_jid=8386083",
-        "source": "Greenhouse",
-        "published_at": "2026-11-13T12:46:04-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3565522",
-        "title": "Software Engineer, Profile & Community, Web",
-        "company": "Airbnb",
-        "location": "Remote, USA",
-        "job_type": "Full Time",
-        "url": "https://careers.airbnb.com/positions/8386065?gh_jid=8386065",
-        "source": "Greenhouse",
-        "published_at": "2026-11-13T12:39:47-05:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-38e66047-7d81-4347-8e64-2c16bc9a803a",
-        "title": "Strategic Delivery Lead, National Security",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, OpenAI for Gov",
-        "url": "https://jobs.ashbyhq.com/openai/38e66047-7d81-4347-8e64-2c16bc9a803a",
-        "source": "Ashby",
-        "published_at": "2026-11-13T16:52:35.450000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-6e717b06-6613-42ad-a1ee-f852a305fa37",
-        "title": "Software Engineer, Fullstack, Spend Controls",
-        "company": "Ramp",
-        "location": "Remote",
-        "job_type": "FullTime, Engineering",
-        "url": "https://jobs.ashbyhq.com/ramp/6e717b06-6613-42ad-a1ee-f852a305fa37",
-        "source": "Ashby",
-        "published_at": "2026-11-13T21:52:14.463000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6581415002",
-        "title": "Senior Backend Engineer (Go), Tenant Scales: Gitaly",
-        "company": "GitLab",
-        "location": "Remote, Canada",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937425002",
-        "source": "Greenhouse",
-        "published_at": "2026-11-13T09:29:07-05:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-software-engineer-appsec-175070",
-        "title": "Senior Software Engineer (AppSec)",
-        "company": "Triggerdev",
-        "location": "Remote or Hybrid UK",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/triggerdev/remote-senior-software-engineer-appsec-175070",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/koboldmetals/remote-software-engineer-all-levels-united-kingdom-213631",
         "source": "Arbeitnow",
-        "published_at": "2026-11-14T09:40:22+00:00",
-        "remote": false
+        "published_at": "2026-11-14T12:55:23+00:00",
+        "remote": true
     },
     {
         "id": "arbeitnow-remote-technical-program-manager-software-197537",
@@ -206,28 +85,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-lead-security-engineer-berlin-229517",
         "source": "Arbeitnow",
         "published_at": "2026-11-14T06:31:30+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3619629",
-        "title": "Senior iOS Engineer",
-        "company": "Instacart",
-        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8386574",
-        "source": "Greenhouse",
-        "published_at": "2026-11-13T15:53:53-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3615393",
-        "title": "Staff Software Engineer, TRUST Network",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8368472?gh_jid=8368472",
-        "source": "Greenhouse",
-        "published_at": "2026-11-13T12:16:25-05:00",
         "remote": true
     },
     {

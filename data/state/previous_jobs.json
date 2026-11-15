@@ -1,13 +1,24 @@
 [
     {
-        "id": "arbeitnow-remote-ai-integration-automation-engineer-ger-128389",
-        "title": "AI Integration & Automation Engineer (m/w/d) GER",
-        "company": "Customs Support Group",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-128389",
+        "id": "ashby-2320fe69-df26-4d1d-ada6-d1a46c0e68a1",
+        "title": "Full Stack Software Engineer, Travel",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/2320fe69-df26-4d1d-ada6-d1a46c0e68a1",
+        "source": "Ashby",
+        "published_at": "2026-11-15T21:10:17.443000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-infrastructure-solutions-engineer-316487",
+        "title": "Senior Infrastructure Solutions Engineer",
+        "company": "planetlabs",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-senior-infrastructure-solutions-engineer-316487",
         "source": "Arbeitnow",
-        "published_at": "2026-11-14T21:31:26+00:00",
+        "published_at": "2026-11-15T21:55:28+00:00",
         "remote": true
     },
     {
@@ -33,37 +44,15 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-senior-site-reliability-engineer-sre-berlin-312709",
-        "title": "Senior Site Reliability Engineer (SRE) m/f/x",
-        "company": "Makersite GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-312709",
+        "id": "arbeitnow-developer-community-lead-berlin-444293",
+        "title": "Developer Community Lead",
+        "company": "RhymeQ Technologies GmbH",
+        "location": "Berlin",
+        "job_type": "Permanent employment, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/rhymeq-technologies-gmbh/developer-community-lead-berlin-444293",
         "source": "Arbeitnow",
-        "published_at": "2026-11-14T21:31:31+00:00",
+        "published_at": "2026-11-15T20:00:29+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-product-engineer-remote-oder-karlsruhe-193000",
-        "title": "Product Engineer (m/w/d) - remote oder Karlsruhe",
-        "company": "Knuddels GmbH & Co. KG",
-        "location": "Homeoffice",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/product-engineer-remote-oder-karlsruhe-193000",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-14T21:31:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-security-engineer-appsec-40606",
-        "title": "Senior Security Engineer - AppSec (d/f/m)",
-        "company": "Vivenu",
-        "location": "Remote Germany",
-        "job_type": "Full time",
-        "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-senior-security-engineer-appsec-40606",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-14T21:26:38+00:00",
-        "remote": false
     },
     {
         "id": "arbeitnow-remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
@@ -75,5 +64,16 @@
         "source": "Arbeitnow",
         "published_at": "2026-11-15T03:31:13+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-head-of-ux-381333",
+        "title": "Remote Head of UX (m/f/d)",
+        "company": "Roompricegenie",
+        "location": "Remote Germany",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-head-of-ux-381333",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-15T15:40:12+00:00",
+        "remote": false
     }
 ]

@@ -11,15 +11,15 @@
         "remote": true
     },
     {
-        "id": "ashby-1ea4eda8-b420-4391-bb58-cd21e189a863",
-        "title": "Enterprise Sales Manager, Healthcare & Life Sciences",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/1ea4eda8-b420-4391-bb58-cd21e189a863",
-        "source": "Ashby",
-        "published_at": "2026-11-14T05:08:19.885000+00:00",
-        "remote": true
+        "id": "arbeitnow-remote-platform-engineer-34275",
+        "title": "Platform Engineer",
+        "company": "Finmid.com",
+        "location": "Berlin / Greece / Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/finmidcom/remote-platform-engineer-34275",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-15T09:40:17+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-senior-data-analyst-berlin-443903",
@@ -30,17 +30,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-data-analyst-berlin-443903",
         "source": "Arbeitnow",
         "published_at": "2026-11-15T03:40:10+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-senior-strategic-it-account-executive-tunbridge-wells-244410",
-        "title": "Senior Strategic IT Account Executive",
-        "company": "Infinitygroup",
-        "location": "Tunbridge Wells",
-        "job_type": "Full Time (Remote / Hybrid)",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/infinitygroup/senior-strategic-it-account-executive-tunbridge-wells-244410",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-15T03:27:14+00:00",
         "remote": false
     },
     {
@@ -77,17 +66,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-remote-technical-program-manager-software-197537",
-        "title": "Technical Program Manager, Software",
-        "company": "Swarmaero",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-technical-program-manager-software-197537",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-14T09:40:20+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
         "title": "Senior Data Engineer & Consultant (all genders) – Microsoft Fabric",
         "company": "teccle group GmbH",
@@ -96,17 +74,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
         "source": "Arbeitnow",
         "published_at": "2026-11-15T03:31:13+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-social-media-ai-manager-quereinstieg-homeoffice-vollzeit-oder-teilzeit-berlin-474717",
-        "title": "Social Media & AI Manager (m/w/d) – Quereinstieg | Homeoffice | Vollzeit oder Teilzeit",
-        "company": "Digital Evolution",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufseinstieg",
-        "url": "https://www.arbeitnow.com/jobs/companies/digital-evolution/social-media-ai-manager-quereinstieg-homeoffice-vollzeit-oder-teilzeit-berlin-474717",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-14T10:31:06+00:00",
         "remote": true
     }
 ]

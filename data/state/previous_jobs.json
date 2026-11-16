@@ -11,6 +11,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-no-code-developer-bubbleio-100-remote-berlin-302182",
+        "title": "No-Code Developer (m/w/d) | Bubble.io | 100 % Remote",
+        "company": "ALPHA Software GmbH",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/alpha-software-gmbh/no-code-developer-bubbleio-100-remote-berlin-302182",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-16T03:30:37+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-remote-senior-infrastructure-solutions-engineer-316487",
         "title": "Senior Infrastructure Solutions Engineer",
         "company": "planetlabs",
@@ -33,17 +44,6 @@
         "remote": false
     },
     {
-        "id": "arbeitnow-senior-data-analyst-berlin-443903",
-        "title": "Senior Data Analyst",
-        "company": "Cosuno",
-        "location": "Berlin/Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-data-analyst-berlin-443903",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-15T03:40:10+00:00",
-        "remote": false
-    },
-    {
         "id": "arbeitnow-developer-community-lead-berlin-444293",
         "title": "Developer Community Lead",
         "company": "RhymeQ Technologies GmbH",
@@ -52,17 +52,6 @@
         "url": "https://www.arbeitnow.com/jobs/companies/rhymeq-technologies-gmbh/developer-community-lead-berlin-444293",
         "source": "Arbeitnow",
         "published_at": "2026-11-15T20:00:29+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
-        "title": "Senior Data Engineer & Consultant (all genders) – Microsoft Fabric",
-        "company": "teccle group GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-15T03:31:13+00:00",
         "remote": true
     },
     {

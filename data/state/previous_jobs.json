@@ -1,5 +1,16 @@
 [
     {
+        "id": "arbeitnow-remote-senior-ai-engineer-344791",
+        "title": "Senior AI Engineer",
+        "company": "Inato",
+        "location": "PARIS OFFICE or REMOTE FROM FRANCE",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/inato/remote-senior-ai-engineer-344791",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-16T06:40:18+00:00",
+        "remote": false
+    },
+    {
         "id": "ashby-2320fe69-df26-4d1d-ada6-d1a46c0e68a1",
         "title": "Full Stack Software Engineer, Travel",
         "company": "OpenAI",
@@ -11,58 +22,80 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-no-code-developer-bubbleio-100-remote-berlin-302182",
-        "title": "No-Code Developer (m/w/d) | Bubble.io | 100 % Remote",
-        "company": "ALPHA Software GmbH",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/alpha-software-gmbh/no-code-developer-bubbleio-100-remote-berlin-302182",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-16T03:30:37+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-infrastructure-solutions-engineer-316487",
-        "title": "Senior Infrastructure Solutions Engineer",
-        "company": "planetlabs",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-senior-infrastructure-solutions-engineer-316487",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-15T21:55:28+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-platform-engineer-34275",
-        "title": "Platform Engineer",
-        "company": "Finmid.com",
-        "location": "Berlin / Greece / Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/finmidcom/remote-platform-engineer-34275",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-15T09:40:17+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-developer-community-lead-berlin-444293",
-        "title": "Developer Community Lead",
-        "company": "RhymeQ Technologies GmbH",
+        "id": "arbeitnow-sailpoint-identity-iiq-senior-developer-engineer-berlin-306604",
+        "title": "SailPoint Identity (IIQ) Senior Developer / Engineer",
+        "company": "Market Cloud",
         "location": "Berlin",
         "job_type": "Permanent employment, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/rhymeq-technologies-gmbh/developer-community-lead-berlin-444293",
+        "url": "https://www.arbeitnow.com/jobs/companies/market-cloud/sailpoint-identity-iiq-senior-developer-engineer-berlin-306604",
         "source": "Arbeitnow",
-        "published_at": "2026-11-15T20:00:29+00:00",
+        "published_at": "2026-11-16T12:33:05+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-head-of-ux-381333",
-        "title": "Remote Head of UX (m/f/d)",
-        "company": "Roompricegenie",
-        "location": "Remote Germany",
+        "id": "greenhouse-3615391",
+        "title": "Senior Software Engineer, TRUST Network",
+        "company": "Coinbase",
+        "location": "Remote - USA",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-head-of-ux-381333",
+        "url": "https://www.coinbase.com/careers/positions/8368463?gh_jid=8368463",
+        "source": "Greenhouse",
+        "published_at": "2026-11-16T09:22:31-05:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-product-engineer-ki-first-full-stack-100-remote-dusseldorf-320845",
+        "title": "Product Engineer KI-first (m/w/d) - Full Stack, 100 % remote",
+        "company": "Fundloop",
+        "location": "Düsseldorf",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/fundloop/product-engineer-ki-first-full-stack-100-remote-dusseldorf-320845",
         "source": "Arbeitnow",
-        "published_at": "2026-11-15T15:40:12+00:00",
-        "remote": false
+        "published_at": "2026-11-16T10:30:52+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-rust-product-engineer-mls-berlin-277583",
+        "title": "Rust Product Engineer – MLS (m/f/d)",
+        "company": "Famedly GmbH",
+        "location": "Berlin",
+        "job_type": "professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/famedly-gmbh/rust-product-engineer-mls-berlin-277583",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-16T13:01:38+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-software-engineer-produkt-schnittstellen-berlin-485408",
+        "title": "Software Engineer (m/w/d) – Produkt & Schnittstellen",
+        "company": "PraxisConcierge",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/praxisconcierge/software-engineer-produkt-schnittstellen-berlin-485408",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-16T10:01:15+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-mass-timber-field-engineer-berlin-27611",
+        "title": "Mass Timber Field Engineer (m/f/d)",
+        "company": "Simpson Strong-Tie GmbH",
+        "location": "Berlin",
+        "job_type": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/simpson-strong-tie-gmbh/mass-timber-field-engineer-berlin-27611",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-16T10:01:15+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-werkstudent-linkedin-content-copywriting-b2b-remote-moglich-10-20-std-woche-berlin-462160",
+        "title": "Werkstudent LinkedIn Content & Copywriting (B2B) | remote möglich, 10–20 Std./Woche",
+        "company": "F& | Focus & Flow GmbH",
+        "location": "Berlin",
+        "job_type": "Werkstudent, working student, hilfstätigkeit / student",
+        "url": "https://www.arbeitnow.com/jobs/companies/f-focus-flow-gmbh/werkstudent-linkedin-content-copywriting-b2b-remote-moglich-10-20-std-woche-berlin-462160",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-16T12:02:09+00:00",
+        "remote": true
     }
 ]

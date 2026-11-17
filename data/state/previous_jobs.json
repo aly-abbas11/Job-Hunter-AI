@@ -1,5 +1,16 @@
 [
     {
+        "id": "greenhouse-6582759002",
+        "title": "Backend Engineer (Ruby), AI Engineering: AI Catalog",
+        "company": "GitLab",
+        "location": "Remote, United Kingdom",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940898002",
+        "source": "Greenhouse",
+        "published_at": "2026-11-17T08:18:23-05:00",
+        "remote": true
+    },
+    {
         "id": "ashby-d6fbe4bd-1b55-40b6-93c0-a296ea747ecf",
         "title": "Partner Director, Google Cloud",
         "company": "OpenAI",
@@ -8,6 +19,72 @@
         "url": "https://jobs.ashbyhq.com/openai/d6fbe4bd-1b55-40b6-93c0-a296ea747ecf",
         "source": "Ashby",
         "published_at": "2026-11-16T18:11:15.912000+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3623555",
+        "title": "Manager, Business Risk and AI Automation",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8395504",
+        "source": "Greenhouse",
+        "published_at": "2026-11-17T09:15:24-05:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-6dc6b517-c0e3-453d-924a-ffe13e36d28b",
+        "title": "Sales Enablement Lead",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/6dc6b517-c0e3-453d-924a-ffe13e36d28b",
+        "source": "Ashby",
+        "published_at": "2026-11-17T07:03:20.692000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-d484d3b2-2ae5-40a1-b6b0-4fb228895aee",
+        "title": "Sales Manager, Global Ads Solutions - Travel",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/d484d3b2-2ae5-40a1-b6b0-4fb228895aee",
+        "source": "Ashby",
+        "published_at": "2026-11-17T01:42:33.888000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-503e4d0c-b4cb-44f2-83b1-02ff7af0870a",
+        "title": "Sales Manager, Global Ads Solutions - Technology",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/503e4d0c-b4cb-44f2-83b1-02ff7af0870a",
+        "source": "Ashby",
+        "published_at": "2026-11-17T01:42:20.061000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-66d9ba78-02a5-4b79-983e-57349914ce83",
+        "title": "Sales Manager, Global Ads Solutions - Retail & E-Commerce",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/66d9ba78-02a5-4b79-983e-57349914ce83",
+        "source": "Ashby",
+        "published_at": "2026-11-17T01:42:03.813000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-a6989cb5-3b8e-45f3-b169-d5c237a895ef",
+        "title": "Sales Manager, Global Ads Solutions - Regulated Verticals",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/a6989cb5-3b8e-45f3-b169-d5c237a895ef",
+        "source": "Ashby",
+        "published_at": "2026-11-17T01:41:16.895000+00:00",
         "remote": true
     },
     {
@@ -77,17 +154,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-ai-benchmark-engineer-native-language-specialist-german-switzerland-remote-bern-90445",
-        "title": "AI Benchmark Engineer | Native Language Specialist - German (Switzerland) - Remote",
-        "company": "LILT (Production)",
-        "location": "Switzerland (Remote)",
-        "job_type": "Contract",
-        "url": "https://www.arbeitnow.ch/jobs/companies/lilt-production/ai-benchmark-engineer-native-language-specialist-german-switzerland-remote-bern-90445",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-16T21:40:14+00:00",
-        "remote": false
-    },
-    {
         "id": "ashby-a3ee806c-74c3-4e51-a773-203555f885fe",
         "title": "Head of UK, Ad Solutions",
         "company": "OpenAI",
@@ -121,6 +187,17 @@
         "remote": true
     },
     {
+        "id": "greenhouse-3623586",
+        "title": "Senior Software Engineer, Financial Integrity",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8395582?gh_jid=8395582",
+        "source": "Greenhouse",
+        "published_at": "2026-11-17T09:59:41-05:00",
+        "remote": true
+    },
+    {
         "id": "greenhouse-3533715",
         "title": "Product Security Engineer, Offensive Security",
         "company": "Coinbase",
@@ -130,17 +207,6 @@
         "source": "Greenhouse",
         "published_at": "2026-11-16T20:13:58-05:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-analytics-engineer-power-trading-berlin-243378",
-        "title": "Analytics Engineer - Power Trading",
-        "company": "Ostrom",
-        "location": "Berlin / Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/ostrom/analytics-engineer-power-trading-berlin-243378",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-17T00:40:11+00:00",
-        "remote": false
     },
     {
         "id": "greenhouse-3623079",
@@ -176,28 +242,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-android-developer-utrecht-265338",
-        "title": "Android Developer",
-        "company": "Luscii",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.nl/jobs/companies/luscii/remote-android-developer-utrecht-265338",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-16T18:31:49+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-ios-developer-utrecht-474249",
-        "title": "iOS Developer",
-        "company": "Luscii",
-        "location": "Remote job",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.nl/jobs/companies/luscii/remote-ios-developer-utrecht-474249",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-16T18:31:49+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3564574",
         "title": "Senior Software Engineer, Core Reliability",
         "company": "Coinbase",
@@ -209,47 +253,25 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3615391",
-        "title": "Senior Software Engineer, TRUST Network",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8368463?gh_jid=8368463",
-        "source": "Greenhouse",
-        "published_at": "2026-11-16T09:22:31-05:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-frontend-entwicklerin-ux-ui-lucerne-54073",
-        "title": "Senior Frontend Entwickler:in (UX/UI)",
+        "id": "arbeitnow-dwh-engineer-schwerpunkt-pentaho-zurich-209494",
+        "title": "DWH Engineer (Schwerpunkt Pentaho)",
         "company": "Coopers Group AG",
-        "location": "Lucerne",
-        "job_type": "Befristeter arbeitsvertrag, contract, berufserfahren",
-        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-frontend-entwicklerin-ux-ui-lucerne-54073",
+        "location": "Zürich",
+        "job_type": "Freiberufler / selbstständiger, freelance, berufserfahren",
+        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/dwh-engineer-schwerpunkt-pentaho-zurich-209494",
         "source": "Arbeitnow",
-        "published_at": "2026-11-16T15:31:24+00:00",
+        "published_at": "2026-11-17T10:30:48+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-full-stack-senior-software-developer-bern-25676",
-        "title": "Full Stack Senior Software Developer",
-        "company": "cross-ING AG",
-        "location": "Homeoffice",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/remote-full-stack-senior-software-developer-bern-25676",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-16T15:31:20+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-software-ingenieurin-robotics-dietlikon-329838",
-        "title": "Software-Ingenieur:in Robotics",
-        "company": "cross-ING AG",
-        "location": "Homeoffice",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/remote-software-ingenieurin-robotics-dietlikon-329838",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-16T15:31:20+00:00",
+        "id": "ashby-e0e05de8-e313-4249-bb84-2a44b2ed6d8e",
+        "title": "Dedicated Support Engineering Lead",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, User Operations",
+        "url": "https://jobs.ashbyhq.com/openai/e0e05de8-e313-4249-bb84-2a44b2ed6d8e",
+        "source": "Ashby",
+        "published_at": "2026-11-17T03:48:28.044000+00:00",
         "remote": true
     },
     {
@@ -275,6 +297,28 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-german-speaking-technical-support-customer-experts-work-remote-in-greece-france-473465",
+        "title": "German Speaking Technical Support Customer Experts - Work Remote In Greece",
+        "company": "Patrique Mercier Recruitment Fr",
+        "location": "France",
+        "job_type": "Full time, entry",
+        "url": "https://www.arbeitnow.fr/jobs/companies/patrique-mercier-recruitment-fr/german-speaking-technical-support-customer-experts-work-remote-in-greece-france-473465",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-17T11:20:23+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-specialiste-support-services-financiers-bilingue-allemand-h-f-paris-18923",
+        "title": "Spécialiste Support Services Financiers bilingue allemand H/F",
+        "company": "Pennylane SAS",
+        "location": "All France (remote)",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/specialiste-support-services-financiers-bilingue-allemand-h-f-paris-18923",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-17T03:47:30+00:00",
+        "remote": false
+    },
+    {
         "id": "greenhouse-6575408002",
         "title": "Staff Technical Writer",
         "company": "GitLab",
@@ -283,39 +327,6 @@
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922693002",
         "source": "Greenhouse",
         "published_at": "2026-11-16T17:28:52-05:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-head-of-support-fully-remote-zurich-130510",
-        "title": "Head of Support (m/f/d) – Fully Remote",
-        "company": "what. AG",
-        "location": "Remote job",
-        "job_type": "Experienced, parttime fixed term",
-        "url": "https://www.arbeitnow.ch/jobs/companies/what-ag/head-of-support-fully-remote-zurich-130510",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-16T15:31:16+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6581482002",
-        "title": "Senior Executive Assistant, Marketing",
-        "company": "GitLab",
-        "location": "Remote, Canada; Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937764002",
-        "source": "Greenhouse",
-        "published_at": "2026-11-16T09:52:29-05:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-german-speaking-customer-support-specialist-work-in-athens-greece-switzerland-479591",
-        "title": "German Speaking Customer Support Specialist - Work In Athens, Greece",
-        "company": "Patrique Mercier Recruitment Fr",
-        "location": "Switzerland",
-        "job_type": "Full time, entry",
-        "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-german-speaking-customer-support-specialist-work-in-athens-greece-switzerland-479591",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-17T00:20:04+00:00",
         "remote": true
     }
 ]

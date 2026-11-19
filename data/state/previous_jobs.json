@@ -1,5 +1,38 @@
 [
     {
+        "id": "greenhouse-3608693",
+        "title": "Senior Software Engineer, Native Mobile - International",
+        "company": "Coinbase",
+        "location": "Remote - Singapore",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8349028?gh_jid=8349028",
+        "source": "Greenhouse",
+        "published_at": "2026-11-19T02:45:42-05:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3600082",
+        "title": "Senior Infrastructure Software Engineer, Build & Test Toolchains",
+        "company": "Dropbox",
+        "location": "Remote - Poland",
+        "job_type": "Full Time",
+        "url": "https://jobs.dropbox.com/listing/8328421?gh_jid=8328421",
+        "source": "Greenhouse",
+        "published_at": "2026-11-19T08:18:58-05:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-ai-solutions-engineer-voice-chatbots-remote-berlin-468784",
+        "title": "AI Solutions Engineer - Voice & Chatbots (m/w/d) - Remote",
+        "company": "Medialine EuroTrade AG",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/medialine-eurotrade-ag/ai-solutions-engineer-voice-chatbots-remote-berlin-468784",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-19T10:00:54+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-13e09206-133e-464a-a8d4-d306c203be03",
         "title": "Enablement Lead - EDU",
         "company": "OpenAI",
@@ -78,7 +111,7 @@
     },
     {
         "id": "greenhouse-3600098",
-        "title": "Senior Atlassian Cloud Admininstrator",
+        "title": "Senior Atlassian Cloud Engineer",
         "company": "Dropbox",
         "location": "Remote - Mexico",
         "job_type": "Full Time",
@@ -89,7 +122,7 @@
     },
     {
         "id": "greenhouse-3600098",
-        "title": "Senior Atlassian Cloud Administrator",
+        "title": "Senior Atlassian Cloud Engineer",
         "company": "Dropbox",
         "location": "Remote - Poland",
         "job_type": "Full Time",
@@ -99,58 +132,47 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-karrierestart-in-data-ai-ihk-data-analyst-100-online-berlin-397897",
-        "title": "Karrierestart in Data & AI - IHK Data Analyst (m/w/d) - 100 % Online",
-        "company": "DataSmart Point GmbH",
-        "location": "Berlin",
-        "job_type": "Ausbildung, apprenticeship, berufseinstieg",
-        "url": "https://www.arbeitnow.com/jobs/companies/datasmart-point-gmbh/karrierestart-in-data-ai-ihk-data-analyst-100-online-berlin-397897",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-19T01:00:35+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-ai-operations-monitor-digital-operations-incident-response-zurich-253036",
-        "title": "AI Operations Monitor – Digital Operations & Incident Response",
-        "company": "Lightly AG",
-        "location": "Zürich",
-        "job_type": "Freelancer / indepedent contractor, freelance, professional / experienced",
-        "url": "https://www.arbeitnow.ch/jobs/companies/lightly-ag/ai-operations-monitor-digital-operations-incident-response-zurich-253036",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-18T15:01:29+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-forward-deployed-engineer-385303",
-        "title": "Forward Deployed Engineer",
-        "company": "Camunda",
-        "location": "Remote",
+        "id": "greenhouse-3600093",
+        "title": "Senior Full Stack Product Software Engineer, Application Platform",
+        "company": "Dropbox",
+        "location": "Remote - Poland",
         "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-forward-deployed-engineer-385303",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-19T03:43:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-sales-engineer-benelux-359528",
-        "title": "Senior Sales Engineer - Benelux",
-        "company": "Camunda",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-benelux-359528",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-19T03:43:26+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3625293",
-        "title": "Software Engineer",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8400323?gh_jid=8400323",
+        "url": "https://jobs.dropbox.com/listing/8371054?gh_jid=8371054",
         "source": "Greenhouse",
-        "published_at": "2026-11-18T19:09:56-05:00",
+        "published_at": "2026-11-19T08:19:18-05:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-463d8cd7-3092-44eb-b80e-8d21008e569e",
+        "title": "Storage Platform Engineer",
+        "company": "Supabase",
+        "location": "Remote, Global",
+        "job_type": "FullTime, Engineering",
+        "url": "https://jobs.ashbyhq.com/supabase/463d8cd7-3092-44eb-b80e-8d21008e569e",
+        "source": "Ashby",
+        "published_at": "2026-11-19T12:56:25.990000+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-principal-software-engineer-data-lakes-26266",
+        "title": "Principal Software Engineer, Data Lakes",
+        "company": "Fivetran",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-principal-software-engineer-data-lakes-26266",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-19T12:55:18+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-mobile-developer-utrecht-286555",
+        "title": "Mobile Developer",
+        "company": "Luscii",
+        "location": "Remote job",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.nl/jobs/companies/luscii/remote-mobile-developer-utrecht-286555",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-19T09:31:18+00:00",
         "remote": true
     },
     {
@@ -165,47 +187,36 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3441606",
-        "title": "Technical Solutions Engineer",
-        "company": "Stripe",
-        "location": "Remote - US",
-        "job_type": "Full Time",
-        "url": "https://stripe.com/jobs/search?gh_jid=7917880",
-        "source": "Greenhouse",
-        "published_at": "2026-11-18T09:31:48-05:00",
+        "id": "arbeitnow-qa-testers-needed-zurich-313813",
+        "title": "QA Testers Needed",
+        "company": "Global App Testing",
+        "location": "Zürich",
+        "job_type": "Freelancer / independent contractor (selbstständiger / freelancer), freelance, professional / experienced",
+        "url": "https://www.arbeitnow.ch/jobs/companies/global-app-testing/qa-testers-needed-zurich-313813",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-19T12:17:38+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-cloud-infrastructure-engineer-aws-schoppingen-150808",
-        "title": "Cloud Infrastructure Engineer - AWS (m/w/d)",
-        "company": "shopware AG",
+        "id": "arbeitnow-remote-cloud-engineer-cloud-betrieb-von-saas-losungen-berlin-315547",
+        "title": "Cloud Engineer (m/w/x) – Cloud-Betrieb von SaaS-Lösungen",
+        "company": "VertiGIS GmbH",
         "location": "Homeoffice",
         "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-cloud-infrastructure-engineer-aws-schoppingen-150808",
+        "url": "https://www.arbeitnow.com/jobs/companies/vertigis-gmbh/remote-cloud-engineer-cloud-betrieb-von-saas-losungen-berlin-315547",
         "source": "Arbeitnow",
-        "published_at": "2026-11-18T21:51:35+00:00",
+        "published_at": "2026-11-19T09:31:28+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-lille-198757",
-        "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
-        "company": "Exotec",
-        "location": "Lille, France",
-        "job_type": "Full time, mid-senior",
-        "url": "https://www.arbeitnow.fr/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-lille-198757",
+        "id": "arbeitnow-front-end-developer-chelmsford-144625",
+        "title": "Front End Developer",
+        "company": "SchemeServe Limited",
+        "location": "Chelmsford",
+        "job_type": "professional / experienced",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/schemeserve-limited/front-end-developer-chelmsford-144625",
         "source": "Arbeitnow",
-        "published_at": "2026-11-18T20:20:17+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-workplace-engineer-windows-macos-zurich-384396",
-        "title": "Senior Workplace Engineer (Windows & macOS)",
-        "company": "Coopers Group AG",
-        "location": "Zürich",
-        "job_type": "Interim, interim, berufserfahren",
-        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-workplace-engineer-windows-macos-zurich-384396",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-18T14:31:16+00:00",
+        "published_at": "2026-11-19T13:01:41+00:00",
         "remote": true
     },
     {
@@ -231,25 +242,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-static-ad-designer-215878",
-        "title": "Static Ad Designer",
-        "company": "Uplane",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/uplane/remote-static-ad-designer-215878",
+        "id": "arbeitnow-e-commerce-grafiker-in-ki-content-creator-video-creator-mit-amazon-erfahrung-berlin-381467",
+        "title": "E-Commerce Grafiker/in KI Content Creator/ Video Creator mit Amazon Erfahrung",
+        "company": "DiCommerce GmbH",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/dicommerce-gmbh/e-commerce-grafiker-in-ki-content-creator-video-creator-mit-amazon-erfahrung-berlin-381467",
         "source": "Arbeitnow",
-        "published_at": "2026-11-18T21:40:13+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-remote-landing-page-designer-376295",
-        "title": "Landing Page Designer",
-        "company": "Uplane",
-        "location": "remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/uplane/remote-landing-page-designer-376295",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-18T21:40:13+00:00",
-        "remote": false
+        "published_at": "2026-11-19T09:01:29+00:00",
+        "remote": true
     }
 ]

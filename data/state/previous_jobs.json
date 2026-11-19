@@ -1,5 +1,27 @@
 [
     {
+        "id": "ashby-13e09206-133e-464a-a8d4-d306c203be03",
+        "title": "Enablement Lead - EDU",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/13e09206-133e-464a-a8d4-d306c203be03",
+        "source": "Ashby",
+        "published_at": "2026-11-19T00:30:29.178000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-89959eee-bd3a-4564-9c47-e4771c6c1e0f",
+        "title": "Product Manager, ChatGPT Business Growth",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/89959eee-bd3a-4564-9c47-e4771c6c1e0f",
+        "source": "Ashby",
+        "published_at": "2026-11-19T00:25:23.743000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-c389205c-b163-402f-ab8f-674b7f260c9d",
         "title": "Geotechnical Engineer, Data Center Development",
         "company": "OpenAI",
@@ -55,28 +77,6 @@
         "remote": true
     },
     {
-        "id": "ashby-a74e9a27-8170-47fd-8326-d2f3375ee697",
-        "title": "Sales Manager, Large Enterprise | India",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/a74e9a27-8170-47fd-8326-d2f3375ee697",
-        "source": "Ashby",
-        "published_at": "2026-11-18T03:28:21.159000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-working-student-data-engineer-python-sql-cloud-platforms-berlin-454463",
-        "title": "Working Student Data Engineer – Python, SQL & Cloud Platforms",
-        "company": "AgentixLake GmbH",
-        "location": "Berlin",
-        "job_type": "Working student, working student, no experience required / student",
-        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-data-engineer-python-sql-cloud-platforms-berlin-454463",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-18T17:00:45+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3600098",
         "title": "Senior Atlassian Cloud Admininstrator",
         "company": "Dropbox",
@@ -99,25 +99,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-working-student-ai-engineer-llms-rag-ai-agents-berlin-402834",
-        "title": "Working Student AI Engineer – LLMs, RAG & AI Agents",
-        "company": "AgentixLake GmbH",
+        "id": "arbeitnow-karrierestart-in-data-ai-ihk-data-analyst-100-online-berlin-397897",
+        "title": "Karrierestart in Data & AI - IHK Data Analyst (m/w/d) - 100 % Online",
+        "company": "DataSmart Point GmbH",
         "location": "Berlin",
-        "job_type": "Working student, working student, no experience required / student",
-        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-engineer-llms-rag-ai-agents-berlin-402834",
+        "job_type": "Ausbildung, apprenticeship, berufseinstieg",
+        "url": "https://www.arbeitnow.com/jobs/companies/datasmart-point-gmbh/karrierestart-in-data-ai-ihk-data-analyst-100-online-berlin-397897",
         "source": "Arbeitnow",
-        "published_at": "2026-11-18T17:00:46+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-292864",
-        "title": "Working Student AI Solutions Architect – Generative AI & Data Platforms",
-        "company": "AgentixLake GmbH",
-        "location": "Berlin",
-        "job_type": "Working student, working student, no experience required / student",
-        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-292864",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-18T17:00:45+00:00",
+        "published_at": "2026-11-19T01:00:35+00:00",
         "remote": true
     },
     {
@@ -132,14 +121,36 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-fullstack-developer-angular-kotlin-spring-boot-aws-stuttgart-368767",
-        "title": "Senior Fullstack Developer Angular / Kotlin – Spring Boot, AWS (m/w/d)",
-        "company": "Rockstardevelopers GmbH",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-fullstack-developer-angular-kotlin-spring-boot-aws-stuttgart-368767",
+        "id": "arbeitnow-remote-forward-deployed-engineer-385303",
+        "title": "Forward Deployed Engineer",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-forward-deployed-engineer-385303",
         "source": "Arbeitnow",
-        "published_at": "2026-11-18T20:17:30+00:00",
+        "published_at": "2026-11-19T03:43:26+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-sales-engineer-benelux-359528",
+        "title": "Senior Sales Engineer - Benelux",
+        "company": "Camunda",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-benelux-359528",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-19T03:43:26+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3625293",
+        "title": "Software Engineer",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8400323?gh_jid=8400323",
+        "source": "Greenhouse",
+        "published_at": "2026-11-18T19:09:56-05:00",
         "remote": true
     },
     {
@@ -165,17 +176,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-software-test-engineer-bern-271000",
-        "title": "Software Test Engineer",
-        "company": "SwissPeak Partners GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-271000",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-18T03:31:18+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-cloud-infrastructure-engineer-aws-schoppingen-150808",
         "title": "Cloud Infrastructure Engineer - AWS (m/w/d)",
         "company": "shopware AG",
@@ -187,28 +187,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-senior-java-backend-developer-spring-boot-postgresql-kubernetes-festanstellung-berlin-198423",
-        "title": "Senior Java Backend Developer – Spring Boot, PostgreSQL, Kubernetes (m/w/d) – Festanstellung",
-        "company": "Rockstardevelopers GmbH",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-java-backend-developer-spring-boot-postgresql-kubernetes-festanstellung-berlin-198423",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-18T16:00:57+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-business-development-representative-cybersecurity-germany-259748",
-        "title": "Business Development Representative - Cybersecurity",
-        "company": "Huzzle",
-        "location": "Germany",
-        "job_type": "Full time, mid-senior",
-        "url": "https://www.arbeitnow.com/jobs/companies/huzzle/remote-business-development-representative-cybersecurity-germany-259748",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-18T21:20:06+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-lille-198757",
         "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
         "company": "Exotec",
@@ -217,17 +195,6 @@
         "url": "https://www.arbeitnow.fr/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-lille-198757",
         "source": "Arbeitnow",
         "published_at": "2026-11-18T20:20:17+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-infrastructure-engineer-azure-active-directory-hybrid-infrastructure-berlin-498065",
-        "title": "Senior Infrastructure Engineer – Azure, Active Directory & Hybrid Infrastructure (m/f/d)",
-        "company": "KD Pharma",
-        "location": "Berlin",
-        "job_type": "Permanent employment, professional / experienced",
-        "url": "https://www.arbeitnow.com/jobs/companies/kd-pharma/senior-infrastructure-engineer-azure-active-directory-hybrid-infrastructure-berlin-498065",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-18T16:31:20+00:00",
         "remote": true
     },
     {
@@ -253,14 +220,14 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-social-media-marketing-managerin-paid-ads-berlin-498369",
-        "title": "Social Media Marketing Manager:in (m/w/d) Paid Ads",
-        "company": "Performance Marketing Agentur firststars GmbH",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, teamleitung",
-        "url": "https://www.arbeitnow.com/jobs/companies/performance-marketing-agentur-firststars-gmbh/social-media-marketing-managerin-paid-ads-berlin-498369",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-18T19:00:37+00:00",
+        "id": "greenhouse-6582644002",
+        "title": "Executive Assistant, Office of the CTO",
+        "company": "GitLab",
+        "location": "Remote, Canada; Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940703002",
+        "source": "Greenhouse",
+        "published_at": "2026-11-18T19:55:09-05:00",
         "remote": true
     },
     {
@@ -284,16 +251,5 @@
         "source": "Arbeitnow",
         "published_at": "2026-11-18T21:40:13+00:00",
         "remote": false
-    },
-    {
-        "id": "arbeitnow-customer-service-vz-tz-moglich-berlin-288863",
-        "title": "Customer Service (m/w/d) - VZ/TZ möglich",
-        "company": "Goodright GmbH",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufseinstieg",
-        "url": "https://www.arbeitnow.com/jobs/companies/goodright-gmbh/customer-service-vz-tz-moglich-berlin-288863",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-18T17:30:47+00:00",
-        "remote": true
     }
 ]

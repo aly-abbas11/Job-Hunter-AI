@@ -22,17 +22,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-forward-deployed-ai-engineer-birmingham-377104",
-        "title": "Forward Deployed AI Engineer",
-        "company": "gravity9",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gravity9/remote-forward-deployed-ai-engineer-birmingham-377104",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-20T21:31:24+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-38b069ad-857c-485e-b201-3bd7c0b91da4",
         "title": "Model Policy Manager, Emerging AI Misuse",
         "company": "OpenAI",
@@ -74,17 +63,6 @@
         "url": "https://careers.airbnb.com/positions/8350696?gh_jid=8350696",
         "source": "Greenhouse",
         "published_at": "2026-11-20T12:32:18-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3625462",
-        "title": "Senior Android Engineer, Profile & Community",
-        "company": "Airbnb",
-        "location": "Remote, USA",
-        "job_type": "Full Time",
-        "url": "https://careers.airbnb.com/positions/8406431?gh_jid=8406431",
-        "source": "Greenhouse",
-        "published_at": "2026-11-20T12:02:41-05:00",
         "remote": true
     },
     {
@@ -132,48 +110,15 @@
         "remote": true
     },
     {
-        "id": "ashby-83b21911-d467-44ab-af3b-c0b898488ab4",
-        "title": "Forward Deployed Engineer (FDE), Cyber - London",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Forward Deployed Engineering",
-        "url": "https://jobs.ashbyhq.com/openai/83b21911-d467-44ab-af3b-c0b898488ab4",
-        "source": "Ashby",
-        "published_at": "2026-11-20T02:51:24.345000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-77a73c98-cdc9-4cc2-9cf8-ec49ef952856",
-        "title": "Forward Deployed Engineer (FDE), Cyber - Tokyo",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Forward Deployed Engineering",
-        "url": "https://jobs.ashbyhq.com/openai/77a73c98-cdc9-4cc2-9cf8-ec49ef952856",
-        "source": "Ashby",
-        "published_at": "2026-11-20T02:49:09.522000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-43d75302-2eef-46b6-b991-611e705f9fb1",
-        "title": "Product Manager, Native Learning and Credentials",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/43d75302-2eef-46b6-b991-611e705f9fb1",
-        "source": "Ashby",
-        "published_at": "2026-11-20T02:27:47.532000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-5a693757-8c54-43a2-abd7-44ab598d4c6e",
-        "title": "Manufacturing Quality Engineer, Data Center Modular Builds",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/5a693757-8c54-43a2-abd7-44ab598d4c6e",
-        "source": "Ashby",
-        "published_at": "2026-11-20T01:46:29.826000+00:00",
-        "remote": true
+        "id": "arbeitnow-senior-lead-python-engineer-london-128931",
+        "title": "Senior/Lead Python Engineer",
+        "company": "Mimica",
+        "location": "Remote Anywhere",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/mimica/senior-lead-python-engineer-london-128931",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-21T03:43:20+00:00",
+        "remote": false
     },
     {
         "id": "arbeitnow-solution-architect-customer-touchpoints-cloud-transformation-zurich-83687",
@@ -195,28 +140,6 @@
         "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8356222",
         "source": "Greenhouse",
         "published_at": "2026-11-20T17:34:55-05:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-lead-java-developer-solution-architect-6-month-contract-london-186167",
-        "title": "Lead Java Developer / Solution Architect (6-month contract)",
-        "company": "gravity9",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gravity9/remote-lead-java-developer-solution-architect-6-month-contract-london-186167",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-20T21:31:24+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-137469",
-        "title": "Développeur fullstack confirmé H/F (C#, .Net, Angular)",
-        "company": "N2JSoft",
-        "location": "Poste à distance",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-137469",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-20T21:31:23+00:00",
         "remote": true
     },
     {
@@ -253,28 +176,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-network-engineer-all-genders-cisco-fortinet-st-ingbert-2612",
-        "title": "Senior Network Engineer (all genders) – Cisco & Fortinet",
-        "company": "teccle group GmbH",
-        "location": "Homeoffice",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-network-engineer-all-genders-cisco-fortinet-st-ingbert-2612",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-20T18:31:12+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-it-security-engineer-all-genders-st-ingbert-270949",
-        "title": "IT Security Engineer (all genders)",
-        "company": "teccle group GmbH",
-        "location": "Homeoffice",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-it-security-engineer-all-genders-st-ingbert-270949",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-20T18:31:12+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-remote-senior-platform-engineer-amsterdam-429264",
         "title": "Senior Platform Engineer",
         "company": "Treatwell",
@@ -283,28 +184,6 @@
         "url": "https://www.arbeitnow.nl/jobs/companies/treatwell/remote-senior-platform-engineer-amsterdam-429264",
         "source": "Arbeitnow",
         "published_at": "2026-11-20T13:20:10+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
-        "title": "Senior Account Manager - Warehouse Automation - BENELUX",
-        "company": "Exotec",
-        "location": "Netherlands",
-        "job_type": "Full time",
-        "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-20T04:20:15+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
-        "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
-        "company": "Exotec",
-        "location": "Netherlands",
-        "job_type": "Full time, mid-senior",
-        "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-20T04:20:15+00:00",
         "remote": true
     },
     {
@@ -327,6 +206,17 @@
         "url": "https://www.arbeitnow.com/jobs/companies/softgames/ui-designer-casual-games-freelance-remote-berlin-403179",
         "source": "Arbeitnow",
         "published_at": "2026-11-20T21:31:22+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-french-speaking-customer-service-agent-work-in-sofia-bulgaria-france-338917",
+        "title": "French Speaking Customer Service Agent - Work In Sofia, Bulgaria",
+        "company": "Patrique Mercier Recruitment Fr",
+        "location": "France",
+        "job_type": "Full time, entry",
+        "url": "https://www.arbeitnow.fr/jobs/companies/patrique-mercier-recruitment-fr/remote-french-speaking-customer-service-agent-work-in-sofia-bulgaria-france-338917",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-21T02:20:19+00:00",
         "remote": true
     },
     {

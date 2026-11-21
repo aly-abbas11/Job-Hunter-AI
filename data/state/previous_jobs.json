@@ -99,39 +99,6 @@
         "remote": true
     },
     {
-        "id": "ashby-13ade8a3-701f-4449-85f7-62319ce0f3ec",
-        "title": "Protection Scientist Engineer, Integrity",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Applied AI",
-        "url": "https://jobs.ashbyhq.com/openai/13ade8a3-701f-4449-85f7-62319ce0f3ec",
-        "source": "Ashby",
-        "published_at": "2026-11-20T14:11:21.123000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-lead-python-engineer-london-128931",
-        "title": "Senior/Lead Python Engineer",
-        "company": "Mimica",
-        "location": "Remote Anywhere",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/mimica/senior-lead-python-engineer-london-128931",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-21T03:43:20+00:00",
-        "remote": false
-    },
-    {
-        "id": "arbeitnow-solution-architect-customer-touchpoints-cloud-transformation-zurich-83687",
-        "title": "Solution Architect Customer Touchpoints & Cloud Transformation",
-        "company": "Coopers Group AG",
-        "location": "Zürich",
-        "job_type": "Trainee-programm, traineeship, berufserfahren",
-        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/solution-architect-customer-touchpoints-cloud-transformation-zurich-83687",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-20T10:01:30+00:00",
-        "remote": true
-    },
-    {
         "id": "greenhouse-3611600",
         "title": "Solutions Engineer - Ads Product & Innovation",
         "company": "Pinterest",
@@ -176,36 +143,36 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-platform-engineer-amsterdam-429264",
-        "title": "Senior Platform Engineer",
-        "company": "Treatwell",
-        "location": "Amsterdam, Netherlands",
-        "job_type": "Full time, mid-senior",
-        "url": "https://www.arbeitnow.nl/jobs/companies/treatwell/remote-senior-platform-engineer-amsterdam-429264",
+        "id": "arbeitnow-remote-1228-it-service-manager-senior-it-service-manager-germany-183080",
+        "title": "1228 | IT Service Manager / Senior IT Service Manager",
+        "company": "Intetics 2",
+        "location": "Germany",
+        "job_type": "Part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1228-it-service-manager-senior-it-service-manager-germany-183080",
         "source": "Arbeitnow",
-        "published_at": "2026-11-20T13:20:10+00:00",
+        "published_at": "2026-11-21T12:20:17+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-pflichtpraktikum-social-media-und-content-marketing-berlin-245714",
-        "title": "Pflichtpraktikum Social Media und Content Marketing (m/w/d)",
-        "company": "TRIONE",
-        "location": "Berlin",
-        "job_type": "Praktikum, internship, hilfstätigkeit / student",
-        "url": "https://www.arbeitnow.com/jobs/companies/trione/pflichtpraktikum-social-media-und-content-marketing-berlin-245714",
+        "id": "arbeitnow-remote-1227-back-end-developer-germany-388586",
+        "title": "1227 | Back-end Developer",
+        "company": "Intetics 2",
+        "location": "Germany",
+        "job_type": "Part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1227-back-end-developer-germany-388586",
         "source": "Arbeitnow",
-        "published_at": "2026-11-20T21:30:37+00:00",
+        "published_at": "2026-11-21T12:20:17+00:00",
         "remote": true
     },
     {
-        "id": "arbeitnow-ui-designer-casual-games-freelance-remote-berlin-403179",
-        "title": "UI Designer - Casual Games (Freelance Remote)",
-        "company": "SOFTGAMES",
-        "location": "Remote job",
-        "job_type": "Mid, freelance",
-        "url": "https://www.arbeitnow.com/jobs/companies/softgames/ui-designer-casual-games-freelance-remote-berlin-403179",
+        "id": "arbeitnow-remote-1226-front-end-developer-germany-84712",
+        "title": "1226 | Front-end Developer",
+        "company": "Intetics 2",
+        "location": "Germany",
+        "job_type": "Part time",
+        "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1226-front-end-developer-germany-84712",
         "source": "Arbeitnow",
-        "published_at": "2026-11-20T21:31:22+00:00",
+        "published_at": "2026-11-21T12:20:17+00:00",
         "remote": true
     },
     {
@@ -228,17 +195,6 @@
         "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-german-speaking-customer-service-representative-work-in-athens-greece-switzerland-43451",
         "source": "Arbeitnow",
         "published_at": "2026-11-20T15:20:06+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-sachbearbeiterin-operations-backoffice-support-basel-314974",
-        "title": "Sachbearbeiter:in Operations / Backoffice Support",
-        "company": "Coopers Group AG",
-        "location": "Basel",
-        "job_type": "Befristeter arbeitsvertrag, contract, berufseinstieg",
-        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/sachbearbeiterin-operations-backoffice-support-basel-314974",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-20T09:30:54+00:00",
         "remote": true
     }
 ]

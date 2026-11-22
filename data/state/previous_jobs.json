@@ -1,13 +1,35 @@
 [
     {
-        "id": "arbeitnow-remote-principal-enterprise-architect-ai-cloud-integrations-162065",
-        "title": "Principal Enterprise Architect - AI & Cloud Integrations",
-        "company": "celonis",
-        "location": "Remote",
-        "job_type": "",
-        "url": "https://www.arbeitnow.nl/jobs/companies/celonis/remote-principal-enterprise-architect-ai-cloud-integrations-162065",
+        "id": "greenhouse-3627825",
+        "title": "Senior Staff Data Scientist - Reputation (Inference)",
+        "company": "Airbnb",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://careers.airbnb.com/positions/8407159?gh_jid=8407159",
+        "source": "Greenhouse",
+        "published_at": "2026-11-22T15:17:01-05:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-data-scientist-research-eu-uk-berlin-88725",
+        "title": "Senior Data Scientist - Research EU/UK (m/f/x)",
+        "company": "Makersite GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-research-eu-uk-berlin-88725",
         "source": "Arbeitnow",
-        "published_at": "2026-11-21T15:55:26+00:00",
+        "published_at": "2026-11-22T15:31:28+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-full-stack-engineer-f-aspnet-core-reactjs-remote-europe-berlin-73400",
+        "title": "Senior Full Stack Engineer (F# / ASP.NET Core / ReactJS) – Remote (Europe) (f/m/d)",
+        "company": "Boardwise GmbH",
+        "location": "Berlin",
+        "job_type": "Permanent employment, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-full-stack-engineer-f-aspnet-core-reactjs-remote-europe-berlin-73400",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-22T15:31:00+00:00",
         "remote": true
     },
     {
@@ -22,25 +44,47 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-solutions-engineer-dach-303095",
-        "title": "Solutions Engineer DACH (m/f/d)",
-        "company": "360Learning",
-        "location": "Berlin, Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-solutions-engineer-dach-303095",
+        "id": "arbeitnow-remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018",
+        "title": "Senior Cloud Operations Engineer (all genders) CH",
+        "company": "BSI Software",
+        "location": "Homeoffice",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018",
         "source": "Arbeitnow",
-        "published_at": "2026-11-22T03:07:47+00:00",
-        "remote": false
+        "published_at": "2026-11-22T15:31:19+00:00",
+        "remote": true
     },
     {
-        "id": "arbeitnow-werkstudent-linkedin-content-copywriting-b2b-remote-moglich-10-20-std-woche-berlin-104935",
-        "title": "Werkstudent LinkedIn Content & Copywriting (B2B) | remote möglich, 10–20 Std./Woche",
-        "company": "F& | Focus & Flow GmbH",
-        "location": "Berlin",
-        "job_type": "Werkstudent, working student, hilfstätigkeit / student",
-        "url": "https://www.arbeitnow.com/jobs/companies/f-focus-flow-gmbh/werkstudent-linkedin-content-copywriting-b2b-remote-moglich-10-20-std-woche-berlin-104935",
+        "id": "arbeitnow-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-311574",
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "location": "Homeoffice",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-311574",
         "source": "Arbeitnow",
-        "published_at": "2026-11-22T09:00:39+00:00",
+        "published_at": "2026-11-22T15:31:18+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-business-developer-sales-manager-robotics-berlin-42926",
+        "title": "Business Developer / Sales Manager - Robotics (m/w/d)",
+        "company": "TEKPOINT GmbH",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag",
+        "url": "https://www.arbeitnow.com/jobs/companies/tekpoint-gmbh/business-developer-sales-manager-robotics-berlin-42926",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-22T15:31:03+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-technischer-mitarbeiter-after-sales-support-vollzeit-100-remote-moglich-berlin-29412",
+        "title": "Technischer Mitarbeiter After Sales Support (m/w/d) | Vollzeit | 100 % Remote möglich",
+        "company": "Offgridtec AG",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/offgridtec-ag/technischer-mitarbeiter-after-sales-support-vollzeit-100-remote-moglich-berlin-29412",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-22T15:31:09+00:00",
         "remote": true
     }
 ]

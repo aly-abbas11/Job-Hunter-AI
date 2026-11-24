@@ -1,5 +1,104 @@
 [
     {
+        "id": "ashby-f568de05-d557-4e70-aa12-256c637c7ef5",
+        "title": "Applied AI Engineer, Mid-Market Enterprise",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/f568de05-d557-4e70-aa12-256c637c7ef5",
+        "source": "Ashby",
+        "published_at": "2026-11-24T02:55:23.623000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-143198ab-45e9-4ece-8604-d402b50cc3a9",
+        "title": "Manager, Applied AI Architects (Singapore)",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/143198ab-45e9-4ece-8604-d402b50cc3a9",
+        "source": "Ashby",
+        "published_at": "2026-11-24T02:26:24.755000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-aa22d0b6-38e9-4853-aff6-bc891ccc9747",
+        "title": "Cyber Partner Applied AI Architect",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/aa22d0b6-38e9-4853-aff6-bc891ccc9747",
+        "source": "Ashby",
+        "published_at": "2026-11-23T23:10:45.050000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-0cbc1196-37ee-4c41-b02b-12653309a8f7",
+        "title": "Optical Mechanical Engineer",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Scaling",
+        "url": "https://jobs.ashbyhq.com/openai/0cbc1196-37ee-4c41-b02b-12653309a8f7",
+        "source": "Ashby",
+        "published_at": "2026-11-23T22:24:50.737000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-verification-engineer-autonomy-systems-land-domain-gilching-304071",
+        "title": "Senior Verification Engineer Autonomy Systems – Land Domain (m/f/d)",
+        "company": "Quantum-Systems GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-senior-verification-engineer-autonomy-systems-land-domain-gilching-304071",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-23T21:31:12+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-test-engineer-hil-autonomy-systems-land-domain-gilching-417479",
+        "title": "Test Engineer HIL Autonomy Systems – Land Domain (m/f/d)",
+        "company": "Quantum-Systems GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-test-engineer-hil-autonomy-systems-land-domain-gilching-417479",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-23T21:31:12+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-490c443e-d555-4fd0-a5c8-d754f6ba6d23",
+        "title": "GTM Strategy & Operations, Enterprise",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/490c443e-d555-4fd0-a5c8-d754f6ba6d23",
+        "source": "Ashby",
+        "published_at": "2026-11-23T20:46:46.969000+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3630270",
+        "title": "Senior Web Engineer, Profile & Community",
+        "company": "Airbnb",
+        "location": "Remote, USA",
+        "job_type": "Full Time",
+        "url": "https://careers.airbnb.com/positions/8412312?gh_jid=8412312",
+        "source": "Greenhouse",
+        "published_at": "2026-11-23T15:14:05-05:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-b40efa93-da3c-4593-bc98-03d203cd0488",
+        "title": "Forward Deployed Engineer - Dublin",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Forward Deployed Engineering",
+        "url": "https://jobs.ashbyhq.com/openai/b40efa93-da3c-4593-bc98-03d203cd0488",
+        "source": "Ashby",
+        "published_at": "2026-11-23T20:03:33.812000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-0ec48064-8816-4df1-af2e-30fdc01ca4af",
         "title": "Growth Client Partner, Scaled Ads (MM - UKI)",
         "company": "OpenAI",
@@ -88,6 +187,28 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-founding-full-stack-engineer-berlin-304822",
+        "title": "Founding Full-Stack Engineer",
+        "company": "planqor.ai",
+        "location": "Berlin",
+        "job_type": "Permanent employment, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/planqorai/founding-full-stack-engineer-berlin-304822",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-23T16:00:50+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-founding-optimization-engineer-berlin-97593",
+        "title": "Founding Optimization Engineer",
+        "company": "planqor.ai",
+        "location": "Berlin",
+        "job_type": "Permanent employment, professional / experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/planqorai/founding-optimization-engineer-berlin-97593",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-23T16:00:48+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-freelance-product-manager-ai-for-quality-regulatory-zurich-201759",
         "title": "Freelance Product Manager – AI for Quality & Regulatory",
         "company": "Acodis AG",
@@ -96,6 +217,94 @@
         "url": "https://www.arbeitnow.ch/jobs/companies/acodis-ag/freelance-product-manager-ai-for-quality-regulatory-zurich-201759",
         "source": "Arbeitnow",
         "published_at": "2026-11-23T10:01:08+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3600107",
+        "title": "Security Engineer, Offensive Security",
+        "company": "Dropbox",
+        "location": "Remote - Mexico",
+        "job_type": "Full Time",
+        "url": "https://jobs.dropbox.com/listing/8328573?gh_jid=8328573",
+        "source": "Greenhouse",
+        "published_at": "2026-11-23T16:17:15-05:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3600107",
+        "title": "Security Engineer, Offensive Security",
+        "company": "Dropbox",
+        "location": "Remote - US: Select locations",
+        "job_type": "Full Time",
+        "url": "https://jobs.dropbox.com/listing/8328568?gh_jid=8328568",
+        "source": "Greenhouse",
+        "published_at": "2026-11-23T16:17:13-05:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3600105",
+        "title": "Senior Security Engineer, Offensive Security",
+        "company": "Dropbox",
+        "location": "Remote - Mexico",
+        "job_type": "Full Time",
+        "url": "https://jobs.dropbox.com/listing/8328561?gh_jid=8328561",
+        "source": "Greenhouse",
+        "published_at": "2026-11-23T16:16:33-05:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3600105",
+        "title": "Senior Security Engineer, Offensive Security",
+        "company": "Dropbox",
+        "location": "Remote - US: Select locations",
+        "job_type": "Full Time",
+        "url": "https://jobs.dropbox.com/listing/8328556?gh_jid=8328556",
+        "source": "Greenhouse",
+        "published_at": "2026-11-23T16:16:31-05:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3490577",
+        "title": "Senior Software Engineer II, Pricing & Incentives (Fulfillment)",
+        "company": "Instacart",
+        "location": "United States - Remote",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8412255",
+        "source": "Greenhouse",
+        "published_at": "2026-11-23T14:44:44-05:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-sap-consultant-erp-ewm-utilities-data-migration-berlin-218841",
+        "title": "SAP Consultant ERP/EWM/Utilities – Data Migration (m/w/d)",
+        "company": "Natuvion GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-consultant-erp-ewm-utilities-data-migration-berlin-218841",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-23T18:31:24+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-sap-abap-developer-architect-technical-migration-berlin-269633",
+        "title": "(Senior) SAP ABAP Developer/ Architect – Technical Migration (m/w/d)",
+        "company": "Natuvion GmbH",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-abap-developer-architect-technical-migration-berlin-269633",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-23T18:31:24+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6586963002",
+        "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
+        "company": "GitLab",
+        "location": "Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8950027002",
+        "source": "Greenhouse",
+        "published_at": "2026-11-23T13:15:55-05:00",
         "remote": true
     },
     {
@@ -119,6 +328,28 @@
         "source": "Greenhouse",
         "published_at": "2026-11-23T11:59:00-05:00",
         "remote": false
+    },
+    {
+        "id": "greenhouse-3630371",
+        "title": "Executive Assistant",
+        "company": "Coinbase",
+        "location": "Remote - USA",
+        "job_type": "Full Time",
+        "url": "https://www.coinbase.com/careers/positions/8412539?gh_jid=8412539",
+        "source": "Greenhouse",
+        "published_at": "2026-11-23T19:12:51-05:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-6588767002",
+        "title": "Senior Executive Assistant, Office of the CRO (EST / CST)",
+        "company": "GitLab",
+        "location": "Remote, United States",
+        "job_type": "Full Time",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8954207002",
+        "source": "Greenhouse",
+        "published_at": "2026-11-23T17:50:51-05:00",
+        "remote": true
     },
     {
         "id": "greenhouse-3601641",

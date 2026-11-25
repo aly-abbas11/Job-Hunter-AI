@@ -1,5 +1,16 @@
 [
     {
+        "id": "ashby-d22b6934-3bdc-459f-b801-87195d79be8a",
+        "title": "Software Engineer, Backend — ChatGPT Voice",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/d22b6934-3bdc-459f-b801-87195d79be8a",
+        "source": "Ashby",
+        "published_at": "2026-11-24T22:17:52.252000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-76709e27-2fe8-4930-ac87-76a8ef484a67",
         "title": "Cloud GTM Program Lead",
         "company": "OpenAI",
@@ -11,6 +22,116 @@
         "remote": true
     },
     {
+        "id": "ashby-c58aecd7-b306-4c06-9648-8090d0a93217",
+        "title": "Head of Applied AI Architects – Commercial Sales (Midmarket, SMB)",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/c58aecd7-b306-4c06-9648-8090d0a93217",
+        "source": "Ashby",
+        "published_at": "2026-11-25T01:26:31.136000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-ai-data-engineer-united-kingdom-492838",
+        "title": "AI & Data Engineer",
+        "company": "Reactive Markets",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/ai-data-engineer-united-kingdom-492838",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-25T00:40:11+00:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3631863",
+        "title": "Senior Staff Software Engineer, AI Productivity",
+        "company": "Instacart",
+        "location": "United States - Remote",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8415777",
+        "source": "Greenhouse",
+        "published_at": "2026-11-24T19:32:00-05:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-e1823ba3-a94c-410f-b064-217a1d71c866",
+        "title": "Software Engineer, Space Foundations — Real-Time Systems",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/e1823ba3-a94c-410f-b064-217a1d71c866",
+        "source": "Ashby",
+        "published_at": "2026-11-24T23:41:30.450000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-f3f3ba4c-cc37-44fe-a8b1-5aa4553c3092",
+        "title": "Software Engineer, Space Foundations — Search & Databases",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/f3f3ba4c-cc37-44fe-a8b1-5aa4553c3092",
+        "source": "Ashby",
+        "published_at": "2026-11-24T23:39:23.082000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-0d06daee-298b-4594-a67b-8955d07adb22",
+        "title": "Software Engineer, Full Stack — ChatGPT Voice",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Applied AI",
+        "url": "https://jobs.ashbyhq.com/openai/0d06daee-298b-4594-a67b-8955d07adb22",
+        "source": "Ashby",
+        "published_at": "2026-11-24T22:17:35.604000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-d2ab1c9b-5c0c-4b43-a7c3-c9301854c023",
+        "title": "Forward Deployed Engineer (FDE), Life Sciences - London",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Forward Deployed Engineering",
+        "url": "https://jobs.ashbyhq.com/openai/d2ab1c9b-5c0c-4b43-a7c3-c9301854c023",
+        "source": "Ashby",
+        "published_at": "2026-11-24T22:08:08.119000+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-senior-marketer-ai-expert-remote-emea-switzerland-436216",
+        "title": "Senior Marketer, AI Expert (Remote, EMEA)",
+        "company": "Weekday 1",
+        "location": "Switzerland",
+        "job_type": "Full time, mid-senior",
+        "url": "https://www.arbeitnow.ch/jobs/companies/weekday-1/senior-marketer-ai-expert-remote-emea-switzerland-436216",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-24T21:20:18+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-faaf4418-8fea-4781-95b7-8cfc40f8c818",
+        "title": "Associate General Counsel, Security & National Security",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Legal",
+        "url": "https://jobs.ashbyhq.com/openai/faaf4418-8fea-4781-95b7-8cfc40f8c818",
+        "source": "Ashby",
+        "published_at": "2026-11-24T20:36:52.275000+00:00",
+        "remote": true
+    },
+    {
+        "id": "ashby-2ff3536b-633d-4d02-b492-f6ed92b823b4",
+        "title": "Partner Director, BCG AMER",
+        "company": "OpenAI",
+        "location": "Remote",
+        "job_type": "FullTime, Go To Market",
+        "url": "https://jobs.ashbyhq.com/openai/2ff3536b-633d-4d02-b492-f6ed92b823b4",
+        "source": "Ashby",
+        "published_at": "2026-11-24T18:10:03.563000+00:00",
+        "remote": true
+    },
+    {
         "id": "ashby-69da58b8-4d52-4e67-b1a7-d12326910c68",
         "title": "Transformation Leads Regional Manager",
         "company": "OpenAI",
@@ -19,28 +140,6 @@
         "url": "https://jobs.ashbyhq.com/openai/69da58b8-4d52-4e67-b1a7-d12326910c68",
         "source": "Ashby",
         "published_at": "2026-11-24T16:44:54.987000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-senior-marketer-ai-expert-remote-emea-germany-468493",
-        "title": "Senior Marketer, AI Expert (Remote, EMEA)",
-        "company": "Weekday 1",
-        "location": "Germany",
-        "job_type": "Full time, mid-senior",
-        "url": "https://www.arbeitnow.com/jobs/companies/weekday-1/senior-marketer-ai-expert-remote-emea-germany-468493",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-24T15:20:07+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-fpa-specialist-ai-expert-remote-emea-germany-269881",
-        "title": "FP&A Specialist, AI Expert (Remote, EMEA)",
-        "company": "Weekday 1",
-        "location": "Germany",
-        "job_type": "Full time, mid-senior",
-        "url": "https://www.arbeitnow.com/jobs/companies/weekday-1/fpa-specialist-ai-expert-remote-emea-germany-269881",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-24T15:20:07+00:00",
         "remote": true
     },
     {
@@ -154,103 +253,70 @@
         "remote": true
     },
     {
-        "id": "ashby-aa22d0b6-38e9-4853-aff6-bc891ccc9747",
-        "title": "Cyber Partner Applied AI Architect",
-        "company": "OpenAI",
+        "id": "arbeitnow-remote-frontend-software-engineer-120939",
+        "title": "Frontend Software Engineer",
+        "company": "Newsweek",
         "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/aa22d0b6-38e9-4853-aff6-bc891ccc9747",
-        "source": "Ashby",
-        "published_at": "2026-11-23T23:10:45.050000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-0cbc1196-37ee-4c41-b02b-12653309a8f7",
-        "title": "Optical Mechanical Engineer",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Scaling",
-        "url": "https://jobs.ashbyhq.com/openai/0cbc1196-37ee-4c41-b02b-12653309a8f7",
-        "source": "Ashby",
-        "published_at": "2026-11-23T22:24:50.737000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-490c443e-d555-4fd0-a5c8-d754f6ba6d23",
-        "title": "GTM Strategy & Operations, Enterprise",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/490c443e-d555-4fd0-a5c8-d754f6ba6d23",
-        "source": "Ashby",
-        "published_at": "2026-11-23T20:46:46.969000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3630270",
-        "title": "Senior Web Engineer, Profile & Community",
-        "company": "Airbnb",
-        "location": "Remote, USA",
-        "job_type": "Full Time",
-        "url": "https://careers.airbnb.com/positions/8412312?gh_jid=8412312",
-        "source": "Greenhouse",
-        "published_at": "2026-11-23T15:14:05-05:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-b40efa93-da3c-4593-bc98-03d203cd0488",
-        "title": "Forward Deployed Engineer - Dublin",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Forward Deployed Engineering",
-        "url": "https://jobs.ashbyhq.com/openai/b40efa93-da3c-4593-bc98-03d203cd0488",
-        "source": "Ashby",
-        "published_at": "2026-11-23T20:03:33.812000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-0ec48064-8816-4df1-af2e-30fdc01ca4af",
-        "title": "Growth Client Partner, Scaled Ads (MM - UKI)",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/0ec48064-8816-4df1-af2e-30fdc01ca4af",
-        "source": "Ashby",
-        "published_at": "2026-11-23T17:16:29.966000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-ecb9e67e-8842-472b-a928-0291304ea7e5",
-        "title": "Growth Client Partner, Scaled Ads (MM - French Market)",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/ecb9e67e-8842-472b-a928-0291304ea7e5",
-        "source": "Ashby",
-        "published_at": "2026-11-23T17:15:00.090000+00:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-972ad402-3747-41d3-8407-51ac6178aa9c",
-        "title": "Growth Client Partner, Scaled Ads (MM - DACH Market)",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/972ad402-3747-41d3-8407-51ac6178aa9c",
-        "source": "Ashby",
-        "published_at": "2026-11-23T17:12:46.650000+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-fullstack-engineer-prospect-data-solutions-munich-211449",
-        "title": "FullStack Engineer - Prospect Data Solutions",
-        "company": "Constructor",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-data-solutions-munich-211449",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-frontend-software-engineer-120939",
         "source": "Arbeitnow",
-        "published_at": "2026-11-24T12:40:17+00:00",
+        "published_at": "2026-11-24T21:55:17+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-backend-software-engineer-206351",
+        "title": "Backend Software Engineer",
+        "company": "Newsweek",
+        "location": "Remote",
+        "job_type": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-backend-software-engineer-206351",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-24T21:55:17+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-98006",
+        "title": "Senior Software Engineer",
+        "company": "Radiant",
+        "location": "United Kingdom - Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-senior-software-engineer-98006",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-25T00:40:09+00:00",
         "remote": false
+    },
+    {
+        "id": "greenhouse-3631689",
+        "title": "Senior Salesforce Developer",
+        "company": "Instacart",
+        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8415370",
+        "source": "Greenhouse",
+        "published_at": "2026-11-24T18:12:39-05:00",
+        "remote": true
+    },
+    {
+        "id": "greenhouse-3631786",
+        "title": "Staff Software Engineer, Developer Experience",
+        "company": "Instacart",
+        "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+        "job_type": "Full Time",
+        "url": "https://instacart.careers/job/?gh_jid=8415557",
+        "source": "Greenhouse",
+        "published_at": "2026-11-24T17:59:34-05:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-no-code-developer-bubbleio-100-remote-berlin-260267",
+        "title": "No-Code Developer (m/w/d) | Bubble.io | 100 % Remote",
+        "company": "ALPHA Software GmbH",
+        "location": "Berlin",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/alpha-software-gmbh/no-code-developer-bubbleio-100-remote-berlin-260267",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-24T17:00:59+00:00",
+        "remote": true
     },
     {
         "id": "greenhouse-6589367002",
@@ -272,17 +338,6 @@
         "url": "https://stripe.com/jobs/search?gh_jid=8414351",
         "source": "Greenhouse",
         "published_at": "2026-11-24T11:41:54-05:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-software-engineer-core-180673",
-        "title": "Software Engineer: Core",
-        "company": "Constructor",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-software-engineer-core-180673",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-24T12:40:17+00:00",
         "remote": true
     },
     {
@@ -308,72 +363,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3600107",
-        "title": "Security Engineer, Offensive Security",
-        "company": "Dropbox",
-        "location": "Remote - Mexico",
-        "job_type": "Full Time",
-        "url": "https://jobs.dropbox.com/listing/8328573?gh_jid=8328573",
-        "source": "Greenhouse",
-        "published_at": "2026-11-23T16:17:15-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3600107",
-        "title": "Security Engineer, Offensive Security",
-        "company": "Dropbox",
-        "location": "Remote - US: Select locations",
-        "job_type": "Full Time",
-        "url": "https://jobs.dropbox.com/listing/8328568?gh_jid=8328568",
-        "source": "Greenhouse",
-        "published_at": "2026-11-23T16:17:13-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3600105",
-        "title": "Senior Security Engineer, Offensive Security",
-        "company": "Dropbox",
-        "location": "Remote - Mexico",
-        "job_type": "Full Time",
-        "url": "https://jobs.dropbox.com/listing/8328561?gh_jid=8328561",
-        "source": "Greenhouse",
-        "published_at": "2026-11-23T16:16:33-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3600105",
-        "title": "Senior Security Engineer, Offensive Security",
-        "company": "Dropbox",
-        "location": "Remote - US: Select locations",
-        "job_type": "Full Time",
-        "url": "https://jobs.dropbox.com/listing/8328556?gh_jid=8328556",
-        "source": "Greenhouse",
-        "published_at": "2026-11-23T16:16:31-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3490577",
-        "title": "Senior Software Engineer II, Pricing & Incentives (Fulfillment)",
-        "company": "Instacart",
-        "location": "United States - Remote",
-        "job_type": "Full Time",
-        "url": "https://instacart.careers/job/?gh_jid=8412255",
-        "source": "Greenhouse",
-        "published_at": "2026-11-23T14:44:44-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6586963002",
-        "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
-        "company": "GitLab",
-        "location": "Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8950027002",
-        "source": "Greenhouse",
-        "published_at": "2026-11-23T13:15:55-05:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-solution-architect-customer-touchpoints-cloud-transformation-zurich-258035",
         "title": "Solution Architect Customer Touchpoints & Cloud Transformation",
         "company": "Coopers Group AG",
@@ -385,28 +374,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-forward-deployed-engineer-certil-berlin-395999",
-        "title": "Forward Deployed Engineer (m/w/d)- Certil",
-        "company": "Neurawork GmbH & Co. KG",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/forward-deployed-engineer-certil-berlin-395999",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-24T15:00:52+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-web-analyst-tracking-expert-berlin-10121",
-        "title": "Web Analyst & Tracking Expert (m/w/d)",
-        "company": "anocus GmbH",
-        "location": "Berlin",
-        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-        "url": "https://www.arbeitnow.com/jobs/companies/anocus-gmbh/web-analyst-tracking-expert-berlin-10121",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-24T13:30:57+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-pki-iam-engineer-zurich-300405",
         "title": "PKI & IAM Engineer",
         "company": "Coopers Group AG",
@@ -415,39 +382,6 @@
         "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/pki-iam-engineer-zurich-300405",
         "source": "Arbeitnow",
         "published_at": "2026-11-24T09:00:59+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3625307",
-        "title": "Senior Customer Engineer - Brazil (US based)",
-        "company": "Cloudflare",
-        "location": "Distributed",
-        "job_type": "Full Time",
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/8400366?gh_jid=8400366",
-        "source": "Greenhouse",
-        "published_at": "2026-11-23T11:59:00-05:00",
-        "remote": false
-    },
-    {
-        "id": "greenhouse-3630371",
-        "title": "Executive Assistant",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8412539?gh_jid=8412539",
-        "source": "Greenhouse",
-        "published_at": "2026-11-23T19:12:51-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-6588767002",
-        "title": "Senior Executive Assistant, Office of the CRO (EST / CST)",
-        "company": "GitLab",
-        "location": "Remote, United States",
-        "job_type": "Full Time",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8954207002",
-        "source": "Greenhouse",
-        "published_at": "2026-11-23T17:50:51-05:00",
         "remote": true
     }
 ]

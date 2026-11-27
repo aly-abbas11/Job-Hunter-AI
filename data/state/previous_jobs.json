@@ -11,6 +11,17 @@
         "remote": true
     },
     {
+        "id": "arbeitnow-remote-ai-research-engineer-multi-modal-agents-united-kindom-321418",
+        "title": "AI Research Engineer (Multi-Modal Agents)",
+        "company": "Tether Operations Limited",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-multi-modal-agents-united-kindom-321418",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-26T21:31:47+00:00",
+        "remote": true
+    },
+    {
         "id": "arbeitnow-marketing-manager-google-ads-ai-first-performance-marketing-remote-223074",
         "title": "Marketing Manager Google Ads – AI-First Performance Marketing (m/w/d) · Remote",
         "company": "Evolve Digital GmbH",
@@ -33,14 +44,25 @@
         "remote": false
     },
     {
-        "id": "ashby-f9818cd7-66b3-4d68-a354-868ea1ce976e",
-        "title": "Applied AI Architect, Large Enterprise",
-        "company": "OpenAI",
-        "location": "Remote",
-        "job_type": "FullTime, Go To Market",
-        "url": "https://jobs.ashbyhq.com/openai/f9818cd7-66b3-4d68-a354-868ea1ce976e",
-        "source": "Ashby",
-        "published_at": "2026-11-25T17:05:07.261000+00:00",
+        "id": "arbeitnow-senior-backend-developer-go-full-remote-european-timezones-only-utc1-to-utc3-mendrisio-337104",
+        "title": "Senior Backend Developer (Go) — Full Remote, European Timezones Only (UTC−1 to UTC+3)",
+        "company": "Jobtome",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.ch/jobs/companies/jobtome/senior-backend-developer-go-full-remote-european-timezones-only-utc1-to-utc3-mendrisio-337104",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-26T15:31:20+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-webdesigner-entwickler-wordpress-ai-kaiserslautern-345614",
+        "title": "Webdesigner-/Entwickler – WordPress & AI (m/w/d)",
+        "company": "ANY Marketing GmbH",
+        "location": "Kaiserslautern",
+        "job_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+        "url": "https://www.arbeitnow.com/jobs/companies/any-marketing-gmbh/webdesigner-entwickler-wordpress-ai-kaiserslautern-345614",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-26T17:01:17+00:00",
         "remote": true
     },
     {
@@ -52,6 +74,39 @@
         "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-fiori-sapui5-developer-plant-maintenance-freelance-berlin-298397",
         "source": "Arbeitnow",
         "published_at": "2026-11-26T13:31:11+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-field-product-engineer-35830",
+        "title": "Senior Field Product Engineer",
+        "company": "Radiant",
+        "location": "United Kingdom - Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-senior-field-product-engineer-35830",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-26T18:40:11+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-tools-engineer-241247",
+        "title": "Senior Tools Engineer",
+        "company": "Companion Group Ltd",
+        "location": "Remote",
+        "job_type": "Full-time permanent, experienced",
+        "url": "https://www.arbeitnow.com/jobs/companies/companion-group-ltd/remote-senior-tools-engineer-241247",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-26T16:20:10+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-react-native-engineer-zurich-397105",
+        "title": "Senior React Native Engineer",
+        "company": "S-PRO",
+        "location": "Remote job",
+        "job_type": "Experienced, fulltime permanent",
+        "url": "https://www.arbeitnow.ch/jobs/companies/s-pro/remote-senior-react-native-engineer-zurich-397105",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-26T15:31:17+00:00",
         "remote": true
     },
     {
@@ -77,17 +132,6 @@
         "remote": true
     },
     {
-        "id": "arbeitnow-remote-senior-data-scientist-research-eu-uk-berlin-247671",
-        "title": "Senior Data Scientist - Research EU/UK (m/f/x)",
-        "company": "Makersite GmbH",
-        "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-research-eu-uk-berlin-247671",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-26T12:31:11+00:00",
-        "remote": true
-    },
-    {
         "id": "ashby-e1880633-5d58-4f38-833e-1bdef24d0bf9",
         "title": "Platform Engineer - Database",
         "company": "Supabase",
@@ -110,72 +154,6 @@
         "remote": true
     },
     {
-        "id": "greenhouse-3632863",
-        "title": "Senior Software Engineer, Native Mobile",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8417630?gh_jid=8417630",
-        "source": "Greenhouse",
-        "published_at": "2026-11-25T17:52:58-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3632848",
-        "title": "Staff Software Engineer, Native Mobile",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8417596?gh_jid=8417596",
-        "source": "Greenhouse",
-        "published_at": "2026-11-25T17:29:36-05:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3632847",
-        "title": "Senior Staff Software Engineer, Native Mobile",
-        "company": "Coinbase",
-        "location": "Remote - USA",
-        "job_type": "Full Time",
-        "url": "https://www.coinbase.com/careers/positions/8417588?gh_jid=8417588",
-        "source": "Greenhouse",
-        "published_at": "2026-11-25T17:24:11-05:00",
-        "remote": true
-    },
-    {
-        "id": "ashby-da282b12-4c4a-4eb1-b983-58543ed58ec5",
-        "title": "Engineering Productivity Engineer",
-        "company": "Supabase",
-        "location": "Remote",
-        "job_type": "FullTime, Engineering",
-        "url": "https://jobs.ashbyhq.com/supabase/da282b12-4c4a-4eb1-b983-58543ed58ec5",
-        "source": "Ashby",
-        "published_at": "2026-11-25T22:06:23.726000+00:00",
-        "remote": true
-    },
-    {
-        "id": "greenhouse-3633099",
-        "title": "Senior Developer Advocate, OpenTelemetry",
-        "company": "Datadog",
-        "location": "California, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; Washington, USA, Remote",
-        "job_type": "Full Time",
-        "url": "https://careers.datadoghq.com/detail/8418089/?gh_jid=8418089",
-        "source": "Greenhouse",
-        "published_at": "2026-11-25T16:41:35-05:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-senior-frontend-developer-switzerland-292678",
-        "title": "Senior Frontend Developer",
-        "company": "Divio",
-        "location": "Switzerland",
-        "job_type": "Full time, mid-senior",
-        "url": "https://www.arbeitnow.ch/jobs/companies/divio/remote-senior-frontend-developer-switzerland-292678",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-25T21:20:04+00:00",
-        "remote": true
-    },
-    {
         "id": "arbeitnow-senior-sap-fiori-lead-developer-technical-lead-freelance-berlin-286936",
         "title": "Senior SAP Fiori Lead Developer / Technical Lead – Freelance (m/f/d)",
         "company": "Sidekick Network GmbH & Co. KG",
@@ -185,16 +163,5 @@
         "source": "Arbeitnow",
         "published_at": "2026-11-26T14:31:22+00:00",
         "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-dutch-speaking-support-specialist-217780",
-        "title": "Dutch speaking Support Specialist",
-        "company": "Lightspeedhq",
-        "location": "Remote in the Netherlands",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.nl/jobs/companies/lightspeedhq/remote-dutch-speaking-support-specialist-217780",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-25T21:40:15+00:00",
-        "remote": false
     }
 ]

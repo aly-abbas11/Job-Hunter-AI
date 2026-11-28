@@ -1,14 +1,69 @@
 [
     {
-        "id": "arbeitnow-remote-senior-commercial-ai-solutions-partner-berlin-262836",
-        "title": "Senior Commercial & AI Solutions Partner",
-        "company": "Yopeso Romania SRL",
+        "id": "arbeitnow-remote-software-engineer-clinical-ai-devices-paris-414322",
+        "title": "Software Engineer, Clinical AI Devices",
+        "company": "DeepHealth",
         "location": "Remote job",
-        "job_type": "Experienced, fulltime permanent",
-        "url": "https://www.arbeitnow.com/jobs/companies/yopeso-romania-srl/remote-senior-commercial-ai-solutions-partner-berlin-262836",
+        "job_type": "Mid, fulltime permanent",
+        "url": "https://www.arbeitnow.fr/jobs/companies/deephealth/remote-software-engineer-clinical-ai-devices-paris-414322",
         "source": "Arbeitnow",
-        "published_at": "2026-11-27T18:31:16+00:00",
+        "published_at": "2026-11-28T09:31:44+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-staff-backend-engineer-search-features-apis-sabr-munich-460585",
+        "title": "Staff Backend Engineer - Search Features & APIs (SABR)",
+        "company": "Constructor",
+        "location": "Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/constructor/staff-backend-engineer-search-features-apis-sabr-munich-460585",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-28T03:43:02+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-ai-engineer-java-spring-boot-kafka-zug-zurich-luzern-bern-127031",
+        "title": "Senior AI Engineer (Java / Spring Boot / Kafka)",
+        "company": "QuBit Consulting & Solutions AG",
+        "location": "Homeoffice",
+        "job_type": "Experienced, freelance",
+        "url": "https://www.arbeitnow.ch/jobs/companies/qubit-consulting-solutions-ag/remote-senior-ai-engineer-java-spring-boot-kafka-zug-zurich-luzern-bern-127031",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-28T06:51:30+00:00",
+        "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-senior-software-engineer-canvas-core-86264",
+        "title": "Senior Software Engineer, Canvas Core",
+        "company": "Mural",
+        "location": "United Kingdom Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/mural/remote-senior-software-engineer-canvas-core-86264",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-28T06:40:12+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-financial-systems-engineer-9820",
+        "title": "Senior Financial Systems Engineer (m/f/d)",
+        "company": "Berlitz",
+        "location": "Germany Remote",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-senior-financial-systems-engineer-9820",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-28T06:40:11+00:00",
+        "remote": false
+    },
+    {
+        "id": "arbeitnow-remote-senior-data-scientist-118803",
+        "title": "Senior Data Scientist (m/f/d)",
+        "company": "Sport Alliance GmbH",
+        "location": "Remote (Germany)",
+        "job_type": "Full-time",
+        "url": "https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-data-scientist-118803",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-28T03:07:35+00:00",
+        "remote": false
     },
     {
         "id": "greenhouse-6592844002",
@@ -19,28 +74,6 @@
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8963786002",
         "source": "Greenhouse",
         "published_at": "2026-11-27T18:05:12-05:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-15268",
-        "title": "Développeur fullstack confirmé H/F (C#, .Net, Angular)",
-        "company": "N2JSoft",
-        "location": "Poste à distance",
-        "job_type": "Mid, fulltime permanent",
-        "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-15268",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-27T18:31:17+00:00",
-        "remote": true
-    },
-    {
-        "id": "arbeitnow-devops-engineer-w-m-remote-223420",
-        "title": "DevOps Engineer W/M (remote) 🇪🇺",
-        "company": "Pennylane SAS",
-        "location": "Remote",
-        "job_type": "Full Time",
-        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/devops-engineer-w-m-remote-223420",
-        "source": "Arbeitnow",
-        "published_at": "2026-11-27T15:40:17+00:00",
         "remote": true
     },
     {
@@ -108,5 +141,16 @@
         "source": "Arbeitnow",
         "published_at": "2026-11-27T21:51:21+00:00",
         "remote": true
+    },
+    {
+        "id": "arbeitnow-remote-team-lead-customer-support-272017",
+        "title": "Team Lead Customer Support (f/m/d)",
+        "company": "plancraft",
+        "location": "Remote (within Germany)",
+        "job_type": "Full Time",
+        "url": "https://www.arbeitnow.com/jobs/companies/plancraft/remote-team-lead-customer-support-272017",
+        "source": "Arbeitnow",
+        "published_at": "2026-11-28T03:43:02+00:00",
+        "remote": false
     }
 ]
